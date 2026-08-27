@@ -130,6 +130,51 @@ That changes the fielding-side objective compared with Headingley:
 
 Stokes' intended method was death bowling: execute yorkers and make boundary hitting difficult. Contemporary and retrospective accounts agree that England's plan was reasonable in broad terms but the execution failed — Stokes repeatedly missed the intended yorker length and Brathwaite converted those errors into sixes.
 
+## How Stokes and Brathwaite were trying to do it
+
+The final over was not simply "bowler tries to stop runs; batter tries to score them." Both players had a more specific technical problem.
+
+### Stokes: make it difficult for Brathwaite to get underneath the ball
+
+Stokes later said that before the deliveries he was reminding himself to bowl the **yorker**. A yorker is an extremely full delivery aimed around the batter's feet or the base of the stumps. In this situation its purpose is straightforward: if the ball lands sufficiently full, the batter has very little room to get underneath it and generate the elevation needed for a six.
+
+Stokes had practised that delivery and had used it successfully earlier in the tournament. The problem in the final over was execution rather than an absence of a plan.
+
+His immediate decision problem can therefore be described as:
+
+**Can I execute a legal yorker accurately enough that Brathwaite cannot turn this ball into a boundary?**
+
+A dot ball or single would be an excellent result for England because it would consume one of West Indies' six legal deliveries for very little return. A wide or no-ball would be especially damaging because it would concede a run **without consuming a legal delivery**.
+
+### Brathwaite: recognise the miss and exploit it before the opportunity disappears
+
+Brathwaite's corresponding problem was to identify deliveries that missed the yorker length and put them into a hittable arc.
+
+His task was not simply to swing as hard as possible at every ball. It was closer to:
+
+**Has Stokes given me enough length or line to get underneath this delivery and clear the boundary?**
+
+Because only six legal balls remained, a hittable miss was unusually valuable. Passing one up could mean never seeing another equivalent opportunity.
+
+### The first four balls as execution problems
+
+| Ball | Stokes' broad intention | What Brathwaite received | Brathwaite's response | New state |
+|---|---|---|---|---|
+| 19.1 | Yorker | Too short of yorker length and on the pads / a leg-side half-volley | Brathwaite uses the leg-side angle and launches it over deep backward square leg | 13 from 5 |
+| 19.2 | Yorker | Again not full enough | Brathwaite gets underneath it and hits over long-on | 7 from 4 |
+| 19.3 | Yorker / very full ball | Fuller and closer to the intended length, but still hittable | Brathwaite does not middle it cleanly but still clears long-off | 1 from 3 |
+| 19.4 | Prevent the final run / boundary | Another hittable delivery | Brathwaite attacks again and clears deep midwicket | West Indies win |
+
+The exact technical descriptions should stay tied to the ball-by-ball and player accounts rather than be over-interpreted from video alone. The useful point is that Stokes kept trying to create a ball that was hard to elevate, while Brathwaite kept exploiting the deliveries that gave him enough length or line to do so.
+
+Brathwaite also described thinking about **where** he could score. On the first ball he did not simply choose an abstract maximum-power shot; when Stokes went onto his pads he used a finer leg-side route rather than trying to force the ball toward a less favourable part of the ground.
+
+So the final over can be read as a repeated contest:
+
+**Stokes tries to manufacture a low-value legal delivery. Brathwaite tries to turn any execution error into a high-value scoring event. After every ball, the match state changes and both players have to solve the problem again.**
+
+That matters analytically because the first six does more than add six runs. It changes Stokes' next problem from defending 19 from six to defending 13 from five, while making Brathwaite's remaining task substantially easier.
+
 ### England / Stokes decision flow
 
 ```mermaid
@@ -217,9 +262,11 @@ It demonstrates:
 - a boundary can improve the state by reducing the required runs faster than the ball resource is disappearing;
 - the identity of the striker still matters even under a fixed-ball constraint;
 - legal deliveries, rather than clock time, are the binding resource;
-- match outcomes can change discontinuously at specific run thresholds (17 / 18 / 19 in this case).
+- match outcomes can change discontinuously at specific run thresholds (17 / 18 / 19 in this case);
+- the bowler can target a particular delivery type — here, the yorker — to reduce the batter's ability to extract value from the finite ball resource;
+- the batter's technical job is to recognise and exploit execution errors before those opportunities disappear.
 
-Do not let the article section become a heroic retelling of four sixes. The four sixes matter because they provide an unusually clean sequence of state changes.
+Do not let the article section become a heroic retelling of four sixes. The four sixes matter because they provide an unusually clean sequence of state changes and a visible contest between intended delivery and batting response.
 
 ## Potential article use
 
@@ -228,7 +275,8 @@ Do not let the article section become a heroic retelling of four sixes. The four
 | 137/6 after 19 overs | Runs exist inside constraints | "19 needed" means something different when only six legal balls remain |
 | Jordan's final dot leaves Brathwaite on strike | Remaining balls are not completely equivalent | The same finite resource is also allocated between particular batters |
 | 19 from 6 | Deliveries are finite | West Indies have six opportunities left, not an indefinite period to find 19 runs |
-| First six: 13 from 5 | State changes after every event | One ball is gone, but the problem becomes easier because six runs were extracted from it |
+| Stokes targets yorkers | Tactics shape the value available from a delivery | England are trying to make each disappearing ball produce as little as possible |
+| First yorker miss / first six: 13 from 5 | Execution changes the next state | A technical miss gives Brathwaite a high-value opportunity and immediately makes the remaining chase easier |
 | Third six: 1 from 3 | Value is nonlinear | Three consecutive balls radically change the outcome space |
 | 18 would tie; 19 wins | State-dependent value of a run | One additional run can change the formal result category |
 | Win at 19.4 | Unused resources can become worthless | Once the target is reached, the final two balls have no remaining value |
