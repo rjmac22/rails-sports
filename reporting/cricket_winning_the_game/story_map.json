@@ -10,7 +10,7 @@
       "evidence_ids": ["laws_result"],
       "article_role": "setup",
       "decision": "keep",
-      "reporting_status": "to_report"
+      "reporting_status": "reported"
     },
     {
       "id": "runs",
@@ -19,7 +19,7 @@
       "evidence_ids": ["laws_runs"],
       "article_role": "setup",
       "decision": "keep_short",
-      "reporting_status": "to_report"
+      "reporting_status": "reported"
     },
     {
       "id": "constraints",
@@ -28,7 +28,7 @@
       "evidence_ids": ["format_comparison"],
       "article_role": "core_concept",
       "decision": "keep",
-      "reporting_status": "to_report"
+      "reporting_status": "reported"
     },
     {
       "id": "wickets",
@@ -106,27 +106,27 @@
   "evidence": [
     {
       "id": "laws_result",
-      "label": "MCC/ICC result rules",
+      "label": "MCC Law 16 — The Result",
       "type": "rules",
-      "reporting_file": "sources.md",
+      "reporting_file": "rules_spine.md",
       "job": "Establish formal result conditions without turning the article into a rules explainer.",
-      "status": "to_report"
+      "status": "reported_enough"
     },
     {
       "id": "laws_runs",
-      "label": "MCC scoring rules",
+      "label": "MCC Law 18 — Scoring Runs",
       "type": "rules",
-      "reporting_file": "sources.md",
+      "reporting_file": "rules_spine.md",
       "job": "Establish runs as the basic score.",
-      "status": "to_report"
+      "status": "reported_enough"
     },
     {
       "id": "format_comparison",
-      "label": "Test / ODI / T20 format constraints",
+      "label": "MCC innings/over laws + ICC Test / ODI / T20 format constraints",
       "type": "rules_and_examples",
-      "reporting_file": "sources.md",
+      "reporting_file": "rules_spine.md",
       "job": "Show that different formats constrain scoring with different combinations of wickets, deliveries and time.",
-      "status": "to_report"
+      "status": "reported_enough"
     },
     {
       "id": "headingley_2019",
