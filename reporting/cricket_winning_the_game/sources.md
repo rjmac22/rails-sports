@@ -57,10 +57,27 @@ For every source, record what it actually establishes. Do not use a citation mer
 
 | Source | Date/accessed | What it establishes | Useful passage/detail | Status |
 |---|---|---|---|---|
-| Official scorecard |  | Match state and draw |  | To find |
-| Final-day ball-by-ball |  | Shift from chase to survival |  | To find |
-| Ajinkya Rahane comments |  | India’s changing objective |  | To find/verify |
-| Ashwin/Vihari comments |  | How batters understood the final phase |  | To find/verify |
+| Cricket Australia Match Centre — Australia v India, 3rd Test | Match 7–11 Jan 2021; accessed 27 Aug 2026 | Official ball-by-ball and final score | Target 407; India 334/5 after 131 overs; match drawn | Verified |
+| Cricket Australia / Andrew Ramsey — "Defiant India hold on for famous draw to set up decider" | 11 Jan 2021; accessed 27 Aug 2026 | Contemporary match report; injuries and survival context | Vihari tore hamstring; survived 161 balls; top half dismissed with 40+ overs left | Verified |
+| Cricket Australia — "Well played India, but Gabba's what matters: Marnus" | 11 Jan 2021; accessed 27 Aug 2026 | Partnership length and Australian perspective | Vihari/Ashwin batted final 43 overs; Australia took three wickets in 97 overs on day five | Verified |
+| ICC — "Resolute India hold on for draw against Australia in third Test" | 11 Jan 2021; accessed 27 Aug 2026 | Governing-body match report | Tea 280/5 chasing 407; Ashwin 39* (128), Vihari 23* (160/161 depending scoring source) | Verified |
+| ABC News — "India defies Australia, injury and history..." | 11 Jan 2021; accessed 27 Aug 2026 | Independent contemporary narrative | At tea India 127 short with 36 overs left; describes pivot to survival mode | Verified |
+| Guardian live coverage | 11 Jan 2021; accessed 27 Aug 2026 | Delivery-level chronology and overs remaining | Pant/Pujara wickets; tea state; final overs; draw agreed before final scheduled over | Verified |
+| Indian Express — Hanuma Vihari interview | 21/22 Jan 2021; accessed 27 Aug 2026 | Direct first-person account of objective shift | Pant gave hope; after wickets/injuries only option was to stonewall; Vihari/Ashwin discussed surviving next three hours and later ten balls at a time | Verified direct interview |
+| India Today — Rahane post-match comments | 11 Jan 2021; accessed 27 Aug 2026 | Captain's stated approach | India took day one session at a time and were not thinking about target | Verified contemporary report quoting press conference |
+| India Today — later Rahane interview | 24 Jan 2021; accessed 27 Aug 2026 | Retrospective description of day-five approach | Do not look at scoreboard; reassess after tea; keep cricket simple | Verified direct interview/report |
+
+### Sydney URLs
+
+- https://www.cricket.com.au/matches/CA:8935/australia-men-india-men-australia-v-india-test-series-2020-2021
+- https://www.cricket.com.au/news/3312763/defiant-india-hold-on-for-famous-draw-to-set-up-decider
+- https://www.cricket.com.au/news/3309545/well-played-india-but-gabbas-what-matters-marnus
+- https://www.icc-cricket.com/news/resolute-india-hold-on-for-draw-against-australia-in-third-test
+- https://www.abc.net.au/news/2021-01-11/india-completes-incredible-draw-australia-third-test-sydney-sc/13046326
+- https://www.theguardian.com/sport/live/2021/jan/11/australia-v-india-third-test-day-five-live
+- https://indianexpress.com/article/sports/cricket/hanuma-vihari-interview-the-way-i-batted-in-sydney-sums-up-my-career-in-a-nutshell-7155216/
+- https://www.indiatoday.in/sports/cricket/story/ajinkya-rahane-sydney-draw-winning-test-match-india-australia-1757959-2021-01-11
+- https://www.indiatoday.in/sports/cricket/story/ajinkya-rahane-exclusive-interview-sydney-test-draw-india-australia-1762309-2021-01-24
 
 ## 2016 World T20 final
 
@@ -87,7 +104,7 @@ For every source, record what it actually establishes. Do not use a citation mer
 - [x] Broad description of Headingley field changes attributed to Tim Paine.
 - [x] Paine, Stokes and Leach comments recorded with source trail.
 - [ ] Recover exact visual field positions at selected Headingley deliveries if we want to describe individual placements.
-- [ ] Exact Sydney match state when India’s objective changed.
+- [x] Sydney day-five states and shift toward survival established from scorecard, live coverage and direct player/captain comments.
 - [ ] Exact final-over requirement in the 2016 World T20 final.
 
 ## Rejected / weak sources
@@ -96,3 +113,4 @@ Keep a record here when a tempting source is unreliable, derivative or fails to 
 
 - Generic retrospective listicles describing Headingley: unnecessary while contemporary and governing-body sources are available.
 - Unsourced claims that Australia were simply "too defensive": too reductive. Paine's own comments and Stokes' comments about Lyon show a more complicated tactical picture.
+- Sydney accounts that impose one exact "switch to draw" moment without player evidence: too tidy. Rahane, Pant's innings, Vihari's injury and Vihari's own interview show a progressive narrowing of objectives.
