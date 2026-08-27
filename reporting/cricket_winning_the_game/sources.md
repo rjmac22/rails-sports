@@ -18,13 +18,24 @@ For every source, record what it actually establishes. Do not use a citation mer
 
 | Source | Date/accessed | What it establishes | Useful passage/detail | Status |
 |---|---|---|---|---|
-| MCC — Law 16: The Result |  | Formal conditions for winning, losing, tying and drawing |  | To verify |
-| MCC — Law 18: Scoring Runs |  | Runs as the basic scoring unit |  | To verify |
-| MCC — Law 13: Innings |  | Structure and constraints of innings |  | To verify |
-| MCC — Law 1: The Players |  | Eleven players per side; basis for limited fielding resources |  | To verify |
-| ICC — Test Match Playing Conditions |  | Format-specific constraints and fielding rules |  | To verify |
-| ICC — ODI Playing Conditions |  | Overs and fielding restrictions |  | To verify |
-| ICC — T20I Playing Conditions |  | Overs and fielding restrictions |  | To verify |
+| MCC — Law 16: The Result | accessed 27 Aug 2026 | Formal conditions for wins, ties and draws | One- and two-innings wins are defined by the relevant run totals; a draw applies where no other result is reached | Verified |
+| MCC — Law 18: Scoring Runs | accessed 27 Aug 2026 | Runs as the basic scoring unit | Law 18.1: the score is reckoned in runs | Verified |
+| MCC — Law 13: Innings | accessed 27 Aug 2026 | Structure and constraints of innings | Match can be one or two innings per side; innings may be limited by overs or time; all out also completes an innings | Verified |
+| MCC — Law 17: The Over | accessed 27 Aug 2026 | Deliveries as discrete units | An over contains six valid balls; no-balls, wides and specified dead balls do not consume one of the six | Verified |
+| MCC — Law 1: The Players |  | Eleven players per side; basis for limited fielding resources |  | To verify if needed for field-placement bridge |
+| ICC — The Three Formats of Cricket | accessed 27 Aug 2026 | Simple format comparison | Tests: five days, two innings each; ODIs: one innings, 50 overs per side; T20Is: 20 overs per side | Verified |
+| ICC — Playing Conditions index | accessed 27 Aug 2026 | Current format-specific rules exist separately | Lists current men's Test, ODI and T20I playing conditions | Verified |
+
+### Formal-rules URLs
+
+- https://www.lords.org/mcc/the-laws/the-result
+- https://www.lords.org/mcc/the-laws/scoring-runs
+- https://www.lords.org/mcc/the-laws/innings
+- https://www.lords.org/mcc/the-laws/the-over
+- https://www.icc-cricket.com/about/cricket/game-formats/the-three-formats
+- https://www.icc-cricket.com/about/cricket/rules-and-regulations/playing-conditions
+
+Detailed reporting synthesis: `rules_spine.md`.
 
 ## Headingley 2019
 
@@ -113,17 +124,17 @@ For every source, record what it actually establishes. Do not use a citation mer
 
 ## Claims requiring explicit support
 
-- [ ] Formal definition of winning in each format.
-- [ ] Runs as the score unit.
-- [ ] How innings are constrained by overs and/or time.
-- [ ] Number of fielders and relevant placement restrictions.
+- [x] Formal definition of winning, tying and drawing established from MCC Law 16.
+- [x] Runs as the score unit established from MCC Law 18.
+- [x] Innings can be constrained by wickets, overs and/or time; international format limits established from MCC and ICC.
+- [ ] Number of fielders and relevant placement restrictions — only needed if the later field-placement bridge requires exact rule wording.
 - [x] Exact Headingley match state when Jack Leach arrived.
 - [x] Broad description of Headingley field changes attributed to Tim Paine.
 - [x] Paine, Stokes and Leach comments recorded with source trail.
 - [ ] Recover exact visual field positions at selected Headingley deliveries if we want to describe individual placements.
 - [x] Sydney day-five states and shift toward survival established from scorecard, live coverage and direct player/captain comments.
 - [x] Exact final-over requirement and delivery sequence in the 2016 World T20 final.
-- [ ] Verify the exact 2016 competition-condition wording for the tied-final/Super Over rule if quoted directly.
+- [ ] Verify the exact 2016 competition-condition wording for the tied-final/Super Over rule only if quoted directly in the article.
 
 ## Rejected / weak sources
 
