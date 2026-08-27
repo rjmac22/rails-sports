@@ -1,0 +1,187 @@
+{
+  "title": "Cricket from First Principles — Journalism Story Map",
+  "source_study": "notebooks/21_cricket_from_first_principles.ipynb",
+  "purpose": "Map Study 21 questions to real cricket evidence so the article demonstrates the analysis rather than listing conclusions.",
+  "questions": [
+    {
+      "id": "winning",
+      "study_question": "What does it mean to win?",
+      "analytical_point": "A result depends on the format and the match state, not on runs alone.",
+      "evidence_ids": [
+        "laws_result"
+      ],
+      "article_role": "setup",
+      "decision": "keep",
+      "reporting_status": "to_report"
+    },
+    {
+      "id": "runs",
+      "study_question": "What is the basic score?",
+      "analytical_point": "Runs are the basic scoring unit, but a score has meaning only inside the state of the match.",
+      "evidence_ids": [
+        "laws_runs"
+      ],
+      "article_role": "setup",
+      "decision": "keep_short",
+      "reporting_status": "to_report"
+    },
+    {
+      "id": "constraints",
+      "study_question": "What limits the accumulation of runs?",
+      "analytical_point": "Runs are accumulated while wickets, deliveries and/or playing time are being consumed.",
+      "evidence_ids": [
+        "format_comparison"
+      ],
+      "article_role": "core_concept",
+      "decision": "keep",
+      "reporting_status": "to_report"
+    },
+    {
+      "id": "wickets",
+      "study_question": "Why do wickets matter beyond changing the score?",
+      "analytical_point": "A wicket can become the scarce resource that ends a chase even when many runs remain.",
+      "evidence_ids": [
+        "headingley_2019"
+      ],
+      "article_role": "scene_and_explanation",
+      "decision": "keep",
+      "reporting_status": "reported"
+    },
+    {
+      "id": "delivery_identity",
+      "study_question": "Are the remaining deliveries equivalent?",
+      "analytical_point": "No. Their value can depend on who faces them and what state follows.",
+      "evidence_ids": [
+        "headingley_2019"
+      ],
+      "article_role": "scene_and_explanation",
+      "decision": "keep",
+      "reporting_status": "reported"
+    },
+    {
+      "id": "deliveries",
+      "study_question": "How does a fixed number of deliveries change the problem?",
+      "analytical_point": "In limited-overs cricket, each legal delivery consumes a finite resource.",
+      "evidence_ids": [
+        "world_t20_2016_final"
+      ],
+      "article_role": "contrast",
+      "decision": "likely",
+      "reporting_status": "to_report"
+    },
+    {
+      "id": "time",
+      "study_question": "How can time itself change what a side is trying to do?",
+      "analytical_point": "In a Test, consuming time can become more valuable than scoring runs when a draw is the attainable result.",
+      "evidence_ids": [
+        "sydney_2021"
+      ],
+      "article_role": "major_example",
+      "decision": "keep",
+      "reporting_status": "to_report"
+    },
+    {
+      "id": "state_value",
+      "study_question": "Does the value of runs, wickets, deliveries and time stay fixed?",
+      "analytical_point": "No. Their value changes with match state.",
+      "evidence_ids": [
+        "headingley_2019",
+        "sydney_2021",
+        "world_t20_2016_final"
+      ],
+      "article_role": "synthesis",
+      "decision": "keep",
+      "reporting_status": "partial"
+    },
+    {
+      "id": "probabilities",
+      "study_question": "Do tactics determine outcomes?",
+      "analytical_point": "Tactics change probabilities; execution and chance still determine what actually happens.",
+      "evidence_ids": [
+        "headingley_2019"
+      ],
+      "article_role": "qualification",
+      "decision": "keep_short",
+      "reporting_status": "reported"
+    },
+    {
+      "id": "field_tradeoff",
+      "study_question": "What is the fielding side trading off?",
+      "analytical_point": "Run prevention and wicket-taking can pull in different directions.",
+      "evidence_ids": [
+        "headingley_2019"
+      ],
+      "article_role": "bridge",
+      "decision": "keep_short",
+      "reporting_status": "reported"
+    },
+    {
+      "id": "field_allocation",
+      "study_question": "What does a field setting represent?",
+      "analytical_point": "A field setting allocates limited fielding resources across space.",
+      "evidence_ids": [
+        "headingley_2019"
+      ],
+      "article_role": "bridge_to_later_studies",
+      "decision": "bridge_only",
+      "reporting_status": "enough_for_bridge"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "laws_result",
+      "label": "MCC/ICC result rules",
+      "type": "rules",
+      "reporting_file": "sources.md",
+      "job": "Establish formal result conditions without turning the article into a rules explainer.",
+      "status": "to_report"
+    },
+    {
+      "id": "laws_runs",
+      "label": "MCC scoring rules",
+      "type": "rules",
+      "reporting_file": "sources.md",
+      "job": "Establish runs as the basic score.",
+      "status": "to_report"
+    },
+    {
+      "id": "format_comparison",
+      "label": "Test / ODI / T20 format constraints",
+      "type": "rules_and_examples",
+      "reporting_file": "sources.md",
+      "job": "Show that different formats constrain scoring with different combinations of wickets, deliveries and time.",
+      "status": "to_report"
+    },
+    {
+      "id": "headingley_2019",
+      "label": "Headingley 2019 — Stokes and Leach",
+      "type": "match",
+      "reporting_file": "headingley_2019.md",
+      "job": "Show that remaining deliveries are not equivalent because both sides care who faces them; also show state-dependent run value and the wicket/run-prevention trade-off.",
+      "status": "reported_enough"
+    },
+    {
+      "id": "sydney_2021",
+      "label": "Sydney 2021 — Australia v India",
+      "type": "match",
+      "reporting_file": "sydney_2021.md",
+      "job": "Show time becoming the scarce resource and the batting objective shifting from chasing runs to surviving.",
+      "status": "to_report"
+    },
+    {
+      "id": "world_t20_2016_final",
+      "label": "2016 World T20 final",
+      "type": "match",
+      "reporting_file": "world_t20_2016_final.md",
+      "job": "Show a fixed number of deliveries as an explicit disappearing resource.",
+      "status": "to_report"
+    }
+  ],
+  "guardrails": [
+    "Do not turn Headingley into a detailed captaincy or optimal-field analysis.",
+    "Use real examples to answer Study 21 questions; do not write question -> answer -> proved.",
+    "The glossary handles vocabulary; the article must still explain ideas that matter to the argument.",
+    "Not every Study 21 question needs a full scene. Some should be established briefly.",
+    "Field placement is a bridge to the later spatial studies, not the destination of this article."
+  ]
+}
