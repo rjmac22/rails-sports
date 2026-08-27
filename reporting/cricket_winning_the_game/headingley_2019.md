@@ -88,6 +88,54 @@ This is strong evidence for the Study 21 idea that a run has no fixed tactical v
 
 Leach's own account strengthens this. He said the pair had a clear plan: Stokes would face most of each over; Leach would face one or two balls; they would seek twos because Australia's field was spread.
 
+## Decision flowcharts
+
+These diagrams summarise the decision problems revealed by the reporting. They are not claims that either side followed a rigid algorithm on every ball; they show the broad logic of the choices available in this match state.
+
+### England / Stokes
+
+```mermaid
+flowchart TD
+    A[Stokes faces next ball] --> B{Scoring opportunity?}
+    B -->|Boundary| C[Attack]
+    B -->|Safe two| D[Take two]
+    B -->|Single only| E{Where in the over?}
+    E -->|Early| F[Often refuse single]
+    E -->|Late| G[Take single to manage strike]
+    B -->|No safe run| H[Survive delivery]
+
+    C --> I[Reduce runs required]
+    D --> I
+    G --> I
+
+    D --> J[Stokes remains or regains strike]
+    F --> J
+    G --> J
+```
+
+The important point is that the decision is not simply "score whenever possible". A scoring option also changes who is likely to face the next delivery.
+
+### Australia
+
+```mermaid
+flowchart TD
+    A{Who is on strike?}
+
+    A -->|Stokes| B[Limit damaging scoring]
+    A -->|Leach| C[Maximise chance of wicket]
+
+    B --> D[Shape field and bowling]
+    D --> E{Can Australia make Leach face?}
+    E -->|Yes| C
+    E -->|No| F[Stokes faces another delivery]
+
+    C --> G{Wicket?}
+    G -->|Yes| H[Australia win]
+    G -->|No| I[Next delivery]
+```
+
+This captures the contest for control of future deliveries. England wanted as many of them as possible to be faced by Stokes; Australia wanted access to Leach while also limiting the runs Stokes could score.
+
 ## Australia’s wicket-versus-runs decisions
 
 ### The deep field
