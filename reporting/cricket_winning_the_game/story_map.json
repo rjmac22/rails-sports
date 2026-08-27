@@ -55,7 +55,7 @@
       "evidence_ids": ["world_t20_2016_final"],
       "article_role": "contrast",
       "decision": "likely",
-      "reporting_status": "to_report"
+      "reporting_status": "reported"
     },
     {
       "id": "time",
@@ -73,7 +73,7 @@
       "evidence_ids": ["headingley_2019", "sydney_2021", "world_t20_2016_final"],
       "article_role": "synthesis",
       "decision": "keep",
-      "reporting_status": "partial"
+      "reporting_status": "reported"
     },
     {
       "id": "probabilities",
@@ -149,8 +149,8 @@
       "label": "2016 World T20 final",
       "type": "match",
       "reporting_file": "world_t20_2016_final.md",
-      "job": "Show a fixed number of deliveries as an explicit disappearing resource.",
-      "status": "to_report"
+      "job": "Show a fixed number of legal deliveries as an explicit disappearing resource, while retaining the role of striker identity and result thresholds.",
+      "status": "reported_enough"
     }
   ],
   "guardrails": [
