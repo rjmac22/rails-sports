@@ -161,6 +161,53 @@ That opportunity is expressed partly in wall-clock time and partly in cricket ti
 
 This makes the Sydney example richer than a simple countdown. India were not passively waiting for time to expire; they had to survive the cricket that could legally be played before the match ended.
 
+## Decision flowcharts
+
+These diagrams summarise the decision logic exposed by the final day. They are not meant to claim either side followed a rigid algorithm; they make explicit how the changing match state altered what counted as a useful next outcome.
+
+### India
+
+```mermaid
+flowchart TD
+    A[India batting on day five] --> B{Is victory still plausibly reachable?}
+    B -->|Yes / maybe| C[Score while preserving wickets]
+    C --> D{Does the match state still support the chase?}
+    D -->|Pant scoring quickly| C
+    D -->|Pant and Pujara gone; Vihari injured| E[Victory becomes implausible]
+    B -->|No| E
+    E --> F[New dominant objective: secure the draw]
+    F --> G{Can the next delivery be survived safely?}
+    G -->|Yes| H[Survive the delivery]
+    G -->|Low-risk scoring chance| I[Take runs without materially increasing wicket risk]
+    H --> J[One fewer Australian opportunity remains]
+    I --> J
+    J --> K{Enough playing opportunity remains for Australia?}
+    K -->|Yes| G
+    K -->|No| L[Draw secured]
+```
+
+### Australia
+
+```mermaid
+flowchart TD
+    A[Australia fielding] --> B{Is India still pursuing 407?}
+    B -->|Yes / maybe| C[Balance run restriction with wicket-taking]
+    B -->|No; India playing for draw| D[Wickets become the dominant objective]
+    C --> E{Has India's objective shifted?}
+    E -->|No| C
+    E -->|Yes| D
+    D --> F[Use bowling and field settings to maximise wicket chances]
+    F --> G{Wicket taken?}
+    G -->|Yes| H[Reduce India's remaining batting resources]
+    G -->|No| I[Another delivery / over is consumed]
+    H --> J{Enough wickets and time remain?}
+    I --> J
+    J -->|Yes| F
+    J -->|No| K[Australia runs out of playing opportunity; draw]
+```
+
+The contrast with Headingley is useful. At Headingley, much of the tactical struggle was over **who would face future deliveries**. At Sydney, once India committed to survival, the central struggle became **whether any remaining delivery would produce a wicket before the available playing opportunity disappeared**.
+
 ## The final-session arithmetic
 
 At tea:
