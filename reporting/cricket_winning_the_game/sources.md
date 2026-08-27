@@ -83,10 +83,27 @@ For every source, record what it actually establishes. Do not use a citation mer
 
 | Source | Date/accessed | What it establishes | Useful passage/detail | Status |
 |---|---|---|---|---|
-| Official scorecard |  | 19 required from final over and outcome |  | To find |
-| Official match report |  | Sequence and context of final over |  | To find |
-| Brathwaite/Sammy comments |  | Batter/team understanding of the chase |  | Optional |
-| Stokes/Morgan comments |  | Bowling/fielding-side perspective |  | Optional |
+| ICC — "West Indies seal 2016 World Twenty20 title" | 3 Apr 2016; accessed 27 Aug 2026 | Governing-body match report | West Indies needed 19 from final over; Brathwaite hit four consecutive sixes | Verified |
+| ICC — T20 World Cup winning-moments retrospective | accessed 27 Aug 2026 | Official retrospective confirmation | 19 from final six; four successive sixes; second West Indies title | Verified |
+| ESPN ball-by-ball | 3 Apr 2016; accessed 27 Aug 2026 | Delivery-level state before and during final over | 137/6 after 19; Samuels 85 (66), Brathwaite 10 (6); 19 from 6; 6-6-6-6 sequence | Verified |
+| BBC Sport contemporary match report | 3 Apr 2016; accessed 27 Aug 2026 | Independent result and scorecard context | England 155/9; West Indies 161/6 in 19.4; Brathwaite 34* | Verified |
+| Cricket Australia contemporary match report | 4 Apr 2016; accessed 27 Aug 2026 | Contemporary narrative of chase | 19 required from final over and four-six finish | Verified |
+| Sky Sports — Carlos Brathwaite interview | 2 May 2016; accessed 27 Aug 2026 | Direct account of final-over decision logic | Explains why he did not automatically take a single to Samuels and instead tried to maximise every delivery | Verified direct interview |
+| Sky Sports — 2016 final watchalong | 2020; accessed 27 Aug 2026 | Retrospective accounts from Brathwaite, Stokes and Sammy | Sammy says West Indies practised 15 from six; 19 felt a stretch; first six changed equation to 13 from five | Verified retrospective participant account |
+| Indian Express — Brathwaite reconstruction/interview | 5 Apr 2016; accessed 27 Aug 2026 | Contemporary first-person explanation | Brathwaite describes focusing on ball and intent to swing for scoring opportunities | Verified direct interview |
+
+### 2016 World T20 final URLs
+
+- https://www.icc-cricket.com/news/west-indies-seal-2016-world-twenty20-title
+- https://www.icc-cricket.com/media-releases/memory-lane-how-the-icc-mens-t20-world-cups-have-been-won
+- https://www.icc-cricket.com/news/postpe-greatest-moments-the-final-16-revealed
+- https://www.espn.co.uk/cricket/series/8604/commentary/951373/england-vs-west-indies-final-world-t20-2016
+- https://www.espn.co.uk/cricket/series/8604/report/951373/
+- https://www.bbc.co.uk/sport/cricket/35955518
+- https://www.cricket.com.au/news/3277343/6-6-6-6-and-the-windies-win-wt20
+- https://www.skysports.com/cricket/news/12174/10262862/carlos-brathwaite-on-world-t20-final-and-his-approach-to-batting
+- https://www.skysports.com/cricket/news/12123/12002459/2016-world-t20-watchalong-carlos-brathwaite-ben-stokes-and-co-relive-epic-final
+- https://indianexpress.com/article/sports/cricket/my-thing-was-just-to-get-the-ball-over-the-infield-says-carlos-brathwaite/lite/
 
 ## Practitioner reporting
 
@@ -105,7 +122,8 @@ For every source, record what it actually establishes. Do not use a citation mer
 - [x] Paine, Stokes and Leach comments recorded with source trail.
 - [ ] Recover exact visual field positions at selected Headingley deliveries if we want to describe individual placements.
 - [x] Sydney day-five states and shift toward survival established from scorecard, live coverage and direct player/captain comments.
-- [ ] Exact final-over requirement in the 2016 World T20 final.
+- [x] Exact final-over requirement and delivery sequence in the 2016 World T20 final.
+- [ ] Verify the exact 2016 competition-condition wording for the tied-final/Super Over rule if quoted directly.
 
 ## Rejected / weak sources
 
@@ -114,3 +132,4 @@ Keep a record here when a tempting source is unreliable, derivative or fails to 
 - Generic retrospective listicles describing Headingley: unnecessary while contemporary and governing-body sources are available.
 - Unsourced claims that Australia were simply "too defensive": too reductive. Paine's own comments and Stokes' comments about Lyon show a more complicated tactical picture.
 - Sydney accounts that impose one exact "switch to draw" moment without player evidence: too tidy. Rahane, Pant's innings, Vihari's injury and Vihari's own interview show a progressive narrowing of objectives.
+- Retellings of Brathwaite's four sixes that provide no evidence about the decision problem: useful colour, but not enough for the analytical point about finite deliveries.
