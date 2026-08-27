@@ -139,6 +139,28 @@ So the objective did not change solely because a clock ticked down. **Player con
 
 This is a useful reminder not to model match state only as score, wickets and overs. Real states include player availability and physical condition too.
 
+## Injury and the meaning of time in a Test
+
+Two structural constraints make Vihari's injury especially important.
+
+### India could not simply replace him with a healthy batter
+
+An ordinary injury does not allow a Test side to substitute a new batter into the nominated XI. Substitute fielders can replace an injured player in the field, but they do not take over that player's batting role. So once Vihari injured his hamstring, India had to continue with the players and physical condition they actually had.
+
+That means the injury was not merely discomfort. It removed options from India's decision set while leaving the wicket itself valuable.
+
+### "Batting for time" is not just waiting for a clock to hit a fixed hour
+
+A Test day has scheduled playing hours and minimum-over requirements, with special provisions for the final hour. Weather, bad light and other interruptions can also reduce the amount of cricket that can actually be played.
+
+So India's survival target was not literally "wait until 6pm". It was closer to:
+
+**keep enough wickets intact until Australia runs out of lawful playing opportunity.**
+
+That opportunity is expressed partly in wall-clock time and partly in cricket time — overs and deliveries that still have to be completed or can still be fitted into the remaining period.
+
+This makes the Sydney example richer than a simple countdown. India were not passively waiting for time to expire; they had to survive the cricket that could legally be played before the match ended.
+
 ## The final-session arithmetic
 
 At tea:
@@ -188,7 +210,9 @@ More specifically:
 - a dot ball can become useful to the batting side;
 - the same team can rationally move from keeping a win alive to actively securing a draw;
 - what counts as "progress" changes with match state;
-- consuming deliveries can be valuable because deliveries also consume playing time.
+- consuming deliveries can be valuable because deliveries also consume playing time;
+- player availability and injury can remove options without allowing the side to replace the batter;
+- "time remaining" in a Test is partly clock time and partly overs/deliveries still available under the playing conditions.
 
 Do not turn this section into a celebration of defensive batting or a full history of famous Test draws.
 
@@ -208,7 +232,7 @@ Do not turn this section into a celebration of defensive batting or a full histo
 - [ ] Do we need a precise clock-time reconstruction, or are overs remaining a clearer way to express the time constraint to readers?
 - [ ] Is there a primary BCCI/video source for Rahane's post-match press conference that is stronger than contemporary reports quoting it?
 - [ ] Is there a primary recording/transcript of Vihari's interview beyond the Indian Express text interview? (The text interview itself is direct first-person reporting and is strong enough if needed.)
-- [ ] Do we need to distinguish formally between scheduled overs remaining and actual playing time / minimum-over requirements in the Test playing conditions?
+- [x] Distinguish formally between scheduled overs remaining and actual playing time / minimum-over requirements in the Test playing conditions.
 
 ## Sources
 
