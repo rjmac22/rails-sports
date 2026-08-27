@@ -7,9 +7,7 @@
       "id": "winning",
       "study_question": "What does it mean to win?",
       "analytical_point": "A result depends on the format and the match state, not on runs alone.",
-      "evidence_ids": [
-        "laws_result"
-      ],
+      "evidence_ids": ["laws_result"],
       "article_role": "setup",
       "decision": "keep",
       "reporting_status": "to_report"
@@ -18,9 +16,7 @@
       "id": "runs",
       "study_question": "What is the basic score?",
       "analytical_point": "Runs are the basic scoring unit, but a score has meaning only inside the state of the match.",
-      "evidence_ids": [
-        "laws_runs"
-      ],
+      "evidence_ids": ["laws_runs"],
       "article_role": "setup",
       "decision": "keep_short",
       "reporting_status": "to_report"
@@ -29,9 +25,7 @@
       "id": "constraints",
       "study_question": "What limits the accumulation of runs?",
       "analytical_point": "Runs are accumulated while wickets, deliveries and/or playing time are being consumed.",
-      "evidence_ids": [
-        "format_comparison"
-      ],
+      "evidence_ids": ["format_comparison"],
       "article_role": "core_concept",
       "decision": "keep",
       "reporting_status": "to_report"
@@ -40,9 +34,7 @@
       "id": "wickets",
       "study_question": "Why do wickets matter beyond changing the score?",
       "analytical_point": "A wicket can become the scarce resource that ends a chase even when many runs remain.",
-      "evidence_ids": [
-        "headingley_2019"
-      ],
+      "evidence_ids": ["headingley_2019"],
       "article_role": "scene_and_explanation",
       "decision": "keep",
       "reporting_status": "reported"
@@ -51,9 +43,7 @@
       "id": "delivery_identity",
       "study_question": "Are the remaining deliveries equivalent?",
       "analytical_point": "No. Their value can depend on who faces them and what state follows.",
-      "evidence_ids": [
-        "headingley_2019"
-      ],
+      "evidence_ids": ["headingley_2019"],
       "article_role": "scene_and_explanation",
       "decision": "keep",
       "reporting_status": "reported"
@@ -62,9 +52,7 @@
       "id": "deliveries",
       "study_question": "How does a fixed number of deliveries change the problem?",
       "analytical_point": "In limited-overs cricket, each legal delivery consumes a finite resource.",
-      "evidence_ids": [
-        "world_t20_2016_final"
-      ],
+      "evidence_ids": ["world_t20_2016_final"],
       "article_role": "contrast",
       "decision": "likely",
       "reporting_status": "to_report"
@@ -73,22 +61,16 @@
       "id": "time",
       "study_question": "How can time itself change what a side is trying to do?",
       "analytical_point": "In a Test, consuming time can become more valuable than scoring runs when a draw is the attainable result.",
-      "evidence_ids": [
-        "sydney_2021"
-      ],
+      "evidence_ids": ["sydney_2021"],
       "article_role": "major_example",
       "decision": "keep",
-      "reporting_status": "to_report"
+      "reporting_status": "reported"
     },
     {
       "id": "state_value",
       "study_question": "Does the value of runs, wickets, deliveries and time stay fixed?",
       "analytical_point": "No. Their value changes with match state.",
-      "evidence_ids": [
-        "headingley_2019",
-        "sydney_2021",
-        "world_t20_2016_final"
-      ],
+      "evidence_ids": ["headingley_2019", "sydney_2021", "world_t20_2016_final"],
       "article_role": "synthesis",
       "decision": "keep",
       "reporting_status": "partial"
@@ -97,9 +79,7 @@
       "id": "probabilities",
       "study_question": "Do tactics determine outcomes?",
       "analytical_point": "Tactics change probabilities; execution and chance still determine what actually happens.",
-      "evidence_ids": [
-        "headingley_2019"
-      ],
+      "evidence_ids": ["headingley_2019"],
       "article_role": "qualification",
       "decision": "keep_short",
       "reporting_status": "reported"
@@ -108,9 +88,7 @@
       "id": "field_tradeoff",
       "study_question": "What is the fielding side trading off?",
       "analytical_point": "Run prevention and wicket-taking can pull in different directions.",
-      "evidence_ids": [
-        "headingley_2019"
-      ],
+      "evidence_ids": ["headingley_2019"],
       "article_role": "bridge",
       "decision": "keep_short",
       "reporting_status": "reported"
@@ -119,9 +97,7 @@
       "id": "field_allocation",
       "study_question": "What does a field setting represent?",
       "analytical_point": "A field setting allocates limited fielding resources across space.",
-      "evidence_ids": [
-        "headingley_2019"
-      ],
+      "evidence_ids": ["headingley_2019"],
       "article_role": "bridge_to_later_studies",
       "decision": "bridge_only",
       "reporting_status": "enough_for_bridge"
@@ -166,7 +142,7 @@
       "type": "match",
       "reporting_file": "sydney_2021.md",
       "job": "Show time becoming the scarce resource and the batting objective shifting from chasing runs to surviving.",
-      "status": "to_report"
+      "status": "reported_enough"
     },
     {
       "id": "world_t20_2016_final",
