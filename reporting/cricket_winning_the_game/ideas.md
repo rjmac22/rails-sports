@@ -147,3 +147,31 @@ Before using this idea in finished prose, establish with the Headingley evidence
 - whether Australia deliberately tried to give Stokes singles at particular times, rather than merely conceding them as a consequence of the boundary field.
 
 Do not claim deliberate Australian intent on the last point unless a source supports it.
+
+
+## Research idea: reconstruct the England–Sri Lanka analytics failure case
+
+Andy Bull's 2015 Guardian piece on cricket analytics uses England's defeat to Sri Lanka as evidence in the debate over whether England had become too dependent on data.
+
+The interesting research question is not simply whether the analytics "worked" or "failed", but what actually happened between the model, the tactical plan, the players' decisions, and execution.
+
+### Questions to answer
+
+- What exactly was the historical "par" figure England were using for the match, and what sample or model produced it?
+- How did Sri Lanka's chase unfold ball by ball and phase by phase?
+- What did England's bowlers actually bowl, compared with the pre-match plan?
+- Were the supposed analytical preferences — lengths, slower balls, wide full balls, field settings, target phases — actually attempted?
+- If the bowling failed, was the problem the model, the tactical interpretation, execution, or Sri Lanka adapting better?
+- What did Morgan, Moores, Leamon and the bowlers say immediately after the game?
+- When did Swann make his criticism about England's statistical targets, and was it contemporary or retrospective?
+- Does Swann's "shaking his head" account amount to a genuine warning he made at the time, or hindsight after the results turned?
+- Did rival teams by then have comparable analytical systems, meaning England's earlier edge may simply have disappeared?
+- Is there evidence that England's analytics became more prescriptive or more complex over time, rather than merely being blamed after losses?
+
+### Causal chain to reconstruct
+
+`analysis -> tactical recommendation -> player decision -> execution -> match outcome`
+
+Do not treat the result alone as proof that the analytics succeeded or failed. The reporting job is to identify where, if anywhere, that chain broke.
+
+This may become a useful separate article or a worked example in a broader piece on the limits of sports analytics.
