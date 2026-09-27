@@ -175,3 +175,153 @@ The interesting research question is not simply whether the analytics "worked" o
 Do not treat the result alone as proof that the analytics succeeded or failed. The reporting job is to identify where, if anywhere, that chain broke.
 
 This may become a useful separate article or a worked example in a broader piece on the limits of sports analytics.
+
+
+## Idea: when optimisation makes the sport worse
+
+### Trigger
+
+A Moneyball discussion raised a second-order problem with sports analytics.
+
+The first analytical revolution asks whether teams can make better decisions by replacing weak heuristics with better evidence.
+
+The next problem appears after everyone adopts the same logic.
+
+If every team independently optimises towards the same statistically efficient behaviours, the sport itself can become less varied, less risky and less entertaining.
+
+That creates a distinction between the objective of a team and the objective of the sport.
+
+### Core idea
+
+A team wants to maximise its probability of winning.
+
+A sport also needs things such as:
+
+- uncertainty;
+- variety;
+- visible risk;
+- action;
+- strategic diversity;
+- enough jeopardy to keep spectators interested.
+
+Those objectives can overlap, but they are not identical.
+
+A useful framing is:
+
+> The objective function of a team is not the objective function of the sport.
+
+### Why this matters
+
+Analytics can identify behaviours that are individually rational but collectively narrowing.
+
+If one tactic is shown to have negative expected value, teams stop using it.
+
+If enough tactics are filtered out this way, the game can converge towards a smaller set of efficient choices.
+
+That can make teams better while making the spectacle worse.
+
+This is not an argument against analytics. It is a design problem created by successful optimisation.
+
+### Baseball analogy
+
+Moneyball is often told as:
+
+`old intuition -> better measurement -> smarter decisions`
+
+But there is a later stage:
+
+`better measurement -> everyone copies it -> market adapts -> behaviour converges`
+
+The same can happen with in-game choices.
+
+For example, if analysis shows that a tactic such as stealing bases is usually poor value unless the success probability is high enough, then fewer teams will attempt it.
+
+That can be strategically correct while also removing a visible source of risk and excitement from the sport.
+
+The issue is not that the model is wrong.
+
+The issue is that the league-wide equilibrium created by everyone following the model may be less entertaining.
+
+### Cricket equivalents
+
+Cricket has repeatedly used playing conditions to alter incentives when unconstrained optimisation could otherwise produce dull or overly defensive play.
+
+Possible examples to investigate:
+
+- fielding restrictions and Powerplays;
+- limits on short-pitched bowling;
+- over-rate and time regulations;
+- any rules introduced specifically to discourage negative or excessively defensive tactics;
+- changes intended to rebalance bat and ball after teams adapted to previous rules.
+
+The important research question is not merely what the rules are.
+
+It is:
+
+> What behaviour were teams rationally choosing under the old incentives, and what kind of cricket did administrators want instead?
+
+### Connection to Study 21
+
+Study 21 starts from the idea that teams act under constraints to maximise winning chances.
+
+This adds another level.
+
+The rules themselves shape the optimisation problem.
+
+If teams discover an undesirable equilibrium, the governing body can alter the constraints and therefore change which strategies are optimal.
+
+That gives a wider chain:
+
+`rules -> incentives -> optimal team behaviour -> league-wide equilibrium -> spectator experience -> rule change`
+
+This could become a useful bridge from first-principles match strategy into sports design.
+
+### Connection to solvers and complexity
+
+There is also a second analytical limit.
+
+A model can produce a theoretically superior strategy that is too complex for a human to execute reliably in real time.
+
+That creates another distinction:
+
+`mathematically optimal strategy != practically usable strategy`
+
+The useful analytical task may therefore be to extract simple, robust principles from a complex optimum rather than ask players to reproduce the full model.
+
+This connects directly to solver-based sports analysis.
+
+### Potential article angle
+
+A broader piece on the limits of sports analytics could move through three stages:
+
+1. **Analytics beats weak intuition**
+   - identify better predictors;
+   - exploit market inefficiencies;
+   - correct bad conventional wisdom.
+
+2. **The edge gets competed away**
+   - rivals adopt the same methods;
+   - undervalued skills become correctly priced;
+   - richer teams can buy both the analysts and the players.
+
+3. **Optimisation creates new problems**
+   - strategies converge;
+   - recommendations become harder to execute;
+   - entertainment can decline;
+   - governing bodies change rules to alter the equilibrium.
+
+The interesting position is neither "analytics is good" nor "analytics ruins sport".
+
+It is to ask where the optimisation chain breaks, what adapts in response, and who is actually being optimised for.
+
+### Reporting still needed
+
+Before using this in finished prose, establish:
+
+- specific cricket rule changes that were explicitly justified as encouraging attacking play, improving spectacle or preventing undesirable tactics;
+- what tactical behaviour existed before each rule change;
+- whether the intended behaviour actually changed afterwards;
+- examples where teams found new ways to optimise around the revised rules;
+- whether players or coaches complained that analytical recommendations had become too complex to execute;
+- examples from baseball, cricket or poker where a theoretically superior strategy was deliberately simplified for human use;
+- evidence distinguishing spectator complaints from governing-body claims about entertainment.
