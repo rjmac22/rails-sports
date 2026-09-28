@@ -16,7 +16,7 @@ West Indies reached the final over on 137 for six. They needed 19 runs from the 
 
 Every legal delivery mattered because there were only six of them. A ball that produced little or nothing would leave West Indies with almost the same target and one fewer chance to reach it.
 
-Marlon Samuels, who had carried the chase with 85 not out, was at the non-striker’s end. Carlos Brathwaite had the strike.
+Carlos Brathwaite had the strike.
 
 Ben Stokes had the ball.
 
