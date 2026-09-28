@@ -186,7 +186,7 @@ Ashwin gave it straight back.
 
 “Just like we want to get you to India. It’ll be your last series.”
 
-The longer the wicket refused to come, the more frustrated Australia became.
+The longer the wicket refused to come, the more Australia’s frustration showed.
 
 So the value of a dot ball had completely changed.
 
