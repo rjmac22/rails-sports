@@ -248,7 +248,7 @@ That did not mean he could not bat. Earlier that summer he had made 92 as a nigh
 
 But now England’s final wicket was the prize.
 
-Leach was facing an Australian Test attack built around Pat Cummins, Josh Hazlewood and Nathan Lyon — elite bowlers whose entire job now was to find one mistake and end the match.
+Leach was facing an Australian Test attack built around Pat Cummins, Josh Hazlewood and Nathan Lyon — elite bowlers hunting for the one mistake that would win Australia the Test.
 
 Even for a professional cricketer, that is not a comfortable place to be.
 
