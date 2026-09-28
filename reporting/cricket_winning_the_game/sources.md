@@ -155,7 +155,6 @@ Detailed reporting synthesis: `rules_spine.md`.
 - [x] Leach's 92 as nightwatchman and specialist-spin role supported by contemporary/retrospective BBC reporting.
 - [x] Stokes's successful final over against Sri Lanka eight days before the 2016 final, including the yorker plan, supported by contemporary BBC/Guardian reporting.
 - [x] Exact final-over requirement and delivery sequence in the 2016 World T20 final.
-- [ ] Verify the exact 2016 competition-condition wording for the tied-final/Super Over rule only if quoted directly in the article.
 
 ## Rejected / weak sources
 
