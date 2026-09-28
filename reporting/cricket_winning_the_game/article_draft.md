@@ -152,7 +152,7 @@ Ravichandran Ashwin came in next, already struggling with a painful back.
 
 Behind them was Ravindra Jadeja, his fractured thumb strapped up, preparing to bat if India became desperate enough to need him.
 
-The possibility of winning was disappearing alongside India’s fit players.
+As the injuries mounted, India’s chance of winning began to dissipate.
 
 The problem changed.
 
