@@ -214,7 +214,25 @@ Sammy's reasoning after the first six is analytically revealing: once Brathwaite
 
 This gives us practitioner evidence for something obvious mathematically but useful journalistically: **one delivery can radically alter the feasible problem faced on the next delivery.**
 
-## What this example adds that Headingley and Sydney do not
+## Betfair market evidence
+
+The Betfair Exchange provides a contemporaneous check on how violently the final over changed the perceived match state.
+
+Historical Pro data for Betfair Match Odds market `1.123968779` shows representative prices of:
+
+| State | West Indies price | Approx. implied chance |
+|---|---:|---:|
+| 19 from 6 | 7.20 | 13.9% |
+| 13 from 5 | 3.35 | 29.8% |
+| 7 from 4 | 1.43 | 69.1% |
+| 1 from 3 | 1.01 | 99.0% |
+
+These are representative prices from the stable intervals around the market step-changes, aligned with contemporary live coverage. They should not be presented as an objective probability model or as exact millisecond prices for the instant each ball crossed the boundary.
+
+The journalistic point is simpler: after one six the market roughly doubled West Indies' chance; after two it made them favourites; after three it treated the result as effectively decided.
+
+Detailed extraction: `betfair_market_evidence.md`.
+
 
 ### Headingley
 
