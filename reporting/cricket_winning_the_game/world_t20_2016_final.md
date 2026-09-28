@@ -25,7 +25,6 @@ This contrasts with the two Test examples:
 - [x] West Indies therefore needed 156 to win.
 - [x] West Indies reached the end of the 19th over at 137/6.
 - [x] They needed 19 runs from the final six legal deliveries to win.
-- [x] Eighteen runs would have tied the scores and taken the match to a Super Over under the competition conditions.
 - [x] Marlon Samuels was 85 not out from 66 balls at the non-striker's end.
 - [x] Carlos Brathwaite was 10 not out from six balls and had the strike.
 - [x] Ben Stokes bowled the final over for England.
@@ -72,20 +71,6 @@ A six produced 13 from 5: fewer runs required despite the same loss of one oppor
 
 The delivery always disappears. What matters is what is achieved before it does.
 
-## Eighteen was not the same as nineteen
-
-There is another useful state discontinuity here.
-
-At the start of the over:
-
-- **19 runs** won the match outright.
-- **18 runs** would have levelled the scores and produced a Super Over.
-- **17 or fewer** meant England won in regulation.
-
-So the final-over problem did not have a smooth relationship between runs and outcome. One additional run could move West Indies from defeat to a tie-breaking contest, and another from that contest to immediate victory.
-
-This is another example of Study 21's point that the value of a run depends on the state in which it is scored.
-
 ## Brathwaite's decision problem
 
 Brathwaite later described his reasoning directly. He knew he could try to take a single and put Samuels — already 85 not out — on strike. But he also recognised a cost: if he passed up a hittable delivery and Stokes then executed yorkers against Samuels at the end of the over, the missed opportunity would be his responsibility.
@@ -121,7 +106,7 @@ This is a reconstruction of the decision logic supported by Brathwaite's account
 
 ## England's decision problem
 
-England did not need a wicket to win the match. At the start of the over they could concede 17 runs and still win outright; conceding 18 would tie the scores; conceding 19 or more would lose.
+England did not need a wicket to win the match. They could win simply by getting through the six legal deliveries without West Indies reaching the target.
 
 That changes the fielding-side objective compared with Headingley:
 
@@ -195,7 +180,7 @@ flowchart TD
 
     H -->|Neither| J[Recalculate runs to defend and balls left]
     J --> B
-    H -->|West Indies short| K[England win / tie state as applicable]
+    H -->|West Indies short| K[England win]
     H -->|Target passed| L[West Indies win]
 ```
 
@@ -262,7 +247,6 @@ It demonstrates:
 - a boundary can improve the state by reducing the required runs faster than the ball resource is disappearing;
 - the identity of the striker still matters even under a fixed-ball constraint;
 - legal deliveries, rather than clock time, are the binding resource;
-- match outcomes can change discontinuously at specific run thresholds (17 / 18 / 19 in this case);
 - the bowler can target a particular delivery type — here, the yorker — to reduce the batter's ability to extract value from the finite ball resource;
 - the batter's technical job is to recognise and exploit execution errors before those opportunities disappear.
 
@@ -278,12 +262,10 @@ Do not let the article section become a heroic retelling of four sixes. The four
 | Stokes targets yorkers | Tactics shape the value available from a delivery | England are trying to make each disappearing ball produce as little as possible |
 | First yorker miss / first six: 13 from 5 | Execution changes the next state | A technical miss gives Brathwaite a high-value opportunity and immediately makes the remaining chase easier |
 | Third six: 1 from 3 | Value is nonlinear | Three consecutive balls radically change the outcome space |
-| 18 would tie; 19 wins | State-dependent value of a run | One additional run can change the formal result category |
 | Win at 19.4 | Unused resources can become worthless | Once the target is reached, the final two balls have no remaining value |
 
 ## Reporting questions still open
 
-- [ ] Verify the exact 2016 competition wording governing a tied final and Super Over if we quote the rule rather than simply report the contemporary match state.
 - [ ] Do we need exact field placements for Stokes' final over? Probably not for this article unless the writing later requires them.
 - [ ] Is there any reason to expand this beyond a short contrast section? Current answer: probably not.
 
