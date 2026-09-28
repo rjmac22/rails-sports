@@ -271,7 +271,7 @@ England’s position might not.
 
 Leach later described their plan simply: Stokes would try to face four or five balls of an over; Leach would face one or two. They would look for twos when Australia spread the field.
 
-The same single run could therefore have a different value depending on when it was taken and what state it created next.
+The same single run could therefore have a different value depending on when it was taken and who faced the next ball.
 
 Australia faced the reverse problem.
 
