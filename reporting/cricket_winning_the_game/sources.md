@@ -132,7 +132,20 @@ Detailed reporting synthesis: `rules_spine.md`.
 - https://www.bbc.co.uk/sport/cricket/35904984
 - https://www.theguardian.com/sport/2016/mar/26/england-sri-lanka-world-t20-match-report
 
-## Practitioner reporting
+## Betfair historical market data
+
+| Source | Date/accessed | What it establishes | Useful passage/detail | Status |
+|---|---|---|---|---|
+| Betfair Historical Data — Match Odds archives | downloaded 28 Sep 2026 | Contemporaneous exchange repricing of the three example matches | Kolkata Pro tick data: market `1.123968779`; Sydney Basic one-minute data: `1.177412195`; Headingley Basic one-minute data: `1.161492920` | Verified from downloaded raw archives |
+| Guardian live coverage — Kolkata / Sydney / Headingley | contemporary | Public match chronology used to align market movements to match state | Ball/over states and event timing; live-blog timestamps treated as publication times rather than exact ball-release times | Verified |
+
+Detailed extraction and methodology: `betfair_market_evidence.md`.
+
+- Betfair Historical Data: https://historicdata.betfair.com/
+- Kolkata live chronology: https://www.theguardian.com/sport/live/2016/apr/03/england-v-west-indies-world-twenty20-final-live
+- Sydney live chronology: https://www.theguardian.com/sport/live/2021/jan/11/australia-v-india-third-test-day-five-live
+- Headingley live chronology: https://www.theguardian.com/sport/live/2019/aug/25/ashes-2019-england-v-australia-third-test-day-four-live
+
 
 | Person/source | Role | Question answered | Key point | Permission/attribution | Status |
 |---|---|---|---|---|---|
@@ -155,6 +168,7 @@ Detailed reporting synthesis: `rules_spine.md`.
 - [x] Leach's 92 as nightwatchman and specialist-spin role supported by contemporary/retrospective BBC reporting.
 - [x] Stokes's successful final over against Sri Lanka eight days before the 2016 final, including the yorker plan, supported by contemporary BBC/Guardian reporting.
 - [x] Exact final-over requirement and delivery sequence in the 2016 World T20 final.
+- [x] Betfair Match Odds evidence extracted for Kolkata, Sydney and Headingley with market IDs, archive tiers and reproducible methodology recorded in `betfair_market_evidence.md`.
 
 ## Rejected / weak sources
 
