@@ -24,9 +24,9 @@ Stokes had become one of England’s death bowlers: the players trusted with the
 
 This was his job. He wanted this job. England trusted him with this job.
 
-Eight days earlier, against Sri Lanka, captain Eoin Morgan had given Stokes the final over with 15 runs to defend. Stokes used the yorker — a very full delivery aimed around the batter’s feet or the base of the stumps — which he had been practising throughout the tournament.
+Eight days earlier, against Sri Lanka, captain Eoin Morgan had given Stokes the final over with 15 runs to defend. Stokes used the yorker — a very full delivery aimed around the batter’s feet or the base of the stumps.
 
-Executed well, it gives the batter very little room to get underneath the ball and hit it into the air. But it is difficult to execute: slightly too short and it becomes a hittable full ball; slightly too full and it can become a full toss.
+Even for an experienced bowler, it is difficult to execute. Slightly too short and it becomes a hittable full ball; slightly too full and it can become a full toss. Get it right and the batter has very little room to get underneath the ball and hit it into the air.
 
 It worked.
 
