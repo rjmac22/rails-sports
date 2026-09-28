@@ -128,7 +128,7 @@ By the final day, Australia had set India 407 to win.
 
 It was a huge target, but not one India could simply dismiss as impossible.
 
-India did not begin by deciding they had to chase it at all costs. The approach was closer to: see how the day develops.
+India did not begin by deciding they had to chase it at all costs. They would see how the day developed.
 
 For a while, it developed rather well.
 
