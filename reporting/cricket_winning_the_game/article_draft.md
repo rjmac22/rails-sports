@@ -6,10 +6,6 @@ That is the obvious answer. It is also why asking “What’s the score?” shou
 
 But it does not tell us much about what a team actually has to do to win — or, sometimes, not lose.
 
-So the problem is not simply to score more runs.
-
-We need to look a little deeper.
-
 ## Eden Gardens, Kolkata — 3 April 2016
 
 ### England v West Indies, 2016 ICC World Twenty20 Final
