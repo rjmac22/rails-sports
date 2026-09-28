@@ -74,7 +74,7 @@ Two balls gone.
 
 West Indies had become favourites. Their exchange price had fallen to around 1.43 — roughly a 69 per cent implied chance.
 
-Seven from four was still defendable. Stokes later said he still believed England could win from there.
+Stokes later said he still believed England could win from there.
 
 He went back to the yorker.
 
