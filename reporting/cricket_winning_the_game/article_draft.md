@@ -60,7 +60,7 @@ Stokes later remembered his immediate reaction:
 
 The market moved with the match. West Indies were now trading around 3.35 — roughly a 30 per cent implied chance.
 
-But there was no reason yet to abandon the plan. Stokes had spent weeks practising the delivery and had used it successfully in almost the same situation eight days earlier.
+But there was no reason yet to abandon the plan. He had used the yorker successfully in almost the same situation eight days earlier.
 
 He still backed himself.
 
