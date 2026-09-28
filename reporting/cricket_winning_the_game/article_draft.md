@@ -1,511 +1,356 @@
-# Article Draft — Cricket from First Principles: Winning the Game
+# What does it mean to win a game of cricket?
 
-## Kolkata — first draft
+To win a game of cricket, you need to score more runs than the other team.
 
-Carlos Brathwaite hit Ben Stokes for six.
+That is the obvious answer. It is also why asking “What’s the score?” seems like it should tell you who is winning.
 
-West Indies now needed 13 runs from five balls to win the 2016 World Twenty20 final.
+But it does not tell us much about what a team actually has to do to win.
 
-Stokes walked back to his mark and tried the same thing again.
+So the problem is not simply to score more runs.
 
-Another yorker.
+We need to look a little deeper.
 
-Another miss.
+## Eden Gardens, Kolkata — 3 April 2016
 
-Another six.
+### England v West Indies, 2016 ICC World Twenty20 Final
 
-Now West Indies needed seven from four.
+England batted first and scored 155 for nine.
 
-Why keep going back to the yorker?
+West Indies reached the final over on 137 for six. They needed 19 runs from the final six balls to become world champions.
 
-Because the easier ball to bowl was not necessarily the safer ball for England.
+Every legal delivery mattered because there were only six of them. If England could make one disappear for little or no return, West Indies would still need almost as many runs but have one fewer opportunity to score them.
 
-A yorker is bowled very full, around the batter’s feet or the base of the stumps. If it lands where intended, the batter has very little room to get underneath the ball and launch it over the boundary.
+Marlon Samuels, who had carried the chase with 85 not out, was at the non-striker’s end. Carlos Brathwaite had the strike.
 
-That made it exactly the kind of delivery Stokes wanted when Brathwaite needed boundaries.
+Ben Stokes had the ball.
 
-The difficulty was execution.
+This was not simply because it happened to be his turn to bowl. Stokes had become one of England’s death bowlers: the players trusted with the final overs when the opposition is trying to score as quickly as possible.
 
-Miss slightly short and the ball could become a half-volley. Miss too full and it could become a full toss. Both were much easier to attack.
+This was his job. He wanted this job. England trusted him with this job.
 
-Stokes did have other choices.
+Eight days earlier, against Sri Lanka, captain Eoin Morgan had given Stokes the final over with 15 runs to defend. Stokes used the yorker — a very full delivery aimed around the batter’s feet or the base of the stumps — which he had been practising throughout the tournament.
 
-He could have bowled a slower ball into the pitch, trying to make Brathwaite swing before the ball arrived. He could have gone shorter and forced him to hit horizontally rather than getting underneath a full ball. He could have aimed wider, taking the ball away from Brathwaite’s strongest hitting arc.
+Executed well, it gives the batter very little room to get underneath the ball and hit it into the air. But it is difficult to execute: slightly too short and it becomes a hittable full ball; slightly too full and it can become a full toss.
 
-All of those options gave Stokes a little more margin for error than a perfect yorker.
+It worked.
 
-But none of them removed the danger.
+Sri Lanka scored only four from the over and England won through to the semi-finals.
 
-A slower ball was safer only if Brathwaite failed to read the change of pace. A short ball could still be pulled for six. A wide yorker demanded almost as much accuracy as the straight one, with the added danger that if Stokes missed too far outside off stump it would be called wide: one run conceded and, crucially, no legal delivery used up.
+Now Stokes had 19 to defend.
 
-That was why the yorker still made sense.
+The plan was simple.
 
-It was the hardest option to execute, but if Stokes landed it properly it gave Brathwaite the least room to manufacture a six.
+Do it again.
 
-Stokes was not choosing the easiest ball to bowl.
+Six balls stood between England and the World Cup.
 
-He was choosing the ball he believed was safest for England if he got it right.
+**19 from 6.**
 
-And Stokes trusted it. He had practised it extensively and later said he believed he could land it around nine times out of ten.
+The Betfair Exchange strongly favoured England. West Indies were trading around 7.2 — roughly a 14 per cent implied chance of winning.
 
-So when the first one disappeared for six, abandoning the yorker was not obviously the sensible response.
+Stokes ran in looking for the yorker.
 
-The plan still made sense.
+He missed the length he wanted.
 
-The problem was that the match had changed.
+Brathwaite hit the ball over the leg-side boundary for six.
 
-At the start of the over West Indies had needed 19 from six balls.
+One of England’s six deliveries had disappeared.
 
-After the first six they needed 13 from five.
+Stokes later remembered his immediate reaction:
 
-After the second, seven from four.
+“Oh God.”
 
-Stokes went back to his mark again.
+**13 from 5.**
 
-He missed again.
+The market moved with the match. West Indies were now trading around 3.35 — roughly a 30 per cent implied chance.
 
-Brathwaite hit six.
+But there was no reason yet to abandon the plan. Stokes had spent weeks practising the delivery and had used it successfully in almost the same situation eight days earlier.
 
-One run needed from three balls.
+He still backed himself.
 
-The fourth ball went for six as well.
+Stokes ran in again.
 
-West Indies had won the World Cup with two deliveries unused.
+Brathwaite hit another six.
 
-The famous part is the four sixes.
+Two balls gone.
 
-The more useful part is what happened between them.
+**7 from 4.**
 
-Each legal delivery disappeared as soon as it was used. At the same time, the number of runs still required changed.
+West Indies had become favourites. Their exchange price had fallen to around 1.43 — roughly a 69 per cent implied chance.
 
-So Stokes was never solving exactly the same problem twice.
+Seven from four was still defendable. Stokes later said he still believed England could win from there.
 
-Nineteen from six was one problem.
+He went back to the yorker.
 
-Thirteen from five was another.
+Brathwaite swung.
 
-Seven from four was another again.
+This time the contact did not look as clean. For a moment, Stokes thought it might be caught.
 
-And by the time it became one from three, the match had almost disappeared with the deliveries themselves.
+It kept travelling.
 
-### What the final over shows
+Six.
 
-The final over can be reduced to a sequence of match states:
+Three balls gone.
 
-`19 from 6 → 13 from 5 → 7 from 4 → 1 from 3`
+**1 from 3.**
 
-Each delivery changes two things at once:
+The exchange now priced West Indies at about 1.01 — roughly 99 per cent.
 
-- the number of runs still required;
-- the number of legal deliveries still available.
+This was the point at which Stokes later said he knew.
 
-That is what makes limited-overs cricket a constrained problem rather than simply a scoring contest.
+The match had gone.
 
-A dot ball at 19 from six would leave West Indies needing 19 from five. The score would not change, but their position would become worse because one of the remaining opportunities had disappeared.
+Three deliveries earlier England had 19 runs to defend.
 
-A six does the opposite. One delivery is still consumed, but the target falls much faster than the delivery resource does.
+Now they had one.
 
-The important point is that a delivery has no fixed value on its own.
+Brathwaite hit the fourth ball for six anyway.
 
-Its value depends on the state before it is bowled and the state it creates afterwards.
+West Indies were world champions.
 
-A six when 19 are required from six changes the problem to 13 from five.
+The final two balls were never bowled.
 
-A six when seven are required from four changes it to one from three.
+From the West Indies end, the final over is remembered as four sixes.
 
-Both add six runs to the score.
+From Stokes’s end, it was four chances to win a World Cup disappearing one after another.
 
-They do not have the same effect on the match.
+## Sydney Cricket Ground, Sydney — 7–11 January 2021
 
-The same applies to Stokes’s bowling choice.
+### Australia v India, Third Test — Border-Gavaskar Trophy
 
-He could not choose an outcome. He could only choose an action intended to make certain outcomes more likely.
+The Test series against Australia was level at 1–1. India had responded to being bowled out for 36 in Adelaide by winning the second Test in Melbourne.
 
-The yorker was an attempt to reduce Brathwaite’s chance of producing a high-value scoring event. Other deliveries involved different balances of execution risk and scoring risk.
+India arrived in Sydney already weakened. Kohli was back in India and several bowlers were injured. But they had just won in Melbourne, proving the replacements could still compete — and win — in Australia.
 
-The tactic therefore changed the distribution of possible next states.
+As the match went on, things got worse.
 
-It did not determine which state would occur.
+Rishabh Pant was hit on the elbow.
 
-That distinction matters throughout cricket.
+Ravindra Jadeja was struck on the thumb. It was fractured.
 
-Players make decisions under constraints.
+At one point India had four substitute fielders on the ground at the same time. Pant, Jadeja, Jasprit Bumrah and Ravichandran Ashwin were all off the field.
 
-Those decisions alter probabilities.
+By the final day, Australia had set India 407 to win.
 
-Then the delivery happens, and the new state becomes the starting point for the next decision.
+It was a huge target, but not one India could simply dismiss as impossible.
 
-## What exactly was running out?
+India did not begin by deciding they had to chase it at all costs. The approach was closer to: see how the day develops.
 
-What made the final over so brutal was not simply that West Indies needed 19 runs.
+For a while, it developed rather well.
 
-They needed 19 runs **before six legal deliveries ran out**.
+Pant attacked. Cheteshwar Pujara stayed with him. Together they added 148 runs.
 
-That distinction is the beginning of the problem.
+Suddenly, 407 did not look quite so remote.
 
-Cricket records its score in runs, but runs are never accumulated in isolation. They are accumulated while other things are being used up.
+Maybe India could win this.
 
-In a Twenty20 match, each side is allowed 20 overs. An over contains six legal deliveries, so the batting side begins with a maximum of 120 legal balls.
+The betting market had begun the day giving India only about a 2.5 per cent implied chance of winning. During the Pant–Pujara partnership, that climbed as high as roughly 28 per cent.
 
-Those balls are a finite resource.
+Then Pant was out for 97.
 
-A dot ball does not reduce the score. But it still consumes one of the remaining opportunities to score. A boundary does the opposite: it consumes the same single delivery while reducing the number of runs still required much more quickly.
+Hanuma Vihari came in and soon pulled his hamstring running between the wickets. Under normal circumstances, he later said, he would have retired hurt.
 
-That is why 19 from six is a different problem from 19 from 60.
+But India were running out of alternatives.
 
-But deliveries are not the only thing that can run out.
+Pujara told him to hang on until tea. He did not make it there himself: Josh Hazlewood bowled him for 77.
 
-A batting side can also lose all of its wickets. In Test cricket, the number of deliveries is not fixed in the same way, but the match itself is limited by playing time.
+Ravichandran Ashwin came in next, already struggling with a painful back.
 
-So the basic problem changes with the format and the state of the game.
+Behind them was Ravindra Jadeja, his fractured thumb strapped up, preparing to bat if India became desperate enough to need him.
 
-Sometimes the important question is how many runs are left.
+The possibility of winning was disappearing alongside India’s fit players.
 
-Sometimes it is how many wickets remain.
+The problem changed.
 
-Sometimes it is how many deliveries remain.
+**Forget 407.**
 
-And sometimes it is how much playing time the opposition still has to force a result.
+**Do not lose.**
 
-The score is always measured in runs.
+When Ashwin joined Vihari, they knew they had roughly three hours of scheduled play left to survive.
 
-What those runs are worth depends on what is disappearing around them.
+Australia needed five wickets.
 
-## Sydney — first draft
+Three hours is a long time when almost every delivery can end the match.
 
-Five years later, in Sydney, the same basic unit — a delivery — had almost the opposite value.
+Vihari could barely run. Ashwin was struggling with his back.
 
-India began the final day of the third Test against Australia needing 309 more runs to win.
+Vihari later said Australia thought one wicket would expose India’s three fast bowlers. Get either him or Ashwin out and they expected to roll through the rest.
 
-At first, victory was still part of the problem.
+So they made batting as uncomfortable as they could.
 
-Rishabh Pant made 97. Cheteshwar Pujara made 77. Their 148-run partnership pushed India towards a position where the chase briefly looked possible.
+The field crowded around the bat. Australia’s fast bowlers went short at Ashwin, striking him on the arms and upper body. Vihari was already struggling to move on his damaged hamstring.
 
-Then Pant was out.
+There was nowhere comfortable to wait.
 
-Pujara followed.
+From behind the stumps, Tim Paine started talking to Ashwin.
 
-Hanuma Vihari was already batting with a badly injured hamstring and could barely run.
+He tried to unsettle him by looking ahead to the next Test at the Gabba, where Australia had not lost a Test since 1988.
 
-By tea India were 280 for five. They still needed 127 runs, with 36 overs left in the day.
+“I can’t wait to get you to the Gabba, Ash.”
 
-The problem had changed.
+Ashwin gave it straight back.
 
-Vihari and Ravichandran Ashwin were no longer primarily trying to score the runs required to win. Their realistic objective was to prevent Australia taking the five wickets it still needed before the match ran out of playing time.
+“Just like we want to get you to India. It’ll be your last series.”
 
-That changes the value of a ball completely.
+The longer the wicket refused to come, the more frustrated Australia became.
 
-In Kolkata, a delivery on which West Indies scored nothing was a lost opportunity. The ball disappeared and the target remained exactly where it was.
+So the value of a dot ball had completely changed.
 
-In Sydney, a delivery on which India scored nothing could be useful.
+In Kolkata, a dot ball had hurt West Indies because one of their remaining scoring opportunities disappeared.
 
-If Ashwin survived it, Australia had one fewer opportunity left to dismiss him.
+Here, every ball survived took a little more time away from Australia.
 
-If Vihari survived the next one, another opportunity disappeared.
+The market began reflecting that different contest too. With about 30 overs remaining, an Australian win and the draw were almost level in the Exchange market; India winning had fallen to roughly one or two per cent. Later in the session, the draw moved above 80 per cent.
 
-The scoreboard did not need to move for India to make progress.
+Ashwin defended.
 
-Vihari's injury made the change even sharper. He could not simply be replaced by a healthy batter. He was part of the nominated eleven, and if he was going to remain at the crease he had to do so with severely restricted movement.
+Vihari survived.
 
-Running between the wickets became difficult. Scoring options disappeared.
+Still no wicket.
 
-Survival did not.
+Eventually Ashwin reduced the problem further. Vihari later remembered him saying they should take it ten balls at a time.
 
-They did not know how long they would have to survive.
+Ten balls.
 
-They only knew Australia still had time to keep coming at them.
+Then another ten.
 
-So the problem shrank.
+After hours of concentration, even that became difficult.
 
-Not to the target.
+The final hour brought another wrinkle.
 
-Not to the session.
+Under the rules, at least 15 overs had to be bowled, and play would continue until both the required overs and the required time had been completed.
 
-To the next ball.
+So now the end became countable.
 
-Vihari later described breaking the task into small pieces, sometimes thinking only about the next ten deliveries.
+In the Indian dressing room, they began counting deliveries.
 
-Get through those.
+One gone.
 
-Then the next ten.
+Another.
 
-Then the next spell.
+Another.
 
-The scoreboard barely moved, but that no longer meant India were standing still.
+With one over still remaining, Tim Paine had seen enough. Australia still needed five wickets. He decided no result could be achieved and shook hands on the draw.
 
-Every ball survived was one more attack absorbed.
+India had survived.
 
-Every over completed without a wicket was a little more of Australia’s remaining opportunity gone.
+Rahane later described it as being as good as winning a Test match.
 
-Vihari was doing it with a damaged hamstring. Ashwin was taking blows from the short ball. Neither needed to make the game look comfortable.
+## Headingley, Leeds — 22–25 August 2019
 
-They only needed to stay there.
+### England v Australia, Third Ashes Test
 
-Ball after ball.
-
-Over after over.
-
-Until Australia ran out of time to remove them.
-
-### What Sydney shows
-
-Sydney changes the problem because the batting side’s objective changes with the match state.
-
-Early in the day, India can still think about the target of 407.
-
-Later, after wickets fall, Vihari is injured and the chase becomes less realistic, survival becomes more valuable than scoring quickly.
-
-The important point is not that India suddenly stopped caring about runs.
-
-It is that another constraint became more important: Australia’s remaining opportunity to take the wickets they needed.
-
-That reverses the value of a delivery.
-
-In Kolkata, a dot ball hurts the batting side because one of a fixed number of scoring opportunities disappears.
-
-In Sydney, a dot ball can help the batting side because one of Australia’s remaining opportunities disappears without producing a wicket.
-
-The same event — no run from a delivery — can therefore be good or bad depending on the state and objective.
-
-This is why runs alone are not enough to describe progress.
-
-A more useful state description has to include things such as:
-
-- runs still required;
-- wickets remaining;
-- deliveries or overs remaining where those are fixed;
-- playing time remaining;
-- who is batting;
-- what actions are realistically available.
-
-Vihari’s injury matters because it changes that last part.
-
-He still occupies one of India’s batting places, but some of the actions normally available to a batter — especially running hard between the wickets — become much harder.
-
-The match state therefore does not just change the value of outcomes.
-
-It can change the set of feasible actions.
-
-By the closing stages, the problem facing India is no longer well described as:
-
-`runs required → score them`
-
-It is closer to:
-
-`Australia need wickets + playing opportunity is disappearing → survive`
-
-That does not require a new scoring system.
-
-It requires recognising that the same scoreboard can represent a different decision problem as the match state changes.
-
-## From Sydney to Headingley
-
-The contrast between Kolkata and Sydney is the point.
-
-In Kolkata, West Indies were trying to squeeze as much as possible out of each remaining delivery before the supply ran out.
-
-In Sydney, India were trying to let deliveries disappear without anything decisive happening.
-
-The ball was the same unit.
-
-Its value was not.
-
-What mattered was the match state and the objective.
-
-But there is another complication.
-
-Even when two deliveries are equally available, they may not be equally useful.
-
-Sometimes the important question is not simply what happens on the next ball.
-
-It is **who gets to face it**.
-
-## Headingley — first draft
-
-At Headingley in 2019, England needed 73 more runs to beat Australia.
+England needed 73 runs.
 
 Australia needed one wicket.
 
-Jack Leach walked out at number 11 to join Ben Stokes.
+Ben Stokes was 61 not out.
 
-Leach was not incapable with the bat. He was an international cricketer and had even made 92 in a Test earlier that summer. But batting was not his speciality.
+On the Betfair Exchange, England were trading at about 30.0 as Jack Leach arrived — roughly a three per cent implied chance of winning.
 
-Stokes was different. He was already 61 not out and was the batter capable of actually finishing the chase.
+The last man in was Jack Leach. Batting was not his main role for England; he was a specialist left-arm spin bowler.
 
-That made the next delivery matter differently depending on who faced it.
+That did not mean he could not bat. Earlier that summer he had made 92 as a nightwatchman.
 
-England did not simply need runs.
+But this was a different problem.
 
-They needed as many of the remaining deliveries as possible to go to Stokes.
+Leach was facing an Australian Test attack built around Pat Cummins, Josh Hazlewood and Nathan Lyon — elite bowlers whose entire job now was to find one mistake and end the match.
 
-Australia wanted the opposite.
+Even for a professional cricketer, that is not a comfortable place to be.
 
-Leach did not have to be useless for that to matter. He only had to be less dangerous than Stokes.
+Much better, from England’s point of view, to keep Stokes on strike: the established batter already set at the crease and capable of scoring the 73 runs they still needed.
+
+Leach’s job was to remain there long enough for him to do it.
+
+So England had two problems at once:
+
+- score 73 runs;
+- do not lose the final wicket.
 
 That changed the value of something as ordinary as a single.
 
-Normally, one run is simply one run.
+If Stokes took a single early in an over, England moved one run closer to the target. But Leach would then face the next ball.
 
-Here, taking one at the wrong moment could hand the strike to Leach and give Australia the confrontation they wanted.
+The scoreboard would improve.
 
-So Stokes began turning down singles early in overs.
+England’s position might not.
 
-If two runs were available, they were much more useful. England moved two runs closer to the target while Stokes stayed on strike.
+Leach later described their plan simply: Stokes would try to face four or five balls of an over; Leach would face one or two. They would look for twos when Australia spread the field.
 
-A single near the end of the over could also be useful, because it could put Stokes back on strike for the start of the next one.
+The same single run could therefore have a different value depending on when it was taken and what state it created next.
 
-The same one run could therefore be helpful or dangerous depending on when it was taken.
-
-Leach later described the basic plan: Stokes would try to face four or five balls of an over, leaving Leach one or two.
-
-Australia understood the problem too.
+Australia faced the reverse problem.
 
 They did not merely need to stop Stokes scoring.
 
-They needed access to Leach.
+They needed one wicket.
 
-That created its own trade-off.
+And getting more deliveries at Leach could increase their chance of finding it.
 
-Push fielders back towards the boundary and Australia could make Stokes work harder for fours and sixes.
+That created a trade-off for captain Tim Paine.
 
-But a deep field could also leave space for twos and carefully timed singles.
+Push the field back towards the boundary and Australia could make fours harder for Stokes. But the gaps between those fielders also gave Stokes opportunities to run twos and manage the strike.
 
-Bring fielders closer and Australia might create more catching opportunities or make strike changes harder.
+Bring the field closer and Australia might increase their chances of getting Leach on strike. But they would also make boundaries easier for Stokes.
 
-But Stokes could then have more boundary options.
+Paine later acknowledged that there were occasions when Australia might have been better accepting the risk of Stokes hitting a boundary if it meant getting more deliveries at Leach.
 
-Neither side could control the next ball completely.
+Give away four runs voluntarily?
 
-England could try to arrange for Stokes to face it.
+That sounds strange if the objective is simply to prevent runs.
 
-Australia could try to force Leach onto strike.
+But Australia did not need to prevent every run.
 
-Both could shape the probabilities.
+They needed one wicket.
 
-Neither could dictate the outcome.
+England eventually found the 73 runs first.
 
-That is why the final partnership was not simply a race between 73 runs and one wicket.
+Stokes finished 135 not out.
 
-It was also a contest over who would receive the next delivery.
+Leach finished on one.
 
-Stokes was not refusing singles because runs had suddenly stopped mattering.
+But Leach’s job was not to match Stokes run for run.
 
-He was refusing them because some runs changed what happened next.
+He faced 17 deliveries and survived all of them.
 
-A run that exposed Leach could make England's position worse.
+Every time he did, England’s final wicket remained intact.
 
-A run that preserved or regained Stokes's strike could make it better.
+Stokes still had the chance to score the runs.
 
-The scoreboard counted both exactly the same.
+## What’s the score?
 
-The match did not.
+Kolkata, Sydney and Headingley were very different cricket matches.
 
-### What Headingley shows
+In Kolkata, West Indies were running out of deliveries.
 
-Headingley adds another complication.
+In Sydney, Australia were running out of time.
 
-The remaining deliveries are not interchangeable.
+At Headingley, England were trying not to lose their final wicket.
 
-England need runs and Australia need one wicket, but the value of the next ball depends heavily on who faces it.
+The scoreboard mattered in every case.
 
-A delivery to Stokes is not the same problem as a delivery to Leach.
+But it did not tell the whole story.
 
-That means the match state needs to include more than score, wickets and balls remaining.
+A dot ball hurt West Indies in Kolkata. In Sydney, the same dot ball helped India.
 
-It also needs to include the identity of the striker.
+At Headingley, a single could move England closer to victory while also putting Jack Leach on strike and increasing the danger of losing the match.
 
-That is why a single run can have different tactical value depending on when it is taken.
+The same event could have a different value because the state of the match had changed.
 
-An early single may expose Leach to several deliveries.
+So asking:
 
-A late single may give Stokes the strike for the next over.
+**“What’s the score?”**
 
-The scoreboard records both as one run.
+does not necessarily tell you who is winning.
 
-The decision problem does not.
+You also need to know what each side is trying to achieve with the deliveries, time and wickets still available — and how those constraints change the value of the runs on the scoreboard.
 
-Australia face the reverse problem.
+But knowing what you want is only part of the problem.
 
-They want to prevent Stokes scoring quickly, create a wicket, and increase the chance that Leach faces the next delivery.
+Neither side can choose what happens on the next ball.
 
-Those objectives can conflict.
+They can only try to make some outcomes more likely than others.
 
-A deep field may reduce boundary risk but make twos and strike rotation easier.
+And for the fielding side, one of the most visible ways of doing that raises another question:
 
-A closer field may increase some wicket chances or make singles harder, but leave more boundary space.
-
-So field placement becomes an allocation problem.
-
-The fielding side has a fixed number of players and must decide where those limited resources are most useful.
-
-A player protecting the boundary cannot also be standing close enough to take an edge.
-
-A player positioned to stop a single cannot simultaneously protect every scoring area.
-
-Each position therefore changes the balance of possible outcomes.
-
-That is the analytical point.
-
-Tactics do not decide what happens next.
-
-They change the probabilities of the possible next states.
-
-Headingley makes that visible because both sides are trying to influence not just the result of the next delivery, but who receives it.
-
-## What the three matches show
-
-Kolkata, Sydney and Headingley are all played under the same scoring system.
-
-Runs still decide the score.
-
-But the same delivery can have a completely different value depending on the state of the match.
-
-In Kolkata, West Indies needed to extract as much as possible from each remaining ball before the supply ran out.
-
-In Sydney, India benefited when balls disappeared without producing a wicket because Australia were the side running out of opportunity.
-
-At Headingley, even the identity of the batter facing the next ball changed its value.
-
-That gives us three different questions:
-
-- How much can be extracted from the next delivery?
-- Can the next delivery be survived?
-- Who gets to face the next delivery?
-
-The answer depends on what is scarce.
-
-Sometimes it is runs.
-
-Sometimes wickets.
-
-Sometimes legal deliveries.
-
-Sometimes playing time.
-
-Sometimes access to a particular batter.
-
-That is why cricket is not simply a game of accumulating runs.
-
-It is a game of accumulating runs while other resources are being consumed.
-
-The state of the match determines which constraint matters most, and therefore which actions make sense.
-
-The same run can be valuable in one situation and dangerous in another.
-
-The same dot ball can be a failure in one match and progress in another.
-
-The same field setting can protect one outcome while exposing another.
-
-Players are constantly making decisions inside those constraints.
-
-They cannot choose the next state directly.
-
-They can only choose actions that make some outcomes more likely than others.
-
-That is where tactics enter the game.
-
-And once the problem is described that way, the next question becomes spatial.
-
-If the fielding side has only eleven players and several competing objectives, where should those players stand?
-
-That is the next problem.
+**Where should everybody stand?**
