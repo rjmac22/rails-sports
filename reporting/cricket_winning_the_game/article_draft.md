@@ -309,8 +309,6 @@ But Leach’s job was not to match Stokes run for run.
 
 He faced 17 deliveries and survived all of them.
 
-Every time he did, England’s final wicket remained intact.
-
 Stokes still had the chance to score the runs.
 
 ## What’s the score?
