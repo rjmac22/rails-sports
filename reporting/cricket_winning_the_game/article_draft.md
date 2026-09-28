@@ -112,9 +112,9 @@ From Stokes’s end, it was four chances to win a World Cup disappearing one aft
 
 ### Australia v India, Third Test — Border-Gavaskar Trophy
 
-The Test series against Australia was level at 1–1. India had responded to being bowled out for 36 in Adelaide by winning the second Test in Melbourne.
+The series was level at 1–1. India had recovered from being bowled out for 36 in Adelaide by winning the second Test in Melbourne.
 
-India arrived in Sydney already weakened. Kohli was back in India and several bowlers were injured. But they had just won in Melbourne, proving the replacements could still compete — and win — in Australia.
+India arrived in Sydney already weakened. Kohli was back in India and several bowlers were injured.
 
 As the match went on, things got worse.
 
