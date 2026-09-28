@@ -2,7 +2,7 @@
 
 To win a game of cricket, you need to score more runs than the other team.
 
-That is the obvious answer. It is also why asking “What’s the score?” seems like it should tell you who is winning.
+That is the obvious answer. It is also why asking “What’s the score?” should tell you who is winning.
 
 But it does not tell us much about what a team actually has to do to win.
 
