@@ -246,7 +246,7 @@ The last man in was Jack Leach. Batting was not his main role for England; he wa
 
 That did not mean he could not bat. Earlier that summer he had made 92 as a nightwatchman.
 
-But this was a different problem.
+But now England’s final wicket was the prize.
 
 Leach was facing an Australian Test attack built around Pat Cummins, Josh Hazlewood and Nathan Lyon — elite bowlers whose entire job now was to find one mistake and end the match.
 
