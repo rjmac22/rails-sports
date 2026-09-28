@@ -94,8 +94,6 @@ The exchange now priced West Indies at about 1.01 — roughly 99 per cent.
 
 This was the point at which Stokes later said he knew.
 
-The match had gone.
-
 Three deliveries earlier England had 19 runs to defend.
 
 Now they had one.
