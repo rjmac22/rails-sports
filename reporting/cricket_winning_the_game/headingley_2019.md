@@ -36,7 +36,18 @@ More specifically:
 
 Primary/strong sources: Cricket Australia match centre; ICC match report; BBC Sport match report; Cricket Australia final-hour reconstruction.
 
-## Partnership reconstruction
+## Betfair market evidence
+
+Betfair's Basic historical Match Odds archive for market `1.161492920` supplies a useful single snapshot for the state in which Jack Leach arrived.
+
+After Stuart Broad's dismissal at 286/9, with England needing 73 and Australia needing one wicket, England traded as high as **30.0** while Australia traded around **1.04**. Including the negligible draw price, that is roughly a **3.35% implied chance for England** and **96.55% for Australia**.
+
+That is enough for this article. It establishes how severe the final-wicket problem looked contemporaneously without turning the Headingley section into a betting-market recap.
+
+Because the Basic archive is sampled at roughly one-minute intervals, the figure should be described as the market state around Leach's arrival, not an exact price on a particular delivery.
+
+Detailed extraction: `betfair_market_evidence.md`.
+
 
 The useful story is not simply that Stokes attacked. It is that England deliberately managed **who faced which deliveries**, while Australia tried to prevent boundaries without losing access to Leach.
 
