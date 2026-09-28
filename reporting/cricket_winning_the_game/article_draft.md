@@ -172,7 +172,7 @@ Vihari later said Australia thought one wicket would expose India’s three fast
 
 So they made batting as uncomfortable as they could.
 
-The field crowded around the bat. Australia’s fast bowlers went short at Ashwin, striking him on the arms and upper body. Vihari was already struggling to move on his damaged hamstring.
+The field crowded around the bat. Australia’s fast bowlers went short at Ashwin, striking him on the arms and upper body.
 
 There was nowhere comfortable to wait.
 
