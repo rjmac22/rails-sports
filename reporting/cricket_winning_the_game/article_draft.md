@@ -339,12 +339,10 @@ You also need to know what each side is trying to achieve with the deliveries, t
 
 Those constraints change the value of the runs on the scoreboard.
 
-But knowing what you want is only part of the problem.
+But knowing the objective does not tell you how to achieve it.
 
-Neither side can choose what happens on the next ball.
+Neither side can choose what happens on the next ball. They can only choose actions that make some outcomes more likely than others.
 
-They can only try to make some outcomes more likely than others.
-
-And for the fielding side, one of the most visible ways of doing that raises another question:
+For the fielding side, one of the most visible of those choices is where to put the fielders.
 
 **Where should everybody stand?**
