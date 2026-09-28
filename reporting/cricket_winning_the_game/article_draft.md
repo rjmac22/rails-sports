@@ -202,7 +202,7 @@ Vihari survived.
 
 Still no wicket.
 
-Eventually Ashwin reduced the problem further. Vihari later remembered him saying they should take it ten balls at a time.
+Eventually Ashwin broke the task down further. Vihari later remembered him saying they should take it ten balls at a time.
 
 Ten balls.
 
