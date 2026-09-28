@@ -281,11 +281,7 @@ The same single run could therefore have a different value depending on when it 
 
 Australia faced the reverse problem.
 
-They did not merely need to stop Stokes scoring.
-
-They needed one wicket.
-
-And getting more deliveries at Leach could increase their chance of finding it.
+Stopping Stokes from scoring was only part of it. They also wanted to get Leach back on strike, because every delivery at him was another chance to take the wicket that would end the match.
 
 That created a trade-off for captain Tim Paine.
 
