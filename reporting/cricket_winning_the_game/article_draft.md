@@ -329,8 +329,6 @@ A dot ball hurt West Indies in Kolkata. In Sydney, the same dot ball helped Indi
 
 At Headingley, a single could move England closer to victory while also putting Jack Leach on strike and increasing the danger of losing the match.
 
-The same event could have a different value because the state of the match had changed.
-
 So asking:
 
 **“What’s the score?”**
