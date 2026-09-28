@@ -252,7 +252,7 @@ Leach was facing an Australian Test attack built around Pat Cummins, Josh Hazlew
 
 Even for a professional cricketer, that is not a comfortable place to be.
 
-Much better, from England’s point of view, to keep Stokes on strike: the established batter already set at the crease and capable of scoring the 73 runs they still needed.
+England’s best chance was to keep Stokes on strike: the established batter already set at the crease and capable of scoring the 73 runs they still needed.
 
 Leach’s job was to remain there long enough for him to do it.
 
