@@ -178,7 +178,7 @@ There was nowhere comfortable to wait.
 
 From behind the stumps, Tim Paine started talking to Ashwin.
 
-He tried to unsettle him by looking ahead to the next Test at the Gabba, where Australia had not lost a Test since 1988.
+He looked ahead to the next Test at the Gabba, where Australia had not lost a Test since 1988.
 
 “I can’t wait to get you to the Gabba, Ash.”
 
