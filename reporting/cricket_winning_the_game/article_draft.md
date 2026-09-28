@@ -335,7 +335,9 @@ So asking:
 
 does not necessarily tell you who is winning.
 
-You also need to know what each side is trying to achieve with the deliveries, time and wickets still available — and how those constraints change the value of the runs on the scoreboard.
+You also need to know what each side is trying to achieve with the deliveries, time and wickets still available.
+
+Those constraints change the value of the runs on the scoreboard.
 
 But knowing what you want is only part of the problem.
 
