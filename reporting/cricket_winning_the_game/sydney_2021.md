@@ -52,7 +52,26 @@ But the state changed during the day:
 
 This sequence is more useful for Study 21 than a clean binary switch because it shows the **objective emerging from the match state**.
 
-## Match-state reconstruction
+## Betfair market evidence
+
+Betfair's Basic historical Match Odds archive for market `1.177412195` gives roughly one-minute snapshots of how the three possible results were being repriced during the final day.
+
+Representative states:
+
+| Phase | Australia | India | Draw | Approx. normalised implied split |
+|---|---:|---:|---:|---|
+| Start of final day | 1.19 | 40.0 | 7.60 | AUS 84.3% / IND 2.5% / Draw 13.2% |
+| Pant–Pujara partnership; India's shortest final-day price | 1.67 | 3.60 | 8.00 | AUS 59.8% / IND 27.7% / Draw 12.5% |
+| Around tea, 280/5 | 1.48 | 26.0 | 3.45 | AUS 67.3% / IND 3.8% / Draw 28.9% |
+| Around 30 overs remaining | 2.04 | 65.0 | 2.00 | AUS 48.7% / IND 1.5% / Draw 49.7% |
+| Later in final session | 6.20 | 1000 | 1.20 | AUS 16.2% / IND 0.1% / Draw 83.7% |
+
+This is unusually useful evidence for the article's central claim. India begin the day as a very unlikely winner; the Pant–Pujara partnership creates a substantial live win path; after the wickets and injuries, India's win price effectively disappears and the market becomes a contest between Australia and the draw.
+
+Because Basic data is sampled at roughly one-minute intervals, do not attribute a precise probability jump to one delivery.
+
+Detailed extraction: `betfair_market_evidence.md`.
+
 
 | Moment | Match state | Plausible objective | What changed |
 |---|---|---|---|
