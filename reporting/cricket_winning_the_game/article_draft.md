@@ -279,9 +279,9 @@ Stopping Stokes from scoring was only part of it. They also wanted to get Leach 
 
 That created a trade-off for captain Tim Paine.
 
-Push the field back towards the boundary and Australia could make fours harder for Stokes. But the gaps between those fielders also gave Stokes opportunities to run twos and manage the strike.
+Push the field back towards the boundary and Australia could make fours harder to find. But the gaps between those fielders gave Stokes opportunities to run twos and manage the strike.
 
-Bring the field closer and Australia might increase their chances of getting Leach on strike. But they would also make boundaries easier for Stokes.
+Bring the field closer and Australia could make it harder for Stokes to control the strike. But they would also leave him more room to find the boundary.
 
 Paine later acknowledged that there were occasions when Australia might have been better accepting the risk of Stokes hitting a boundary if it meant getting more deliveries at Leach.
 
