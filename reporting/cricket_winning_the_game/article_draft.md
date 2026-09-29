@@ -88,8 +88,6 @@ Three balls gone.
 
 West Indies were now trading at about 1.01 — roughly a 99 per cent implied chance.
 
-This was the point at which Stokes later said he knew.
-
 Three deliveries earlier England had 19 runs to defend.
 
 Now they had one.
