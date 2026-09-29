@@ -213,13 +213,7 @@ Stokes finished 135 not out. Leach finished on one.
 
 ## What’s the score?
 
-In Kolkata, West Indies were running out of deliveries.
-
-In Sydney, Australia were running out of time.
-
-At Headingley, England were running out of wickets.
-
-The scoreboard mattered in every case.
+In Kolkata, West Indies were running out of deliveries. In Sydney, Australia were running out of time. At Headingley, England were running out of wickets. The scoreboard mattered in every case.
 
 A dot ball hurt West Indies in Kolkata. In Sydney, the same dot ball helped India.
 
@@ -227,9 +221,7 @@ At Headingley, a single could move England closer to victory while putting Jack 
 
 Asking **“What’s the score?”** does not necessarily tell you who is winning.
 
-But knowing what has to happen is not the same as making it happen.
-
-Neither side can decide what happens on the next ball. They can only make some things more likely than others.
+But knowing what has to happen is not the same as making it happen. Neither side can decide what happens on the next ball. They can only make some things more likely than others.
 
 For the fielding side, one way to do that is deciding where to put the fielders.
 
