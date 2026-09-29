@@ -323,8 +323,8 @@ Asking **“What’s the score?”** does not necessarily tell you who is winnin
 
 But knowing what has to happen is not the same as making it happen.
 
-Neither side can choose what happens on the next ball. They can only choose actions that make some outcomes more likely than others.
+Neither side can decide what happens on the next ball. They can only make some things more likely than others.
 
-For the fielding side, one of the clearest ways to influence those outcomes is deciding where to put the fielders.
+For the fielding side, one way to do that is deciding where to put the fielders.
 
 **Where should everybody stand?**
