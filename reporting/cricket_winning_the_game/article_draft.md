@@ -182,9 +182,7 @@ But now England’s final wicket was the prize.
 
 Leach was facing an Australian Test attack built around Pat Cummins, Josh Hazlewood and Nathan Lyon — elite bowlers hunting for the one mistake that would win Australia the Test. Even for a professional cricketer, that is not a comfortable place to be.
 
-England’s best chance was to keep Stokes on strike: the established batter already set at the crease and capable of scoring the 73 runs they still needed.
-
-Leach’s job was to stay there long enough for Stokes to do it.
+England’s best chance was to keep Stokes on strike: the established batter already set at the crease and capable of scoring the 73 runs they still needed. Leach’s job was to stay there long enough for Stokes to do it.
 
 England had two problems at once:
 
@@ -193,15 +191,9 @@ England had two problems at once:
 
 That changed the value of something as ordinary as a single.
 
-If Stokes took a single early in an over, England moved one run closer to the target. But Leach would then face the next ball.
+If Stokes took a single early in an over, England moved one run closer to the target. But Leach would then face the next ball. The scoreboard would improve. England’s position might not.
 
-The scoreboard would improve.
-
-England’s position might not.
-
-Leach later described their plan simply: Stokes would try to face four or five balls of an over; Leach would face one or two. They would look for twos when Australia spread the field.
-
-The same single run could therefore have a different value depending on when it was taken and who faced the next ball.
+Leach later described their plan simply: Stokes would try to face four or five balls of an over; Leach would face one or two. They would look for twos when Australia spread the field. The same single run could therefore have a different value depending on when it was taken and who faced the next ball.
 
 Australia faced the reverse problem.
 
