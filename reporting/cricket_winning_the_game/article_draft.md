@@ -321,7 +321,7 @@ At Headingley, a single could move England closer to victory while putting Jack 
 
 Asking **“What’s the score?”** does not necessarily tell you who is winning.
 
-But knowing the objective does not tell you how to achieve it.
+But knowing what has to happen is not the same as making it happen.
 
 Neither side can choose what happens on the next ball. They can only choose actions that make some outcomes more likely than others.
 
