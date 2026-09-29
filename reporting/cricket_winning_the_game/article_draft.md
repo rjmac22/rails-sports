@@ -26,7 +26,7 @@ This was his job. He wanted this job. England trusted him with this job.
 
 Eight days earlier, against Sri Lanka, captain Eoin Morgan had given Stokes the final over with 15 runs to defend. Stokes used the yorker — a very full delivery aimed around the batter’s feet or the base of the stumps.
 
-Even for an experienced bowler, it is difficult to execute. Slightly too short and it becomes a hittable full ball; slightly too full and it can become a full toss. Get it right and the batter has very little room to get underneath the ball and hit it into the air.
+Even for an experienced bowler, it is difficult to execute. Slightly too short and the batter can get underneath it and smash it; slightly too full and it can become a full toss, arriving without a bounce and giving the batter a cleaner swing. Get it right and the ball pitches at the batter’s feet, leaving very little room to swing.
 
 It worked.
 
