@@ -293,7 +293,7 @@ But Australia did not need to prevent every run.
 
 They needed one wicket.
 
-England eventually found the 73 runs first.
+England eventually got the 73 runs first.
 
 Stokes finished 135 not out.
 
