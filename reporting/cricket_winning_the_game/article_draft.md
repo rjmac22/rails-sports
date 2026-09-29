@@ -112,13 +112,7 @@ The series was level at 1–1. India had recovered from being bowled out for 36 
 
 India arrived in Sydney already weakened. Kohli was back in India and several bowlers were injured.
 
-As the match went on, things got worse.
-
-Rishabh Pant was hit on the elbow.
-
-Ravindra Jadeja was struck on the thumb. It was fractured.
-
-At one point India had four substitute fielders on the ground at the same time. Pant, Jadeja, Jasprit Bumrah and Ravichandran Ashwin were all off the field.
+As the match went on, things got worse. Rishabh Pant was hit on the elbow. Ravindra Jadeja was struck on the thumb. It was fractured. At one point India had four substitute fielders on the ground at the same time. Pant, Jadeja, Jasprit Bumrah and Ravichandran Ashwin were all off the field.
 
 By the final day, Australia had set India 407 to win.
 
