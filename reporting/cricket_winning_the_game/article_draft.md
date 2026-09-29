@@ -234,15 +234,17 @@ Rahane later described it as being as good as winning a Test match.
 
 ### England v Australia, Third Ashes Test
 
+Stuart Broad was out.
+
+The last man in was Jack Leach. Batting was not his main role for England; he was a specialist left-arm spin bowler.
+
+Ben Stokes was 61 not out.
+
 England needed 73 runs.
 
 Australia needed one wicket.
 
-Ben Stokes was 61 not out.
-
-On the Betfair Exchange, England were trading at about 30.0 as Jack Leach arrived — roughly a three per cent implied chance of winning.
-
-The last man in was Jack Leach. Batting was not his main role for England; he was a specialist left-arm spin bowler.
+On the Betfair Exchange, England were trading at about 30.0 as Leach arrived — roughly a three per cent implied chance of winning.
 
 That did not mean he could not bat. Earlier that summer he had made 92 as a nightwatchman.
 
