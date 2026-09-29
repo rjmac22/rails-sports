@@ -325,3 +325,99 @@ Before using this in finished prose, establish:
 - whether players or coaches complained that analytical recommendations had become too complex to execute;
 - examples from baseball, cricket or poker where a theoretically superior strategy was deliberately simplified for human use;
 - evidence distinguishing spectator complaints from governing-body claims about entertainment.
+
+
+## Short article idea: how can a delivery be both a no-ball and a dead ball?
+
+### Trigger
+
+A Fox Cricket clip showed an extraordinary delivery described in the caption as:
+
+> A no-ball, dead ball, four and a free hit — all in the same delivery.
+
+The immediate reaction is that those outcomes sound contradictory. That makes the incident a useful short explanatory article rather than a general rules explainer.
+
+### Possible headline
+
+**How Can a Cricket Ball Be Both a No-Ball and a Dead Ball?**
+
+Alternative:
+
+**The Cricket Delivery That Broke Four Rules at Once — Except It Didn't**
+
+Use the cleaner first version unless reporting reveals a better angle.
+
+### Core explanatory idea
+
+The useful distinction is that the terms answer different questions.
+
+- **No-ball:** was the delivery legal?
+- **Dead ball:** is play still live?
+- **Boundary:** did runs result while the ball was live?
+- **Free hit:** what consequence does the no-ball create for the next delivery?
+
+Those are different parts of the game's state rather than mutually exclusive labels.
+
+The incident therefore offers a compact way to explain cricket as a sequence of state changes rather than as a pile of unrelated rules.
+
+### Working state-transition explanation
+
+The likely sequence to verify is:
+
+`delivery -> no-ball -> ball comes to rest / is declared dead -> batter hits it after it is dead -> attempted boundary does not count -> next delivery is a free hit`
+
+This would explain why the Fox caption is entertaining but potentially imprecise: the no-ball and dead-ball calls belong to the first delivery, while the free hit belongs to the next delivery. If the batter struck the ball after it had already become dead, the apparent four would not itself score four runs.
+
+Do not publish that sequence as fact until the match footage, scorecard and applicable playing conditions have been checked.
+
+### Why it is worth publishing
+
+This passes the “where's the consequence?” test.
+
+The point is not merely that cricket has obscure terminology. The consequence of the dead-ball call is that something visually dramatic — the batter chasing the ball and hitting it to the boundary — may be worth nothing.
+
+The consequence of the no-ball survives into the next state by creating a free hit.
+
+So one strange incident demonstrates that:
+
+`what happened physically != what counts in the game state`
+
+and:
+
+`one delivery can change the rules governing the next delivery`
+
+That connects neatly to Study 21's broader first-principles approach.
+
+### Potential structure for a short piece
+
+1. Open with the bizarre delivery and what the viewer appears to see.
+2. Ask how the same ball can apparently be a no-ball, dead ball and four.
+3. Separate the concepts: legality of the delivery, whether the ball remains live, scoring while live, and the consequence for the next ball.
+4. Reconstruct the sequence frame by frame / call by call.
+5. Explain exactly what counted on the scorecard.
+6. Finish with the free hit and show how the first delivery changed the state of the next one.
+
+This should probably be a short piece — roughly 600–900 words — rather than another full study unless the rule interaction exposes a larger analytical question.
+
+### Reporting still needed
+
+Before writing:
+
+- identify the exact South Australia–Tasmania match, date, bowler, batter and over;
+- save the official scorecard and, if available, ball-by-ball commentary;
+- inspect the complete video rather than relying on the social-media caption;
+- identify exactly when the umpire signalled no-ball and dead ball;
+- establish why the ball became dead under the playing conditions used in that competition;
+- confirm whether the apparent boundary added any runs;
+- confirm what was recorded for the no-ball itself;
+- confirm that the following delivery was the free hit and what happened from it;
+- use the competition's applicable playing conditions, not a generic rule page if they differ;
+- preserve the Fox Cricket post as the discovery source, but use primary rules and match records for the explanation.
+
+### Possible visual treatment
+
+This could work well as a simple sequence graphic:
+
+`BALL BOWLED -> NO-BALL -> DEAD BALL -> HIT AFTER DEAD -> NO FOUR -> NEXT BALL: FREE HIT`
+
+The value would be explanatory, not decorative. Each step should correspond to an actual umpire/rules event established in reporting.
