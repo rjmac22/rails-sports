@@ -20,7 +20,7 @@ Carlos Brathwaite had the strike.
 
 Ben Stokes had the ball.
 
-Stokes had become one of England’s death bowlers: the players trusted with the final overs when the opposition is trying to score as quickly as possible.
+Stokes had become one of England’s death bowlers, trusted with the final overs when the opposition was trying to score as quickly as possible.
 
 This was his job. He wanted this job. England trusted him with this job.
 
