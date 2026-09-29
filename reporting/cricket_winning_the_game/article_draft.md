@@ -142,21 +142,13 @@ Vihari could barely run. Ashwin was struggling with his back.
 
 Vihari later said Australia thought one wicket would expose India’s three fast bowlers. Get either him or Ashwin out and they expected to roll through the rest.
 
-So they made batting as uncomfortable as they could.
+So they made batting as uncomfortable as they could. The field crowded around the bat. Australia’s fast bowlers went short at Ashwin, striking him on the arms and upper body. There was nowhere comfortable to wait.
 
-The field crowded around the bat. Australia’s fast bowlers went short at Ashwin, striking him on the arms and upper body.
-
-There was nowhere comfortable to wait.
-
-From behind the stumps, Tim Paine started talking to Ashwin.
-
-He looked ahead to the next Test at the Gabba, where Australia had not lost a Test since 1988.
+From behind the stumps, Tim Paine started talking to Ashwin. He looked ahead to the next Test at the Gabba, where Australia had not lost a Test since 1988.
 
 “I can’t wait to get you to the Gabba, Ash.”
 
-Ashwin gave it straight back.
-
-“Just like we want to get you to India. It’ll be your last series.”
+Ashwin gave it straight back: “Just like we want to get you to India. It’ll be your last series.”
 
 The longer the wicket refused to come, the more Australia’s frustration showed.
 
