@@ -40,7 +40,7 @@ Six balls stood between England and the World Cup.
 
 **19 from 6.**
 
-The Betfair Exchange strongly favoured England. West Indies were trading around 7.2 — roughly a 14 per cent implied chance of winning.
+West Indies were trading around 7.2 — roughly a 14 per cent implied chance of winning.
 
 Stokes ran in looking for the yorker.
 
