@@ -254,7 +254,7 @@ Even for a professional cricketer, that is not a comfortable place to be.
 
 England’s best chance was to keep Stokes on strike: the established batter already set at the crease and capable of scoring the 73 runs they still needed.
 
-Leach’s job was to remain there long enough for him to do it.
+Leach’s job was to stay there long enough for Stokes to do it.
 
 So England had two problems at once:
 
