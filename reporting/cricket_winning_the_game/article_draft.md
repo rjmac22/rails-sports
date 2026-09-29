@@ -283,7 +283,9 @@ Push the field back towards the boundary and Australia could make fours harder t
 
 Bring the field closer and Australia could make it harder for Stokes to control the strike. But they would also leave him more room to find the boundary.
 
-Paine later acknowledged that there were occasions when Australia might have been better accepting the risk of Stokes hitting a boundary if it meant getting more deliveries at Leach.
+Paine later put it plainly:
+
+“I should have had the field up and allowed Ben to hit a couple of boundaries so we had more balls at the tailender.”
 
 Risk giving away four runs?
 
