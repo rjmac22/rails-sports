@@ -307,7 +307,7 @@ In Kolkata, West Indies were running out of deliveries.
 
 In Sydney, Australia were running out of time.
 
-At Headingley, England were trying not to lose their final wicket.
+At Headingley, England were running out of wickets.
 
 The scoreboard mattered in every case.
 
