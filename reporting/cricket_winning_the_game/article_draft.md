@@ -256,7 +256,7 @@ England’s best chance was to keep Stokes on strike: the established batter alr
 
 Leach’s job was to stay there long enough for Stokes to do it.
 
-So England had two problems at once:
+England had two problems at once:
 
 - score 73 runs;
 - do not lose the final wicket.
