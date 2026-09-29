@@ -329,6 +329,6 @@ But knowing the objective does not tell you how to achieve it.
 
 Neither side can choose what happens on the next ball. They can only choose actions that make some outcomes more likely than others.
 
-For the fielding side, one of the most visible of those choices is where to put the fielders.
+For the fielding side, one of the clearest ways to influence those outcomes is deciding where to put the fielders.
 
 **Where should everybody stand?**
