@@ -194,7 +194,7 @@ In Kolkata, a dot ball had hurt West Indies because one of their remaining scori
 
 Here, every ball survived took a little more time away from Australia.
 
-The market began reflecting that different contest too. With about 30 overs remaining, an Australian win and the draw were almost level in the Exchange market; India winning had fallen to roughly one or two per cent. Later in the session, the draw moved above 80 per cent.
+The market reflected the shift too. With about 30 overs remaining, an Australian win and the draw were almost level; India winning had fallen to roughly one or two per cent. Later in the session, the draw moved above 80 per cent.
 
 Ashwin defended.
 
