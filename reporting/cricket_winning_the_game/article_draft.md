@@ -315,8 +315,6 @@ At Headingley, England were running out of wickets.
 
 The scoreboard mattered in every case.
 
-But it did not tell the whole story.
-
 A dot ball hurt West Indies in Kolkata. In Sydney, the same dot ball helped India.
 
 At Headingley, a single could move England closer to victory while putting Jack Leach on strike and making defeat more likely.
