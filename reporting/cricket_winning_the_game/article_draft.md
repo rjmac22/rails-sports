@@ -100,9 +100,9 @@ West Indies were world champions.
 
 The final two balls were never bowled.
 
-From the West Indies end, the final over is remembered as four sixes.
+For West Indies, the final over is remembered as four sixes.
 
-From Stokes’s end, it was four chances to win a World Cup disappearing one after another.
+For Stokes, it was four chances to win a World Cup disappearing one after another.
 
 ## Sydney Cricket Ground, Sydney — 7–11 January 2021
 
