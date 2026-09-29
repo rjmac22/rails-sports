@@ -60,7 +60,7 @@ West Indies were now trading around 3.35 — roughly a 30 per cent implied chanc
 
 But there was no reason yet to abandon the plan. He had used the yorker successfully in almost the same situation eight days earlier.
 
-He still backed himself.
+He still believed he could execute it.
 
 Stokes ran in again.
 
