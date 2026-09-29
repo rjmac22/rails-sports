@@ -325,8 +325,6 @@ does not necessarily tell you who is winning.
 
 You also need to know what each side is trying to achieve with the deliveries, time and wickets still available.
 
-Those constraints change the value of the runs on the scoreboard.
-
 But knowing the objective does not tell you how to achieve it.
 
 Neither side can choose what happens on the next ball. They can only choose actions that make some outcomes more likely than others.
