@@ -116,17 +116,9 @@ As the match went on, things got worse. Rishabh Pant was hit on the elbow. Ravin
 
 By the final day, Australia had set India 407 to win.
 
-It was a huge target, but not one India could simply dismiss as impossible.
+It was a huge target, but not one India could simply dismiss as impossible. India did not begin by deciding they had to chase it at all costs. They would see how the day developed.
 
-India did not begin by deciding they had to chase it at all costs. They would see how the day developed.
-
-For a while, it developed rather well.
-
-Pant attacked. Cheteshwar Pujara stayed with him. Together they added 148 runs.
-
-Suddenly, 407 did not look quite so remote.
-
-Maybe India could win this.
+For a while, it developed rather well. Pant attacked. Cheteshwar Pujara stayed with him. Together they added 148 runs. Suddenly, 407 did not look quite so remote. Maybe India could win this.
 
 The betting market had begun the day giving India only about a 2.5 per cent implied chance of winning. During the Pant–Pujara partnership, that climbed as high as roughly 28 per cent.
 
