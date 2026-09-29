@@ -14,7 +14,7 @@ England batted first and scored 155 for nine.
 
 West Indies reached the final over on 137 for six. They needed 19 runs from the final six balls to become world champions.
 
-Every legal delivery mattered because there were only six of them. A ball that produced little or nothing would leave West Indies with almost the same target and one fewer chance to reach it.
+Every legal delivery mattered because there were only six of them. A ball that brought few or no runs would leave West Indies with almost the same target and one fewer chance to reach it.
 
 Carlos Brathwaite had the strike.
 
