@@ -238,15 +238,13 @@ Stuart Broad was out.
 
 The last man in was Jack Leach. Batting was not his main role for England; he was a specialist left-arm spin bowler.
 
+That did not mean he could not bat. Earlier that summer he had made 92 as a nightwatchman.
+
 Ben Stokes was 61 not out.
 
 England needed 73 runs.
 
-Australia needed one wicket.
-
 On the Betfair Exchange, England were trading at about 30.0 as Leach arrived — roughly a three per cent implied chance of winning.
-
-That did not mean he could not bat. Earlier that summer he had made 92 as a nightwatchman.
 
 But now England’s final wicket was the prize.
 
