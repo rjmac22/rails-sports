@@ -203,29 +203,13 @@ That created a trade-off for captain Tim Paine.
 
 Push the field back towards the boundary and Australia could make fours harder to find. But the gaps between those fielders gave Stokes opportunities to run twos and manage the strike.
 
-Bring the field closer and Australia could make it harder for Stokes to control the strike. But they would also leave him more room to find the boundary.
+Bring the field closer and Australia could make it harder for Stokes to control the strike. But they would also leave him more room to find the boundary. Paine later put it plainly: “I should have had the field up and allowed Ben to hit a couple of boundaries so we had more balls at the tailender.”
 
-Paine later put it plainly:
+Risk giving away four runs? That sounds strange if the objective is simply to prevent runs. But Australia did not need to prevent every run. They needed one wicket.
 
-“I should have had the field up and allowed Ben to hit a couple of boundaries so we had more balls at the tailender.”
+Leach faced 17 deliveries, stayed with Stokes, helped manage the strike — and eventually scored the single that levelled the scores. Stokes won it with the next ball. England got there first.
 
-Risk giving away four runs?
-
-That sounds strange if the objective is simply to prevent runs.
-
-But Australia did not need to prevent every run.
-
-They needed one wicket.
-
-Leach faced 17 deliveries, stayed with Stokes, helped manage the strike — and eventually scored the single that levelled the scores.
-
-Stokes won it with the next ball.
-
-England got there first.
-
-Stokes finished 135 not out.
-
-Leach finished on one.
+Stokes finished 135 not out. Leach finished on one.
 
 ## What’s the score?
 
