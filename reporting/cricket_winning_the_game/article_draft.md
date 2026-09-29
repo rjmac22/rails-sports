@@ -48,7 +48,7 @@ He missed the length he wanted.
 
 Brathwaite hit the ball over the leg-side boundary for six.
 
-One of England’s six deliveries had disappeared.
+One of England’s six deliveries was gone.
 
 Stokes later remembered his immediate reaction:
 
