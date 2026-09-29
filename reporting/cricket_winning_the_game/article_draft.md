@@ -70,7 +70,7 @@ Two balls gone.
 
 **7 from 4.**
 
-West Indies had become favourites. Their exchange price had fallen to around 1.43 — roughly a 69 per cent implied chance.
+West Indies were now favourites, trading around 1.43 — roughly a 69 per cent implied chance.
 
 Stokes later said he still believed England could win from there.
 
