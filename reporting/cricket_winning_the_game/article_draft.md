@@ -56,7 +56,7 @@ Stokes later remembered his immediate reaction:
 
 **13 from 5.**
 
-The market moved with the match. West Indies were now trading around 3.35 — roughly a 30 per cent implied chance.
+West Indies were now trading around 3.35 — roughly a 30 per cent implied chance.
 
 But there was no reason yet to abandon the plan. He had used the yorker successfully in almost the same situation eight days earlier.
 
