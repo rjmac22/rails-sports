@@ -285,7 +285,7 @@ Bring the field closer and Australia could make it harder for Stokes to control 
 
 Paine later acknowledged that there were occasions when Australia might have been better accepting the risk of Stokes hitting a boundary if it meant getting more deliveries at Leach.
 
-Give away four runs voluntarily?
+Risk giving away four runs?
 
 That sounds strange if the objective is simply to prevent runs.
 
