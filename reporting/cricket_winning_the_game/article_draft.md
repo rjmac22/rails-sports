@@ -96,6 +96,8 @@ Brathwaite hit the fourth ball for six anyway.
 
 West Indies were world champions.
 
+“I thought, ‘I’ve just lost the World Cup’. I couldn’t believe it,” Stokes later said.
+
 The final two balls were never bowled.
 
 For West Indies, the final over is remembered as four sixes.
