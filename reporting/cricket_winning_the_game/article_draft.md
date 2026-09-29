@@ -156,33 +156,13 @@ In Kolkata, a dot ball had hurt West Indies because one of their remaining scori
 
 The market reflected the shift too. With about 30 overs remaining, an Australian win and the draw were almost level; India winning had fallen to roughly one or two per cent. Later in the session, the draw moved above 80 per cent.
 
-Ashwin defended.
+Ashwin defended. Vihari survived. Still no wicket.
 
-Vihari survived.
+Eventually Ashwin broke the task down further. Vihari later remembered him saying they should take it ten balls at a time. Ten balls. Then another ten. After hours of concentration, even that became difficult.
 
-Still no wicket.
+The final hour changed the problem again. Under the rules, at least 15 overs had to be bowled, and play would continue until both the required overs and the required time had been completed. Now the end became countable. In the Indian dressing room, they began counting deliveries.
 
-Eventually Ashwin broke the task down further. Vihari later remembered him saying they should take it ten balls at a time.
-
-Ten balls.
-
-Then another ten.
-
-After hours of concentration, even that became difficult.
-
-The final hour changed the problem again.
-
-Under the rules, at least 15 overs had to be bowled, and play would continue until both the required overs and the required time had been completed.
-
-Now the end became countable.
-
-In the Indian dressing room, they began counting deliveries.
-
-One gone.
-
-Another.
-
-Another.
+One gone. Another. Another.
 
 With one over still remaining, Tim Paine had seen enough. Australia still needed five wickets. He decided no result could be achieved and shook hands on the draw.
 
