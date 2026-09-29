@@ -210,7 +210,7 @@ Then another ten.
 
 After hours of concentration, even that became difficult.
 
-The final hour brought another wrinkle.
+The final hour changed the problem again.
 
 Under the rules, at least 15 overs had to be bowled, and play would continue until both the required overs and the required time had been completed.
 
