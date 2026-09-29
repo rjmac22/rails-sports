@@ -303,8 +303,6 @@ Leach faced 17 deliveries, stayed with Stokes, helped manage the strike — and 
 
 ## What’s the score?
 
-Kolkata, Sydney and Headingley were very different cricket matches.
-
 In Kolkata, West Indies were running out of deliveries.
 
 In Sydney, Australia were running out of time.
