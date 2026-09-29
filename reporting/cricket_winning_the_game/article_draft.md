@@ -166,9 +166,7 @@ One gone. Another. Another.
 
 With one over still remaining, Tim Paine had seen enough. Australia still needed five wickets. He decided no result could be achieved and shook hands on the draw.
 
-India had survived.
-
-Rahane later described it as being as good as winning a Test match.
+India had survived. Rahane later described it as being as good as winning a Test match.
 
 ## Headingley, Leeds — 22–25 August 2019
 
