@@ -74,15 +74,13 @@ West Indies had become favourites. Their exchange price had fallen to around 1.4
 
 Stokes later said he still believed England could win from there.
 
-He went back to the yorker.
+He went back to the yorker. Brathwaite swung. This time the contact did not look as clean.
 
-Brathwaite swung.
-
-This time the contact did not look as clean. For a moment, Stokes thought it might be caught.
+“I thought that one was out,” Stokes later said.
 
 It kept travelling.
 
-Six.
+**Six.**
 
 Three balls gone.
 
