@@ -321,11 +321,7 @@ A dot ball hurt West Indies in Kolkata. In Sydney, the same dot ball helped Indi
 
 At Headingley, a single could move England closer to victory while putting Jack Leach on strike and making defeat more likely.
 
-So asking:
-
-**“What’s the score?”**
-
-does not necessarily tell you who is winning.
+Asking **“What’s the score?”** does not necessarily tell you who is winning.
 
 You also need to know what each side is trying to achieve with the deliveries, time and wickets still available.
 
