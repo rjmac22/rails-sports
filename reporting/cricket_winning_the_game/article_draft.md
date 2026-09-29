@@ -299,11 +299,7 @@ Stokes finished 135 not out.
 
 Leach finished on one.
 
-But Leach’s job was not to match Stokes run for run.
-
-He faced 17 deliveries and survived all of them.
-
-Stokes still had the chance to score the runs.
+Leach faced 17 deliveries, stayed with Stokes, helped manage the strike — and eventually scored the single that levelled the scores.
 
 ## What’s the score?
 
