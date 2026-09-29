@@ -32,9 +32,7 @@ It worked.
 
 Sri Lanka scored only four from the over and England won through to the semi-finals.
 
-Now Stokes had 19 to defend.
-
-The plan was simple.
+Now Stokes had 19 to defend. The plan was simple.
 
 Do it again.
 
