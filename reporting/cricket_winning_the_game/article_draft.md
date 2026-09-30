@@ -201,7 +201,7 @@ Leach later described their plan simply: Stokes would try to face four or five b
 
 Australia faced the reverse problem.
 
-Stopping Stokes from scoring was only part of it. They also wanted to get Leach back on strike, because every delivery at him was another chance to take the wicket that would end the match.
+Stopping Stokes from scoring was only part of it. They also wanted Leach on strike, because every delivery he faced was another chance to take the wicket that would end the match.
 
 That created a trade-off for captain Tim Paine.
 
