@@ -421,3 +421,95 @@ This could work well as a simple sequence graphic:
 `BALL BOWLED -> NO-BALL -> DEAD BALL -> HIT AFTER DEAD -> NO FOUR -> NEXT BALL: FREE HIT`
 
 The value would be explanatory, not decorative. Each step should correspond to an actual umpire/rules event established in reporting.
+
+
+## Idea: sport as a system of competing objective functions
+
+### Trigger
+
+A discussion about the business of sport raised a problem with the neat assumption that players and teams simply "optimise winning."
+
+They do not.
+
+Winning matters, but every actor in sport is also responding to financial, career and institutional incentives.
+
+### Core idea
+
+A more realistic model is:
+
+`team objective != player objective != league objective != broadcaster objective != fan objective`
+
+Even within a single team, the owner, manager, coach, sporting director, finance department and players may be optimising different things.
+
+### Players
+
+A player may care about:
+
+- winning;
+- salary and contract security;
+- playing time;
+- visibility;
+- career progression;
+- transfer opportunities;
+- national-team selection;
+- avoiding injury;
+- extending a career;
+- individual statistics and reputation.
+
+A decision can therefore be rational for a player's career without being perfectly aligned with the team's immediate probability of winning.
+
+### Teams and clubs
+
+A team may care about:
+
+- winning now;
+- long-term competitive strength;
+- revenue;
+- wage costs;
+- player development;
+- player resale value;
+- avoiding relegation;
+- qualifying for lucrative competitions;
+- satisfying owners or investors;
+- protecting the value of the organisation.
+
+That can make apparently "non-winning" decisions rational. Selling a star player, resting players, prioritising one competition over another, or accepting a lower short-term win probability may improve another objective.
+
+### Leagues, broadcasters and fans
+
+The league may want competitive balance, audience growth, star visibility, international expansion and a commercially attractive product.
+
+Broadcasters and sponsors may want attention, predictable scheduling, advertising inventory and attractive personalities or teams.
+
+Fans may value winning, but also identity, tradition, rivalry, drama, accessibility and entertainment.
+
+Those goals can conflict.
+
+### Stronger research question
+
+Instead of asking only:
+
+> What strategy maximises winning?
+
+ask:
+
+> Who is making the decision, what are they actually trying to maximise, and when do their incentives stop lining up?
+
+That creates a useful causal framework:
+
+`actor -> objective(s) -> constraints -> decision -> effect on the game -> effect on other actors`
+
+### Potential article direction
+
+This could become part of a broader business-of-sport strand focused on how commercial and career incentives alter the game itself, rather than treating sports business as a separate subject.
+
+Possible cases to investigate:
+
+- players choosing franchise leagues over national-team commitments;
+- clubs selling elite players despite weakening the current team;
+- teams resting players because injury risk and season value outweigh one match;
+- owners prioritising qualification revenue over cup competition;
+- leagues changing formats or rules to improve the commercial product;
+- broadcasters influencing schedules, stoppages or competition design.
+
+The interesting story is not "money corrupts sport." It is how different rational objectives interact, conflict and reshape behaviour.
