@@ -122,7 +122,7 @@ It was a huge target, but India did not rule out chasing it. They would see how 
 
 For a while, it developed rather well. Pant attacked. Cheteshwar Pujara stayed with him. Together they added 148 runs. Suddenly, 407 did not look quite so remote. Maybe India could win this.
 
-The betting market had begun the day giving India only about a 2.5 per cent implied chance of winning. During the Pant–Pujara partnership, that climbed as high as roughly 28 per cent.
+At the start of the day, the betting market gave India only about a 2.5 per cent implied chance of winning. During the Pant–Pujara partnership, that climbed as high as roughly 28 per cent.
 
 Then Pant was out for 97. Hanuma Vihari came in and soon pulled his hamstring running between the wickets. Under normal circumstances, he later said, he would have retired hurt. But India were running out of alternatives.
 
