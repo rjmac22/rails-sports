@@ -168,7 +168,7 @@ The final hour changed the problem again. At least 15 overs had to be bowled, ev
 
 One gone. Another. Another.
 
-With one over still remaining, Tim Paine had seen enough. Australia still needed five wickets. He decided no result could be achieved and shook hands on the draw.
+With one over still remaining, Australia still needed five wickets. On Cricket Australia’s highlights, the commentator said Paine had asked: “Do we have to bowl it?” The over was never bowled. The players shook hands on the draw.
 
 India had survived.
 
