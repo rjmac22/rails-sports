@@ -211,7 +211,7 @@ Bring the field closer and Australia could make it harder for Stokes to control 
 
 Risk giving away four runs? That sounds strange if the objective is simply to prevent runs. But Australia did not need to prevent every run. They needed one wicket.
 
-Leach faced 17 deliveries, stayed with Stokes, helped manage the strike — and eventually scored the single that levelled the scores. Stokes won it with the next ball. England got there first.
+Leach faced 17 deliveries and survived them all. He eventually scored the single that levelled the scores. Stokes won it with the next ball. England got there first.
 
 Stokes finished 135 not out. Leach finished on one.
 
