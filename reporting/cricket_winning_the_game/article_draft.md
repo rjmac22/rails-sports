@@ -120,7 +120,7 @@ At the start of the day, the betting market gave India only about a 2.5 per cent
 
 Then Pant was out for 97. Hanuma Vihari came in and soon pulled his hamstring running between the wickets. Under normal circumstances, he later said, he would have retired hurt. But India were running out of alternatives.
 
-Pujara told him to hang on until tea. He did not make it there himself: Josh Hazlewood bowled him for 77. Ravichandran Ashwin came in next, already struggling with a painful back. Ravindra Jadeja was still to come, his fractured thumb strapped up, preparing to bat if India needed him. As the injuries mounted, India’s chance of winning began to dissipate.
+Pujara told him to hang on until tea. He did not make it there himself: Josh Hazlewood bowled him for 77. Ravichandran Ashwin came in next, already struggling with a painful back. Ravindra Jadeja was still to come, padded up and preparing to bat despite his fractured thumb. As the injuries mounted, India’s chance of winning began to dissipate.
 
 The problem changed.
 
