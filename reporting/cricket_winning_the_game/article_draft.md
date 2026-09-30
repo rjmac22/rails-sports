@@ -160,7 +160,9 @@ The market reflected the shift. With about 30 overs remaining, an Australian win
 
 Ashwin defended. Vihari survived. Still no wicket.
 
-Eventually Ashwin broke the task down further. Vihari later remembered him saying they should take it ten balls at a time. Ten balls. Then another ten. After hours of concentration, even that became difficult.
+Eventually Ashwin broke the task down further. Vihari later remembered Ashwin telling him: “Let’s take it ten balls at a time.”
+
+Ten balls. Then another ten. After hours of concentration, even that became difficult.
 
 The final hour changed the problem again. Under the rules, at least 15 overs had to be bowled, and play would continue until both the required overs and the required time had been completed — unless the captains agreed there was no prospect of a result. Now the end became countable. In the Indian dressing room, they began counting deliveries.
 
