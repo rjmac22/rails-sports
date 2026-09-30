@@ -225,8 +225,8 @@ At Headingley, a single could move England closer to victory while putting Jack 
 
 Asking **“What’s the score?”** does not necessarily tell you who is winning.
 
-But knowing what has to happen is not the same as making it happen. Neither side can decide what happens on the next ball. They can only make some things more likely than others.
+But knowing what has to happen is not the same as making it happen. Neither side can dictate what happens on the next ball. They can only make some things more likely than others.
 
-For the fielding side, one way to do that is deciding where to put the fielders.
+For the fielding side, one of those choices is where to put the fielders.
 
 **Where should everybody stand?**
