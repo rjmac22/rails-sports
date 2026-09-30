@@ -156,7 +156,7 @@ The longer the wicket refused to come, the more Australia’s frustration showed
 
 In Kolkata, a dot ball had hurt West Indies because one of their remaining scoring opportunities disappeared. Here, every ball survived took a little more time away from Australia.
 
-The market reflected the shift too. With about 30 overs remaining, an Australian win and the draw were almost level; India winning had fallen to roughly one or two per cent. Later in the session, the draw moved above 80 per cent.
+The market reflected the shift. With about 30 overs remaining, an Australian win and the draw were almost level; India winning had fallen to roughly one or two per cent. Later in the session, the draw moved above 80 per cent.
 
 Ashwin defended. Vihari survived. Still no wicket.
 
