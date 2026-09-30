@@ -224,3 +224,7 @@ But knowing what has to happen is not the same as making it happen. Neither side
 For the fielding side, one of those choices is where to put the fielders.
 
 **Where should everybody stand?**
+
+### Notes and sources
+
+The analysis, calculations and sources behind this article are documented in the accompanying [research notebook](../../notebooks/21_cricket_from_first_principles.ipynb) and [reporting notes](./).
