@@ -221,7 +221,7 @@ In Kolkata, West Indies were running out of deliveries. In Sydney, Australia wer
 
 A dot ball hurt West Indies in Kolkata. In Sydney, the same dot ball helped India.
 
-At Headingley, a single could move England closer to victory while putting Jack Leach on strike and making defeat more likely.
+At Headingley, a single could move England closer to victory while putting Jack Leach on strike and giving Australia a better chance to take the final wicket.
 
 Asking **“What’s the score?”** does not necessarily tell you who is winning.
 
