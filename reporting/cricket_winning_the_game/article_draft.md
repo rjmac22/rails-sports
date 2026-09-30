@@ -164,7 +164,7 @@ At the other end, Vihari remembered Ashwin becoming animated. They were getting 
 
 Ten balls. Then another ten. After hours of concentration, even that became difficult.
 
-The final hour changed the problem again. Under the rules, at least 15 overs had to be bowled, and play would continue until both the required overs and the required time had been completed — unless the captains agreed there was no prospect of a result. Now the end became countable. In the Indian dressing room, they began counting deliveries.
+The final hour changed the problem again. At least 15 overs had to be bowled, even if that took more than an hour, unless the captains agreed there was no prospect of a result. Now the end became countable. In the Indian dressing room, they began counting deliveries.
 
 One gone. Another. Another.
 
