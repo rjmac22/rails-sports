@@ -225,6 +225,6 @@ For the fielding side, one of those choices is where to put the fielders.
 
 **Where should everybody stand?**
 
-### Notes and sources
+## Notes and sources
 
 The analysis, calculations and sources behind this article are documented in the accompanying [research notebook](../../notebooks/21_cricket_from_first_principles.ipynb) and [reporting notes](./).
