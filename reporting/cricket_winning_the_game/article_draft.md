@@ -112,7 +112,7 @@ For Stokes, it was four chances to win a World Cup disappearing one after anothe
 
 The series was level at 1–1. India had recovered from being bowled out for 36 in Adelaide by winning the second Test in Melbourne.
 
-India arrived in Sydney already weakened. Kohli was back in India and several bowlers were injured.
+India arrived in Sydney already depleted, without Virat Kohli and with several bowlers injured.
 
 As the match went on, things got worse. Rishabh Pant was hit on the elbow. Ravindra Jadeja was struck on the thumb. It was fractured. At one point India had four substitute fielders on the ground at the same time. Pant, Jadeja, Jasprit Bumrah and Ravichandran Ashwin were all off the field.
 
