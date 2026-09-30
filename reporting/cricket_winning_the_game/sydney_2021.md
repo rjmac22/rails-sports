@@ -32,7 +32,7 @@ Do not force a single turning point if the evidence shows a gradual change.
 - [x] Ashwin finished 39 not out from 128 balls.
 - [x] Vihari finished 23 not out from 161 balls.
 - [x] India finished 334/5 after 131 overs and the match was drawn.
-- [x] The final scheduled over was not bowled because the draw was agreed once Australia could no longer realistically force the remaining wickets in time.
+- [x] The final scheduled over was not bowled. Cricket Australia’s day-five highlights commentary reports Tim Paine asking, “Do we have to bowl it?”, after which the players shook hands on the draw. Treat this as the commentator reporting Paine’s words, not direct stump-mic audio.
 
 Primary/strong sources: Cricket Australia match centre and match report; ICC match report; Guardian live coverage; Hanuma Vihari interview with the Indian Express; Ajinkya Rahane post-match comments.
 
@@ -305,6 +305,7 @@ Do not turn this section into a celebration of defensive batting or a full histo
 - Cricket Australia match centre: https://www.cricket.com.au/matches/CA:8935/australia-men-india-men-australia-v-india-test-series-2020-2021
 - Cricket Australia, Andrew Ramsey, "Defiant India hold on for famous draw to set up decider", 11 Jan 2021: https://www.cricket.com.au/news/3312763/defiant-india-hold-on-for-famous-draw-to-set-up-decider
 - Cricket Australia, "Well played India, but Gabba's what matters: Marnus", 11 Jan 2021: https://www.cricket.com.au/news/3309545/well-played-india-but-gabbas-what-matters-marnus
+- Cricket Australia highlights, "Brave India pull off the great escape at the SCG", 11 Jan 2021: https://www.cricket.com.au/videos/2967236/brave-india-pull-off-the-great-escape-at-the-scg — end-of-match commentary reports Paine asking, “Do we have to bowl it?” with one over remaining; the players then shake hands.
 - ICC, "Resolute India hold on for draw against Australia in third Test", 11 Jan 2021: https://www.icc-cricket.com/news/resolute-india-hold-on-for-draw-against-australia-in-third-test
 - ABC News, "India defies Australia, injury and history to secure incredible draw in the third Test at the SCG", 11 Jan 2021: https://www.abc.net.au/news/2021-01-11/india-completes-incredible-draw-australia-third-test-sydney-sc/13046326
 - Guardian live coverage, 11 Jan 2021: https://www.theguardian.com/sport/live/2021/jan/11/australia-v-india-third-test-day-five-live
