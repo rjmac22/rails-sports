@@ -186,7 +186,7 @@ But now England’s final wicket was the prize.
 
 Leach was facing an Australian Test attack built around Pat Cummins, Josh Hazlewood and Nathan Lyon — elite bowlers hunting for the one mistake that would win Australia the Test. Even for a professional cricketer, that is not a comfortable place to be.
 
-England’s best chance was to keep Stokes on strike: the established batter already set at the crease and capable of scoring the 73 runs they still needed. Leach’s job was to stay there long enough for Stokes to do it.
+England’s best chance was to keep Stokes on strike. He was already 61 not out and settled. Leach had walked in at number 11, when batting is at its most precarious: before he had time to get his eye in. His job was to stay there long enough for Stokes to do it.
 
 England had two problems at once:
 
