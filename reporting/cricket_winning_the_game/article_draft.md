@@ -48,8 +48,6 @@ He missed the length he wanted.
 
 Brathwaite hit the ball over the leg-side boundary for six.
 
-One of England’s six deliveries was gone.
-
 Stokes later remembered his immediate reaction:
 
 “Oh God.”
@@ -58,31 +56,27 @@ Stokes later remembered his immediate reaction:
 
 West Indies were now trading around 3.35 — roughly a 30 per cent implied chance.
 
-But there was no reason yet to abandon the plan. He had used the yorker successfully in almost the same situation eight days earlier.
-
-He still believed he could execute it.
-
 Stokes ran in again.
 
 Brathwaite hit another six.
-
-Two balls gone.
 
 **7 from 4.**
 
 West Indies were now favourites, trading around 1.43 — roughly a 69 per cent implied chance.
 
-Stokes later said he still believed England could win from there.
+The target had fallen to seven from four balls, but Stokes still had no reason to abandon the plan. The yorker was the delivery he trusted in that situation, and he had succeeded with it before. The problem was not the choice but the execution.
 
-He went back to the yorker. Brathwaite swung. This time the contact did not look as clean.
+“When they needed seven I was still backing myself to get us over the line,” he later said.
+
+So he went back to it. Not because he had run out of bowling options, but because he still believed the plan would work if he delivered it properly.
+
+Brathwaite swung. This time the contact did not look as clean.
 
 “I thought that one was out,” Stokes later said.
 
 It kept travelling.
 
 **Six.**
-
-Three balls gone.
 
 **1 from 3.**
 
@@ -112,21 +106,21 @@ For Stokes, it was four chances to win a World Cup disappearing one after anothe
 
 The series was level at 1–1. India had recovered from being bowled out for 36 in Adelaide by winning the second Test in Melbourne.
 
-India arrived in Sydney already depleted, without Virat Kohli and with several bowlers injured.
+India arrived in Sydney without Virat Kohli and already short of bowling options.
 
-As the match went on, things got worse. Rishabh Pant was hit on the elbow. Ravindra Jadeja was struck on the thumb. It was fractured. At one point India had four substitute fielders on the ground at the same time. Pant, Jadeja, Jasprit Bumrah and Ravichandran Ashwin were all off the field.
+As the match went on, things got worse. Rishabh Pant was hit on the elbow. Ravindra Jadeja was struck on the thumb, fracturing it. At one point India had four substitute fielders on the ground at the same time. Pant, Jadeja, Jasprit Bumrah and Ravichandran Ashwin were all off the field.
 
 By the final day, Australia had set India 407 to win.
 
 It was a huge target, but India did not rule out chasing it. They would see how the day developed.
 
-For a while, it developed rather well. Pant attacked. Cheteshwar Pujara stayed with him. Together they added 148 runs. Suddenly, 407 did not look quite so remote. Maybe India could win this.
+For a while, the chase looked possible. Pant attacked. Cheteshwar Pujara stayed with him. Together they added 148 runs. Suddenly, 407 did not look quite so remote. Maybe India could win this.
 
 At the start of the day, the betting market gave India only about a 2.5 per cent implied chance of winning. During the Pant–Pujara partnership, it peaked at roughly 28 per cent.
 
 Then Pant was out for 97. Hanuma Vihari came in and soon pulled his hamstring running between the wickets. Under normal circumstances, he later said, he would have retired hurt. But India were running out of alternatives.
 
-Pujara told him to hang on until tea. He did not make it there himself: Josh Hazlewood bowled him for 77. Ravichandran Ashwin came in next, already struggling with a painful back. Behind them was Ravindra Jadeja, his fractured thumb strapped up, preparing to bat if India needed him. As the injuries mounted, India’s chance of winning began to dissipate.
+Pujara told him to hang on until tea. He did not make it there himself: Josh Hazlewood bowled him for 77. Ravichandran Ashwin came in next, already struggling with a painful back. Ravindra Jadeja was still to come, his fractured thumb strapped up, preparing to bat if India needed him. As the injuries mounted, India’s chance of winning began to dissipate.
 
 The problem changed.
 
@@ -142,11 +136,11 @@ Three hours is a long time when every delivery is another chance for Australia t
 
 Vihari could barely run. Ashwin was struggling with his back.
 
-Vihari later said Australia thought one wicket would expose India’s three fast bowlers. Get either him or Ashwin out and they expected to roll through the rest.
+Vihari later said Australia thought one wicket would expose India’s weaker batters. Get either him or Ashwin out and they expected to roll through the rest.
 
-So they made batting as uncomfortable as they could. The field crowded around the bat. Australia’s fast bowlers went short at Ashwin, striking him on the arms and upper body. There was nowhere comfortable to wait.
+So they made batting as uncomfortable as they could. The field crowded around the bat. Australia’s fast bowlers went short at Ashwin, striking him on the arms and upper body. There was no comfortable way to survive.
 
-From behind the stumps, Tim Paine started talking to Ashwin. He looked ahead to the next Test at the Gabba, where Australia had not lost a Test since 1988.
+From behind the stumps, Australia captain Tim Paine started talking to Ashwin. He looked ahead to the next Test at the Gabba, where Australia had not lost a Test since 1988.
 
 “I can’t wait to get you to the Gabba, Ash.”
 
@@ -186,7 +180,7 @@ But now England’s final wicket was the prize.
 
 Leach was facing an Australian Test attack built around Pat Cummins, Josh Hazlewood and Nathan Lyon — elite bowlers hunting for the one mistake that would win Australia the Test. Even for a professional cricketer, that is not a comfortable place to be.
 
-England’s best chance was to keep Stokes on strike. He was already 61 not out and settled. Leach had walked in at number 11, when batting is at its most precarious: before he had time to get his eye in. His job was to stay there long enough for Stokes to do it.
+England’s best chance was to keep Stokes on strike. He was already 61 not out and settled. Leach had walked in at number 11, when batting is at its most precarious: before he had time to get his eye in. His job was to survive the balls he had to face and keep Stokes on strike to get the runs they needed.
 
 England had two problems at once:
 
@@ -203,7 +197,7 @@ Australia faced the reverse problem.
 
 Stopping Stokes from scoring was only part of it. They also wanted Leach on strike, because every delivery he faced was another chance to take the wicket that would end the match.
 
-That created a trade-off for captain Tim Paine.
+That created a trade-off for Paine.
 
 Push the field back towards the boundary and Australia could make fours harder to find. But the gaps between those fielders gave Stokes opportunities to run twos and manage the strike.
 
