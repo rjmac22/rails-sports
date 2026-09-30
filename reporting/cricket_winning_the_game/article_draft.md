@@ -1,6 +1,6 @@
 # What does it mean to win a game of cricket?
 
-To win a game of cricket, you need to score more runs than the other team.
+The simplest answer is that to win a game of cricket, you need to score more runs than the other team.
 
 That is the obvious answer. It is also why asking “What’s the score?” should tell you who is winning. A quick glance at the score on your phone can feel like enough to know how the game is going.
 
@@ -88,6 +88,8 @@ Three balls gone.
 
 West Indies were now trading at about 1.01 — roughly a 99 per cent implied chance.
 
+“It was not until they needed one off three that I knew the game was gone,” Stokes later said.
+
 Three deliveries earlier England had 19 runs to defend.
 
 Now they had one.
@@ -124,7 +126,7 @@ The betting market had begun the day giving India only about a 2.5 per cent impl
 
 Then Pant was out for 97. Hanuma Vihari came in and soon pulled his hamstring running between the wickets. Under normal circumstances, he later said, he would have retired hurt. But India were running out of alternatives.
 
-Pujara told him to hang on until tea. He did not make it there himself: Josh Hazlewood bowled him for 77. Ravichandran Ashwin came in next, already struggling with a painful back. Behind them was Ravindra Jadeja, his fractured thumb strapped up, preparing to bat if India became desperate enough to need him. As the injuries mounted, India’s chance of winning began to dissipate.
+Pujara told him to hang on until tea. He did not make it there himself: Josh Hazlewood bowled him for 77. Ravichandran Ashwin came in next, already struggling with a painful back. Behind them was Ravindra Jadeja, his fractured thumb strapped up, preparing to bat if India needed him. As the injuries mounted, India’s chance of winning began to dissipate.
 
 The problem changed.
 
@@ -136,7 +138,7 @@ When Ashwin joined Vihari, they knew they had roughly three hours of scheduled p
 
 Australia needed five wickets.
 
-Three hours is a long time when almost every delivery can end the match.
+Three hours is a long time when every delivery is another chance for Australia to take a wicket.
 
 Vihari could barely run. Ashwin was struggling with his back.
 
@@ -160,7 +162,7 @@ Ashwin defended. Vihari survived. Still no wicket.
 
 Eventually Ashwin broke the task down further. Vihari later remembered him saying they should take it ten balls at a time. Ten balls. Then another ten. After hours of concentration, even that became difficult.
 
-The final hour changed the problem again. Under the rules, at least 15 overs had to be bowled, and play would continue until both the required overs and the required time had been completed. Now the end became countable. In the Indian dressing room, they began counting deliveries.
+The final hour changed the problem again. Under the rules, at least 15 overs had to be bowled, and play would continue until both the required overs and the required time had been completed — unless the captains agreed there was no prospect of a result. Now the end became countable. In the Indian dressing room, they began counting deliveries.
 
 One gone. Another. Another.
 
