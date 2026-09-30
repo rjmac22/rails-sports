@@ -94,7 +94,7 @@ Three deliveries earlier England had 19 runs to defend.
 
 Now they had one.
 
-Brathwaite hit the fourth ball for six anyway.
+Brathwaite hit the fourth ball for six.
 
 West Indies were world champions.
 
