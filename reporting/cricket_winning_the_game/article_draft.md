@@ -152,7 +152,7 @@ From behind the stumps, Tim Paine started talking to Ashwin. He looked ahead to 
 
 Ashwin gave it straight back: “Just like we want to get you to India. It’ll be your last series.”
 
-The longer the wicket refused to come, the more Australia’s frustration showed. So the value of a dot ball had completely changed.
+The longer the wicket refused to come, the more Australia’s frustration showed. The value of a dot ball had completely changed.
 
 In Kolkata, a dot ball had hurt West Indies because one of their remaining scoring opportunities disappeared. Here, every ball survived took a little more time away from Australia.
 
