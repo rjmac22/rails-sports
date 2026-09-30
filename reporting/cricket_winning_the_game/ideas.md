@@ -513,3 +513,95 @@ Possible cases to investigate:
 - broadcasters influencing schedules, stoppages or competition design.
 
 The interesting story is not "money corrupts sport." It is how different rational objectives interact, conflict and reshape behaviour.
+
+## Idea: reconstruct extinct versions of sports
+
+### Trigger
+
+A discussion about the violence of 1970s NFL led backwards to the much more dangerous early game, especially the 1905 crisis and formations such as the flying wedge.
+
+Still photographs and written rules can tell us what early sport looked like, but they are poor at showing movement, spacing, timing and collision. A historically grounded AI/animation reconstruction could make obsolete versions of sports intelligible to a modern reader.
+
+### Core idea
+
+Take a documented rule set from a particular year, reconstruct what players could actually do under those rules, and then compare that game with the modern version.
+
+The point is not:
+
+> Look what AI can make.
+
+The point is:
+
+> What kind of game did these rules create?
+
+That gives a causal chain:
+
+`rules -> incentives -> rational tactics -> physical shape of the game -> injuries / spectacle -> rule change`
+
+### Strong first case: American football, 1905
+
+Reconstruct a short sequence from a 1905 game using contemporary rules, photographs, diagrams, newspaper descriptions and coaching manuals.
+
+Things worth showing:
+
+- the flying wedge and related mass formations;
+- how tightly players were packed together;
+- what the defence had to do to stop a mass rush;
+- the lack of modern protective equipment;
+- how little the play resembled modern spread-out football;
+- why catastrophic injuries were not simply random accidents but partly a consequence of the incentives created by the rules.
+
+Then show how the 1906 reforms altered the strategic problem and gradually changed the physical shape of the sport.
+
+### Solver experiment
+
+A stronger analytical experiment would be to give a solver or AI the 1905 rules without teaching it modern football strategy and ask it to maximise winning.
+
+Question:
+
+> Does it independently rediscover tactics resembling the flying wedge or other mass-momentum formations?
+
+If it does, that would support the idea that the brutality was not merely cultural. The old rules themselves rewarded dangerous tactics.
+
+This would connect directly to the wider Rails Sports interest in optimisation:
+
+`rule set -> objective function -> optimal strategy -> unintended consequence`
+
+### Other sports that could work
+
+This could become a recurring strand rather than a one-off.
+
+Possible candidates:
+
+- early association football under old offside and charging rules;
+- rugby before modern restrictions on scrums, mauls and dangerous play;
+- early basketball before modern dribbling and court conventions;
+- ice hockey before forward passing and modern protective rules;
+- cricket across underarm, roundarm and overarm eras, uncovered pitches and obsolete fielding/tactical conventions;
+- baseball under early pitching rules, dead-ball tactics and primitive fielding equipment;
+- bare-knuckle boxing under London Prize Ring rules.
+
+The test is whether the reconstruction reveals something that prose or a static photograph cannot.
+
+### Editorial rule
+
+Do not make this a novelty "AI recreates the past" feature.
+
+The reconstruction has to answer a real sports question:
+
+- Why did players use this tactic?
+- What behaviour did the old rules reward?
+- Why did administrators change the rules?
+- What did the rule change remove, create or accidentally encourage?
+- At what point does a sport become recognisably the modern game?
+
+### Reporting / reconstruction standards
+
+Any reconstruction should distinguish clearly between:
+
+- documented fact;
+- strong inference from rules and contemporary evidence;
+- uncertain interpretation;
+- invented visual detail needed to complete the scene.
+
+Use primary rules, contemporary photographs, newspaper accounts, coaching manuals and match reports wherever possible. The reconstruction should be an explanatory model, not fake archival footage.
