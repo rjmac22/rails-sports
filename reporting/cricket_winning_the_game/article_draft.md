@@ -160,7 +160,7 @@ The market reflected the shift. With about 30 overs remaining, an Australian win
 
 Ashwin defended. Vihari survived. Still no wicket.
 
-Eventually Ashwin broke the task down further. Vihari later remembered Ashwin telling him: “Let’s take it ten balls at a time.”
+At the other end, Vihari remembered Ashwin becoming animated. They were getting close to something special. Ashwin began talking to him from the non-striker’s end in Tamil: “Pathu pathu ball ah aadalaam” — “Let’s take it 10 balls at a time.”
 
 Ten balls. Then another ten. After hours of concentration, even that became difficult.
 
