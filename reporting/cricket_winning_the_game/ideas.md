@@ -973,3 +973,114 @@ That leads back into the officiating strand but from the player's side.
 A useful provocation to test rather than assume is:
 
 > If knowing the rules can decide a professional game, why is rule knowledge not trained and tested with the same seriousness as other skills?
+
+
+## Idea: use accounting and finance as investigative tools
+
+### Trigger
+
+The wider Rails Sports / Inside Rails work should not use mathematics merely to display mathematics. The same principle can apply to accounting and finance.
+
+The aim is not to write articles that read like AAT exercises or portfolio demonstrations.
+
+The aim is to ask an interesting real-world question and use accounting, financial analysis and commercial reasoning where they help discover the answer.
+
+### Core idea
+
+Use accounting in the same way the project uses statistics:
+
+`interesting question -> obtain accounts / financial data -> reconstruct what is happening -> calculate useful measures -> test explanations -> explain the consequence`
+
+The finished article should stand on its own for a reader. The finance skills are visible through the quality of the investigation rather than announced as the subject.
+
+### Questions this could answer
+
+Possible sports examples:
+
+- How does a racecourse actually make money?
+- Which parts of staging a race meeting are fixed costs and which change with attendance?
+- Does higher attendance necessarily make an event more profitable?
+- Why can a successful-looking sports organisation still lose cash?
+- What does promotion, relegation or qualification for a major competition change financially?
+- When is selling a star player financially rational even if it weakens the team?
+- How much extra revenue would a stadium expansion need to generate to cover its cost?
+- What is the real economic value of a sponsorship, media-rights or hospitality deal?
+- How exposed is a club or sporting business to one revenue stream?
+
+The same approach can extend outside sport where the case is more interesting or better suited to the available evidence.
+
+### Accounting / finance tools that may be useful
+
+Depending on the question:
+
+- profit and loss analysis;
+- balance-sheet analysis;
+- cash-flow analysis;
+- revenue mix;
+- gross and operating margins;
+- fixed versus variable costs;
+- contribution;
+- break-even analysis;
+- working capital;
+- liquidity;
+- debt and interest costs;
+- ratio and trend analysis;
+- budgets and variance;
+- scenario and sensitivity analysis;
+- unit economics;
+- return on investment;
+- financial-statement notes and disclosures.
+
+Use only the tools that help answer the question. Do not add complexity merely to demonstrate knowledge.
+
+### Where statistics and finance meet
+
+Some of the strongest investigations may require both.
+
+For example:
+
+> Does increasing racecourse attendance actually improve profitability?
+
+That could require:
+
+`attendance data -> estimate additional revenue -> separate fixed and marginal costs -> model scenarios -> test uncertainty -> explain the commercial consequence`
+
+The statistical question is:
+
+> What does the evidence suggest happens?
+
+The accounting / finance question is:
+
+> What does that change mean economically?
+
+### Portfolio consequence
+
+A useful secondary benefit is that these investigations can demonstrate real accounting and commercial-finance capability without turning the publication into a CV exercise.
+
+A strong piece could provide evidence of:
+
+- interpreting financial statements;
+- understanding how a business makes and uses money;
+- modelling costs, margins and scenarios;
+- handling data in Excel / Python;
+- identifying commercially meaningful drivers;
+- explaining financial results clearly to a non-specialist reader.
+
+The editorial priority remains the story and the answer.
+
+### Editorial rule
+
+Do not begin with:
+
+> Which accounting skill can I show?
+
+Begin with:
+
+> What do we genuinely want to know?
+
+Then choose the mathematics, statistics, accounting or finance needed to answer it.
+
+A useful project principle is:
+
+> The question determines the tool.
+
