@@ -1084,3 +1084,155 @@ A useful project principle is:
 
 > The question determines the tool.
 
+## Research strand: weird rules, loopholes and the evolution of sports rules
+
+### Trigger
+
+The Djokovic–Zverev Beijing hindrance controversy raised a broader question.
+
+The interesting part is not merely that a sport has an obscure or strange rule. It is what problem the rule is trying to solve, what incentives it creates, how competitors respond to it, and what happens when an edge case exposes a flaw.
+
+This could become a systematic rules-history strand across many sports rather than a collection of novelty "crazy rules."
+
+### Core research question
+
+For each case, ask:
+
+> What problem was this rule trying to solve, what behaviour did it accidentally create, and what happened next?
+
+A useful causal chain is:
+
+`problem -> rule -> incentives -> exploitation / edge case -> consequence -> amendment -> new incentives`
+
+The aim is to treat rules as part of the design of the sport rather than background administration.
+
+### Djokovic–Zverev worked example
+
+In Beijing in 2026, Alexander Zverev complained about an LED advertising-board change during a point against Novak Djokovic.
+
+The important design problem is the timing of the claim.
+
+If a player can notice a distraction, continue the rally, discover that they lost, and only then seek a replay, the procedure can create a one-sided option:
+
+- win the rally -> accept the result;
+- lose the rally -> invoke the earlier hindrance and seek a replay.
+
+That suggests a first-principles question:
+
+> At what point should a player's right to claim hindrance expire?
+
+Possible design principle to investigate:
+
+`external interference -> player must stop promptly -> review establishes whether interference occurred -> otherwise continuation accepts the point`
+
+Do not assume this is or should be the governing rule without checking the applicable ATP rule and review procedure.
+
+### Families of cases to search
+
+Search sports history for cases involving:
+
+- loopholes that players or teams discovered;
+- rules changed after one famous incident;
+- rules that created perverse incentives;
+- competitors deliberately losing, conceding, wasting time or manipulating qualification because the rules made it rational;
+- obsolete rules that sound absurd now but made sense under older equipment or conditions;
+- technology outrunning the rulebook;
+- players who knew an obscure rule better than officials or opponents;
+- officials correctly applying a rule that spectators and competitors misunderstood;
+- rules that exist because somebody actually attempted the exploit they are designed to prevent;
+- different sports independently solving the same design problem in different ways.
+
+### Cross-sport comparisons
+
+Look for common problems with different solutions.
+
+Examples to investigate include:
+
+- tennis hindrance and replay timing;
+- football advantage;
+- rugby advantage;
+- ice-hockey delayed penalties;
+- cricket reviews, dead-ball rules and appeals;
+- baseball's infield-fly rule and appeal plays;
+- basketball shot-clock and goaltending rules;
+- snooker's foul-and-a-miss rule;
+- golf self-reporting and penalty procedures;
+- motorsport technical wording and retrospective stewarding;
+- qualification formats that accidentally make losing or drawing strategically useful.
+
+The interesting question is not which sport has the strangest wording. It is whether sports converge on similar solutions when they face the same incentive problem.
+
+### Historical cases worth hunting first
+
+Potential starting families include:
+
+- cricket: underarm bowling, Bodyline and other rules changed after tactics exposed a weakness;
+- football: the back-pass rule, time-wasting rules and qualification / own-goal oddities;
+- basketball: the shot clock, goaltending and tactics that forced scoring-rule changes;
+- ice hockey: penalty rules altered after teams found profitable exploits;
+- baseball: rules whose purpose only becomes clear when the exploit they prevent is reconstructed;
+- golf: cases where self-policing and retrospective penalties produce unusual incentives;
+- tennis: hindrance, medical treatment, time rules and review procedures;
+- rugby: repeated rewrites of breakdown, kicking and safety laws;
+- motorsport: teams complying with the literal wording while defeating the intended technical rule.
+
+### Data structure
+
+For each case, record at minimum:
+
+- sport;
+- competition;
+- date / era;
+- old rule;
+- problem the rule was intended to solve;
+- incident or exploit;
+- what the competitor was trying to achieve;
+- incentive created by the rule;
+- immediate consequence;
+- governing-body response;
+- revised rule;
+- whether the revision solved the problem;
+- any new exploit or unintended consequence;
+- primary rules source;
+- contemporary reporting / footage;
+- confidence level for any inferred intent.
+
+This could eventually support queries such as:
+
+- every case where continuing play forfeits an appeal;
+- every rule introduced after deliberate exploitation;
+- every case where losing became rational;
+- every sport with an advantage principle;
+- every case where technology forced a procedural rewrite.
+
+### Analytical angle
+
+The stronger long-term question is whether rule failures can be classified.
+
+Possible categories:
+
+1. **Timing failure** — a competitor can wait to see the outcome before exercising a right.
+2. **Information asymmetry** — one side knows something the official or opponent cannot verify immediately.
+3. **Perverse incentive** — the rule rewards behaviour the sport does not actually want.
+4. **Literal-versus-purpose exploit** — competitors obey the words while defeating the intent.
+5. **State-definition failure** — the rules do not clearly specify when one game state becomes another.
+6. **Technology mismatch** — new measurement or replay capability exposes assumptions written for human-only officiating.
+7. **Qualification / tournament-design failure** — the competition format changes what counts as rational winning behaviour.
+8. **Enforcement failure** — the written rule is reasonable but cannot be applied consistently in real time.
+
+The eventual article series could therefore move beyond anecdotes into a broader question:
+
+> Why do sports governing bodies keep making the same kinds of rule-design mistakes?
+
+### Scope guardrail
+
+Do not attempt to catalogue all of sports history before publishing anything.
+
+Start with roughly **50 consequential cases across 10–15 sports**, enough to reveal recurring patterns and produce several publishable pieces.
+
+The selection test is consequence, not weirdness:
+
+> Did the rule change behaviour, decide an important contest, expose a loophole, force a governing-body response, or reveal something general about how sports are designed?
+
+That keeps this from becoming an infinite trivia-collection project.
+
