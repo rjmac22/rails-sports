@@ -1,5 +1,7 @@
 # rails-sports
 
+**Quick file navigation:** [Repository map (human + AI)](REPOSITORY_MAP.md).
+
 Sports analysis, modelling and insight built around questions that supporters, players, coaches and managers actually care about.
 
 ## Project approach
