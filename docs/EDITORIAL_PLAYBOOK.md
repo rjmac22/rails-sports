@@ -57,3 +57,12 @@ Treat the finished article as canonical copy and adapt the publication wrapper t
 A web article may need a display headline, SEO/search title, standfirst or description, social-sharing text, links, images and metadata. These elements may differ when the medium gives them genuinely different jobs, but do not create variants merely for the sake of having variants.
 
 Do not force the body copy to carry search or distribution functions that can be handled cleanly by metadata or presentation furniture. Preserve the article's voice while making its subject clear to search engines, feeds, social previews and mobile readers.
+
+
+## Link policy
+
+Links must have a specific reader or publication job: explanation, context, attribution, licence compliance or navigation to genuinely related material.
+
+Do not hyperlink every factual claim. Keep the reading experience clean and place the detailed evidential trail in the research notebook or source notes unless the reader benefits from seeing a source immediately.
+
+Use descriptive anchor text that tells the reader what the destination is. Avoid generic wording such as "click here" or "read more".
