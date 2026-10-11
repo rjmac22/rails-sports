@@ -48,3 +48,12 @@ For *What does it mean to win a game of cricket?*:
 ## Updating this playbook
 
 Add a rule only when article work reveals a reusable editorial principle. Keep article-specific decisions in the article's reporting files unless they generalise to future Rails Sports work.
+
+
+## Digital packaging
+
+Treat the finished article as canonical copy and adapt the publication wrapper to the channel.
+
+A web article may need a display headline, SEO/search title, standfirst or description, social-sharing text, links, images and metadata. These elements may differ when the medium gives them genuinely different jobs, but do not create variants merely for the sake of having variants.
+
+Do not force the body copy to carry search or distribution functions that can be handled cleanly by metadata or presentation furniture. Preserve the article's voice while making its subject clear to search engines, feeds, social previews and mobile readers.
