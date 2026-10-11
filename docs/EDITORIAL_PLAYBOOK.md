@@ -87,3 +87,12 @@ Use tags to classify content for retrieval, related-content systems and archive 
 Choose tags that are accurate, specific and reusable across multiple pieces. Avoid near-duplicates, redundant variants and tags that merely repeat an obvious section/category label.
 
 Keep a controlled vocabulary where practical. Add a new tag only when it creates a useful distinction for future discovery or grouping.
+
+
+## Social promotion
+
+Treat social copy as a compact version of the article's real editorial promise, not as a separate clickbait layer.
+
+Social text should be concise, platform-appropriate and accurate. It should surface the strongest genuine question, tension, finding or consequence in the piece without overstating the evidence or promising something the article does not deliver.
+
+Write social copy after the article and its main presentation are settled. Different platforms may need different wording, but the underlying promise must remain the same.
