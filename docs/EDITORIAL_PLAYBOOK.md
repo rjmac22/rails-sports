@@ -104,3 +104,10 @@ Write social copy after the article and its main presentation are settled. Diffe
 Before publication, run a separate mechanical proof after substantive editing is finished. Check spelling, grammar, names, titles, place names, figures, calculations, attributions, punctuation and house-style consistency.
 
 This is not another rewriting pass. Correct objective errors and inconsistencies; do not reopen settled prose merely because alternative phrasing is possible.
+
+
+## Headline principle
+
+A headline must do two jobs: tell the reader what the piece is about and give the right reader a reason to enter it.
+
+For Rails Sports features, accuracy and clarity come before cleverness. Wordplay is optional and should never obscure the article's real subject or promise. The display headline and search/SEO title may differ when they have genuinely different jobs.
