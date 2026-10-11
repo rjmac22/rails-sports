@@ -101,6 +101,14 @@ Detailed extraction and methodology: [`betfair_market_evidence.md`](betfair_mark
 |---|---|---|---|---|---|
 |  |  |  |  |  |  |
 
+## Sydney delivery-countdown verification
+
+| Source | Date/accessed | What it establishes | Useful passage/detail | Status |
+|---|---|---|---|---|
+| [Reuters — India captain Rahane savours draw that felt like victory](https://www.reuters.com/world/india/cricket-india-captain-rahane-savours-draw-that-felt-like-victory-2021-01-11/) | 11 Jan 2021; checked 11 Oct 2026 | India were explicitly counting down deliveries late in the final session | Rahane: "We were actually counting down deliveries in the last five-six overs." | Verified contemporary direct quote |
+| [Indian Express / PTI — SCG draw is as big as win](https://indianexpress.com/article/sports/cricket/scg-draw-is-as-big-as-win-hanuma-viharis-knock-was-more-special-to-me-than-his-century-ajinkya-rahane-7142105/) | 11 Jan 2021; checked 11 Oct 2026 | Same post-match press conference; gives the fuller team message | Rahane says the tea message was one over at a time and that in the last five or six overs "we were counting each and every delivery" | Verified press-conference report |
+| [Indian Express — Hanuma Vihari interview](https://indianexpress.com/article/sports/cricket/hanuma-vihari-interview-the-way-i-batted-in-sydney-sums-up-my-career-in-a-nutshell-7155216/) | 21 Jan 2021; checked 11 Oct 2026 | Batter-level version of the same shrinking survival task | Vihari says he and Ashwin discussed surviving three hours; with eight overs left Ashwin said "Let's take it 10 balls at a time." | Verified first-person interview |
+
 ## Claims requiring explicit support
 
 - [x] Formal definition of winning, tying and drawing established from MCC Law 16.
@@ -115,6 +123,7 @@ Detailed extraction and methodology: [`betfair_market_evidence.md`](betfair_mark
 - [x] Sydney final-hour minimum-over rule established from ICC Test playing conditions.
 - [x] Sydney Paine/Ashwin Gabba exchange and Gabba's unbeaten-since-1988 context supported by contemporary reporting.
 - [x] Sydney draw being accepted with one over remaining supported by contemporary match reporting.
+- [x] Sydney late-session delivery countdown established from Rahane's post-match press conference, with Vihari's first-person account independently supporting a ball-by-ball survival framing.
 - [x] Leach's 92 as nightwatchman and specialist-spin role supported by contemporary/retrospective BBC reporting.
 - [x] Stokes's successful final over against Sri Lanka eight days before the 2016 final, including the yorker plan, supported by contemporary BBC/Guardian reporting.
 - [x] Exact final-over requirement and delivery sequence in the 2016 World T20 final.
