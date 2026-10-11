@@ -66,3 +66,15 @@ Links must have a specific reader or publication job: explanation, context, attr
 Do not hyperlink every factual claim. Keep the reading experience clean and place the detailed evidential trail in the research notebook or source notes unless the reader benefits from seeing a source immediately.
 
 Use descriptive anchor text that tells the reader what the destination is. Avoid generic wording such as "click here" or "read more".
+
+
+## Media asset policy
+
+Images, video, audio and other embedded media must earn their place editorially and be legally usable.
+
+Before using any media asset, check both:
+
+1. **Editorial value:** does it add information, evidence, atmosphere, explanation or understanding rather than merely decorate the page?
+2. **Rights and publication status:** is there a clear basis for publishing or embedding it, and are any attribution, licence or platform requirements satisfied?
+
+Do not shortlist attractive assets for publication until their usability has been checked. Prefer media that helps the reader see or understand something the prose alone cannot show as efficiently.
