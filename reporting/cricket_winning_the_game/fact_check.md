@@ -19,9 +19,7 @@ The following categories were checked against the reporting files and source led
 
 No body-copy changes are required for these points on factual grounds.
 
-## Issue requiring editorial decision
-
-### Sydney: "In the Indian dressing room, they began counting deliveries."
+## Re-check: Sydney delivery countdown
 
 Current copy:
 
@@ -29,16 +27,32 @@ Current copy:
 >
 > One gone. Another. Another.
 
-The reporting record supports the broader idea that the survival task became countable:
+An initial production check incorrectly flagged the delivery-counting claim as unsupported. A deeper source search found direct contemporary support from India captain Ajinkya Rahane's post-match press conference.
 
-- Hanuma Vihari's first-person account says he and Ravichandran Ashwin discussed surviving roughly three hours and later reduced the task to blocks of ten balls: "Pathu pathu ball ah aadalaam" / "Let's take it 10 balls at a time."
-- The formal final-hour rules made the remaining playing opportunity partly countable in overs and deliveries.
+Rahane said:
 
-However, the current reporting file does **not** establish that *the Indian dressing room* itself "began counting deliveries". A separate contemporary account describes the dressing-room message as not focusing on the remaining time/overs, which makes the specific attribution unsafe.
+> "We were actually counting down deliveries in the last five-six overs."
 
-**Production recommendation:** remove the unsupported dressing-room attribution. Preserve the countability idea through the already sourced Vihari/Ashwin ten-ball account and the final-hour rule.
+Contemporary PTI reports of the same press conference give the fuller version:
 
-No change has been made pending editor approval.
+> "The message during tea break was one over at a time, let's not think too far ahead and in the last five or six overs, we were counting each and every delivery."
+
+This is independently consistent with Hanuma Vihari's first-person account. Vihari said that when Ravichandran Ashwin joined him they discussed surviving roughly three hours; with eight overs still left Ashwin then reduced the task to blocks of ten balls: "Pathu pathu ball ah aadalaam" / "Let's take it 10 balls at a time."
+
+### Conclusion
+
+**The central claim that India began counting down deliveries is directly supported and should not be deleted.**
+
+The phrase **"In the Indian dressing room"** is a small location inference rather than wording directly contained in Rahane's quote. Rahane had already been dismissed and was speaking collectively about what "we" were doing while Ashwin and Vihari were batting. BCCI footage also documents the team watching and reacting from the dressing-room area at the finish. The location is therefore plausible and not contradicted by the reporting, but the strongest directly sourced wording would be:
+
+> India began counting down the deliveries.
+
+No body-copy change is required unless the editor prefers to remove that small inferential location detail.
+
+Sources added to the ledger:
+- Reuters, 11 January 2021, reporting Rahane's post-match comments.
+- PTI / Indian Express, 11 January 2021, reporting the virtual post-match press conference.
+- Hanuma Vihari interview, Indian Express, 21 January 2021.
 
 ## Notes
 
