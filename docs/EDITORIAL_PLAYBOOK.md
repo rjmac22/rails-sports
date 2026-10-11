@@ -78,3 +78,12 @@ Before using any media asset, check both:
 2. **Rights and publication status:** is there a clear basis for publishing or embedding it, and are any attribution, licence or platform requirements satisfied?
 
 Do not shortlist attractive assets for publication until their usability has been checked. Prefer media that helps the reader see or understand something the prose alone cannot show as efficiently.
+
+
+## Tags and metadata
+
+Use tags to classify content for retrieval, related-content systems and archive management, not as a second headline or a bag of vague keywords.
+
+Choose tags that are accurate, specific and reusable across multiple pieces. Avoid near-duplicates, redundant variants and tags that merely repeat an obvious section/category label.
+
+Keep a controlled vocabulary where practical. Add a new tag only when it creates a useful distinction for future discovery or grouping.
