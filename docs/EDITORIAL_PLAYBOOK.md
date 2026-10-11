@@ -28,11 +28,12 @@ Presentation furniture remains provisional after body copy is locked: headline, 
 4. **Check house-style precedent.** The first published Rails Sports piece is the baseline. Keep an existing convention when it works; change it only for a stated reason.
 5. **Read once as a reader.** Read the whole piece at normal pace before editing.
 6. **Check structure before sentences.** Ask whether the article has a clear narrative/argument thread, whether sections follow logically and whether transitions do their job.
-7. **Do not change copy merely to show that it has been edited.** A structural pass can legitimately end in PASS — no changes required.
-8. **Run the production fact-check.** Verify names, dates, scores, quotations, figures, roles, attributions and other checkable assertions against the reporting record and reliable sources. Do not restart the research phase unless a check exposes a problem.
-9. **Resolve consistency and house-style issues.** Add recurring decisions to `editorial/house-style.md`.
-10. **Build the publication layer only after the copy is sound.** Then work on headline, standfirst, images, captions, charts, pull quotes, source presentation, links, metadata, SEO and layout.
-11. **Final proof.** Check the complete published object, not just the prose: body copy, furniture, links, labels, charts, captions, credits, metadata and mobile presentation.
+7. **Check the intro as its own production step.** Confirm that the opening gives the intended reader a reason to continue, accurately frames the article's real promise and does not promise a different piece from the one that follows.
+8. **Do not change copy merely to show that it has been edited.** A structural pass can legitimately end in PASS — no changes required.
+9. **Run the production fact-check.** Verify names, dates, scores, quotations, figures, roles, attributions and other checkable assertions against the reporting record and reliable sources. Do not restart the research phase unless a check exposes a problem.
+10. **Resolve consistency and house-style issues.** Add recurring decisions to `editorial/house-style.md`.
+11. **Build the publication layer only after the copy is sound.** Then work on headline, standfirst, images, captions, charts, pull quotes, source presentation, links, metadata, SEO and layout.
+12. **Final proof.** Check the complete published object, not just the prose: body copy, furniture, links, labels, charts, captions, credits, metadata and mobile presentation.
 
 ## Current article lessons
 
@@ -96,3 +97,10 @@ Treat social copy as a compact version of the article's real editorial promise, 
 Social text should be concise, platform-appropriate and accurate. It should surface the strongest genuine question, tension, finding or consequence in the piece without overstating the evidence or promising something the article does not deliver.
 
 Write social copy after the article and its main presentation are settled. Different platforms may need different wording, but the underlying promise must remain the same.
+
+
+## Mechanical proof
+
+Before publication, run a separate mechanical proof after substantive editing is finished. Check spelling, grammar, names, titles, place names, figures, calculations, attributions, punctuation and house-style consistency.
+
+This is not another rewriting pass. Correct objective errors and inconsistencies; do not reopen settled prose merely because alternative phrasing is possible.
