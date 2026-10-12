@@ -111,3 +111,5 @@ This is not another rewriting pass. Correct objective errors and inconsistencies
 A headline must do two jobs: tell the reader what the piece is about and give the right reader a reason to enter it.
 
 For Rails Sports features, accuracy and clarity come before cleverness. Wordplay is optional and should never obscure the article's real subject or promise. The display headline and search/SEO title may differ when they have genuinely different jobs.
+
+Do not overstate the article's evidence in the headline, standfirst, social copy or other presentation furniture. Packaging may sharpen the promise, but it must not make the claim stronger than the reporting supports.
