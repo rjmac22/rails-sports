@@ -6,9 +6,7 @@ That is the obvious answer. It is also why asking “What’s the score?” shou
 
 But it does not tell us much about what a team actually has to do to win — or, sometimes, not lose.
 
-## Eden Gardens, Kolkata — 3 April 2016
-
-### England v West Indies, 2016 ICC World Twenty20 Final
+## England v West Indies — Kolkata, 2016
 
 England batted first and scored 155 for nine.
 
@@ -100,9 +98,7 @@ For West Indies, the final over is remembered as four sixes.
 
 For Stokes, it was four chances to win a World Cup disappearing one after another.
 
-## Sydney Cricket Ground, Sydney — 7–11 January 2021
-
-### Australia v India, Third Test — Border-Gavaskar Trophy
+## Australia v India — Sydney, 2021
 
 The series was level at 1–1. India had recovered from being bowled out for 36 in Adelaide by winning the second Test in Melbourne.
 
@@ -168,9 +164,7 @@ India had survived.
 
 Rahane later described it as being as good as winning a Test match.
 
-## Headingley, Leeds — 22–25 August 2019
-
-### England v Australia, Third Ashes Test
+## England v Australia — Headingley, 2019
 
 Stuart Broad was out. The last man in was Jack Leach. He was a specialist left-arm spin bowler. That did not mean he could not bat. Earlier that summer he had made 92 as a nightwatchman. Batting just was not his main role for England.
 
