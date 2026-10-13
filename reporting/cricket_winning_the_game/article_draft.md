@@ -1,5 +1,7 @@
 # Why the Score Doesn’t Always Tell You Who’s Winning in Cricket
 
+*Three famous matches. Three very different situations. Why the scoreboard doesn't always tell the whole story.*
+
 The simplest answer is that to win a game of cricket, you need to score more runs than the other team.
 
 That is the obvious answer. It is also why asking “What’s the score?” should tell you who is winning. A quick glance at the score on your phone can feel like enough to know how the game is going.
