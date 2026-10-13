@@ -1,4 +1,4 @@
-# What does it mean to win a game of cricket?
+# Why the Score Doesn’t Always Tell You Who’s Winning in Cricket
 
 The simplest answer is that to win a game of cricket, you need to score more runs than the other team.
 
