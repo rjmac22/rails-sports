@@ -74,3 +74,24 @@ If the rule is sufficiently important and data permit a follow-up:
 **Possible examples to investigate, not pre-selected conclusions:** 2025 Monaco GP compulsory two stops and tactical backing-up; NFL dynamic kickoff revisions and touchback incentives; football's goalkeeper eight-second holding rule; rugby union's 20-minute red-card trial. Verify dates, official reasoning and outcomes individually if selected. The historical 1992 football back-pass rule is a separate data-dependent retrospective idea (was time-wasting reduced, and did play speed up?).
 
 **Guardrails:** Do not presume every rule change is solving a real problem, that unintended effects are automatically bad, or that an observed after-change movement was caused by the rule. Report uncertainty and conflicting stakeholders fairly. **A good discovery may be that the change worked, failed, had little effect, or addressed the wrong question entirely.**
+
+---
+
+## Bad sports commentary — does it help viewers understand the game?
+
+**Status:** Candidate article idea, not yet selected. Origin: viewer's frustration with misleading claims and MotoGP commentators talking very fast, loudly and over each other.
+
+**Core question:** What does commentary add for someone who can already see the action? When does it inform, mislead or overwhelm the viewer?
+
+**Two separate problems to investigate:**
+
+1. **Analytical/factual quality:** hindsight treated as foresight; outcome bias (successful tactic = brilliant, unsuccessful = stupid); speculative mind-reading of players; misleading statistics without denominators or context; stock clichés presented as explanations; confident but incorrect rules or strategy claims; simply narrating visible action without adding information.
+2. **Delivery and attention:** speech rate, excessive volume or intensity, constant talking, overlapping commentators, interruptions, and whether the broadcast leaves space for pictures and natural sound. MotoGP commentary was raised as a possible case to *test*, not an established finding.
+
+**Possible manageable study:** Select one short, accessible segment of a race or match. Transcribe commentary with timestamps; watch the footage; annotate (a) information visible without commentary, (b) genuinely new and useful context, (c) testable factual assertions, (d) interpretation/speculation, (e) errors or unsupported assertions. For the delivery question, record speaking time, approximate words per minute, and overlapping speech. Optionally compare viewing with the original audio and with commentary muted, recognising that an individual reaction is not evidence of average audience effects.
+
+**Interesting comparisons:** TV versus radio (radio *must* describe what a listener cannot see); expert colour analysis versus play-by-play; live uncertainty versus hindsight; quiet versus high-energy sports and exciting moments versus routine phases.
+
+**Potential angle:** *Commentary that sounds knowledgeable is not necessarily commentary that makes a viewer more knowledgeable.* Avoid a mere blooper compilation or a personal attack on commentators. Distinguish factual errors from subjective taste, excitement or legitimately different audience needs; do not assume that faster, louder commentary is bad for everyone.
+
+**Research guardrails:** Make any criticism specific, check full context and official rules, quote brief excerpts accurately, and take care with audiovisual rights. Start with a contained clip and a clear question; avoid building a vast cross-sport commentary database.
