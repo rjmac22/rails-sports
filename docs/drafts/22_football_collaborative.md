@@ -20,4 +20,10 @@ By the nineteenth century, Britain's public schools had developed their own vers
 
 ## Next to develop together
 
-Next: what players did after school; how early adult clubs formed and organised play. FA returns near the end. This opening deliberately presents the familiar simplified story and is not a literal historical claim.
+Next: cover the full variety of why people formed football clubs (enjoyment, carrying on school games, cricket winter fitness, social/workplace/church groups, charity, local newcomers discovering a sport). Show that informal pick-up games and serious clubs with written rules could both function happily without a governing body. Then outside opponents introduce potential incompatibilities. FA returns near the end. This opening deliberately presents the familiar simplified story and is not a literal historical claim.
+
+### Agreed illustration to use (placement/wording still to edit together)
+
+**Pub pool analogy, proposed for the transition to negotiating matches with outsiders:** Friends play pool together down the pub under their shared, half-remembered local rules. Nobody needs to check every rule; they're having fun and aren't good enough to worry about every detail. Then a stranger joins and asks whether a foul means two shots, whether you can play backwards, and so on. Everyone groans, and they might agree to use an official code just to get on with the game. **They have agreed to a common code for convenience, not necessarily because they prefer it.** If one rule matters to them, they might refuse. Keep it vivid/brief, not a lecture. This is a *modern analogy*, not historical evidence of how any particular Victorian club behaved.
+
+**Do not treat this note as approved finished article wording.**
