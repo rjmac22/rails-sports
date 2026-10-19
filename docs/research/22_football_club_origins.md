@@ -91,3 +91,115 @@ The categories above are **not** one inevitable progression and are **not** repr
 - Liverpool: https://www.liverpoolfc.com/info/how-liverpool-fc-was-founded-1892?hl=en-GB
 
 **Editorial discipline:** This is research, not an article outline. Follow the problems and the evidence. At each point ask **'So what?'** and **'Where's the consequence?'** No models or article premises unless genuine discoveries require them.
+
+
+---
+
+## First comparative pass: What did clubs do, and why did anyone need one? (19 October 2026)
+
+**Scope:** Early football groups in Edinburgh, Cambridge, Sheffield, Blackheath, Barnes, Hallam, Richmond and Melbourne, broadly 1824–1863. This pass is about participants, founding motives, coordination, costs, membership and operations **before** attempting to explain associations, leagues or professionalism. Several used games distinct from modern association football. Do not conflate their codes or assume any single teleology.
+
+**Direct research finding:** It was possible to organise football with no formal club, and possible to create a club without controlling every match members played. The useful distinction is between the **activity** (people play), a **team** (a group representing itself for a match), and a **membership institution** (ongoing administration, resources, decision rights, subscriptions and potentially a continuing identity). Actual people might slide between these rather than consciously choosing a legal structure.
+
+### Case A — John Hope's Edinburgh Foot-Ball Club (1824–1841)
+
+**Who/why:** Student lawyer John Hope and members, many affluent young men connected via educational and professional networks, organised sustained football recreation. Contemporary membership books and accounts demonstrate continuing activity rather than a modern association-football code.
+
+**What actually happened:** Collected subscriptions; procured balls, bladders, leather casings and goal markers; leased grounds; paid someone to assist in setup; retained 1824–25 and 1831–32 member lists. Particularly relevant to the attendance problem: Hope **categorised members according to which days they could attend**, regulating numbers ahead of games. A handwritten note on playing rules from **1833** survives; earlier shorthand saying the rules were entirely unknown is too strong, but the records do not justify reconstructing modern soccer.
+
+**Mechanism:** Membership network + pooled money + scheduling + equipment management made recurring recreation possible. We have a documented response to availability, **not** evidence of mandatory attendance or penalties for no-shows.
+
+**Evidence:** [Scottish Football Museum, Scotland's Football Origins](https://www.scottishfootballmuseum.org.uk/football-for-all/scotlands-football-origins/) (1824 entry); [National Records of Scotland archive showcase](https://blog.nrscotland.gov.uk/2018/04/09/trailblazers-the-worlds-first-football-club-with-john-hutchinson-andy-mitchell/). The detailed archives GD253 are held by NRS; not all primary material is fully reproduced online.
+
+### Case B — Cambridge football-playing students (1840s–1863)
+
+**Who/why:** Students accustomed to different school forms of football wanted to play with others at Cambridge. A practical difficulty was differing conceptions of permissible handling, offside, physical contact, etc.
+
+**What actually happened:** An 1848 Cambridge compromise rule set is described in an **1897 retrospective letter**; the original 1848 code has **not survived**. A later printed university code probably dates to about 1856, and a revised Cambridge code from 1863 survives. This is good evidence of local coordination over the *game*, but not enough to assert exactly how a particular 1848 session worked or that everyone adopted the same code.
+
+**Mechanism:** Agreement on a play code can solve an activity-level problem without an external governing body. Do not treat 1848 as the undisputed invention of association football.
+
+**Evidence:** [Cambridge University Library Special Collections](https://specialcollections-blog.lib.cam.ac.uk/?p=5891); [Sheffield club archival catalogue, discussion of Cambridge rules](https://www.sothebys.com/en/auctions/ecatalogue/2011/english-literature-history-childrens-books-illustrations-l11404/lot.10.html).
+
+### Case C — Sheffield FC (1857–1859)
+
+**Who/why:** A group of educated Sheffield professional men (solicitors, manufacturers, merchants, doctors) wanted regular football play and sporting/social activities. Prest had links to cricket, but the contemporary files do **not** establish that Sheffield FC's sole founding purpose was off-season cricket training; later 1907 reminiscences emphasise lack of opportunities for ex-school men to keep playing in leisure time.
+
+**What actually happened:** Club had approximately 62 members by the end of its first year, subscriptions, officers, committee, sports day and prizes, audited accounts, 6 footballs costing £2 6s, beer and other expenditure. Football initially played internally, with various team divisions; games were not necessarily eleven-a-side. Minute books distinguish **club governance rules** from **laws of the game** and show debate and revisions at October 1858 meetings. 1859 printed code circulated to members.
+
+**Mechanism:** A continuing body can acquire shared property, organise members, cover costs and enact decisions; creating such a body did not require existing opponents or competitions. Do not jump from 'formed club' to 'needed an interclub league'.
+
+**Evidence:** [Sotheby's 2011 catalogue summarising original minutes, account books and 1859 printings](https://www.sothebys.com/en/auctions/ecatalogue/2011/english-literature-history-childrens-books-illustrations-l11404/lot.10.html); [Sotheby's 2021 1859 rules pamphlet](https://www.sothebys.com/en/buy/auction/2021/books-and-manuscripts-19th-and-20th-century/sheffield-football-club-rules-regulations-laws).
+
+### Case D — Blackheath (1858–1862)
+
+**Who/why:** Former pupils wanted to continue the rugby-like game they played at Blackheath Proprietary School.
+
+**What actually happened:** The club's history explicitly says they were **not a formal club with officers in 1858**; they initially played ad hoc and had no secretary or treasurer until 1862. They attempted to field an ex-pupils side, but did not have enough former pupils available and repeatedly brought in outsiders. They formally opened participation, calling themselves Blackheath FC from the 1862–63 season.
+
+**Mechanism:** Solve thin attendance by **broadening recruitment eligibility**, rather than paying players or establishing a competition. Informal playing group preceded formally constituted club. Precise foundation date is contested because surviving early written records are thin.
+
+**Evidence:** [Blackheath Rugby's detailed club history, admits dates uncertain](https://blackheathrugby.co.uk/our-history/). Retrospective institutional account; avoid attributing undocumented motives to particular members.
+
+### Case E — Barnes FC (1862): club as infrastructure rather than compulsory team
+
+**Who/why:** Ebenezer Cobb Morley, an all-round sportsman who joined the London Rowing Club in Barnes, founded Barnes FC with friends and rowing colleagues. Later records and surviving 1862 club rules permit unusually direct examination of operating arrangements.
+
+**What actually happened:** Annual **1 shilling** dues; captain, secretary/treasurer and 7-person committee; admission on introduction by two members subject to committee approval; **friends of members and any Barnes parish resident allowed to play unless the captain forbade it**; Barnes Green named as place for play; season October to April; **balls and club property held at White Hart public house and any four members permitted to borrow them** subject to club rules. Fine of **one shilling for a wilful rule violation**, **not** a documented no-show fine. Disputes decided by captain with appeal to committee. Playing laws appear separately from club governance rules.
+
+**Mechanism:** The formal club pooled and managed resources and granted access, while small groups could play without assembling an official representative team every time. Inclusive guest rule broadened prospective participant pool. Do not assume those rules were rigorously enforced or that attendance was the reason they were adopted.
+
+**Evidence:** [Transcription of Barnes club's 1862 rules](https://en.wikisource.org/wiki/Rules_of_Barnes_Football_Club_%281862%29) (Wikisource credits a 1951 printed reproduction, G.W. Keeton, *The Soccer Club Secretary*, pp. 162–163); [Barnes club history](https://barnesfootballclub.co.uk/club-info/clubhistory); [Hull History Centre: Morley's rowing connections](https://hullhistorycentre.org.uk/research/research-guides/ebenezer-cobb-morley.aspx). The early rules' provenance is a transcription of a secondary printing; ideally locate 1862 original before publishing a verbatim claim.
+
+### Case F — Richmond group, 1863: football without a permanent club
+
+**Who/why:** A temporary group, with many participants training for army careers and unlikely to stay in Richmond.
+
+**What actually happened:** Edwin H. Ash explained in a letter of 28 November 1863 (published contemporaneously in *The Sporting Life*) that the group was **not an organised club**, but met during the winter to play a few matches. He judged forming a permanent club inappropriate for a group that might disappear after the season, although they could still adopt other people's playing rules for convenience.
+
+**Mechanism:** A recurring activity or temporary representative 'team' does not require a lasting membership institution when anticipated lifespan is short. **Counterexample to treating formal clubs as necessary or as the only rational solution.**
+
+**Evidence:** [*The Sporting Life*, 1863, fourth meeting report, letter from Edwin H. Ash](https://en.wikisource.org/wiki/The_Sporting_Life/1863/Football_Association_Meeting) (contemporary newspaper report, later transcription). Mention of the meeting is source provenance, **not** a reason to advance the investigation to FA governance.
+
+### Case G — Hallam FC (1860): branch of a pre-existing sporting organisation
+
+**Who/why:** Hallam Cricket Club had over 300 members by the 1850s. According to its later official history, some wanted a less exclusive football-playing alternative to Sheffield FC. It began football in 1860 using facilities associated with the cricket club.
+
+**What happened:** Members of an existing recreation organisation organised a football activity; played local opposition. The founding claim should be treated as a retrospective club account. The cause and terms of the first fixture need confirmation with contemporary records before stronger causal claims.
+
+**Mechanism:** Organisations can **add** a football section without first building an independent institution from scratch.
+
+**Evidence:** [Hallam FC historical account](https://hallamfc.co.uk/our-history/); [Sotheby's Sheffield archive contains 1907 Shaw letters — retrospective](https://www.sothebys.com/en/auctions/ecatalogue/2011/english-literature-history-childrens-books-illustrations-l11404/lot.10.html).
+
+### Case H — Melbourne footballers (1858–1859): a distinct code abroad
+
+**Who/why:** Tom Wills's **contemporary July 1858 letter** proposed winter football for cricket players, including a club and committee to formulate playing laws. Students and cricketers had already begun organising matches, but groups brought different playing traditions.
+
+**What happened:** Informal scratch and school matches took place in 1858. After a May 1859 scratch match, interested gentlemen met at the Parade Hotel, elected officers and a committee, then wrote the Melbourne Football Club's own ten rules. Its game evolved towards Australian rules football, **not** modern association football. In 1860 and 1861 players could sometimes play for supposed rival teams, indicating identities and membership were not invariably rigid.
+
+**Mechanism:** Recreational groups can deliberately establish club administration and a playing code to coordinate participation and game design. Similar problems can lead to different football codes rather than one inevitable solution.
+
+**Evidence:** [National Museum of Australia](https://www.nma.gov.au/defining-moments/resources/australian-rules-football); [Melbourne FC's detailed 1858–61 timeline](https://www.melbournefc.com.au/news/270450/celebrating-160-years-mfc-snapshot-part-one); [AFL discussion of 1859 playing rules](https://www.afl.com.au/news/133990/when-australian-football-was-born-these-were-the-first-10-rules).
+
+### Cross-case findings (bounded)
+
+1. **Attendance:** Edinburgh used day-of-week availability groupings; Blackheath widened its eligible player pool; Barnes permitted non-members to play. Three *different* documented responses to related coordination issues.
+2. **Resources:** Shared equipment and facility access can justify a continuing membership organisation even if games themselves are informal: Edinburgh, Sheffield and Barnes.
+3. **Governance:** A member club can fix contributions, keep common property, appoint decision-makers and define who may join. This is distinct from the laws governing play.
+4. **Non-club alternative:** Richmond's winter group explicitly saw no value in formalising an organisation whose membership was temporary. A football game or team need not be a club.
+5. **Origins are not universal:** Cambridge drew on varied school games; Melbourne wrote distinct rules; Sheffield's specific leisure needs should not be projected onto the rest.
+6. **Internal vs external competition:** Sheffield could organise play among its members, while Hallam built on an existing cricket organisation. The *reason* to organise an outside fixture, rather than simply enlarge an internal pool, remains an open question.
+7. **Money was present, but not automatically commercial:** Shared subscriptions, equipment and ground hire are demonstrated. They do not imply paying footballers or selling admission.
+
+### Limitations / next primary-source tasks
+
+- Direct primary inspection of Hope Papers, particularly the 1833 rules and day-of-week groupings, to establish exactly how matches were arranged.
+- Find original or reliably contemporary printing of 1862 Barnes club rules; currently accessed via a mid-20th-century reproduction.
+- Examine Sheffield 1858–60 minutes for attendance, selection, recruitment, guests and internal fixture arrangements (catalogue alone does not show every detail).
+- Find contemporary Blackheath membership / match records; present explanation is club retrospection and founding date not entirely settled.
+- Read Cambridge's surviving 1856-ish and 1863 code plus contemporary student documents; 1848 version not extant.
+- Confirm Hallam's origins against 1860 newspapers and cricket club minutes rather than only contemporary club website.
+- Avoid conflating team sizes, codes, and the modern meaning of 'club'; several groups played rugby-like or Australian variants.
+- Do not conclude a particular organizational arrangement 'caused' the later FA, professional competition, or modern game's attractiveness. Such arguments require a separate, later study.
+
+**Editorial guardrail:** We have a genuinely informative comparison, but not yet a sports feature. Ask 'Where's the consequence?' only when the consequences are supported. The historical evidence is a tool for discovering the game, not a task to build an exhaustive family tree.
