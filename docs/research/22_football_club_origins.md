@@ -203,3 +203,40 @@ The categories above are **not** one inevitable progression and are **not** repr
 - Do not conclude a particular organizational arrangement 'caused' the later FA, professional competition, or modern game's attractiveness. Such arguments require a separate, later study.
 
 **Editorial guardrail:** We have a genuinely informative comparison, but not yet a sports feature. Ask 'Where's the consequence?' only when the consequences are supported. The historical evidence is a tool for discovering the game, not a task to build an exhaustive family tree.
+
+
+---
+
+## Why play outsiders if your own game already works? (evidence check, 19 October 2026)
+
+**Starting question:** What changed between 'we have our game and enough people' and 'we want to play someone else'? **Do not assume a breakdown or need for universal rules.** External matches were an elective additional benefit, not a universal necessity. Some school house or internal club contests remained sufficient.
+
+### Sheffield: unusual direct recollection of why outside opponents appealed
+
+- 1857: Sheffield FC was founded to provide football among its own members. It assembled internal teams using married/unmarried status, surname halves, occupations, etc. Those games were possible; the club already had rules.
+- **December 1858:** Sheffield played army-regiment opposition, its first recorded outside fixture. National Football Museum reports the 84th Regiment in December 1858, then the 58th Regiment shortly before Hallam 1860; secondary sources sometimes conflate which regiment came first — verify in original press.
+- **September 1860:** Hallam FC was formed by John Charles Shaw and Thomas Edward Vickers with links to Hallam Cricket Club and the Sheffield playing group; a distinct organisation with cricket-club membership and ground.
+- **26 December 1860:** First Sheffield–Hallam inter-club fixture at Sandygate, about four miles from Sheffield's original site, under Sheffield rules.
+- **18 October 1907:** Hallam cofounder and former Sheffield member John Charles Shaw wrote to J.C. Bingham that Sheffield's internal teams had been rearranged to keep matches interesting; he founded Hallam, persuading some Sheffield players to join, **'for the purpose of getting a team to play against the old club'**; remembered resulting encounters as '**most interesting & enjoyable**'. He also recalled prior matches with regiments. Direct participant testimony, **but late retrospective testimony** nearly 50 years after events. The 'for many years' phrasing requires caution as Sheffield FC had existed only three years before Hallam; early informal play may be included, or memory may be imprecise.
+- **December 1862:** Contemporary newspaper accounts in the Sheffield archive described intensely partisan supporters of Hallam and disputed on-field violence, with correspondence contesting blame. This is evidence that **durable club identities** could make contests emotionally different from arbitrarily mixed teams; it **does not prove this was the original motive** or that rivalry required separate clubs.
+- **By 1862:** Sotheby's archive catalogue says eleven teams were active in Sheffield region playing Sheffield rules and reports regular external fixtures, so outside contest proliferated *without* a national rule code. This is a bounded example, not a national trend estimate.
+
+**Sources:** [Sotheby's catalogue, 2011, direct archival descriptions and verbatim extracts of Shaw's 1907 letter, 1862 paper](https://www.sothebys.com/en/auctions/ecatalogue/2011/english-literature-history-childrens-books-illustrations-l11404/lot.10.html); [National Football Museum, 1860 Rules Derby](https://nationalfootballmuseum.com/stories/12-games-1860/); [Hallam official history](https://hallamfc.co.uk/our-history/).
+
+### Outside opposition was already an option elsewhere
+
+- **Schools:** Interschool and old-boys' football fixtures existed before 1863 (e.g. school vs school or old boys against another former-pupil group). Many school groups still preferred internal competitions. Need contemporary correspondence to know precisely why any given first fixture was desired. Their cricket cultures already featured school-vs-school sporting contests, e.g. Eton–Harrow played cricket at Lord's in **1805**, showing external challenges weren't a novel concept invented in football. [Lord's history](https://www.lords.org/lords/our-history/father-time-wall/1805-the-first-eton-v-harrow-match-takes-place-at).
+- **Melbourne:** Melbourne Grammar vs Scotch College played a widely publicised 40-a-side football match starting **7 August 1858**, resumed for further sessions, ultimately drawn, before Melbourne's 1859 code. These were independently identifiable school sides; arranging the match preceded fully codifying their *own* regional game. Evidence for the match is clear; the personal motive of the initiators should not be inferred simply from the fact of playing. [National Museum of Australia](https://www.nma.gov.au/defining-moments/resources/australian-rules-football); [AFL history](https://www.afl.com.au/news/56804/a-game-is-born).
+- **University groups:** Students from schools with differing football traditions could share a place and want to play despite distinct rule systems. Agreeing a local playing code was one optional solution. Original Cambridge 1848 rule text not extant; later versions and retrospective accounts exist. [Sotheby's Cambridge note](https://www.sothebys.com/en/auctions/ecatalogue/2011/english-literature-history-childrens-books-illustrations-l11404/lot.10.html).
+
+### Interpretive distinction: what did they gain?
+
+**Directly attested for Sheffield/Hallam by participant recollection:** internal permutations ceased to satisfy at least some players' desire for *interesting* contests; an outside club was deliberately assembled as opposition.
+
+**Plausible benefits to test, not blanket proven reasons:** unfamiliar opponents and play styles, pride in distinct group identities, enduring rivalry, proving which group could win, social occasions, publicity, spectators. A regular internal house/team tournament could provide some of these; therefore separate clubs were *not logically required*.
+
+**Do not claim:** Clubs universally outgrew internal matches, outsiders were intrinsically better, the two sides required national rules, school football suddenly became unviable, or the FA was a necessary outcome. Distinguish desire for outside fixtures **from** any subsequent need to negotiate the laws of a particular fixture.
+
+### New working inference
+
+Early club football may have spread partly because an **outside opponent was a new recreational opportunity**, not because the original activity ceased working. In one unusually documented case, a founder deliberately **created** opposition. Opponent supply and intergroup identity are separate from standardisation. Track further cases of invite/challenge records, especially groups refusing outside matches despite ample membership.
