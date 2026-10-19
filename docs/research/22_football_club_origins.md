@@ -240,3 +240,43 @@ The categories above are **not** one inevitable progression and are **not** repr
 ### New working inference
 
 Early club football may have spread partly because an **outside opponent was a new recreational opportunity**, not because the original activity ceased working. In one unusually documented case, a founder deliberately **created** opposition. Opponent supply and intergroup identity are separate from standardisation. Track further cases of invite/challenge records, especially groups refusing outside matches despite ample membership.
+
+
+---
+
+## How clubs began selecting representative players (evidence checked 19 October 2026)
+
+**Prompt:** Did external fixtures create competition for selection, and what happened to members who did not make the side? Do not project modern 'first eleven', mandatory eleven-a-side or merit selection back onto 1850s football.
+
+### Sheffield v Hallam, 26 December 1860
+
+Contemporary reporting reproduced in subsequent local histories describes a **16-v-16** game, Sheffield captained by Nathaniel Creswick and the opposing side called **Hallam and Stumperlowe**, captained by John Charles Shaw. This establishes distinct representative playing groups, but **not the procedure for selecting those sixteen**. Even the opposition was not necessarily a closed Hallam FC-only squad.
+
+Evidence: [Penistone Church FC's historical account](https://www.penistonechurchfc.com/history), [Hallam FC history](https://hallamfc.co.uk/our-history/). Locate underlying Sheffield Daily Telegraph report before stronger claims.
+
+### Barnes (1862–63): flexible players and numbers
+
+Barnes' 1862 club rules permitted members' friends and Barnes parish residents to participate unless the captain objected. No identified formal best-eleven selection rules. [Barnes 1862 rules transcription](https://en.wikisource.org/wiki/Rules_of_Barnes_Football_Club_(1862)).
+
+December 12 **1863**, Forest v Barnes had been arranged **15-a-side**, but only **12 Forest** and **13 Barnes** players appeared, owing to circumstances; they played. Contemporary *Bell's Life* match report published Dec 19 transcribed [here](https://playupliverpool.com/1863/12/12/the-forest-football-club-adapts-the-fa-rules/). **Attendance shortfalls were still a major match-level practical issue**, not proof of an oversubscribed merit ladder. Do not confuse the report's commentator's pro-FA editorial with the players' motives.
+
+### Queen's Park (founded 1867): explicit pathway from membership games to selection hierarchy
+
+The *History of the Queen's Park Football Club, 1867–1917*, by Richard Robinson (published circa 1920, based on club minutes), records:
+
+- Founding constitution (9 August 1867): **'the recreation and amusement of its members'**. Football played internally regularly; early senior outside fixtures scarce. See [Chapter LXII](https://electricscotland.com/history/sport/football/chapter62.htm) and [Chapter VII](https://www.electricscotland.com/history/sport/football/chapter7.htm).
+- Club's annual meeting **5 April 1872**: captain reported that a **Second Eleven** had played Southern FC during 1871–72 season and won **2–0**. Club elected a separate Second Eleven captain empowered with first-team captain to arrange outside matches. Its second XI had its own fixtures and soon served as supply of players to first team. [Chapter XLVI](https://www.electricscotland.com/history/sport/football/chapter46.htm).
+- Selection was initially concentrated in club captain. Author states first **13 years** captain judged merits and controlled senior side, and vice-captain selected opposition in internal practices. [Chapter III](https://electricscotland.com/History/sport/football/chapter3.htm).
+- Second Eleven players were invited into first team as vacancies arose, given trials and sometimes retained permanently. On **20 October 1877**, **George Ker** from Second XI was tried as full-back against Third Lanark and received praise (see [Chapter XXX](https://www.electricscotland.com/hiStory/sport/football/chapter30.htm); and [Chapter XIV](https://www.electricscotland.com/history/sport/football/chapter14.htm)). Author says ability was decisive, but notes personal history and experience affected choices, so treat pure meritocracy as *historian's interpretation*, not unimpeachable contemporary finding.
+- **31 August 1875**: committee recommended getting up a **Third Eleven** if practicable.
+- **25 July 1878**: W. C. Mitchell proposed a Third Eleven, the **Hampden Eleven**, **specifically to keep together players unsuccessful in gaining places in the Second Eleven**; committee approved. **This is a direct documentary response to the very exclusion/participation problem raised by the user.** [Chapter XLVI](https://www.electricscotland.com/history/sport/football/chapter46.htm).
+- **29 April 1880**: club abolished annually elected captains and transferred team selection and fixture arrangements to a match committee. [Chapter III](https://electricscotland.com/History/sport/football/chapter3.htm).
+- **7 October 1871** against Granville, **six Queen's Park members reportedly played for Granville**. Even with outside matches, football team boundaries could be fluid and opponents lent players to make up numbers. [Chapter VII](https://www.electricscotland.com/history/sport/football/chapter7.htm). Note discrepancy across sources on exact score and dates; preserve broad evidence of borrowing players, verify newspaper before publishing.
+
+**Interpretation:** Competition for a recognised first team **coexisted** with the original recreational club; the consequence for non-selected members was not necessarily expulsion or inability to play. Second and third teams could be created under the *same institution*, preserving overall identity but introducing a playing hierarchy. Internal practice and flexible scratch matches persisted. This is evidence of progression **in at least one club**, not a demonstration that every club did so or that outside fixtures alone caused merit selection. The cup competitions and desire to maintain reputation may have intensified selection, but further comparative evidence is required to assign relative causal weight.
+
+### Source quality / next verification
+
+Robinson (1920) draws upon original club minutes but also supplies hindsight and interpretations; quoted minute dates and motions are stronger evidence than general claims about motivations. Identify and consult original Queen's Park minutes or earliest press to verify precise wording. Sheffield's 1860 lineup **does not** establish first-eleven merit selection; avoid that leap. Preserve contemporary match report about Barnes and Forest playing short-handed.
+
+**Finding:** Outside opposition creates *an opportunity* for inter-club representation and intra-club selection, but not an automatic move to eleven elite players. Queen's Park supplies unusually direct evidence that, where hierarchy appeared, clubs could expand into second and third teams instead of permanently dividing the club into separate rivals.
