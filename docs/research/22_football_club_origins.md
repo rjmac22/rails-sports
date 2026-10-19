@@ -436,3 +436,59 @@ Sheffield's John Charles Shaw letter dated 18 Oct 1907, held in original club ar
 - Nothing here establishes *how widespread each incentive was* or why the FA's code eventually became globally widespread. This is just one decision stage; do not impose later outcomes.
 
 **Next research decision, only once Incentive 3 is accepted:** When an outside match requires a different game or compromises, how do groups decide between changing rules, adapting for a fixture or walking away? Consider differences among *players*, *captains*, and *club committees*, and use the Queen's Park–Accies and Queen's Park–Airdrie cases to inspect revealed preferences.
+
+
+---
+
+## Incentive 4: What did clubs really negotiate, concede, reject and abandon? (19 Oct 2026)
+
+**Question:** When clubs wanted an outside match but had divergent laws, what happened *in the actual negotiations*? This is not a narrative of inevitable FA standardisation. Distinguish an **offer**, **accepted terms**, **game played**, **conditions refused**, and **a particular abandoned fixture**.
+
+### 1. Sheffield FC ↔ Notts / Nottingham FC, 1864–1865 — explicit bargains
+Sheffield's original 1864–68 committee book, quoted in an archival sale catalogue, records a home-and-away fixture arrangement: **play by Nottingham rules away and Sheffield rules at Sheffield**. Sotheby's catalogue transcribes a meeting date of **17 Dec 1865** but says the match was to be **2 Jan 1865** — internally inconsistent, likely a December *1864* meeting. Verify minute book before quoting precise date. Later history identifies the 2 Jan 1865 away fixture under Nottingham rules (and match numbers vary among secondary histories).
+
+At its **25 Sept 1865 AGM**, Sheffield resolved:
+> 'That for the future we play the offside rule, but if the other Sheffd Clubs do not adopt the same rule, we play our Matches with them according to our present rules.'
+And separately directed writing to Notts secretary that Sheffield would **adopt an offside rule IF Nottingham abandoned** (i) **'making the mark'** associated with a free kick, and (ii) **the free kick at goal**. These are *minute-recorded proposed conditions*, NOT independently confirmed acceptance by Nottingham. They reveal *selective negotiation of mechanics*, rather than all-or-nothing acceptance of a code. FA/Sheffield offside rules were not necessarily identical.
+
+**Primary record described and transcribed:** https://www.sothebys.com/en/auctions/ecatalogue/2011/english-literature-history-childrens-books-illustrations-l11404/lot.10.html .
+
+Also Sheffield's original game ledger reportedly notes **9 May 1863 vs Garrison: 'allowed striking & throwing the ball'**, **28 Oct 1865 vs Mackenzie 'played the offside rules'**, **11 Nov 1865 vs Norton 'played at East Bank to the old rules'**. These are match-specific variations in a single club's practices, transcribed in secondary reference https://en.wikipedia.org/wiki/Sheffield_Rules ; verify original match ledger before treating as established direct quotation.
+
+### 2. Queen's Park ↔ Thistle FC, July–August 1868 — logistics and match conditions
+A surviving **29 July 1868 original letter** by Queen's Park secretary **Robert Gardner** to Thistle secretary negotiates **20 players per side**, **two-hour duration** appropriate for hot weather and **changing ends** so both sides experience wind and ground fairly. The game went ahead **1 Aug 1868**. Negotiation also concerned size/length/fairness, not only 'carry or kick'. 
+**Original artefact described and shown by museum curator Richard McBrearty:** https://scottishfootballorigins.org/2021/04/05/the-story-of-1868-part-one-the-association-game-in-scotland/
+
+### 3. Queen's Park ↔ Drummond FC, 1870 — prohibition on tripping
+Robinson's 1920 *History of Queen's Park Football Club* says Drummond favoured **tripping and charging** and Queen's Park **stipulated against tripping**. Their game went ahead 9 July 1870 (16-a-side), and Drummond borrowed two pupils from neighbouring institute to make up their numbers. The record **does not explicitly show acceptance/rejection of charging**; don't say the clubs agreed to abolish it. 
+**Source:** https://www.electricscotland.com/history/sport/football/chapter7.htm (club history quoting press/minutes).
+
+### 4. Queen's Park ↔ Airdrie, June 1871 — fixture refused over handling
+Queen's Park accepted Airdrie's challenge for **22 June 1871**, sent the proposed rules, and Airdrie learned **'hands' were disallowed**. They **refused to play unless Queen's Park deleted the rule**; Queen's Park held firm. **The proposed June 1871 fixture did not take place**. Crucial caveat: same clubs **had played each other in 1870** (several games), and **again on 28 Aug 1872**. Do NOT misrepresent as a permanent boycott or inability ever to play; the *particular fixture* was lost. 
+**Source:** https://www.electricscotland.com/history/sport/football/chapter7.htm
+
+### 5. Queen's Park ↔ Glasgow Academicals, 1869 — willing to use different code, yet refused
+Queen's Park challenged Rugby-playing Glasgow Academicals for a match **under Rugby rules, 20-a-side**. The Academicals declined, citing **rules differences and insufficient time** (their response arrived October). In 1869 Queen's Park then sourced Rugby's laws, had a committee **omit provisions tied to Rugby School's grounds**, and passed an extraordinary meeting motion to **adopt Rugby laws alongside the club's existing association code from October to March**. A minority motion to remain solely with Association laws lost. **No Rugby-code fixture with Academicals or other Rugby club is recorded as a result**. This is internal negotiation of willingness to play another game, not evidence the opponent reciprocated.
+**Source:** https://www.electricscotland.com/history/sport/football/chapter7.htm
+
+### 6. Sheffield FC ↔ Leeds (Rugby-playing club), 1864 — bespoke hybrid
+Sport historian Tony Collins cites Leeds founder J. G. Hudson's retrospective description of their home and away 1864 fixtures under rules of **'a mongrel type, neither rugby nor association'**. Evidence a hybrid code was actually used, but the precise clauses and who requested them **not yet established**.
+**Source:** https://tony-collins.squarespace.com/how-football-began-1 . Need original Hudson source citation.
+
+### 7. Hull FC, 1860s — preference to play regardless of code
+Tony Collins quotes Hull founder William Hutchinson recalling: **'we played any mortal code possible with other clubs away from home so long as we could get a game of some sort'**. Hull travelled to Lincoln in 1866 to play FA rules despite later being a rugby club. Quote retrospective; trace original Hutchinson memoir before publication.
+**Source:** https://tony-collins.squarespace.com/how-football-began-1
+
+### 8. FA / Sheffield disagreement over a return match, 1866–67 (further validation desirable)
+After the 31 March 1866 Sheffield–London representative game under FA laws, Sheffield proposed a Sheffield-rules return fixture; FA reportedly agreed to a return fixture **only under FA rules**. A 1867 match was scheduled/postponed over weather, revised rules were disputed, and return ultimately was **not played in 1867**. Can't simply state 'the FA cancelled it over rules': *weather* and scheduling were also factors. Described with citations to press and FA minutes in https://en.wikipedia.org/wiki/London_v_Sheffield_(1866) — pursue original 1866/67 FA minutes before publishing causal claim.
+
+### Interpretation / incentive trade-offs
+
+- **Some wanted match badly enough to change code:** Nottingham home/away; Queen's Park considered Rugby; Hull routinely accommodated outsiders.
+- **Some cared enough about particular laws to make a match conditional or refuse:** Sheffield's conditional offside/free-kick offer; Queen's Park no-tripping stipulation; Airdrie refused no-handling and Queen's Park refused deletion; the FA insisted on FA rules for return.
+- **Agreement over rules had transaction costs**: circulate code, read and compare laws, committee votes, explicit exceptions, venue-dependent codes, number/duration, scheduling.
+- **Refused fixture ≠ permanent hostility**: Queen's Park played Airdrie before and after their failed June 1871 match. Show date and particular match.
+- **Attested incentive is not universal**: Some clubs valued access to opponents above code details; others made specific valued actions non-negotiable.
+- **A negotiated match is not a universal standard**. These decisions may produce a different match-specific game, not a single national code.
+
+**Next:** Compare the exact **mechanical consequences** of changing one rule — what the game lost/gained under two viable alternatives — and find documented player preference rather than imposing modern judgements. No article premise yet.
