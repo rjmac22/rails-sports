@@ -587,3 +587,68 @@ After the 31 March 1866 Sheffield–London representative game under FA laws, Sh
 There was **documented, variable demand for predictable common rules** amongst people who sought outside opponents. Some consciously considered rule alignment independent of joining the FA (Louth-Lincoln, Richmond); others saw greater advantage as clubs adopted the code (Morley), while schools preferred existing games (Harrow) or waited for rival coordination processes (Westminster). The FA is therefore intelligible as **one proposed continuing solution to an optional coordination challenge**, not the necessary culmination of football.
 
 **Next distinct question**: What did the early association actually do in its first one or two seasons, and did the clubs who joined obtain more games or better quality of play than similar clubs that didn't? Compare memberships/fixtures using *contemporaneous* calendars, published records and correspondence. Don't infer adoption merely from a club appearing in a list. Drafting remains shelved pending incentive analysis.
+
+
+---
+
+## Early football beyond Britain: origins, incentives, alternatives (19 October 2026)
+
+**Why examine this:** Up to now, early-club analysis has overrepresented English/Scottish ex-pupils and men organising recreation at home. Overseas early groups show (1) British residents bringing existing games to new places, (2) **local residents taking up a game after seeing it**, (3) the game diverging into different codes, and (4) **problems accessing land and local approval**. This is a targeted corrective to Study 22, **not a new history of worldwide association football or an explanation of how it later dominated**. Chronology matters: many examples are **after** the FA's formation, and are not evidence of its original cause. Distinguish original motives attested by documents from later accounts.
+
+### 1. Melbourne, Australia (1858–1859): football as an optional winter recreation
+
+- Tom Wills's contemporary letter to *Bell's Life in Victoria*, 10 Jul 1858, called for cricket players to organise a football club with laws to keep active in winter and proposed rifle shooting or other athletics as alternatives. In May 1859 members of Melbourne Cricket Club formulated their own code; Melbourne football developed into Australian rules, **not an alternative 'failed soccer'**.
+- **Incentive:** off-season activity/fitness (explicit organiser statement). **Choice:** play football, rifle club, other athletic activities. **Result:** distinct football code before 1863 English FA.
+- [National Museum of Australia](https://www.nma.gov.au/defining-moments/resources/australian-rules-football); [Victoria Heritage Register, the 1859 Rules, added 2026](https://www.heritage.vic.gov.au/about-us/news/news-stories/footballs-first-rules-now-on-heritage-register).
+- Avoid claiming game developed independently of British school precedents; expats/returnees knew British games but they chose their own laws locally.
+
+### 2. Boston, USA (1862–1865): pupils, a locally functioning football game, and late founding myths
+
+- Student Gerrit Smith Miller organised **Oneida Football Club in 1862** among Boston preparatory-school boys; schoolboy football played on Boston Common previously and Oneida had matches against other local school groups. **The exact rules/code cannot safely be labelled modern soccer OR modern American football**; 'Boston game' is associated with local play, which was variously and retrospectively described.
+- Club's members mostly left for university in 1865, essentially ending as a playing team. Subsequently former members coordinated and actively promoted their identity as founders of 'American football'; 1925 commemorative monument and later debates about whether this was 'soccer' reveal how history becomes a self-aggrandising origin story.
+- **Incentives:** organising more structured contests and friendship (reported by historians); **post-hoc incentive** to claim founding prestige, not evidence initial players set out to invent an American national sport.
+- [Boston College news on Marston and Cronin, *Inventing the Boston Game*](https://www.bc.edu/bc-web/sites/bc-news/articles/2025/spring/the-boston-game.html); [Society for American Soccer History by Marston/Cronin](https://www.ussoccerhistory.org/who-were-and-werent-the-oneidas/).
+
+### 3. Lausanne/Geneva, Switzerland (1867 onward): expats want a game, locals discover they like it
+
+- Historian **Philippe Vonnard (2023/2024)** studied primary letters/newspapers from Lake Geneva area, differentiating rugby/association football in first decades. British migrants/visitors included **engineers, merchants, boarding-school teachers and students, holidaymakers**, bringing games from home.
+- **21 September 1867**, letter from **Rodney Alfrey** to mayor of Lausanne: 'football society' of c. **20 players** asks permission to play on Montbenon **Monday, Wednesday, Friday** in autumn/winter. **Ground approval**, not coding disputes, was a real barrier, and the group may have played a Rugby-influenced code; club's identity uncertain.
+- **20 Jan 1869** *Journal de Genève*: brief announcement of Thursday match between British players from Lausanne/Geneva, showing inter-city games. Rail between cities opened 1858, facilitating travel. Foreign groups already had games.
+- **14 Oct 1871** *Journal de Genève*: English residents expressly **welcomed Genevan students** to join games over winter: outreach partly from practical desire for enough players. Not all local students began through compulsion or ex-British-school alumni networks.
+- **Edmond Gilliard later recalled** joining football with two friends through a Latin teacher connected to an English family. **Jean Narbel later recalled** seeing British boarding-school boys playing on Saturday walks and thinking 'Why don't we play too?'; helped found **FC Montriond 1896**. These are **recollections**, not 1890s contemporaneous interviews; but direct statements of a motivation underrepresented in English-focused study: **spectator curiosity and imitation**.
+- **Late 1880s–1900s** local youngsters formed their own clubs with deeper local roots vs temporary expatriate teams, adopted neighbourhood colours/identities and sometimes wanted year-round football rather than expats' winter recreation. These are **different goals for initiators versus adopters**. Local schools often **resisted** students playing too much rather than requiring participation, opposite of easy assumptions from English schools: Lausanne city council in **1901** complained that football was too exhausting/exciting for school-time and sought to restrict it.
+- Practical constraints persisted: landowner of original Servette pitch allegedly expelled players for spoiling his meadow (first annual club report, late 1890s); young players moved repeatedly between grounds due to city building/restricted access. These problems had nothing to do with different offside rules.
+- **Core source:** [Philippe Vonnard, 'A tale of clubs, pitches and men', *Sport in History* 2023 (published in 2024 issue), open full text including contemporary archival citations](https://pmc.ncbi.nlm.nih.gov/articles/PMC11340199/). Specifically sections 'Introduction' and 'Finding a home in the city'.
+- Beware claims Lausanne Football and Cricket Club in *1860* was definitively association football; contemporary code uncertainty is explicitly emphasised by Vonnard.
+
+### 4. Buenos Aires, Argentina (1867): British migrants form a club and recruit by newspaper
+
+- Historical account by Argentine FA (AFA) says **Thomas and James Hogg** of British immigrant community advertised an open meeting in *The Standard*; formed **Buenos Aires Football Club 9 May 1867** and held a match **20 June 1867** on the **Buenos Aires Cricket Club** grounds. Played **red versus white**, not necessarily two fully independent permanent clubs.
+- AFA attributes to Thomas Hogg the belief the game would be an easy and inexpensive recreation for middle- and working-class people, yet records that in practice **British-only elite clubs** initially dominated play. **Ambition to broaden access ≠ actual open participation**. Need original *The Standard* letter before relying on exact words or inclusivity claims.
+- **Motives:** expatriate continuity, leisure, club sociability; organiser also professed hope of a wider audience, but evidence for individual native players' motives comes later. Many British railway and school links offered social networks.
+- [Argentine FA history (Spanish)](https://www.afa.com.ar/11984/pages/historia) and [2026 AFA article on Thomas Hogg](https://www.afa.com.ar/es/posts/thomas-hogg-un-pionero-en-los-origenes-del-futbol-argentino).
+- Note match occurring **4 years after English FA foundation**; not evidence behind 1863 meeting motives.
+
+### 5. Genoa, Italy (1893): sports club founded by foreign residents within later-established international sport
+
+- Genoa's official history preserves a founding record: **7 September 1893**, Genoa Cricket and Athletic Club founded at British consulate by about **30 members paying 10 lire each**, with British expatriate links to commerce and industry. Cricket/athletics and society first; football was subsequently central. This is **after 1863** and an example of club formation by an expat social network with money and other sports, not of the FA origin.
+- [Genoa official detailed chronology](https://genoacfc.it/storia-e-museo/), subsection 1893. Avoid anachronistic claim the foundation's name was 'Genoa Cricket and Football Club' in 1893.
+
+### 6. Copenhagen, Denmark (1876–1880s): the game can be added to an existing sport club
+
+- Kjøbenhavns Boldklub (KB) was founded **1876**; per sport historian Andy Mitchell, added association football around **1879**, having begun as multisport. Football was introduced among Danish students through cross-border contacts; James Young Smart, a Scottish footballer who arrived **1885**, later helped translate the laws into Danish in winter **1886–87**. These dates show **institutional import/adaptation** after the original English FA.
+- [Club heritage page, FC København](https://www.fck.dk/en/content/history), [Scottish Sport History biographical research](https://www.scottishsporthistory.com/sports-history-news-and-blog/archives/11-2025). More distant comparison; not essential to initial 1863 inquiry.
+
+### Newly discovered early-stage incentives / constraints
+
+| Who? | What do they value / want? | Alternative / impediment | Observed response |
+|---|---|---|---|
+| British football-playing migrants | Familiar recreation and social network away from Britain | Not enough players locally; no pitch | Invite local students; appeal to mayor or borrow cricket facilities (Lausanne 1867; Buenos Aires 1867) |
+| Local young people encountering unfamiliar football | Curiosity, imitation, joining peers in attractive new sport | Don't know rules, lack player network | Watch, learn, be recruited, eventually form enduring local teams (Swiss recollections) |
+| Clubs led by expat merchant/engineer group | Cross-border or expatriate identity, recreation among associates | Restricted access or outsiders insufficiently engaged | Club institutions, subscriptions, occasional attempts to recruit; early participation may remain exclusive (Buenos Aires 1867, Genoa 1893) |
+| Local government / property owner | Control over public land or protecting private property | Football occupies/ruins meadows; urban land scarce | Permit, prohibit or relocate play; football clubs search for new places (Lausanne 1867, Geneva late 1890s) |
+| Youth/club founders competing with existing leisure | Activity attractive for its own sake, not continuation of familiar school game | Other games / school authorities reluctant | Independent local teams and rivalry (Swiss local groups, 1890s) |
+
+**What this changes in Study 22:** The UK-centric 'school alumni reproduce their old football games' explanation **cannot explain all early football uptake**. A game also spreads when outsiders **see it played, want to try it and find participants who teach them**, including where institutions do not sanction or actively discourage the activity. International diaspora and institutions (trade, cricket, railways, boarding schools, migration) can *deliver* a sport, but adoption occurs through locals' own choices. Also, **field access** can be a more immediate and consequential barrier than negotiating rules.
+
+**Do not drift** into later rival codes' relative worldwide success or national governing associations; that is the separate future study. Do not infer every expat group played FA association football; origins of 'football' can refer to rugby or a local code.
