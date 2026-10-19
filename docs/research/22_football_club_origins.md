@@ -280,3 +280,63 @@ The *History of the Queen's Park Football Club, 1867–1917*, by Richard Robinso
 Robinson (1920) draws upon original club minutes but also supplies hindsight and interpretations; quoted minute dates and motions are stronger evidence than general claims about motivations. Identify and consult original Queen's Park minutes or earliest press to verify precise wording. Sheffield's 1860 lineup **does not** establish first-eleven merit selection; avoid that leap. Preserve contemporary match report about Barnes and Forest playing short-handed.
 
 **Finding:** Outside opposition creates *an opportunity* for inter-club representation and intra-club selection, but not an automatic move to eleven elite players. Queen's Park supplies unusually direct evidence that, where hierarchy appeared, clubs could expand into second and third teams instead of permanently dividing the club into separate rivals.
+
+
+---
+
+## Incentives first — player values, outside options, and trade-offs (19 October 2026)
+
+**Status:** Research on **Incentive 1: Why play football at all?**; NOT a story outline. Any previous football article draft is premature and shelved while incentives are analysed.
+
+### Distinguish three actors before making claims
+
+1. **People who enjoy playing football**: activity itself is the goal, possibly particular tactics, competition, status, social enjoyment, physical challenge.
+2. **People using football for another goal**: e.g. fitness for cricket or social participation; football can be replaced by alternatives.
+3. **People wanting others to play**: e.g. school organisers promoting attendance, clubs seeking members; organisers' incentives are not each individual player's motives.
+
+**Central test:** What does the individual value? What can they do instead? What feature of their existing game are they prepared to lose to get more opportunities, opponents or recognition?
+
+### Strong, sourced actor statements
+
+**Etonensis (pseudonym), London Daily News, 6 Oct 1863** (historical abstract of contemporaneous letter, *not yet full original reproduction*): Argued that incompatible school codes prevented outsiders' fixtures **and** a player being recognised for skill beyond his existing associates. Described two years of Eton–Westminster compromise matches as technically unsatisfactory because neither could use favourite methods; nevertheless advocated uniform rules. Thus an identifiable **status/recognition incentive** could compete against **enjoyment of specialised skills and familiar code**. [Play Up Liverpool summary of original newspaper item](https://playupliverpool.com/1863/10/06/lets-frame-rules-for-one-universal-game/). **Do not represent the site's summary as verbatim original letter.**
+
+**F. M. Campbell, Blackheath, Bell's Life report of 1 Dec 1863:** Identified running with ball, hacking/physical challenge, pluck and courage as *constitutive* of the game he valued. Threatened withdrawal if rules removed those activities, saying their restrictions meant opponents could play 'our game in your way' but the reverse was impossible. Gives **revealed willingness to forego wider association** to preserve valued rules. Distinguish what he believed others liked from personal testimony of those other players. [Full historical press transcription](https://playupliverpool.com/1863/12/01/the-fourth-meeting-of-the-football-association/), especially Campbell speech and Morley response.
+
+**W. C. Morley, same debate, Dec 1863:** Expected adult London clubs, including men in business, to avoid football if 'hacking' risk were compulsory. His own words say he did not personally mind hacking so much, but sought rules that would promote adoption among potential players. This is **organiser's estimate of other players' willingness to participate**, not direct survey of the players. [Same newspaper report](https://playupliverpool.com/1863/12/01/the-fourth-meeting-of-the-football-association/).
+
+**Eton boy quoted in school archive (date of original comment not established by web article):** Defended Eton Field Game as a cherished institution and argued soccer passing permitted idle players to avoid physical exertion. Indicates **valued identity and vigorous participation**, not merely abstract attachment to rules. But **do not date this to 1863** until original quotation located and dated. [Eton College collections archivist article](https://collections.etoncollege.com/the-origins-of-the-field-game/), see also [archival sports exhibition PDF](https://collections.etoncollege.com/wp-content/uploads/sites/5/2025/01/Sport_Eton_Catalogue.pdf).
+
+**Queen's Park, Glasgow, founding constitution 9 Aug 1867:** Explicit goal 'recreation and amusement of its members.' This **establishes collective declared organisational purpose**, not each individual's personal motive. Later historian Robinson also recounts pre-club scratch recreation, variable attendance and sometimes inviting bystanders to fill numbers. [Robinson's club history chapter XI](https://www.electricscotland.com/history/sport/football/chapter11.htm) and [chapter II](https://www.electricscotland.com/History/sport/football/chapter2.htm). **Post-1863 case**; useful for general incentive study, not as cause of FA's formation.
+
+**Tom Wills, original letter published Bell's Life in Victoria, 10 Jul 1858:** Offered football to solve **winter fitness/inactivity** among cricketers, avoiding weight gain and perhaps improving cricket turf. Explicitly proposed **rifle club or other athletic games** if football impractical. The motivational actor is *Wills proposing a facility/activity for others*; not proof individual Melbourne cricketers all valued football over those alternatives. [Letter transcription](https://www.australianculture.org/winter-practice-1858/).
+
+**Rugby School's laws, approved 28 Aug 1845:** Provide punitive mechanisms for nonattendance without acceptable excuse, obligatory attendance after other duties, organised announcement of matches and old pupils' participation with permission. This shows some people might play **because attendance was expected/enforced**, not just because they personally enjoyed it. Those are school regulations, NOT a confession of what pupils wanted. [Original printed laws transcription](https://en.wikisource.org/wiki/Laws_of_Football_as_played_at_Rugby_School_(1845)).
+
+### Motivation vs alternatives table (interpretive, bounded)
+
+| Who / position | Value as attested | Alternatives reasonably open to them | What could be sacrificed? | Evidence |
+|---|---|---|---|---|
+| Etonensis 1863 | Show ability beyond familiar school circle; find wider opposition | Play only colleagues, keep occasional compromise games, learn other code, advocate a common code | Valued school-specific technique; weak compromise could degrade play | Contemporary correspondent, summarised by later website |
+| Blackheath's Campbell 1863 | Running/carrying, physical challenge, courage and 'pluck' | Accept compromise, play only aligned clubs, seek separate organisation | Access to a broader rule-sharing network if refuses | Contemporary newspaper transcription; his own speech |
+| Eton pupil, undated in archive | Tradition; energetic, hard-to-evade participation | Try association football or remain in Eton game | Identity and specific challenge of Field Game | Archivist quotes pupil; original quote date not established |
+| Queen's Park committee 1867 | Recreation and amusement for members | Informal scratch play or continuing membership club | Time, dues, organisational effort | Founding constitution quoted in later history |
+| Tom Wills 1858 | Winter fitness / benefit for cricketers | Football, rifle club, other athletic games | Ability to achieve aims with different activity if football impractical | Contemporary written public proposal |
+| Rugby school organisers 1845 | Reliable attendance in scheduled games | Enforced participation, regulations and absence exceptions | Some pupils' freedom to opt out | Contemporary rules; **not** evidence about a pupil's underlying enjoyment |
+
+### What this permits us to conclude
+
+1. 'Likes football' is incomplete: players can value **particular physical mechanics, traditions, skill expression, challenge or recognition** differently.
+2. 'More opponents' is **not unconditionally desirable**: if it requires removing what made the game enjoyable, a rational player might decline.
+3. A player can want **wider recognition** enough to prefer a code that worsens their present playing experience (Etonensis example).
+4. **Health/fitness** is a substitutable objective (Wills names other sports), whereas attachment to a particular football code may not be.
+5. **Participation itself** can be partly compelled (Rugby 1845), so attendance is not proof of enthusiasm.
+6. An organiser's theory of participant behaviour (Morley, Wills) is not direct individual player testimony.
+7. **Evidence gap:** No representative dataset tells us how common each incentive was; avoid frequency estimates or 'everyone' statements.
+
+### Further work (only after incentive 1 understood)
+
+- Find the full **6 October 1863 London Daily News Etonensis letter** to examine exact language, published pseudonym, context.
+- Date and inspect **Eton's quoted pupil criticism of association passing**, avoid anachronism.
+- Collect first-person reasons for joining specific early clubs (not just club constitutional objectives).
+- Keep separate **what they liked about a game** from **what they wanted from organised competition**.
+- Only then model the decision to form a club or play outside opponents, and investigate the outcomes. **No new article draft yet.**
