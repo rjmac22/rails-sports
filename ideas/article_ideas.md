@@ -95,3 +95,41 @@ If the rule is sufficiently important and data permit a follow-up:
 **Potential angle:** *Commentary that sounds knowledgeable is not necessarily commentary that makes a viewer more knowledgeable.* Avoid a mere blooper compilation or a personal attack on commentators. Distinguish factual errors from subjective taste, excitement or legitimately different audience needs; do not assume that faster, louder commentary is bad for everyone.
 
 **Research guardrails:** Make any criticism specific, check full context and official rules, quote brief excerpts accurately, and take care with audiovisual rights. Start with a contained clip and a clear question; avoid building a vast cross-sport commentary database.
+---
+
+## Retrospective rule-change case study — ODI two-ball rule (parked)
+
+**Reviewed:** 19 October 2026. **Decision: NO DRAFT.** Research was promising but we could not establish a distinct enough story to pitch after existing coverage. Keep as a **research lead**, not an active writing assignment. Do not resurrect it merely because new statistics appear.
+
+**Origin:** BBC Sport's 19 October 2026 piece on the return of ODI reverse swing prompted an editorial exercise: can we tell the history of the 2011 two-new-balls decision, its objections, the 2025 partial reversal, and players' adaptations *as a story* rather than as a collection of before/after averages?
+
+**Historical timeline and promising scenes (source-check before publication):**
+- **2007:** White-ball replacement after 34 overs; Brett Lee objected that receiving a newer replacement undermined the possibility of reverse swing. Earlier roots mean **"the rule took 14 years to reverse" is an oversimplification**.
+- **October 2011:** ICC introduces two new balls, one from each end; ICC cricket manager David Richardson acknowledges concerns about reverse swing but expects skilful bowlers can still achieve it within 25 overs' use. The decision was intended partly to address visibility and balance between bat and ball.
+- **2012:** ICC committee describes the two-ball change as successful at that stage. Avoid rewriting this as if its failure had always been accepted.
+- **June 2018:** England make 481–6 against Australia; Sachin Tendulkar and Waqar Younis criticise the two-ball system. **The innings sparked debate; it does not prove that the ball rule caused 481.**
+- **2019/2023:** Karthik S and Jarrod Kimber publish differing statistical analyses of the pre/post-2011 effects. Important counterevidence: there may have been *benefits* to pace bowlers with the new ball and some spinners, as well as a loss of late reverse swing.
+- **July 2025:** New ODI condition: after 34 overs using two balls, fielding team chooses one for the remaining 16; chosen ball may accumulate up to 33 overs' use (vs 25 previously). A similar 30-over compromise had been publicly discussed earlier; don't claim causal influence on ICC without documentation.
+- **2025–26:** Players/coaches discuss attacking earlier and preparing the older ball. Candidate scenes to verify fully: Taskin Ahmed's successive reverse-swing dismissals of Xavier Bartlett and Adam Zampa (Australia v Bangladesh, June 2026); England's acceleration ahead of over 35 against Sri Lanka at The Oval (September 2026). **Neither scene by itself shows that the rule decided the match or caused a strategic shift.**
+- **October 2026:** BBC/CricViz reports more late-innings pace swing, but changes in death-over economy are modest and vary by team and conditions.
+
+**Unresolved research question (possible future revival):** *Has the 2025 rule restored an important bowling skill without materially changing overall scoring or results?* The BBC's late-innings **pace-only** figures and broader **all-bowler** scoring analyses are not directly comparable; apparent disagreement may be sample composition, venue, innings phase or adaptation. Do not claim a contradiction until definitions and denominators align. A second question — *are teams genuinely attacking earlier?* — already has published coverage; only revisit for a strong new match, interview, or independently replicated finding.
+
+**If revisited, minimum evidence needed:**
+1. Download/validate Cricsheet ODI ball-by-ball records; compare closely matched periods before/after July 2025, with match counts, innings phase (especially overs 26–34 and 43–50), wickets in hand, opposition, venue, innings targets and bowlers. Cricsheet does **not** track swing itself.
+2. Identify one consequential *decision* in an actual match, corroborated by on-record participants and ball-by-ball evidence. Separate correlation, players' own tactical reasoning, and proof of causal effect.
+3. Recheck original ICC documents and source articles, plus competing statistical analyses; establish what the new piece adds beyond existing coverage.
+4. **Reopen only if the answer is surprising, defensible and demonstrably not already told.** Otherwise leave parked.
+
+**Useful source trail (starting points, not a completed fact-check):**
+- [BBC Sport, reverse-swing analysis (19 Oct 2026)](https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o)
+- [ICC: David Richardson answers questions (2011)](https://www.icc-cricket.com/news/david-richardson-answers-your-questions)
+- [ICC: 2025 playing-condition changes](https://www.icc-cricket.com/news/several-changes-made-to-icc-playing-conditions)
+- [The Daily Star: Brett Lee on replacement ball (2007)](https://www.thedailystar.net/news-detail-7493)
+- [Karthik S: Two New Balls, Please (2019)](https://criconometrics.substack.com/p/4-two-new-balls-please)
+- [Jarrod Kimber: How two new balls changed ODI cricket (2023)](https://www.goodareas.co/p/how-two-new-balls-changed-odi-cricket)
+- [The Cricket Monthly: Kookaburra white-ball history](https://www.thecricketmonthly.com/story/1160615/how-kookaburra-balls-came-to-rule-the-world)
+- [The Indian Express: late-overs scoring analysis (2026)](https://indianexpress.com/article/sports/cricket/india-pacers-old-ball-problem-odi-rule-change-2027-world-cup-10893655/)
+- [Cricsheet ball-by-ball ODI data](https://cricsheet.org/matches/)
+
+**Editorial lessons:** Statistics without a consequence prompt "**So what?**"; do not glue an ordinary defeat onto a rules explainer and call it a story. Trace *intention → objection/prediction → actual decisions → consequences → competing explanations*, and check that an editor has a reason to commission it **now**. Historical rule-change retrospectives are a useful *story-finding method*, not an obligation to produce an article from every rule change. **Priority remains publishing the articles already underway.**
