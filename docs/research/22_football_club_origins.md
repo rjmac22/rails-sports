@@ -340,3 +340,49 @@ Robinson (1920) draws upon original club minutes but also supplies hindsight and
 - Collect first-person reasons for joining specific early clubs (not just club constitutional objectives).
 - Keep separate **what they liked about a game** from **what they wanted from organised competition**.
 - Only then model the decision to form a club or play outside opponents, and investigate the outcomes. **No new article draft yet.**
+
+
+---
+
+## Incentive 2 — 'I want to play football: how do I get a game?' (19 October 2026)
+
+**Status:** Sufficient preliminary evidence for organisational alternatives, not yet a causal ranking. Do not write a new article yet. Do not assume a formal club, an opponent outside the group, a fixed XI, national playing laws or playing for a fee.
+
+### Feasible choices, assessed from the individual player's perspective
+
+| Choice | Potential advantage | Potential costs or barriers | Evidence / status |
+|---|---|---|---|
+| Return to school or former-pupil games | Familiar players, facilities, code | Access permission, restricted calendar, school membership | Rugby School laws (1845) allow former pupils with captains' approval; do not claim universal permission elsewhere |
+| Informal scratch games | No institutional maintenance overhead, use existing friends | Need recruitment and place/time for each fixture | Richmond 1863 explicitly preferred playing occasional winter fixtures without long-lived club (contemporary letter); Blackheath began ad hoc |
+| Join existing local football group or club | Existing player pool and arrangements | Admissions, dues, fit of preferred rules, geography | Barnes 1862: 1s annual subscription, admission via two-member sponsorship and committee approval; friends/local residents admitted to play with captain's permission |
+| Add football to an existing institution | Already have facilities / membership network | Need agreement from other members, available grounds and time | Hallam Cricket Club's football section; relative motivations depend on later club retrospective |
+| Establish a club | Continuing recruitment, membership continuity, pooled equipment/grounds, agreed decision process | Upfront recruitment, time for administration, regular money and attendance obligations | John Hope's Edinburgh club retained subscriptions, ground receipts and ball expenses; Sheffield club 1857–59 record officers, balls and accounts |
+| Stop or substitute another activity | Avoid cost and difficulty of organising matches | Lose some football-specific enjoyment | A logical option; Tom Wills (1858) explicitly regarded other physical activities as substitutes for fitness but this is Incentive 1 |
+
+**Don't conflate:** A game being held; a temporary team acting under a name; a membership institution; a representative team.
+
+### First-hand/historical contrasts
+
+**Richmond, November 1863: explicit choice *not* to create a formal club.** Edwin H. Ash wrote that the group was mostly temporary men preparing for the army and unlikely to remain long in Richmond. They formed a group in winter to play occasional matches, and a lasting membership organisation was not worth establishing. Quoting a contemporary letter as transcribed by Wikisource from *The Sporting Life*: 'it is useless our trying to form a regular club'. The letter also envisaged adopting common laws for convenience, showing that an informal team could choose common rules without being a formal club. *Do not infer the FA was required to make their matches happen.* https://en.wikisource.org/wiki/The_Sporting_Life/1863/Football_Association_Meeting
+
+**Blackheath, 1858–1862: the player pool changed before formal organisation.** Blackheath's club retrospective notes no secretary/treasurer until 1862 and ad hoc early games. Former pupils could not supply enough available players, so invited outsiders. They opened membership by 1862–63. Distinguish the original school game and the eventual more formal club. https://blackheathrugby.co.uk/our-history/
+
+**Barnes, 1862: a formal club enabling informal play.** Printed regulations (extant in later transcription) say: annually paid members (1 shilling), two-member introductions plus committee approval, local residents and members' friends permitted to play subject to captain's decision, Barnes Green as venue, balls stored at White Hart and **any four members permitted to borrow club property for use**. This indicates club as **shared access/infrastructure**, not a compulsory formal representative XI for each session. https://en.wikisource.org/wiki/Rules_of_Barnes_Football_Club_(1862)
+
+**John Hope's Edinburgh Foot-Ball Club (1824–1841): pooled resources for sustained activity.** National Records Scotland describes/illustrates subscriptions, Dalry Park hire receipt 1826 and ball inflation expense 1832. This proves practical club running costs, not modern code or profit motivation. https://blog.nrscotland.gov.uk/2018/04/09/trailblazers-the-worlds-first-football-club-with-john-hutchinson-andy-mitchell/
+
+**Sheffield (1857–1859): why formalising might be worth effort.** Original minute books and 1859 printed code record annual sports, subscriptions, elected officers, balls bought and club game laws. Contemporary archive accounts indicate activity and shared property; **1907 jubilee history** claims adults formerly familiar with school football lacked opportunities to pursue it in leisure. This latter account is retrospective. 1858 rules drafted *after* play had begun. https://www.sothebys.com/en/auctions/ecatalogue/2011/english-literature-history-childrens-books-illustrations-l11404/lot.10.html ; https://shefflibraries.blogspot.com/2018/10/the-sheffield-football-rules-of-1858.html
+
+### Interim incentive findings
+
+- If friends, opponents, place and mutually acceptable rules are already available, a **permanent club is optional**: Richmond shows conscious choice not to form one; early Blackheath shows informal-to-formal progression.
+- A club may be worthwhile where members expect to keep playing and need **reliable administration or shared resources**: Edinburgh, Sheffield and Barnes document subscriptions, equipment and venues. That is a plausible **mechanism**, not proven unique motivation for every club.
+- Club membership need not be identical to eligibility to play: Barnes admitted guests/parish residents; Blackheath widened potential players.
+- Opening a new club is only one possible response to shortage of players; relaxing eligibility or using an existing club can work.
+- Club formation may reflect **who is already connected** (former pupils, cricket members, professional men), not necessarily a desire to create an exclusive team or inter-club championship.
+
+### Scope limit
+
+These records don't identify how common each option was, or determine the exact attendance threshold or member cost at which club formation becomes rational. Do not mathematically model an attendance problem unless a specific documented decision requires it.
+
+**Next decision (Incentive 3):** Once I can get a game regularly, what would induce me to invest in a permanent club, or to arrange fixtures with other groups? Treat these as **two distinct choices**, not automatic stages of one process.
