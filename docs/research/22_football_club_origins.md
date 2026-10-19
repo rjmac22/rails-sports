@@ -492,3 +492,52 @@ After the 31 March 1866 Sheffield–London representative game under FA laws, Sh
 - **A negotiated match is not a universal standard**. These decisions may produce a different match-specific game, not a single national code.
 
 **Next:** Compare the exact **mechanical consequences** of changing one rule — what the game lost/gained under two viable alternatives — and find documented player preference rather than imposing modern judgements. No article premise yet.
+
+
+---
+
+## Incentive 4: What changing specific rules did to the game (19 October 2026)
+
+**Research step after negotiation case studies.** Ask: what *activity, tactic, skill or risk* changes under different codes, and what value was the decision-maker hoping to retain or gain? Distinguish (A) mechanics deducible from written laws, (B) **participants' documented preferences**, and (C) actual *experienced* outcomes. No narrative draft and no assumption an FA rule was intrinsically superior.
+
+### A. Offside: the attacking possibilities at stake
+
+- **Sheffield 1858 and 1862 printed laws:** no offside article (absence of a rule in a surviving printed code; note some *unwritten/customary* restrictions may have applied in later matches). By 1863 Sheffield FC had adopted a lenient **one defender** practice, according to contemporaneous secretary Chesterman's letter in Dec 1863 and H. W. Chambers' Feb 1867 retrospective letter to *The Field*. [1858 code](https://en.wikisource.org/wiki/Sheffield_Rules_(1858)); [1862 code](https://en.wikisource.org/wiki/Sheffield_Rules_(1862)).
+- **FA 1863 Law 6:** a teammate **ahead of the ball** when kicked was out of play, much stricter than later association football offside. This constrains kicks to already advanced teammates and favours moving forward with the ball, dribbling or supporting from behind. The tactical distinction is **deduced from rules**, not direct statistical proof of what footballers actually attempted. [National Football Museum transcription of 13 laws](https://nationalfootballmuseum.com/items/the-laws-of-the-game-1863/).
+- **Sheffield AGM 25 Sept 1865:** club **agreed to play a stricter offside rule** with optional old-code games against local clubs who did not adopt it. Conditional offer to Notts FC to keep offside **if Notts abandoned marked kicks and free kicks at goal**. These are **offers / resolutions**; not proof Nottingham accepted. [Original minute transcriptions in Sotheby's archival catalogue](https://www.sothebys.com/en/auctions/ecatalogue/2011/english-literature-history-childrens-books-illustrations-l11404/lot.10.html).
+- **1865–66 trial outcome:** Sheffield abandoned the strict offside practice. *The Sporting Life*, **30 Jan 1867**, p. 4, article 'Football in Sheffield', reported it was **'universally disapproved of'** and that onside/offside distinctions were very difficult to adjudicate amid excitement, so the prior restriction was restored. The article is quoted by [secondary Sheffield rules chronology](https://en.wikipedia.org/wiki/Sheffield_Rules) citing that exact press issue; **locate original newspaper scan before publication**, and remember newspaper claims like 'universally' cannot establish literal unanimity. H. W. Chambers [The Field, 9 Feb 1867, XXIX(737):104] corroborates descriptions of the local one-defender rule.
+- **Material implication:** Agreement with outsiders might expand a club's possible matches **while reducing tactics and creating disputes over what counts as lawful play**. Sheffield's *revealed reversal* is unusually direct empirical evidence of that conflict. Do not confuse one-defender Sheffield offside with current FIFA offside or infer Sheffield introduced offside only in 1865.
+
+### B. Carrying and hacking: what game do players want, and who bears injury risk?
+
+- **FA draft before Dec 1863** Law IX would permit running towards goal carrying the ball from a fair catch or first bounce; Law X then allowed defenders to hold, trip, hack and wrest ball from that ball carrier (but not simultaneously hold and hack). This is a coupled decision: physical defensive tools were justified under the version permitting ball-carrying. [Draft laws](https://en.wikisource.org/wiki/Laws_of_the_Game_(1863)_(draft)).
+- **Adopted FA 1863 Laws 9–12** banned carrying, holding/pushing an adversary and hacking/tripping, **but retained the fair catch and its free kick**. Critical correction to simplified popular story: the original FA game did **not** eliminate catching entirely. [National Football Museum](https://nationalfootballmuseum.com/items/the-laws-of-the-game-1863/).
+- **1 Dec 1863 debate, contemporaneous Bell's Life transcript:** Campbell (Blackheath) emphasised 'pluck' and courage from running/hacking, resisted conceding key features, warned removal would render game unacceptable to his people. Morley (Barnes) predicted adult businessmen would refuse a game with hacking due to injury risk; he said he personally didn't mind it much, but prioritised broad participation. [Exact extended contemporaneous debate and recorded vote](https://playupliverpool.com/1863/12/01/the-fourth-meeting-of-the-football-association/).
+- **Sheffield 1858:** original rules permitted pushing an opponent and hitting/pushing the **ball** with hands, forbade hacking/tripping/holding, **and** permitted a fair catch (but not carrying). Their preference cannot be collapsed into 'all adults want no handling and no contact'. [1858 code](https://en.wikisource.org/wiki/Sheffield_Rules_(1858)).
+- **Mechanics deduction:** A permitted carry enables direct advances in possession with different defensive requirements; hacking/tripping increases possible methods of stopping carriers and injury exposure, potentially deterring certain participants. Removing them alters essential attack and defence actions and participation risk. People disagreeing may rationally refuse to play the other's version, not merely disagree about officials' interpretations.
+
+### C. Fair catch, mark, and free kick at goal: losing a way of turning a catch into a scoring chance
+
+- **Sheffield 1858 Law 3:** a clean catch before ball touches ground yields a free kick; **Law 9 excludes a direct goal from the free kick after a catch**. Sheffield 1862 Law 9 likewise bars obtaining a goal by free kick/catch.
+- **FA 1863 Law 8:** a fair catch earns a free kick if the player makes a mark with heel immediately; goal scoring possible from a permitted free kick in the FA code, whereas Sheffield expressly excludes it. (Other free kick situations also existed e.g. touch-down behind goal.) [Sheffield 1858](https://en.wikisource.org/wiki/Sheffield_Rules_(1858)); [Sheffield 1862](https://en.wikisource.org/wiki/Sheffield_Rules_(1862)); [FA 1863](https://nationalfootballmuseum.com/items/the-laws-of-the-game-1863/).
+- **Sheffield to Nottingham, Sept 1865**: offers offside **in return** for dropping Nottingham's practice of marking the ball and free kick at goal. Undergoing the concession would limit/alter stoppage and scoring opportunities (inference from the provisions); the exact *Notts* code or its original text and whether Notts accepted **not yet verified**. Don't conflate **catch**, **mark**, **free kick** and **direct goal**; they are separate components.
+- **Trade-off:** players favouring uninterrupted ground football and fewer free kicks have different preferences from players who value aerial catching, set kicks and direct attempts at goal. However these particular stated motives for Sheffield/Notts are **hypotheses**: the original committee minutes record the *terms*, not why anyone liked or disliked each rule.
+
+### D. Scoring: a surprisingly explicit design motive
+
+- Sheffield introduced **rouges** in its 1862 rules after previously rejecting them (1861), with the early goal **12 feet wide, 9 feet high**. In contemporary coverage of 1862 law changes, the rouge's purpose was expressly to **reduce drawn games**. A goal outweighed any number of rouges; rouges distinguished games tied on goals. Analogy: a lower-tier scoring criterion rather than a modern goal.
+- Distinction: These were changes made **within an existing club's preferred code to improve its experience**, not an inevitable compromise demanded by another club.
+- Evidence: [Sotheby's catalogue quoting 1862 code](https://www.sothebys.com/en/auctions/ecatalogue/2011/english-literature-history-childrens-books-illustrations-l11404/lot.10.html); [Sheffield 1862 written laws](https://en.wikisource.org/wiki/Sheffield_Rules_(1862)); Sheffield Daily Telegraph **31 Jan 1862, 8 Feb 1862** (secondary citation in the Sheffield Rules reference notes; verify originals).
+
+### Scorecard for evidential strength
+
+| Rule conflict | Direct *rule text* | Stated *incentives/preferences* | Actual *outcome* |
+|---|---|---|---|
+| Sheffield strict vs lenient offside | Yes | Jan 1867 report gives practical dissatisfaction; Sept 1865 minutes give accommodation for Notts | Tried rule, then reverted, corroborated by period accounts (direct original page not inspected) |
+| Carrying and hacking, 1863 | Yes | Campbell vs Morley: extensive contemporary speeches | FA adopted ban and Blackheath withdrew; alternative traditions remained |
+| Sheffield/Notts offside ↔ mark/free kick at goal | Sheffield and FA provisions yes; Notts exact code not inspected | None beyond conditional proposal | Proposed bargain, **acceptance not confirmed** |
+| Sheffield 1862 rouges | Yes | Contemporary newspaper describes prevention of draws | Introduced, later abandoned, no claims about impacts on goal rates |
+
+**Counterintuitive result:** An attractive outsider can induce a compromise, but the new rule may reduce the very *enjoyment/clarity* of football that prompted clubs to organise in the first place. The 1865–66 offside trial shows a club could *reverse* a concession rather than standardise permanently.
+
+**Next stage:** Establish the *fixed, repeated* costs of bilateral rule negotiations (fixtures, communication, officiating, uncertainty) and which individual clubs preferred binding standardisation even when that made their game less enjoyable. That is a separate incentive question, not proof that the FA had to be the solution.
