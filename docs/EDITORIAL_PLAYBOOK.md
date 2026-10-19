@@ -10,6 +10,87 @@ This is the working editorial and production process for Rails Sports. It should
 
 Routine checks do not need to be escalated when they pass. Problems, uncertainties and choices that affect meaning, voice or publication policy do.
 
+## Story discovery and commissioning — before the editorial production process
+
+This section governs **whether an article should exist at all**. It precedes drafting and subediting. Rails Sports' editorial advantage is not having more statistics or brainstorming more topics: it is **investigating how sport works and finding the human decisions and consequences that make a discovery worth reading**. The writer must satisfy both the sporting question and the reader/publisher test.
+
+### Positioning: a recognisable method across sports
+
+**Working reader promise:** Rails Sports investigates *why sport works the way it does*, revealing decisions, incentives, trade-offs and consequences that are not always obvious from watching the action.
+
+- The sport and the reader's curiosity come first; data, modelling and simulation serve the question, never the other way around. **The simulation is the engine; the sporting question is the product.**
+- The brand is defined by **how we investigate**, not by covering one sport. Articles across cricket, football and snooker should still feel related by their method and insight, not merely share a masthead.
+- An interesting intellectual exercise is not automatically a viable article. Before substantial research, consider target readers, their existing knowledge, size/reach of the potential audience, likely publications and a credible route to distribution.
+- Football offers broad potential reach; cricket has already worked for our first-principles approach; snooker fits editorially but has a more specialised audience. **No sport is automatically the next article.** Do not let existing notebooks or sunk costs make the selection for us.
+- A specialist outlet can be a better home than a broad one. An evergreen feature does not need a news hook, but it still needs an identifiable readership and a compelling reason to read *this* treatment.
+
+### Discover the question from the game — not from a headline
+
+The approach that produced *Why the Score Doesn’t Always Tell You Who’s Winning in Cricket* started with **“What does it mean to win a game of cricket?”**, not a famous match, a ready-made headline or a prediction algorithm. Research into objectives, limited resources and changing incentives led us to Kolkata (deliveries running out), Sydney (time running out) and Headingley (the final wicket and who faces the next ball).
+
+For a new sport, start with a question such as **“What makes this an interesting game to play and watch?”** Then investigate:
+
+1. **Objective and scoring:** What constitutes winning, drawing, progressing or avoiding defeat? What does the scoreboard conceal?
+2. **Rules and resources:** What is finite or scarce — time, possessions, turns, wickets, fouls, substitutions, space, attempts, control of the next play?
+3. **Choices and opponents:** What can competitors choose or influence, what can their opponents deny them, and where do their incentives conflict?
+4. **Trade-offs and reversals:** When can scoring be counterproductive? When is not scoring progress? When does the usual sound tactic become a mistake? What might an opponent rationally *want* you to do?
+5. **Uncertainty:** Which choices change the *likelihood* of an outcome without guaranteeing it? Distinguish a good decision from a good result.
+
+Look for a concrete **apparent contradiction** that prompts “Why would a player deliberately do that?” — but do not mistake an obvious tactic, a hypothetical paradox or a familiar fan insight for a discovery. Ask whether knowledgeable followers already know the answer.
+
+Start with the rules and the smallest useful example; use calculation, simulation or an existing notebook only when it illuminates a consequential decision. **Do not build a predictor because we have the machinery to do so.**
+
+### From mechanism to a real sporting story
+
+Once research produces a promising consequence, **then** find the relevant match, decision or historical incident. A famous match on its own is not a story angle.
+
+For each candidate, establish:
+
+- **The decision:** Who faced what choice, at what match state, and which alternatives were available?
+- **The reason:** What did they know or believe at the time? Seek contemporaneous reporting, footage, players' or coaches' explanations and official records; separate those from hindsight.
+- **The consequence:** What changed — the options, the pressure on an opponent, the probability of winning, the score, or the result? Do not claim the choice *caused* the outcome unless evidence warrants it.
+- **The new understanding:** What can the reader now see that the footage, scorecard or conventional recap alone would not show?
+- **The distinctive contribution:** Have other writers already made essentially the same argument? What do we actually add?
+
+Sometimes one exceptionally revealing incident is stronger than three examples. Choose the number that the idea needs; do not impose the three-match structure of the cricket article on every future piece. Narrative reconstruction must **explain**, not duplicate visible action like live commentary.
+
+### The reader and commissioning test — before drafting
+
+Before turning research into prose, be able to say in ordinary language:
+
+> We investigated **[a question worth asking]** and found **[a surprising, well-supported mechanism or result]**. **[This player, match or decision]** shows why it matters. A reader of **[this publication or audience]** gains **[something they would not otherwise know]**.
+
+Ask **“So what?”**, **“Where's the consequence?”**, **“Who cares?”** and **“Why would an editor commission this now, from us?”**
+
+**Go/no-go checks:**
+
+1. Is there a genuine, meaningful sporting question — not just a measurable difference, a curious rule or a clever analogy?
+2. Is there a decision, conflict or consequence that can be explained and evidenced through an actual event?
+3. Would a well-informed fan find the insight new, surprising, illuminating or unusually well demonstrated?
+4. Can we substantiate it with accessible data, sources and honest uncertainty? Are there viable alternatives to an expensive or inaccessible data source?
+5. Does it fit Rails Sports' recognisable promise *and* a real audience/publication? Could a reader who enjoyed the first article understand why this belongs alongside it?
+6. Has the core idea already been covered? If so, can we demonstrate a worthwhile additional finding rather than simply rewriting another journalist's work?
+7. Can the proposed depth and length earn the reader's time? Don't spend 2,000 words proving what the audience already understands.
+
+A story can be evergreen, niche or explanatory and still pass. But **beautifully explained common knowledge is not necessarily a compelling pitch**. A strong research archive, accurate model or polished draft is not proof of audience demand.
+
+### Scope, stopping rules and outcomes
+
+- **Timebox initial exploration.** Begin with a focused first-principles research session, not a new months-long modelling programme.
+- **Only deepen the analysis when a candidate story justifies it.** Search for decisive evidence and counterexamples; do not expand the question to keep a project alive.
+- **Separate idea quality from prose quality.** Test likely readers and commissioning interest *before* extensive line editing. Once a draft is finished and evidence-safe, stop polishing and make a bounded pitch-first/self-publish decision.
+- **A valid research outcome is “no article”.** Record the finding, evidence, unresolved questions and specific reason for the no-go; park it without repeatedly returning to it. A failed candidate is useful if we stop promptly.
+- **Shipping remains the priority.** One published piece and genuine outside reader/editor feedback teach more about positioning than an endless private queue of prospective articles.
+
+### Lessons from completed and rejected work
+
+- **Cricket from first principles:** Strong progression from *what is winning?* through disappearing deliveries, time and wickets to consequential decisions. The strongest passage explains why Stokes taking a single might improve England's score but worsen their chance of winning. Historical Betfair prices help show changing expectations, with sampling and probability limits recorded. **Caution:** the opening/headline could be more arresting; familiar matches can require too much retelling; the Sydney passage drifted towards recap; and the ending teased a field-placement sequel instead of fully closing a standalone pitch. Research quality and editorial completion do **not** establish that a publication will commission it.
+- **Snooker prediction and player-form studies:** Rigorous modelling can answer a technical question without finding something a spectator wants to read. Return to the game's decisions, constraints and structure; do not treat the existence of many finished notebooks as a reason to force a feature.
+- **ODI two-ball/reverse-swing retrospective (October 2026):** We found a genuine historical sequence and examples, but much of the controversy, statistical analysis and tactical discussion had already appeared elsewhere. More movement and a small economy-rate difference weren't automatically a human story, nor evidence of causation. **No draft** was the right editorial outcome. Preserve the case-specific sources and unanswered questions in [the ideas file](../ideas/article_ideas.md).
+- **Next exploration — football:** Investigate football's rules, incentives and what makes it worth playing/watching **without presupposing an article**. Existing penalty-shootout notebooks may be reused if relevant, but they do not dictate the question. Search for counterintuitive, verifiable decisions and real examples, then apply the commissioning test. Snooker remains an editorially viable alternative, not a commitment.
+
+**Bottom line:** *Understand the game → discover a consequence → investigate the real decision and its alternatives → test originality and reader value → decide whether to draft → edit and publish.* The rest of this playbook covers what happens **after** the decision to produce the piece.
+
 ## Copy status
 
 Treat finished body copy as locked by default.
