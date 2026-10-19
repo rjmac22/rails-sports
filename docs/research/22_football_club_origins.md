@@ -541,3 +541,49 @@ After the 31 March 1866 Sheffield–London representative game under FA laws, Sh
 **Counterintuitive result:** An attractive outsider can induce a compromise, but the new rule may reduce the very *enjoyment/clarity* of football that prompted clubs to organise in the first place. The 1865–66 offside trial shows a club could *reverse* a concession rather than standardise permanently.
 
 **Next stage:** Establish the *fixed, repeated* costs of bilateral rule negotiations (fixtures, communication, officiating, uncertainty) and which individual clubs preferred binding standardisation even when that made their game less enjoyable. That is a separate incentive question, not proof that the FA had to be the solution.
+
+
+---
+
+## Incentive 5 — Why agree on a standing set of rules? Why form an association? (19 October 2026)
+
+**Decision question:** Clubs can already play together under match-specific or bilateral codes. When would they prefer durable common laws and a permanent coordinating institution? **Do not assume common rules and association membership are the same decision.** A viable internal club or compatible local match can stop there.
+
+### 1. Explicit player-side benefits before the FA
+
+- **6 Oct 1863, 'Etonensis', _London Daily News_**: Writing about Etonian–Westminster compromise games, said differing codes obstructed matches and prevented players proving skill outside familiar associates. Compromise football degraded skill expression; advocated a single common code. This demonstrates *interoperability* and *comparability of skills*, not merely saving letters or postage. The available digital source is an historical *summary* of the letter, **not its full verbatim text**. https://playupliverpool.com/1863/10/06/lets-frame-rules-for-one-universal-game/
+- **1861–62 Dingley Dell, London**: Played games under a local hybrid code; observers writing in _The Field_, 22 Feb/22 Mar 1862, advocated publishing rules and widespread adoption akin to MCC's cricket laws. 'D.D.' letters in _Bell's Life_, Dec 8 1861, proposed principles excluding carrying and hacking and hoped schools would agree. **Author's identity as Dingley Dell's captain George Sills is only conjectural**. These are **pre-FA proposals for standardisation**, showing the FA was not the only possible vehicle. https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2113128 (search index provides relevant excerpts; publisher page may deny open access); https://www.researchgate.net/publication/363745697_A_brief_study_of_football_in_London_from_1800_to_the_founding_of_the_Football_Association_in_1863 . Scholarly source Michael Freeman (2022).
+
+### 2. Documents with unusually explicit motives, Nov–Dec 1863
+
+- **26 Nov 1863: John G. Tupholme, secretary, Louth FC**, replying to Lincoln FC secretary E. A. Chambers. The clubs had played each other previously. Louth had formed a subcommittee to revise rules. Tupholme explicitly wanted Louth and Lincoln to have **rules in common for easier fixture arranging WHETHER OR NOT they joined the London FA**. He personally favoured joining the FA but recognised separate decisions. Read by Morley in FA meeting **1 Dec 1863**, reported in _Bell's Life_ on 12 Dec. **This is the strongest direct recorded case of the transaction-cost argument without conflation with FA membership.** https://playupliverpool.com/1863/12/01/the-fourth-meeting-of-the-football-association/ (the full report, find Tupholme).
+- **28 Nov 1863: Edwin H. Ash, Richmond informal footballers.** Declined FA membership as not a continuing club, but expected to adopt its laws for **convenience in matches with other clubs**. This is the **free-adoption/non-member** case, showing a club can use FA's output without joining. Text transcribed from _The Sporting Life_: https://en.wikisource.org/wiki/The_Sporting_Life/1863/Football_Association_Meeting and the fuller _Bell's Life_ report above.
+- **30 Nov 1863: W. Chesterman, Sheffield FC secretary**: Applied to enrol as association member and thought a general code desirable; simultaneously sent Sheffield's existing code and objected to multiple proposals (no crossbar; ball throwing distance; running/hacking; boot nails). Membership interest was **not** unconditional acceptance of the draft rules. _Bell's Life_ Dec 12: https://playupliverpool.com/1863/12/01/the-fourth-meeting-of-the-football-association/ .
+- **10 Nov 1863 FA meeting, Ebenezer C. Morley:** Acknowledged public schools would not immediately abandon local codes, but argued they would recognise advantage of common law when playing association clubs on **neutral ground**. Thought **20–30 clubs** joining would create sufficient authority for the code. A clear **network benefit** argument: the attractiveness of a code depends on how many desirable opponents use it. It was his **expectation**, not a guaranteed historical outcome. _Bell's Life_, Nov 14, reproduced: https://playupliverpool.com/1863/11/10/the-football-association/ .
+- **Harrow school captain, Charles Gordon Browne, Oct–Nov 1863:** First requested **specific benefits of joining the FA**, then said Harrow preferred own rules and would watch the experiment from outside. **Explicit counterexample:** common code not worth perceived sacrifice at that point. _Bell's Life_ Nov 14, same link.
+- **Charterhouse, B. F. Hartshorne, Oct 29 1863:** declined FA membership 'as yet'; **Westminster** preferred to wait for a separate meeting of **public-school captains**. Suggests *alternative governance / waiting for others*, not consensus or automatic need for London rules. _Bell's Life_ Nov 14.
+- **9 Nov 1866, _London Evening Standard_, letter signed 'Hon. Sec., Football Association':** explicitly said objective of developing universal laws was to enable neighbouring clubs to play without rule disagreements; admitted the original split was difficult. Useful **three-years-later statement of organisers' purposes**, not definitive proof why all 1863 founders acted. https://playupliverpool.com/1866/11/09/hacking-at-football-letter-to-the-editor/
+
+### 3. What does a standing association add over two clubs agreeing privately?
+
+**Supported institutional actions, not necessarily uniquely necessary functions:**
+- Permanent publication of a *single* rulebook. In 1863 FA founding rules required changes to be advertised in newspapers; FA printed a booklet of laws in Dec 1863. https://www.thefa.com/about-football-association/who-we-are/history
+- Proposed membership and subscription: annual **one guinea per club** (FA history). Distinguish club levy from member-level recreational subscriptions (Barnes **one shilling per person**; apples and oranges).
+- Regular committee meetings, amendments, correspondence with potential member clubs and schools; reported Nov–Dec 1863.
+- A club adopting published common laws without joining association, as **Richmond** expressly envisaged, illustrates that these **services have non-member benefits**.
+- But agreement on the **rules** is not agreement on the **best game**, or a reason to give the institution power over your own club's rules. A common code may align *some* matches, not end other codes.
+
+**Hypotheses to test, not established founder-wide motives:** lower recurring bargaining / translation costs, fewer arguments over game legality and officiating, comparable skill ratings across opponents, larger fixture network, convenience of future revisions, predictable participation rules, status/agenda control for founders.
+
+### 4. Key caution against inevitable-FA history
+
+- Rugby-style advocates (Blackheath's F. M. Campbell) resisted dropping running with the ball and hacking, preferred not to join if those were abandoned. Recorded in 1 Dec 1863 debates; different attractive games were at issue.
+- Original founding was a **small London group**. Hiroyuki Aonuma (2014) concluded they did **not** intend to enforce rules throughout Britain when founded; examined original meeting documents and later institutional histories: https://www.jstage.jst.go.jp/article/jjpehss/59/2/59_13077/_article .
+- **FA did not monopolise useful standardisation:** local Sheffield games, Cambridge and Dingley Dell codes, bilateral Louth–Lincoln rule agreements and various Rugby or Australian traditions operated independently or in parallel. The final explanation for **global popularity** is *not* established at this stage.
+- **Do not invent** quantitative evidence that negotiating each fixture was expensive; we have contemporary statements about *difficulty and convenience* but not a quantified burden or number of cancelled fixtures caused by negotiation.
+
+### Provisional Incentive 5 finding
+
+There was **documented, variable demand for predictable common rules** amongst people who sought outside opponents. Some consciously considered rule alignment independent of joining the FA (Louth-Lincoln, Richmond); others saw greater advantage as clubs adopted the code (Morley), while schools preferred existing games (Harrow) or waited for rival coordination processes (Westminster). The FA is therefore intelligible as **one proposed continuing solution to an optional coordination challenge**, not the necessary culmination of football.
+
+**Next distinct question**: What did the early association actually do in its first one or two seasons, and did the clubs who joined obtain more games or better quality of play than similar clubs that didn't? Compare memberships/fixtures using *contemporaneous* calendars, published records and correspondence. Don't infer adoption merely from a club appearing in a list. Drafting remains shelved pending incentive analysis.
