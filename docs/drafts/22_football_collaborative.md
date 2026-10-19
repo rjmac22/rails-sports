@@ -12,6 +12,8 @@ Then the Football Association came along, established a common set of rules, and
 
 Or so the story goes.
 
+People had been playing games called football for centuries. Medieval versions varied from place to place, but they weren't entirely without rules. Players followed local customs, even if those rules weren't written down.
+
 ---
 
 ## Next to develop together
