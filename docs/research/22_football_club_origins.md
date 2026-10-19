@@ -386,3 +386,53 @@ Robinson (1920) draws upon original club minutes but also supplies hindsight and
 These records don't identify how common each option was, or determine the exact attendance threshold or member cost at which club formation becomes rational. Do not mathematically model an attendance problem unless a specific documented decision requires it.
 
 **Next decision (Incentive 3):** Once I can get a game regularly, what would induce me to invest in a permanent club, or to arrange fixtures with other groups? Treat these as **two distinct choices**, not automatic stages of one process.
+
+
+---
+
+## Incentive 3 — 'Our club can already play: why seek outside opponents?' (19 October 2026)
+
+**Core premise:** Remaining an internally-playing recreational club is a viable end state. Outside fixtures are a *choice*; they require an incentive that outweighs costs and any sacrifice to a valued code. No claim that all clubs had such an incentive. Do not draft an article until the incentive analysis is sufficiently grounded.
+
+### Candidate incentives and their status
+
+| Candidate benefit | Documented behaviour or stated reason | Confidence / caution |
+|---|---|---|
+| More interesting opposition; greater variety | Sheffield's John Charles Shaw later recalled dividing members alphabetically to keep play interesting, then creating Hallam to have opponents for Sheffield; judged those fixtures enjoyable | Strong evidence of his retrospective *claimed motive* (1907 letter) but nearly 50 years' gap; not proof of universal mechanism |
+| Improve club's challenge, vigour, standard | **Queen's Park April 1869 minutes**, quoted by Richard Robinson, discussed other clubs to 'stimulate and rouse the general stamina of the club'; captain Robert Gardner in **April 1872** regretted absence of outsiders to test the 'metal' of Queen's Park | Specific committee/club motives, presented in 1920 club history using dated minutes; more direct than an inference of boredom |
+| Represent one's group, test relative ability and claim status | Queen's Park 1869 match victory inspired H. N. Smith's celebratory poem, printed and distributed by the club; Sheffield v Hallam 1862 reports passionate crowd reactions | Evidence of meaning *after* external contests, not conclusive evidence of the original desire to arrange them |
+| Seek chances for selection | Selection and second/third XIs clearly emerge at Queen's Park by the 1870s | A consequence and possibly secondary incentive, but not directly established as reason for arranging the earliest outside matches |
+| Socialising, travel or adventure | Outside fixtures created visits to other clubs | Plausible, but no verified early direct evidence identifying these as dominant participant motives; sometimes travel was a deterrent |
+
+### Concrete 1867–72 Queen's Park choices: benefits weighed against costs
+
+**Club start:** Original constitution of 9 Aug 1867 described 'recreation and amusement of its members'. The club arranged internal games, had rules, no requirement for a national competition. [Robinson, Ch. XI](https://www.electricscotland.com/history/sport/football/chapter11.htm).
+
+**1 Aug 1868 — Accept Thistle challenge:** Club played against Thistle under locally negotiated arrangements. A real original letter by club secretary Robert Gardner, dated **29 July 1868**, survives in Scottish Football Museum: it agrees **20 a side**, proposes **two hours** as adequate given the weather, and asks to change ends to balance ground and wind. 2–0 victory. This shows game details could be negotiated *without* a universal rule set, while enjoying outside opposition. [Richard McBrearty, history and description of the original letter](https://scottishfootballorigins.org/2021/04/05/the-story-of-1868-part-one-the-association-game-in-scotland/).
+
+**1868 — Decline Ayr:** Queen's Park also received a challenge from Ayr but rejected an immediate away fixture, according to Robinson, because members would personally pay rail fares, suitable low-cost return travel on a Saturday was impractical, and enough members might not be available in holiday season. Thistle was close enough to play. An outside opponent was attractive, but not *at any price*. [Robinson, Ch. VII](https://www.electricscotland.com/history/sport/football/chapter7.htm).
+
+**Apr 1869 — Seek more outside games:** A club-minute discussion encouraged challenges to Hamilton, Greenock and Motherwell for the documented purpose of 'stimulat[ing] and rous[ing] the general stamina of the club'. Queen's Park secretary authorised to locate and challenge clubs. [Robinson, Ch. VII](https://www.electricscotland.com/history/sport/football/chapter7.htm).
+
+**1869 — Challenge Rugby club even though they play another code:** Queen's Park approached **Glasgow Academicals** (Rugby), offering to play **20 a side under Rugby rules**. Accies refused on grounds of different code and scheduling difficulties. Queen's Park's members considered a proposal to obtain/adopt Rugby laws alongside their existing Association laws so they could meet Rugby clubs. An extraordinary general meeting voted, with considerable disagreement, to adopt Rugby rules **for October–March**, over an amendment to retain Association rules exclusively. No Rugby-code match is recorded as the result. **Strong example of a group willing to expand its choice of playable games, while its intended opponents were unwilling or unable to reciprocate.** Do not portray as permanent abandonment of Association football, since it was *additional*, and we don't know individual members' motives. [Robinson, Ch. VII](https://www.electricscotland.com/history/sport/football/chapter7.htm); corroborating overview [Ch. V](https://electricscotland.com/hiStory/sport/football/chapter5.htm). **This case occurred after the English FA's founding (1863)**, demonstrating continuing options rather than explaining the original English FA founding.
+
+**1871 — Airdrie objects and no match:** Queen's Park agreed to an Airdrie challenge, but when Airdrie read the intended laws and discovered handling prohibited, they asked for a change; Queen's Park refused, and **the particular proposed match did not happen**. They later played each other. Rules compatibility was a *transaction cost*, and compromise was optional even when outsiders desired. [Robinson, Ch. VII](https://www.electricscotland.com/history/sport/football/chapter7.htm).
+
+**April 1872 — No opponents: use internal competition instead:** Captain Robert Gardner expressed regret at lack of external matches to 'test the metal' of the club; Queen's Park arranged a **six-game series, President's Team v Captain's Team**, to maintain interest and develop play. This is a documented **internal substitute** for external challenge rather than proof outside competition was indispensable. [Robinson, Ch. VII](https://www.electricscotland.com/history/sport/football/chapter7.htm).
+
+**Constraints:** 1868 letter is original contemporary document described by museum historian; precise "20 a side" and "two hours" verifiable through its depiction; Robinson's 1920 work directly references club minutes and quotes proposals, but we should verify originals before publishing word-for-word historical claims. Robinson also adds his own retrospective language ('palled on the members' and 'gospel'); distinguish this editorial commentary from words in minute books.
+
+### Sheffield contrast
+
+Sheffield's John Charles Shaw letter dated 18 Oct 1907, held in original club archive, says after internal alphabetically arranged contests he helped establish Hallam 'for the purpose of getting a team to play against the old club'. A distinct external opponent increased match interest and rivalry, without new national laws; early Sheffield-Hallam played local Sheffield rules. [Sotheby's catalogued archive](https://www.sothebys.com/en/auctions/ecatalogue/2011/english-literature-history-childrens-books-illustrations-l11404/lot.10.html).
+
+### Interim conclusions and where to stop
+
+- **Additional opponents can be desirable even when the original club's recreational problem is solved.** At least some documented clubs actively sought different challenges.
+- **The marginal benefit varies by opponent**: local affordable opposition vs costly long-distance travel; familiar rules vs unpleasant code changes.
+- **Not everyone has equal desire for compromise**: Queen's Park considered playing Rugby rules; Glasgow Academicals refused; Queen's Park refused Airdrie's demanded handling concession in 1871.
+- **Internal contests are viable alternatives** to playing outsiders and need not create permanently separate clubs, as Queen's Park's President-v-Captain series demonstrates.
+- **External matches do not imply selection for an elite XI, same team size, a national governing body, or mandatory code convergence.** Negotiation might cover time, side size and ground.
+- Nothing here establishes *how widespread each incentive was* or why the FA's code eventually became globally widespread. This is just one decision stage; do not impose later outcomes.
+
+**Next research decision, only once Incentive 3 is accepted:** When an outside match requires a different game or compromises, how do groups decide between changing rules, adapting for a fixture or walking away? Consider differences among *players*, *captains*, and *club committees*, and use the Queen's Park–Accies and Queen's Park–Airdrie cases to inspect revealed preferences.
