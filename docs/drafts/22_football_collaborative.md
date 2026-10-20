@@ -53,6 +53,14 @@ A football club could make that easier. Members knew when and where to meet, equ
 Barnes Football Club's rules of 1862 even allowed members to invite friends and local residents to play. Any four members could collect the club's footballs from the White Hart pub.
 
 You didn't necessarily need a fixed team or a full committee meeting every time somebody fancied a game.
+
+Not everyone who established a football club was primarily interested in playing football.
+
+In Glasgow in 1887, Brother Walfrid helped establish Celtic Football Club to raise money for charitable work in the city's impoverished East End. Football matches could attract spectators, and spectators could provide the money needed to help feed people.
+
+The players might have wanted competition, enjoyment or recognition. But for Walfrid, football offered something else: a way to finance charitable work.
+
+Here was a club established not simply to provide games for its members, but to achieve something beyond the football pitch.
 ---
 
 ## Next to develop together
@@ -73,3 +81,10 @@ Players can enjoy football but still fail to get a game if not enough turn up. A
 Evidence: Blackheath's 1858–62 attempted old-boys-only side couldn't reliably get enough players, admitted outsiders and formalised as an open club (club's later history: https://blackheathrugby.co.uk/our-history/). Barnes 1862 rules explicitly allow members' friends and local residents and store footballs at White Hart; 4 members can borrow them (contemporary club rules transcribed https://en.wikisource.org/wiki/Rules_of_Barnes_Football_Club_(1862)). Queen's Park 1867 formalised regular play days (Monday/Wednesday/Saturday), ball/flag custodians, venue and membership (Robinson 1920 account of early bylaws, https://electricscotland.com/hiStory/sport/football/chapter6.htm). This makes the *reliability/turnout* issue concrete. User compared their pub poker group: uncertain participation can cause people to skip, exacerbating the problem. These are explanatory mechanisms, not a claim every club had poor attendance.
 
 **Status:** Discuss prose placement with user; do not insert finished passage without agreement.
+
+### Celtic sources / checking notes
+
+- Official Celtic FC Foundation on Brother Walfrid and 1887 foundation: https://charity.celticfc.com/brother-walfrid/
+- Contemporary **January 1888** fundraising circular (transcription and photograph), gives objective of maintaining needy children's dinner tables: https://www.thecelticwiki.com/about-celtic/celtics-foundation/the-first-circular/
+- Celtic FC Foundation quotes a **late-1887** flyer about poverty: https://charity.celticfc.com/uncategorized/this-is-how-it-feels-to-be-celtic/
+- Caution: widely reproduced claim that a foundational circular says “children and the unemployed” is challenged by the original January 1888 circular transcription; avoid treating that composite/altered quote as an original without confirming a distinct 1887 source. Approved Celtic prose deliberately does not quote it.
