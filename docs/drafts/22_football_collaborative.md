@@ -61,6 +61,14 @@ In Glasgow in 1887, Brother Walfrid helped establish Celtic Football Club to rai
 The players might have wanted competition, enjoyment or recognition. But for Walfrid, football offered something else: a way to finance charitable work.
 
 Here was a club established not simply to provide games for its members, but to achieve something beyond the football pitch.
+
+Sometimes a football club was established because someone had a football ground but no team to play on it.
+
+In 1892, Everton left Anfield following a dispute with the ground's owner and the club's former president, John Houlding. The disagreement involved rent and other business arrangements.
+
+Houlding was left with a football ground but no football club. Rather than abandon the venture, he established a new team to play there: Liverpool Football Club.
+
+He wasn't looking for some friends to have a kickabout. Football was already attracting paying spectators, and Houlding had a valuable ground he wanted to put to use.
 ---
 
 ## Next to develop together
@@ -88,3 +96,9 @@ Evidence: Blackheath's 1858–62 attempted old-boys-only side couldn't reliably 
 - Contemporary **January 1888** fundraising circular (transcription and photograph), gives objective of maintaining needy children's dinner tables: https://www.thecelticwiki.com/about-celtic/celtics-foundation/the-first-circular/
 - Celtic FC Foundation quotes a **late-1887** flyer about poverty: https://charity.celticfc.com/uncategorized/this-is-how-it-feels-to-be-celtic/
 - Caution: widely reproduced claim that a foundational circular says “children and the unemployed” is challenged by the original January 1888 circular transcription; avoid treating that composite/altered quote as an original without confirming a distinct 1887 source. Approved Celtic prose deliberately does not quote it.
+
+
+### Liverpool source / editorial note
+
+- Liverpool FC official club account (retrospective): https://www.liverpoolfc.com/info/how-liverpool-fc-was-founded-1892
+- The source distinguishes the owner/organiser's commercial motive from motives of recruited players. The prose is approved as the *first draft*, to be source-checked in editing.
