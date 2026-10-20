@@ -2,6 +2,8 @@
 
 **Status:** Building together, paragraph by paragraph. Only user-approved prose goes above the notes. Do not merge in the previous independent draft.
 
+**Current story boundary (agreed 20 October 2026):** focus on club formation **before and around the FA's 1863 foundation** and the problem of agreeing rules with outside opponents. Previously approved later passages (Newton Heath, Celtic, Liverpool) remain preserved in this working draft, but are **parked for structural editing / another article**, not guaranteed to appear in the finished pre-1863 story. Do not treat them as evidence of causes leading to the 1863 FA. Do not remove approved work without saving it elsewhere.
+
 ## Agreed opening
 
 Football was invented in 1863.
@@ -128,3 +130,25 @@ Evidence: Blackheath's 1858–62 attempted old-boys-only side couldn't reliably 
 During the structural edit, consider putting the historical club case studies in **chronological order** so readers can see changing opportunities and incentives rather than jumping between 1850s recreational clubs and 1890s commercial ones. **Do not restructure approved prose yet**; first-draft construction remains collaborative. Preserve the main argument that these are *different, coexisting motives*, not a universal progression every club followed.
 
 The late-nineteenth-century emergence of paid football, player recruitment, gate receipts and the **amateur–professional dispute** is an important bridge from recreation/workplace clubs to Liverpool's 1892 commercial founding. Show the costs and consequences through Newton Heath (company works side -> paid players -> separation) and Liverpool (ground owner recruits outside talent). Potential brief supporting case: Darwen's Scottish recruits (Fergus Suter, James Love), 1880s disputes, 1885 FA acceptance of professionalism. Distinguish what is verified from popular anecdotes before publication. Avoid giving professionalism its own long history or letting this later dispute dominate the article about *why clubs formed*. No new wording approved here; preserve as a note for editing.
+
+
+### Editorial cut list — later international founding stories (agreed 20 October 2026)
+
+**Firm decision:** Do not add new post-1863 club-foundation miniatures to this article. A distinctive *pre-FA* problem/decision matters more than a globally famous team or an exotic destination.
+
+| Candidate researched | Date | What it might have illustrated | Why we cut or deferred it |
+|---|---|---|---|
+| Juventus, Turin | 1897 | Italian schoolboys see a game, buy a ball, form club, eventually play neighbours | Other Turin clubs and football already existed; 34 years after the English FA; no new pre-1863 explanation. Notts County **shirt** story rejected as irrelevant. **Cut**, not drafted. |
+| Mohun Bagan, Calcutta | 1889 | Local Bengali players seek club/patrons to compete with established teams | 26 years too late; repeats organisational/fixtures motive; would require separate colonial and 1911 context. The tempting boots-schism story has unreliable dates. **Cut**, not drafted. |
+| Corinthians, São Paulo | 1910 | Workers watch visiting Corinthian FC and start their own team | Spectators becoming players; overlaps Juventus, far too late. **Cut**. |
+| Colo-Colo, Santiago | 1925 | Players split from Magallanes over training/management | Distinct but a developed professional/competitive culture, 62 years too late. **Cut**. |
+| Bosio/early Turin clubs | 1887–1894 | Football introduced by travellers/business contacts and adopted by Italians | Geographic diffusion of association football after 1863; separate subject. **Cut**. |
+| Newton Heath / Manchester United | 1878 | Railway-supported employees' club, professionalisation; vivid modern Honda FC analogy | Not a cause of the 1863 rule discussions. **Defer** approved text intact; preserve for later works-team or professionalism article. |
+| Celtic | 1887 | Brother Walfrid establishes team to support charity | Worth preserving but 24 years after FA; a later fundraising/spectator economy story. **Defer** approved text. |
+| Liverpool | 1892 | Houlding has a ground, recruits team, commercial purpose | Worth preserving but 29 years after FA; belongs with professionalism and football business. **Defer** approved text. |
+
+**Chronology rule:** The international spread of **association football** mostly follows the English FA's 1863 foundation; do not confuse that with all historical football codes. **Melbourne 1858 stays**: its cricketers propose an independent code before the FA. Oneida (Boston 1862) remains only a candidate, since proving it was 'early soccer' is disputed and does not advance our current question.
+
+**Why this edit matters:** The story is **not** 'a timeline of famous clubs' or 'all the reasons anyone ever founded a team'. It should move through **Blackheath, Sheffield (1857), Melbourne (1858), Barnes (1862)** and then **Sheffield–Hallam (1860), other outside-club fixtures and competing rules**, towards the 1863 association discussions. We can reorder the pre-1863 approved passages **when editing together**; no approved paragraphs have been silently revised or removed now.
+
+**Research preserved:** `docs/research/22_football_club_origins.md` has fuller evidence, links, provenance cautions and explicit reasons for dropping/deferring each case under “Editorial exclusions register — pre-1863 article scope”.
