@@ -45,6 +45,14 @@ The following year, Wills helped establish the rules of a new version of footbal
 
 The objective was to keep cricketers active. Football was one possible way of doing it, and its rules could be designed by the people who wanted to play.
 
+
+But wanting to play football was one thing. Getting enough people together to play was another.
+
+A football club could make that easier. Members knew when and where to meet, equipment could be shared, and somebody could take responsibility for organising the games.
+
+Barnes Football Club's rules of 1862 even allowed members to invite friends and local residents to play. Any four members could collect the club's footballs from the White Hart pub.
+
+You didn't necessarily need a fixed team or a full committee meeting every time somebody fancied a game.
 ---
 
 ## Next to develop together
