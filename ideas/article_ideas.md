@@ -133,3 +133,30 @@ If the rule is sufficiently important and data permit a follow-up:
 - [Cricsheet ball-by-ball ODI data](https://cricsheet.org/matches/)
 
 **Editorial lessons:** Statistics without a consequence prompt "**So what?**"; do not glue an ordinary defeat onto a rules explainer and call it a story. Trace *intention → objection/prediction → actual decisions → consequences → competing explanations*, and check that an editor has a reason to commission it **now**. Historical rule-change retrospectives are a useful *story-finding method*, not an obligation to produce an article from every rule change. **Priority remains publishing the articles already underway.**
+
+
+---
+
+## Rory Delap and Stoke — how do you recognise an advantage *before* it works?
+
+**Added:** 20 October 2026. **Status:** Idea only; investigate if it yields a genuinely original story, not an automatic next article.
+
+**Origin:** Critique of *From Dugout to Boardroom*, “Everyone knew what Rory Delap was going to do. It still worked” (20 Oct 2026). [Original LinkedIn post](https://www.linkedin.com/posts/fromdugouttoboardroom-management-leadership-ugcPost-7518205005401595906-JYt3/). The post uses Stoke's 2–1 win over Arsenal on 1 November 2008 to illustrate the resource-based view of competitive advantage. It claims seven of Stoke's nine 2008–09 throw-in goals came by early November; verify definitions and underlying sources before repeating as fact.
+
+**Better central question:** *Rory Delap had possessed his extraordinary long throw for years. Why did Stoke turn it into a weapon, and how could anyone have recognised that opportunity before the goals arrived?*
+
+**Editorial approach:** The football is the subject. Start from a real puzzle and reconstruct decisions, tests, costs, alternatives, adaptations and consequences. **Do not begin with a predetermined management theory or announce a “lesson for business”.** Let readers draw their own connections about overlooked abilities and making choices under uncertainty. An optional management insight should be earned through evidence rather than bolted on. Recognition is not discovery; describing a successful outcome isn't explaining how to achieve it.
+
+**Questions to investigate:**
+1. When did Delap first develop and use the long throw? How was it employed at previous clubs, and what did coaches say at the time?
+2. What did Tony Pulis and Stoke actually *notice*, decide and change? Find contemporaneous interviews, footage and tactical accounts; avoid attributing a deliberate discovery process without evidence.
+3. What were the actual opportunities and costs? Winning territory and suitable throw-ins, positioning and training teammates, recruitment, other attacking options sacrificed, risk of relying on one player.
+4. What is the correct denominator? Goals from throw-ins per attempt, opportunities, matches, time and league baseline; other set pieces; comparable teams and seasons. Separate Delap's contribution from Stoke's wider survival performance.
+5. How quickly and how exactly did opponents adapt? Did conversion decline, did frequency/opportunity change, or were early numbers just a small sample? Do not confuse a tactical edge with a durable strategic advantage.
+6. Find a useful counterexample: another unusual player skill or tactical novelty that *wasn't* worth a team's investment, or a comparable ability used differently. This guards against selecting successes retrospectively.
+
+**Possible practical reader takeaway (not preordained):** A way to recognise a promising capability: observe it, ask what problem it solves, devise a cheap test, compare it with alternatives using explicit measures, evaluate complementarity and opportunity costs, then decide whether to develop, abandon or adapt it. Only suggest this if the historical evidence supports it; distinguish a practical framework we devise from what Stoke demonstrably did.
+
+**Editorial / commercial lesson from the source article:** A football anecdote illustrating the obvious (“use your strengths”) provides little explanation of *how* and no actionable method. Avoid the formula **management theory → famous football example → obvious conclusion**. Prefer **unanswered sporting question → research → defensible discovery**. Source material can be a prompt for an independent investigation, not something to copy or paraphrase as original.
+
+**Go/no-go:** Before drafting, verify a genuinely surprising, documentable decision or discovery and evidence of its consequence. If none exists, park it. **Do not let this displace completing and publishing current work.**
