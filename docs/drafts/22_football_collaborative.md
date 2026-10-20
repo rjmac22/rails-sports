@@ -24,6 +24,14 @@ In London, former pupils of Blackheath Proprietary School continued playing the 
 At first, the games were organised among former pupils. But when there weren't enough of them, the group began inviting outsiders. What had started as a way for old schoolmates to continue enjoying football developed into Blackheath Football Club.
 
 They weren't trying to invent a new sport or establish rules for everyone else. They wanted to keep playing a game they already knew.
+
+Other men simply wanted somewhere to play football regularly.
+
+Sheffield Football Club was established in 1857. Its members paid subscriptions, bought footballs and arranged games on Saturday afternoons. They even developed their own written rules.
+
+But they didn't need another club to play against. With enough members to make two teams, they could play among themselves. According to one early member's later recollection, they sometimes divided the players alphabetically to decide who played on which side.
+
+They had organised a club, written rules and established regular football matches, all without needing anyone outside Sheffield to agree on how the game should be played.
 ---
 
 ## Next to develop together
