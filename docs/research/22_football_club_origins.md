@@ -652,3 +652,65 @@ There was **documented, variable demand for predictable common rules** amongst p
 **What this changes in Study 22:** The UK-centric 'school alumni reproduce their old football games' explanation **cannot explain all early football uptake**. A game also spreads when outsiders **see it played, want to try it and find participants who teach them**, including where institutions do not sanction or actively discourage the activity. International diaspora and institutions (trade, cricket, railways, boarding schools, migration) can *deliver* a sport, but adoption occurs through locals' own choices. Also, **field access** can be a more immediate and consequential barrier than negotiating rules.
 
 **Do not drift** into later rival codes' relative worldwide success or national governing associations; that is the separate future study. Do not infer every expat group played FA association football; origins of 'football' can refer to rugby or a local code.
+
+
+---
+
+## Working assessment — fairness, demonstrated skill, enjoyment, accessibility, adoption and spectators (20 October 2026)
+
+**Purpose:** Preserve the discussion's actual conclusions and counterarguments, not retrofit our preferred theory as Victorian motivation. This section updates the arguments in Incentives 4–5; it is **not** an article draft or an instruction to investigate every Victorian player's abilities.
+
+### A. Fairness is not the strongest argument; demonstrating skill is
+
+- **Procedural fairness:** Two clubs agreeing beforehand to play under one code can have a legitimate, fairly administered match, even when one is more familiar with the rules. The rules determine the game being tested. Versatility across codes is itself a possible sporting competence.
+- **Comparative fairness:** A result under one code is not necessarily a definitive judgement about two clubs' *general* footballing abilities across codes. Clubs could agree compromises, alternate rules or play return fixtures. Standardisation was **one possible solution**, not an essential prerequisite for enjoyable or legitimate contests.
+- **Contemporary motive with direct evidentiary support:** **'Etonensis' (October 1863)** complained that Eton–Westminster compromise matches prevented players using the techniques at which they excelled and impeded recognition of their talent beyond immediate associates. The advantage of a shared game is that players can **develop, exhibit and compare their chosen skills against a wider population of opponents**. This is an argument about demonstration and recognition, **not an explicit claim that the contests were unfair**.
+- **Specialisation:** A consistent code may permit deeper development of tactics and specialised abilities; **this is our inference**, not something automatically said by Etonensis. Equally, a footballer may enjoy mastering different codes. Do not caricature versatility as inferior.
+- **Source:** Contemporary 'Etonensis' letter reported _London Daily News_ **6 October 1863**, currently accessed by a modern **summary**, not yet full primary transcription: https://playupliverpool.com/1863/10/06/lets-frame-rules-for-one-universal-game/ . The specific quotation beginning 'Etonesis contends that these annoyances...' calls for delegates of Eton, Westminster, Rugby, London clubs and universities to draw up a universal code; check transcription and spelling against a primary image before direct publication. The existence of an explicit contemporary complaint is sufficient for our editorial purposes; **do not initiate an exhaustive comparative skills study**.
+
+### B. What makes a game enjoyable? Preference can resist convergence
+
+- Different handling, hacking, offside, restart and scoring provisions create different **activities and valued skills**, not administrative variants of identical football.
+- **F. M. Campbell of Blackheath (FA debates, December 1863)** defended running/hacking as tests of courage; opponents regarded physical severity as a barrier to participation. The debate and Blackheath's withdrawal directly show that some participants preferred a particular kind of game strongly enough to resist a common code. See contemporary meeting accounts linked earlier under Incentive 4: https://playupliverpool.com/1863/12/01/the-fourth-meeting-of-the-football-association/ .
+- **Verdict:** Different preferences help explain **resistance to standardisation**, but do not themselves explain why the FA code ultimately spread. Do not assert the most widely adopted code was intrinsically the most enjoyable.
+
+### C. Opponent availability and network effects — plausible mechanism, not automatically the sole cause
+
+- **Poker analogy:** A player may prefer an obscure variant but find opponents for Texas Hold'em. Club football could likewise create a trade-off between preserving one's exact preferred code and finding more opponents. A widely played code becomes attractive in part because **other people already play it**.
+- Contemporary material in **Incentive 5** supports a real coordination problem: Louth/Lincoln wanted compatible rules independently of FA membership (Tupholme, November 1863); Richmond could adopt FA laws without becoming a member; Morley expected sufficient sign-ups to lend a shared code authority. Those cases provide firmer evidence than merely applying modern economic terminology.
+- **Network effects** describe a plausible amplification process; they do not independently explain *which* code reached critical mass or whether particular clubs switched for that reason. **Promotion, competition entry, peer networks, preferences, geography and negotiated rule changes** are possible complementary explanations. Identify contemporary club decisions rather than claiming one grand cause.
+
+### D. Ease of learning and playing — documented design criterion, causal effect unproven
+
+- **Poker analogy:** Texas Hold'em is generally easier to introduce to a novice than five-card pot-limit Omaha, even though both can be played at a high level. Separate **ease of understanding the rules** from **ease of mastering the game**.
+- **John Charles Thring's** article 'Football, Simple and Universal' (_The Field_, **28 December 1861**) and his code _The Simplest Game_ indicate that **simplicity was expressly valued in rule design**. Primary image reference: https://commons.wikimedia.org/wiki/File:Football,_Simple_and_Universal_(The_Field)_1861-12-28.png .
+- Contemporary FA consideration of the Cambridge Rules also reportedly praised their simplicity; verify original 1863 meeting wording before quoting. A historical account: https://isfa.org.uk/our-history/the-history-of-isfa/ .
+- **Verdict:** Simplicity was genuinely considered in drafting/choosing a code. We have **not established** that association football spread *because* beginners found its rules easier than alternatives. Simplicity could also make administration or agreement easier, not just instruction.
+
+### E. Promotion, organisations and competitions — do not confuse sequence with causation
+
+- The FA's early difficulties, the existing Sheffield football community, the establishment of the FA Cup, Sheffield–FA negotiation and later convergence make a simple 'the easiest/best code naturally won' narrative implausible. These are subjects for evidence-led consideration, not a preselected institutional-victory story.
+- **Keep chronology and agency separate:** formation of the FA (1863), spread of its laws, establishment of competitions (FA Cup from 1871), Sheffield code convergence (1877), and rugby/association divergence are related but **distinct explanatory questions**.
+- **Provisional interpretation:** Competitions, deliberate promotion and access to opponents may have made the FA code attractive; **relative causal weight still unestablished**. Where possible use club minutes, letters and contemporary publicity to check decisions; later historians help locate and contextualise records, but their explanatory frameworks are not nineteenth-century testimony.
+
+### F. Spectators — an additional possible beneficiary, not an established 1863 motive
+
+- A person familiar with one football code might struggle to interpret tactics, infringements and scoring under another. Common rules could make it easier to follow multiple clubs and understand what counts as a good play. A shared audience may in turn reinforce a shared code.
+- Conversely, **novelty of different codes could be entertaining**, and early football clubs did not necessarily organise themselves primarily for paying spectators.
+- **Verdict:** This is a defensible **inference** to keep on the board. We do **not yet have contemporary evidence** that spectator comprehension significantly motivated the FA's 1863 standardisation decisions, and should not suggest otherwise.
+
+### G. Modern illustration of different codes — useful, but only an analogy
+
+- **Clash of the Codes, Wigan vs Bath (1996):** Wigan won under rugby league rules **82–6**; Bath won under rugby union rules **44–19**. This illustrates that success depends partly on which version of a game is being played, while both sides can knowingly consent to the conditions. Modern report: https://www.superleague.co.uk/article/1392/hemmings-way-cross-coders .
+- These were high-level late twentieth-century rugby sides, **not a valid quantitative proxy for 1860s amateurs**. Training, specialisation, professionalism and game differences make direct comparison unsafe. Neither the scorelines nor the analogy establish why Victorian clubs acted as they did.
+- **2015 proposed Leicester Tigers vs American football converts event was cancelled**; it is not evidence of an actually played crossover. Do not combine it with Wigan–Bath.
+- **Editorial decision:** A brief crossover illustration may help a reader understand procedural vs comparative fairness, but is optional. Don't turn it into another research project.
+
+### H. Source hierarchy and agreed investigation discipline
+
+1. **Contemporary statement:** What a specific player, club officer, newspaper or meeting actually argued, with the author's interests and exact date identified. Original text/scan where possible; label later transcriptions and abstracts.
+2. **Observed conduct:** What a club or association agreed, changed, refused, advertised or entered. These behaviours can support **reasonable inferred motivations** even without every participant leaving testimony.
+3. **Historical synthesis / our inference:** Later historians and concepts like network effects are valuable hypotheses and interpretations, but their publication date and analytical status must not be mistaken for contemporary participant testimony.
+4. **Editorial sufficiency:** We are **not** undertaking exhaustive club-by-club psychology or Victorian athletic comparisons. Use the strongest conclusion the evidence supports, test plausible alternatives and stop when an argument has been satisfactorily assessed.
+
+**Decisions reached:** Do **not** label 'competitive fairness' a demonstrated principal driver. Retain **demonstrating and recognising skill** as a documented contemporary reason for wanting common rules; **enjoyment and code preference** as documented reasons for disagreement; **simplicity** as a documented design criterion but unproven winner-determiner; **opponent networks, promotion and competitions** as plausible, testable adoption mechanisms; and **spectator understanding** as an additional, currently unverified consideration. Do not impose a predetermined explanation or manufacture historical agreement.
