@@ -54,6 +54,14 @@ Barnes Football Club's rules of 1862 even allowed members to invite friends and 
 
 You didn't necessarily need a fixed team or a full committee meeting every time somebody fancied a game.
 
+Some football clubs began at work.
+
+In 1878, employees at the Lancashire and Yorkshire Railway's carriage and wagon works in Newton Heath established a football team. Their superintendent, Frederick Attock, became its first president. The railway helped the club find a ground and paid the rent; the works dining room was used for club business. At first the team played other railway departments and companies.
+
+It's a type of football club that still exists. In Japan, Honda operates its own team, founded in 1971, with players who are also company employees. In 2023, captain Kazuki Matsumoto described assembling parts for marine engines in the morning before football training began at 2.30pm. The team competes in Japan's national Football League.
+
+Newton Heath eventually took a different path. As it recruited professional footballers and spent money improving its ground, its ambitions outgrew the railway's willingness to support them. The club separated from the company in 1892. It would later become Manchester United.
+
 Not everyone who established a football club was primarily interested in playing football.
 
 In Glasgow in 1887, Brother Walfrid helped establish Celtic Football Club to raise money for charitable work in the city's impoverished East End. Football matches could attract spectators, and spectators could provide the money needed to help feed people.
@@ -102,3 +110,14 @@ Evidence: Blackheath's 1858–62 attempted old-boys-only side couldn't reliably 
 
 - Liverpool FC official club account (retrospective): https://www.liverpoolfc.com/info/how-liverpool-fc-was-founded-1892
 - The source distinguishes the owner/organiser's commercial motive from motives of recruited players. The prose is approved as the *first draft*, to be source-checked in editing.
+
+
+### Newton Heath and Honda FC — sources and scope
+
+- Manchester United's official history: https://www.manutd.com/en/club/history/history-by-decade/1878-1909 (railway workers, matches against railway departments and companies).
+- David Proudlove, *Work and Play: The Industrial Roots of English Football*, sample chapter 'Before the Red Devils', pp. 25–27: https://www.pitchpublishing.co.uk/sites/default/files/associated_downloads/Work%20and%20Play%20SAMPLE.pdf (Frederick Attock, railway-owned support, ground lease, works dining room, recruitment and 1892 break). This is **secondary historical research**, not a verbatim company minute.
+- Premier League club-names history on independent Newton Heath 1892–93: https://www.premierleague.com/en/news/4592046/what-is-the-history-behind-every-premier-league-clubs-name
+- Honda corporate history: https://global.honda/jp/sports/soccer/ (company's official football club established **1971**; stated purposes employee activity and community relations; JFL).
+- *Nikkan Sports*, 7 June **2023**: https://www.nikkansports.com/soccer/news/202306070001637.html (captain **Kazuki Matsumoto** employed making marine-engine components, morning work and 2.30pm training; most players company employees).
+- Independent profile / interview: https://www.descente.co.jp/media/brand/umbro/14155/ (Yuya Suzuki described office work mornings and supported afternoon training).
+- **Critical limits:** Company-backed does not automatically imply company-owned legal entity; historical evidence supports railway patronage and financial support, with subsequent severance. Honda's specific daily schedule is **documented in 2023**: don't present every current team member as working this timetable or assert 2026 personnel without checking.
