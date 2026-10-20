@@ -152,3 +152,10 @@ The late-nineteenth-century emergence of paid football, player recruitment, gate
 **Why this edit matters:** The story is **not** 'a timeline of famous clubs' or 'all the reasons anyone ever founded a team'. It should move through **Blackheath, Sheffield (1857), Melbourne (1858), Barnes (1862)** and then **Sheffield–Hallam (1860), other outside-club fixtures and competing rules**, towards the 1863 association discussions. We can reorder the pre-1863 approved passages **when editing together**; no approved paragraphs have been silently revised or removed now.
 
 **Research preserved:** `docs/research/22_football_club_origins.md` has fuller evidence, links, provenance cautions and explicit reasons for dropping/deferring each case under “Editorial exclusions register — pre-1863 article scope”.
+
+
+### Analogy restraint — rule preferences are only one motive (20 October 2026)
+
+**User's editorial instruction:** The Texas Hold'em versus Omaha comparison is **an analogy where it fits**, not an all-purpose historical explanation. Do **not** tell the history as though all clubs held the user's theory of benign preference differences, or as though every rule disagreement was simply a polite matter of taste. Start with documented historical motives and conduct: enjoyment of a particular code, safety and physical contact, access to opponents, practical convenience and organisation, status/identity, and conflicts that could turn heated. These motives sometimes coincided and sometimes conflicted. Use the poker comparison briefly *only* to make the distinction vivid between wanting new opponents and wanting to change games; it is not evidence of Victorian footballers' mental states. Quote/attribute contemporary evidence accurately. The example of Blackheath's defence of carrying and hacking versus Barnes's concern about who would play, Richmond's pragmatism and Louth/Lincoln's local coordination are **different documented interests**, not proofs of a single universal theory.
+
+**Working method:** No new finished prose is approved by this note; preserve for collaborative drafting and final edit.
