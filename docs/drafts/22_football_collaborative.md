@@ -16,6 +16,14 @@ People had been playing games called football for centuries. Medieval versions v
 
 By the nineteenth century, Britain's public schools had developed their own versions of football. At Rugby, boys could run with the ball. At Eton, they played games that relied much more on kicking, while Harrow and Winchester had their own rules and traditions. These weren't incomplete versions of a game waiting to be invented. They were established games that worked perfectly well for the boys playing them.
 
+
+Leaving school didn't necessarily mean giving up football.
+
+In London, former pupils of Blackheath Proprietary School continued playing the game they'd learned as boys. They enjoyed their particular version of football and wanted to carry on playing it.
+
+At first, the games were organised among former pupils. But when there weren't enough of them, the group began inviting outsiders. What had started as a way for old schoolmates to continue enjoying football developed into Blackheath Football Club.
+
+They weren't trying to invent a new sport or establish rules for everyone else. They wanted to keep playing a game they already knew.
 ---
 
 ## Next to develop together
