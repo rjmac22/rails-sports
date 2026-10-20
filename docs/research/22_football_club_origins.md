@@ -653,6 +653,141 @@ There was **documented, variable demand for predictable common rules** amongst p
 
 **Do not drift** into later rival codes' relative worldwide success or national governing associations; that is the separate future study. Do not infer every expat group played FA association football; origins of 'football' can refer to rugby or a local code.
 
+---
+
+## Employer-backed clubs: Newton Heath ↔ Honda FC as a modern works-team comparison (20 October 2026)
+
+### The actual early relationship (Newton Heath, founded 1878)
+
+- **Who formed the club?** Employees in the Lancashire and Yorkshire Railway (LYR) **carriage and wagon department at Newton Heath**, rather than a separately financed entertainment company. Initial matches were against other LYR departments and other railway companies.
+- **Who in management supported it?** **Frederick Attock**, the railway's carriage and wagon superintendent appointed in 1877, was central to founding and became the club's first president. His business/political connections provided notable vice-presidents. Evidence comes from David Proudlove, *Work and Play*, historical secondary study, pp. 24–27.
+- **What support did LYR give?** The football club used the **works dining room** for business; the railway helped secure its **North Road** ground, near the works, and paid its lease. Club colours green and gold were associated with the railway. Employment opportunities through the railway helped draw players from farther away. **Concrete support**, beyond simply putting LYR in the club's name.
+- **What changed?** Newton Heath signed professional players in **1886**, incurred increasing wages and ground-improvement expenditure. In **1891** the club built stands but LYR declined financial support for the project. The relationship ended in **1892**, with the club becoming independent of LYR (and a limited company); the company stopped paying the ground lease. These are later developments, **not evidence about founders' precise mental states in 1878**.
+- **Scope:** No demonstrated basis here for claiming the railway legally owned all club assets or that LYR directors pursued a specific modern corporate branding/employee-engagement strategy in 1878. Attock's leadership + financial support + company premises = **employer-backed works team**.
+- **Sources:** [Manchester United official history (1878–1909)](https://www.manutd.com/en/club/history/history-by-decade/1878-1909); [David Proudlove, *Work and Play* sample, printed pp. 24–27](https://www.pitchpublishing.co.uk/sites/default/files/associated_downloads/Work%20and%20Play%20SAMPLE.pdf); [Premier League summary of naming and independence in 1892](https://www.premierleague.com/en/news/4592046/what-is-the-history-behind-every-premier-league-clubs-name).
+
+### Best documented modern analogue: Honda FC, Japan
+
+- **Honda's own corporate site** says the football club was founded as an official **Honda Motor Co. sports club in 1971**, with purposes explicitly including employee activity/engagement and integration with local community. Plays in Japan's national **Japan Football League (JFL)**, representing company rather than merely wearing a sponsor's shirt. [Honda official football team page](https://global.honda/jp/sports/soccer/).
+- **Direct journalistic account, 7 June 2023:** *Nikkan Sports* described **most Honda FC players as Honda employees** with ordinary work responsibilities. Captain **Kazuki Matsumoto** worked assembling **marine-engine components** in the morning; team training began at **14:30**. On that day Honda FC faced professional **Kashima Antlers** in the Emperor's Cup and lost 3–0. [Japanese original, *Nikkan Sports*](https://www.nikkansports.com/soccer/news/202306070001637.html). Date this evidence; don't write as if Matsumoto necessarily remains captain or has the same job in 2026.
+- **Additional firsthand testimony reported in profile:** **Yuya Suzuki**, office-based Honda employee and Honda FC player, describes working morning hours, and training with employer support in afternoons; coworkers sometimes cover unfinished work. [Descente/Umbro article](https://www.descente.co.jp/media/brand/umbro/14155/).
+- **Why Honda is a closer analogue than Bayer Leverkusen or a merely sponsored team:** Honda's players can be company workers *and* athletes representing the organisation in high-level games; Honda provides sporting facilities and official corporate backing. Bayer still has direct corporate ownership but is fully professional; comparing it to railway workers would be less precise.
+- **Comparison limits:** LYR-era Newton Heath and modern Honda FC differ in resources, legal arrangements, leagues and degree of professionalism. The similarities are *employment link, employer support, sport as activity benefiting workers and company*, not identical operating models. The early LYR company's exact **stated purpose** for financing football has not been established in contemporaneous internal documents; Honda's official purpose *is* stated.
+- **Editorial consequence:** A works team can be quite serious; high-level sport does not require that the player's only job be 'professional footballer'. Show a concrete modern shift detail (engine assembly → 2.30pm football) rather than empty claim 'companies used to run sports teams'. Keep this to a short paragraph in the article; don't launch a separate history of Japanese corporate sport.
+- **Separately useful angle:** Newton Heath eventually moved away from employer patronage as professional wages and ground expansion grew; Honda has continued with company-team structure. Do not imply *all* works teams have to become professional or split from employer.
+
+### Draft placement
+
+The **approved Newton Heath–Honda passage** has been inserted into `docs/drafts/22_football_collaborative.md` after the Barnes participation passage, before Celtic (charity) and Liverpool (commercial purpose). Keep it distinct from historical cases of charitable or commercial club-founding: workplace social group + employer support is its own motivation/means.
+
+
+---
+
+## Mohun Bagan, Calcutta 1889 — investigation (20 October 2026)
+
+**Editorial purpose:** Assess whether this club introduces a *distinct and evidenced founding mechanism*, rather than appearing because it is famous. **Research notes only; no approved article paragraph yet.**
+
+### Early football and the precise organising problem
+
+- **Before 1889:** Football already had an indigenous scene in colonial Calcutta. British expatriates, soldiers, missionaries and colleges had introduced football (which could refer to different historical codes in earlier decades). Local Bengali youths organised their own teams and clubs, including those associated with Nagendra Prasad Sarbadhikari.
+- Local schoolboys and college students played at **Mohun Bagan Villa**, the garden/grounds associated with the wealthy **Mitra family** in North Calcutta. A group there called **Students' Union** is described in later club-supporter histories.
+- The better-defined **1889 founding motivation**: groups of players departed the Villa to organise **Aryan** and **Bagbazar** clubs, while the footballers remaining at Mohun Bagan Villa had no corresponding club organisation through which to contest games with these rivals. Three Bengali families, the **Basu/Bose, Mitra and Sen**, supported the formation of **Mohun Bagan Sporting Club, 15 August 1889** at the North Calcutta home of **Bhupendranath Basu/Bose**, its first president (and later president of the Indian National Congress). The **venue and patronage were local Indian/Bengali**, not a club started by expatriate Britons.
+- This is a stronger **why form a club?** case than generic 'schoolboys wanted to play': *football already existed at the Villa, but formal organisation, supporters, a ground, and institutional respectability enabled players to organise matches against other clubs.* Beware the claim they *could not* legally play other clubs without a club; that is the account's inference/wording, not a demonstrated universal rule.
+- **First reported match after foundation**: vs **Eden Hindu Hostel** students at Villa grounds; described retrospectively, often as 1–0 loss. This was **outside opposition**, not necessarily intra-club games first. First cup: **1893 Cooch Behar Cup**. **The Villa ground was small**; the club subsequently obtained other grounds via patrons.
+- **Purpose beyond leisure:** Founders reportedly stressed sporting ability alongside etiquette, schooling, discipline and moral character. Students' membership required parental permission. Scholarly discussion cites the club's **1964 Platinum Jubilee Souvenir** (pp. 1–5) for an organised mission of physical and moral development. This made the institution more than an informal kickabout; it was not, however, automatically a directly anti-British revolutionary organisation in 1889.
+- **The 1911 significance is different from founding intention:** Mohun Bagan defeated the East Yorkshire Regiment 2–1 to win the IFA Shield on **29 July 1911**, which acquired enormous symbolic national/anti-colonial importance. This was **22 years after its founding**. Scholars explicitly warn against projecting all the symbolic meanings of 1911 onto the motives of the founders in 1889. Compare Dwaipayan Sen, 'Wiping the Stain Off the Field of Plassey: Mohun Bagan in 1911' (*Soccer & Society*, 2006).
+- **No contemporary 1889 founding minute read in this investigation.** Club heritage narratives are retrospective; label personal motives as reported by later sources. The 15 August founding date is **not** evidence of deliberate connection to Independence Day, which started after independence in 1947.
+
+### The boots dispute: tempting, but date caution
+
+- Mohun Bagan supporter accounts say **Dukhiram Majumdar** split from the Villa group because he wanted players to wear **boots** to compete against British opponents, and those who remained preferred barefoot play. Other players left for Bagbazar. This would be a very vivid example of *differences in preferred methods and competitive priorities motivating new clubs*.
+- **Chronology conflict:** Supporter narrative dates the schism **1884** and describes Aryan FC forming then; historian Kausik Bandyopadhyay / Boria Majumdar academic treatment, 'From recreation to competition: Early history of Indian football' (*Soccer & Society* 2005), explicitly cites **Aryan founded 1888**. Dukhiram commonly given birth year **1875**; would be about **nine years old in 1884**. The 1884 schism date is questionable. Ronojoy Sen's *Nation at Play* supports Dukhiram's advocacy of boots but **not a verified 1884 schism** in the passage located.
+- **Recommendation:** Do **not** insert 1884 as settled fact, nor claim club was founded *solely* over boots without better early documentation. Could mention *a later account describes a boot-wearing disagreement* if truly necessary and sourced transparently. Avoid the sensational version until verified.
+- The long-standing **barefoot vs boots** choice had multiple potential causes, including cost and preference, not an assured universal 'indigenous political principle'; historian Ronojoy Sen notes boots cost around Rs 7 and 4 annas per pair in a 1903 advertisement. The 1911 Mohun Bagan side famously featured **ten barefoot players, one booted**.
+
+### Distinctiveness / decision
+
+Potentially **worth one concise paragraph** if the takeaway is: **local players wanted organised external fixtures and Indian patrons used a football club to give youth an institution that fostered fitness, character and competitive standing**. Avoid making it an expansive history of 1911, or treating 1889 as an explicitly planned nationalist demonstration. Compared with existing Study 22 cases, *already-playing group needs recognition/patronage to face other clubs* is distinct enough to consider, although overlapping the general participation/coordination mechanism. No draft prose approved yet.
+
+### Sources and trust notes
+
+1. [Mohun Bagan supporters' 'Prelude'](https://www.mohunbaganclub.com/history/history-prelude/) — Villa, rival clubs, three families, meeting; **site calls itself a fan site**, not an original 1889 record. Beware boot chronology.
+2. [Mohun Bagan supporters' 1889–1909 history](https://www.mohunbaganclub.com/history/history-1889-1909/) — detailed named participants, first outside match with Eden Hindu Hostel, grounds, education/etiquette, 1893 cup. Later heritage account.
+3. [Mariners Beyond Field Talks, 'The Complete Origin Story' (2024)](https://www.mbft.in/2024/03/Why-MohunBagan-EP1.html) — independent fan narrative that repeats boot / Villa / founders story; agreement may reflect common retelling, not independent contemporary corroboration.
+4. [Mariners Beyond Field Talks, 'First Two Decades' (2024)](https://www.mbft.in/2024/03/Why-MohunBagan-EP2.html) — character rules and early activities. Highly detailed but retrospective and sometimes dramatic.
+5. [All India Football Federation, historical chronology](https://www.the-aiff.com/index.php/history) — 1889 foundation; 1893 Indian Football Association; 1911 IFA Shield victory.
+6. [LSE History blog, 'The Revenge of Plassey' (2020)](https://blogs.lse.ac.uk/lseih/2020/07/20/the-revenge-of-plassey-football-in-the-british-raj/) — colonial football context, other indigenous clubs and societal implications. The article is by a guest student contributor on an institutional blog, not itself peer-reviewed.
+7. [Kausik Bandyopadhyay and Boria Majumdar, 'From recreation to competition: Early history of Indian football', *Soccer & Society* 6 (2005)](https://www.tandfonline.com/doi/abs/10.1080/14660970500106295) — historical treatment with citations to memoirs, IFA souvenirs and papers; search-indexed notes identify Dukhiram's **Aryan founded 1888**, contradicting popular 1884 account. Full journal text access limited.
+8. [Dwaipayan Sen, 'Wiping the Stain Off the Field of Plassey: Mohun Bagan in 1911', *Soccer & Society* 7 (2006)](https://www.tandfonline.com/doi/abs/10.1080/14660970600615302) — cautions against projecting homogeneous nationalist interpretations onto 1911, much less 1889.
+9. [Ronojoy Sen, *Nation at Play: A History of Sport in India* (2015), section on the 1911 IFA Shield](https://dokumen.pub/nation-at-play-a-history-of-sport-in-india-9780231539937.html) — discusses boots cost and Dukhiram's preference; digital reproduction requires responsible citation to original book.
+10. [*Sports, Culture and Nationalism: Football in Colonial Calcutta (1877–1934)*, *Salesian Journal of Humanities & Social Sciences* (2011)](https://publications.salesiancollege.net/wp-content/uploads/2023/06/Sports-Culture-Nationalism-Football-in-Colonial-Calcutta-1877-1934.pdf) — indexed text cites 1964 club souvenir for body/mind ideals; web PDF fetch failed; **not directly read**, use with caution.
+
+
+---
+
+## Editorial exclusions register — pre-1863 article scope (20 October 2026)
+
+### Agreed scope and reason for selection
+
+**Current article:** Explain *why people created football clubs, how they played different games without a universal code, and what happened when they sought outside opponents*, leading to the English FA's 1863 rules discussions. **The primary historical narrative should remain before and around 1863.**
+
+**Selection rule:** A club makes the main article only if its founding or early matches illuminate a new, consequential mechanism **within that period** (founding purpose, participants, facilities/turnout, agreement or disagreement on the code, relationships with outside opponents). A famous badge, a distant country or a good standalone founding anecdote **is not enough**. International football in the sense of export/adoption of English association football expanded mainly **after 1863**, although different ball/football traditions existed outside Britain before then and notable exceptions (e.g. Australian code development in 1858 and American local football in 1862) predate FA standardisation. Avoid claim all forms of 'football' were invented in Britain or that all foreign countries waited for FA rules.
+
+### REJECTED from this article (retain research; do not add paragraphs)
+
+#### Juventus — Turin, Italy, founded 1897
+
+- **What was interesting?** Boys in Turin saw older/foreign residents playing football, took interest, pooled money for a ball, played among themselves and eventually challenged other Turin clubs. This is a mechanism of *adoption by local observers*, not introduction by the boys.
+- **Historical context:** Local scene was established already. Early clubs often listed as **Torino Football and Cricket Club (1887), Nobili Torino (1889), Internazionale Torino (1891), FC Torinese (1894)**. Juventus founded 1897; FIGC founded 1898; Juventus entered official national championship in 1900. A retrospective Enrico Canfari reminiscence (published in *Hurrà Juventus* **1915**) describes the boys seeing foreigners playing. Domenico Donna's later reminiscence describes enthusiasm, novelty, and playing for amusement. One reported early defeat by FC Torinese **5–0, April 1899** appears in club-recollection accounts, not verified here from contemporary match-day newspaper.
+- **Why cut?** **34 years after FA foundation**, local football already established; is a variation on *young friends want to play*, covered by Sheffield and other early cases. Its appeal mainly rests on the fame of Juventus, not necessity to our argument. An Italian 'spread of association football' piece could explore it separately.
+- **Do not use:** Notts County / Juventus kit colours, not connected to **why the club was founded**; user explicitly rejected the shirt tangent. Do not repeat inaccurate simplification that the 'oldest founder was 17': Canfari brothers older than schoolboy membership.
+- **Pointers:** [Juventus club history](https://www.juventus.com/en/club/history/the-story-of-a-legend); [Juventus 1915 founder reminiscence reproduced](https://juveternamore.blogspot.com/2014/06/le-origini-della-juventus.html) (**secondary republication of memoir**); [Tuttosport account of founders' reminiscences](https://www.tuttosport.com/news/calcio/serie-a/juventus/2020/11/01-75656131/buon_compleanno_juventus_la_fondazione); [Torino FC local foundation history](https://www.torinofc.it/en/storia/foundation); [FIGC historical overview](https://figc.it/en/figc/history/).
+
+#### Mohun Bagan — Calcutta, India, founded 1889
+
+- **What was interesting?** Indian players who already played football at Mohun Bagan Villa wanted the organisation, patrons and standing to arrange fixtures with established local teams; elite Bengali families helped found a club. Educative/character-building aims; later powerful anti-colonial symbolism after **1911 IFA Shield** victory.
+- **Why cut?** **26 years after FA formation** and after Calcutta football clubs/competitions existed; replays 'formal organisation lets a group play opponents' and shifts article into much later colonial/competitive context. Historical significance of 1911 is not evidence of founders' motives in 1889. Too much explanation of context for too little progress in **pre-FA rules negotiation** argument.
+- **Sources and key caution:** Existing full research section immediately above (supporter origin pages, AIFF, academic histories). Disputed claims about **1884** boot-related departure vs scholarly **1888** Aryan founding; do not assert as established. Preserve full research in this notebook for a different study. [Mohun Bagan history](https://www.mohunbaganclub.com/history/history-prelude/); [Academic treatment of 1911](https://www.tandfonline.com/doi/abs/10.1080/14660970600615302).
+
+#### Corinthians — São Paulo, Brazil, founded 1910
+
+- **What was interesting?** A group of working men saw touring English amateur Corinthian FC and formed their *own* team. The spectators become footballers; foreigners are inspiration, not the founders.
+- **Why cut?** **47 years after 1863**; 'we watched it, we want to try it' overlaps the Juventus motive, which was also cut. Brazil's own adoption history is a separate narrative. Not a pre-FA compatibility or rules case.
+- **Source pointer:** [São Paulo State Football Federation](https://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=15839). Verify names, year and motivation from contemporaneous evidence for any future standalone article.
+
+#### Colo-Colo — Santiago, Chile, founded 1925
+
+- **What was interesting?** David Arellano and players dissatisfied with the way existing club Magallanes operated left and created a new team with a stronger training/discipline programme.
+- **Why cut?** **62 years after FA formation**; unusual reason to found a club (*disagreement about management and training*), but squarely an era of established competition and developed sporting institutions. Off-scope for founding-before-1863 narrative.
+- **Source pointer:** [Memoria Chilena, National Library of Chile](https://www.memoriachilena.gob.cl/602/w3-article-93190.html). Potential independent piece about secession clubs / football management.
+
+#### Edoardo Bosio / early Turin football (circa 1887 onward)
+
+- **What was interesting?** Business travel/English textile connections help take football to Turin; local colleagues introduce a new imported sport; later Italian adoption.
+- **Why cut?** **Post-1863** and represents football's geographic spread, not the specific pre-FA question. It would demand a separate explanation of the development of Italian football.
+- **Source pointer:** [Museo Torino municipal historical material](https://www.museotorino.it/resources/pdf/books/120/files/assets/common/downloads/page0088.pdf).
+
+### LATER BRITISH EXAMPLES — preserve approved paragraphs, but DEFER from the pre-1863 main narrative
+
+These were approved and have **existing collaborative prose**. They are not 'bad' stories, but they do **not explain the incentives or legal/rules problems facing founders before the FA**, and risk making the article a general catalogue of famous club origins.
+
+- **Newton Heath (1878)** — LYR railway employees + tangible employer backing; excellent **Honda FC** modern works-team comparison (1971; 2023 employee/player interview). *Separate later development*: 1886 professionalism and 1892 break from railway. Preserve source note and draft passage for a possible follow-up (employer-backed teams; transition from works football to professional sport). **Not evidence for 1863 FA origins**.
+- **Celtic (1887)** — Brother Walfrid's charitable fundraising motive, player/founder incentives differ. Valuable for another article on changing purposes of football clubs after spectator gate income becomes feasible, but **24 years too late** for focus before 1863.
+- **Liverpool (1892)** — John Houlding creates a new club to use Anfield after Everton departs; purpose includes commercial stadium use and recruitment of outside players. Strong contrast with early recreation, but **29 years after 1863** and risks pulling story into gate-receipts/professionalism. Preserve approved prose and research; relevant to separate second story, not a founding cause of the FA.
+- **Professionalism/amateur dispute (1870s–1885, later)** — major and interesting consequences for club operations, but after the target period. Save as follow-up investigation, *not* a digression into Victorian class conflict in the 1863 feature.
+
+**Action on drafts:** Do not delete or silently revise user-approved text. The current markdown draft still contains the later, approved passages as development material awaiting the previously agreed **structural edit**. Explicitly flag them as out-of-scope for the **finished** pre-1863 piece so they do not accidentally survive. Future edit should preserve them in a separately designated later-use section/file before removing them from final article.
+
+### Keep / next investigation
+
+- **Blackheath (former schoolboys continuing a known code), Sheffield FC (1857; intra-club games and own written rules), Melbourne (1858; cricket winter exercise and *own code*), Barnes (1862; locally agreed access/club organisation):** each gives a distinct **pre-1863** motive or mechanism. Melbourne is overseas but importantly **pre-FA** and develops *independently* in Australia, not the later international spread of association football.
+- **Hallam (1860) vs Sheffield:** specifically valuable as the first substantive case study of **why a club sought *external opponents*** and what happened when the teams negotiated playable rules. Follow Sheffield–Hallam to test whether a common national association was needed. Then consider Blackheath, Richmond and other 1863 FA meeting participants' contemporary letters and disputes.
+- **Oneida Football Club (Boston, 1862):** possible pre-FA foreign contrast but **different local code** and complicated later soccer/American-football origin mythology. *Not selected now* unless primary records reveal a consequential new mechanism. [US Soccer History analysis](https://www.ussoccerhistory.org/who-were-and-werent-the-oneidas/).
+
+**Editorial test:** Ask 'What concrete decision, constraint or conflict does this founding story add that we haven't already shown, *before 1863*?' If the answer is only 'they liked playing football' or 'they later became famous', reject it. The point is not to compile club names; it's to explain why independent football games eventually raised the **problem of playing outsiders**, before showing how people tried (or declined) to coordinate.
+
+
+<!-- Notebook convergence, 20 Oct 2026: preserved the branch-only fairness/skill assessment alongside all distinct main research additions. Editorial notes from the main collaborative draft are appended below. -->
 
 ---
 
@@ -714,3 +849,104 @@ There was **documented, variable demand for predictable common rules** amongst p
 4. **Editorial sufficiency:** We are **not** undertaking exhaustive club-by-club psychology or Victorian athletic comparisons. Use the strongest conclusion the evidence supports, test plausible alternatives and stop when an argument has been satisfactorily assessed.
 
 **Decisions reached:** Do **not** label 'competitive fairness' a demonstrated principal driver. Retain **demonstrating and recognising skill** as a documented contemporary reason for wanting common rules; **enjoyment and code preference** as documented reasons for disagreement; **simplicity** as a documented design criterion but unproven winner-determiner; **opponent networks, promotion and competitions** as plausible, testable adoption mechanisms; and **spectator understanding** as an additional, currently unverified consideration. Do not impose a predetermined explanation or manufacture historical agreement.
+
+
+---
+
+## Supplement — collaborative article editorial notes (copied from main)
+
+*This supplement preserves **notes and editorial constraints only** from `docs/drafts/22_football_collaborative.md` on `main` as of 20 October 2026. It intentionally excludes approved article prose, which remains in the draft file. Some evidence appears above in fuller research; duplication is retained to preserve provenance and decisions. Nothing in this supplement is approved finished article wording.*
+
+## Next to develop together
+
+Next: cover the full variety of why people formed football clubs (enjoyment, carrying on school games, cricket winter fitness, social/workplace/church groups, charity, local newcomers discovering a sport). Show that informal pick-up games and serious clubs with written rules could both function happily without a governing body. Then outside opponents introduce potential incompatibilities. FA returns near the end. This opening deliberately presents the familiar simplified story and is not a literal historical claim.
+
+### Agreed illustration to use (placement/wording still to edit together)
+
+**Pub pool analogy, proposed for the transition to negotiating matches with outsiders:** Friends play pool together down the pub under their shared, half-remembered local rules. Nobody needs to check every rule; they're having fun and aren't good enough to worry about every detail. Then a stranger joins and asks whether a foul means two shots, whether you can play backwards, and so on. Everyone groans, and they might agree to use an official code just to get on with the game. **They have agreed to a common code for convenience, not necessarily because they prefer it.** If one rule matters to them, they might refuse. Keep it vivid/brief, not a lecture. This is a *modern analogy*, not historical evidence of how any particular Victorian club behaved.
+
+**Do not treat this note as approved finished article wording.**
+
+
+### Important motivation/mechanism not yet written as prose — participation coordination
+
+Players can enjoy football but still fail to get a game if not enough turn up. A formal club can provide consistent times and venue, a pool of available members, equipment and rules governing guest participation. **Distinguish why people *want* to play (exercise, pleasure, etc.) from why *organising a club* helps people play regularly.** Don't assert that attendance was the documented *founding motive* of every club: mostly a reason a club structure can help.
+
+Evidence: Blackheath's 1858–62 attempted old-boys-only side couldn't reliably get enough players, admitted outsiders and formalised as an open club (club's later history: https://blackheathrugby.co.uk/our-history/). Barnes 1862 rules explicitly allow members' friends and local residents and store footballs at White Hart; 4 members can borrow them (contemporary club rules transcribed https://en.wikisource.org/wiki/Rules_of_Barnes_Football_Club_(1862)). Queen's Park 1867 formalised regular play days (Monday/Wednesday/Saturday), ball/flag custodians, venue and membership (Robinson 1920 account of early bylaws, https://electricscotland.com/hiStory/sport/football/chapter6.htm). This makes the *reliability/turnout* issue concrete. User compared their pub poker group: uncertain participation can cause people to skip, exacerbating the problem. These are explanatory mechanisms, not a claim every club had poor attendance.
+
+**Status:** Discuss prose placement with user; do not insert finished passage without agreement.
+
+### Celtic sources / checking notes
+
+- Official Celtic FC Foundation on Brother Walfrid and 1887 foundation: https://charity.celticfc.com/brother-walfrid/
+- Contemporary **January 1888** fundraising circular (transcription and photograph), gives objective of maintaining needy children's dinner tables: https://www.thecelticwiki.com/about-celtic/celtics-foundation/the-first-circular/
+- Celtic FC Foundation quotes a **late-1887** flyer about poverty: https://charity.celticfc.com/uncategorized/this-is-how-it-feels-to-be-celtic/
+- Caution: widely reproduced claim that a foundational circular says “children and the unemployed” is challenged by the original January 1888 circular transcription; avoid treating that composite/altered quote as an original without confirming a distinct 1887 source. Approved Celtic prose deliberately does not quote it.
+
+
+### Liverpool source / editorial note
+
+- Liverpool FC official club account (retrospective): https://www.liverpoolfc.com/info/how-liverpool-fc-was-founded-1892
+- The source distinguishes the owner/organiser's commercial motive from motives of recruited players. The prose is approved as the *first draft*, to be source-checked in editing.
+
+
+### Newton Heath and Honda FC — sources and scope
+
+- Manchester United's official history: https://www.manutd.com/en/club/history/history-by-decade/1878-1909 (railway workers, matches against railway departments and companies).
+- David Proudlove, *Work and Play: The Industrial Roots of English Football*, sample chapter 'Before the Red Devils', pp. 25–27: https://www.pitchpublishing.co.uk/sites/default/files/associated_downloads/Work%20and%20Play%20SAMPLE.pdf (Frederick Attock, railway-owned support, ground lease, works dining room, recruitment and 1892 break). This is **secondary historical research**, not a verbatim company minute.
+- Premier League club-names history on independent Newton Heath 1892–93: https://www.premierleague.com/en/news/4592046/what-is-the-history-behind-every-premier-league-clubs-name
+- Honda corporate history: https://global.honda/jp/sports/soccer/ (company's official football club established **1971**; stated purposes employee activity and community relations; JFL).
+- *Nikkan Sports*, 7 June **2023**: https://www.nikkansports.com/soccer/news/202306070001637.html (captain **Kazuki Matsumoto** employed making marine-engine components, morning work and 2.30pm training; most players company employees).
+- Independent profile / interview: https://www.descente.co.jp/media/brand/umbro/14155/ (Yuya Suzuki described office work mornings and supported afternoon training).
+- **Critical limits:** Company-backed does not automatically imply company-owned legal entity; historical evidence supports railway patronage and financial support, with subsequent severance. Honda's specific daily schedule is **documented in 2023**: don't present every current team member as working this timetable or assert 2026 personnel without checking.
+
+
+### Editorial decision — chronological structure and professionalism (20 Oct 2026)
+
+During the structural edit, consider putting the historical club case studies in **chronological order** so readers can see changing opportunities and incentives rather than jumping between 1850s recreational clubs and 1890s commercial ones. **Do not restructure approved prose yet**; first-draft construction remains collaborative. Preserve the main argument that these are *different, coexisting motives*, not a universal progression every club followed.
+
+The late-nineteenth-century emergence of paid football, player recruitment, gate receipts and the **amateur–professional dispute** is an important bridge from recreation/workplace clubs to Liverpool's 1892 commercial founding. Show the costs and consequences through Newton Heath (company works side -> paid players -> separation) and Liverpool (ground owner recruits outside talent). Potential brief supporting case: Darwen's Scottish recruits (Fergus Suter, James Love), 1880s disputes, 1885 FA acceptance of professionalism. Distinguish what is verified from popular anecdotes before publication. Avoid giving professionalism its own long history or letting this later dispute dominate the article about *why clubs formed*. No new wording approved here; preserve as a note for editing.
+
+
+### Editorial cut list — later international founding stories (agreed 20 October 2026)
+
+**Firm decision:** Do not add new post-1863 club-foundation miniatures to this article. A distinctive *pre-FA* problem/decision matters more than a globally famous team or an exotic destination.
+
+| Candidate researched | Date | What it might have illustrated | Why we cut or deferred it |
+|---|---|---|---|
+| Juventus, Turin | 1897 | Italian schoolboys see a game, buy a ball, form club, eventually play neighbours | Other Turin clubs and football already existed; 34 years after the English FA; no new pre-1863 explanation. Notts County **shirt** story rejected as irrelevant. **Cut**, not drafted. |
+| Mohun Bagan, Calcutta | 1889 | Local Bengali players seek club/patrons to compete with established teams | 26 years too late; repeats organisational/fixtures motive; would require separate colonial and 1911 context. The tempting boots-schism story has unreliable dates. **Cut**, not drafted. |
+| Corinthians, São Paulo | 1910 | Workers watch visiting Corinthian FC and start their own team | Spectators becoming players; overlaps Juventus, far too late. **Cut**. |
+| Colo-Colo, Santiago | 1925 | Players split from Magallanes over training/management | Distinct but a developed professional/competitive culture, 62 years too late. **Cut**. |
+| Bosio/early Turin clubs | 1887–1894 | Football introduced by travellers/business contacts and adopted by Italians | Geographic diffusion of association football after 1863; separate subject. **Cut**. |
+| Newton Heath / Manchester United | 1878 | Railway-supported employees' club, professionalisation; vivid modern Honda FC analogy | Not a cause of the 1863 rule discussions. **Defer** approved text intact; preserve for later works-team or professionalism article. |
+| Celtic | 1887 | Brother Walfrid establishes team to support charity | Worth preserving but 24 years after FA; a later fundraising/spectator economy story. **Defer** approved text. |
+| Liverpool | 1892 | Houlding has a ground, recruits team, commercial purpose | Worth preserving but 29 years after FA; belongs with professionalism and football business. **Defer** approved text. |
+
+**Chronology rule:** The international spread of **association football** mostly follows the English FA's 1863 foundation; do not confuse that with all historical football codes. **Melbourne 1858 stays**: its cricketers propose an independent code before the FA. Oneida (Boston 1862) remains only a candidate, since proving it was 'early soccer' is disputed and does not advance our current question.
+
+**Why this edit matters:** The story is **not** 'a timeline of famous clubs' or 'all the reasons anyone ever founded a team'. It should move through **Blackheath, Sheffield (1857), Melbourne (1858), Barnes (1862)** and then **Sheffield–Hallam (1860), other outside-club fixtures and competing rules**, towards the 1863 association discussions. We can reorder the pre-1863 approved passages **when editing together**; no approved paragraphs have been silently revised or removed now.
+
+**Research preserved:** `docs/research/22_football_club_origins.md` has fuller evidence, links, provenance cautions and explicit reasons for dropping/deferring each case under “Editorial exclusions register — pre-1863 article scope”.
+
+
+### Analogy restraint — rule preferences are only one motive (20 October 2026)
+
+**User's editorial instruction:** The Texas Hold'em versus Omaha comparison is **an analogy where it fits**, not an all-purpose historical explanation. Do **not** tell the history as though all clubs held the user's theory of benign preference differences, or as though every rule disagreement was simply a polite matter of taste. Start with documented historical motives and conduct: enjoyment of a particular code, safety and physical contact, access to opponents, practical convenience and organisation, status/identity, and conflicts that could turn heated. These motives sometimes coincided and sometimes conflicted. Use the poker comparison briefly *only* to make the distinction vivid between wanting new opponents and wanting to change games; it is not evidence of Victorian footballers' mental states. Quote/attribute contemporary evidence accurately. The example of Blackheath's defence of carrying and hacking versus Barnes's concern about who would play, Richmond's pragmatism and Louth/Lincoln's local coordination are **different documented interests**, not proofs of a single universal theory.
+
+**Working method:** No new finished prose is approved by this note; preserve for collaborative drafting and final edit.
+
+
+### Safety argument — perceived risk, not injury mechanics
+
+**User's scope decision (20 Oct 2026):** For this pre-FA football article, focus on **how prospective players and clubs perceived risk** and how the *consequences of injury differed* with work, income, physical condition, personal priorities and willingness to play. It is **not** an investigation of whether hacking itself was objectively dangerous, exactly how nineteenth-century players performed it, or the precise limits of modern/victorian criminal or civil consent; reserve those topics for a separate article if pursued. Don't use a modern professional high-risk athlete as evidence of Victorian attitudes; it is only a possible explanatory contrast. Anchor contemporary claims to actual 1863 statements, especially Blackheath's defence of preferred physical play versus Barnes/Morley's concern that businessmen and other groups would not join games with those rules. **Perception and willingness to participate can impede cross-club fixtures regardless of measured injury rates**; do not claim all occupations held uniform risk preferences. Any prose needs user approval before entering the approved article body.
+
+
+### Scope guardrail — defer other football codes
+
+**Decision (20 October 2026):** The emergence, distinctive rules and separate development of **rugby football, Australian rules football and American football** are **follow-up stories**, not subjects to develop inside the present pre-1863 association-football article. Avoid Webb Ellis, the Rugby Football Union's subsequent 1871 foundation and hacking-policy history, and detailed histories of Australian and American codes; those are distractions from how early clubs arranged games with outsiders and attempted to agree playing terms. **Blackheath's 1863 position may appear only insofar as needed to explain the *contemporaneous FA rule negotiation***; it must not become an account of rugby's history.
+
+**Existing Melbourne 1858 approved paragraph:** preserve as written for now; it is an example of independent football club/code formation prior to 1863, but **flag for structural review** because detailed Australian football development may belong to its own follow-up. Do not silently delete approved prose. Any Australian reference in the finished piece should be strictly brief and justified by the central argument.
+
+Suggested separate research/article ideas: how rugby codes became organised and separated; how the Australian rules game evolved; development and branching of American football. Research these individually rather than treating them as postscript to English FA creation.
+
