@@ -91,6 +91,21 @@ A story can be evergreen, niche or explanatory and still pass. But **beautifully
 
 **Bottom line:** *Understand the game → discover a consequence → investigate the real decision and its alternatives → test originality and reader value → decide whether to draft → edit and publish.* The rest of this playbook covers what happens **after** the decision to produce the piece.
 
+## Research-to-draft handoff — preserve the findings, then edit
+
+**Research is the first filter; drafting is not an excuse to repeat that filtering blindly.** A long investigation earns its value by testing hypotheses, checking sources, finding counterexamples, and rejecting false assumptions, weak explanations and irrelevant examples *in the research notes*. Maintain a record of those decisions, including evidence limits and genuine unresolved questions.
+
+Once an article has passed the commissioning and research tests:
+
+1. **Draft from the conclusions that survived scrutiny, not from every idea we explored.** Carry across the relevant established facts, specific examples, actors' motives and alternatives, arguments against our interpretation, trade-offs, consequences and necessary qualifications. Distinguish contemporary evidence, later testimony and our own inferences. Never resurrect a rejected claim simply to make the draft longer.
+2. **Explain the findings rather than merely announcing them.** If we researched *why* clubs formed, rules were resisted or tactics mattered, show the reader how the causes and decisions worked. Do not replace a substantial, evidence-backed explanation with a generic sentence that forces us to reconstruct the research later.
+3. **Prefer a substantively complete first draft to premature compression.** Length is not a target or a virtue in itself. Include the relevant material first; assess repetition, pacing, narrative balance and economy in the subsequent edit. Do not silently omit an important researched example because the section already seems long.
+4. **Audit the draft against the notes before treating it as complete.** For each central claim, check that its supporting evidence, relevant counterexamples, causal reasoning and uncertainty have received fair consideration. Identify any deliberately deferred material and why. A sound research log should prevent repeated investigations to repair unexplained gaps.
+5. **Edit with discrimination, not indiscriminate shortening.** Remove errors, disproved assumptions, irrelevant examples, repetition and weak or redundant passages. Preserve whatever makes the article distinctive, adequately supported and understandable. A cut must not remove a necessary step in the argument.
+6. **Respect collaborative control of the draft.** Agree the structure and develop prose with the author at the requested pace. Do not unilaterally write ahead, replace approved copy or amend article files when the author is still reviewing paragraph by paragraph.
+
+**Working distinction:** *Research decides what is true and worth telling; the comprehensive draft tells it; editing decides how best to tell it.* The final piece can be short, but only after we understand exactly what is being cut and why.
+
 ## Copy status
 
 Treat finished body copy as locked by default.
