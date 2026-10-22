@@ -106,6 +106,24 @@ Once an article has passed the commissioning and research tests:
 
 **Working distinction:** *Research decides what is true and worth telling; the comprehensive draft tells it; editing decides how best to tell it.* The final piece can be short, but only after we understand exactly what is being cut and why.
 
+
+## Source discovery and independent evidence checks
+
+**Division of labour:** ChatGPT does the source-hunting and preliminary audit; the author independently opens and checks original material before relying on it. A citation is a trail to examine, **not proof by itself**. The purpose is to find out whether we are right, not to collect references that agree with us.
+
+For research and factual verification:
+
+1. **Trace claims upstream.** Prefer original rules, official records, contemporary reports, primary datasets, firsthand accounts and published research over secondary retellings. If using a secondary source, explain why it is needed and avoid laundering its claims into apparent primary evidence.
+2. **Make the evidence findable.** Give a direct, functioning source link or stable locator and identify the relevant page, table, passage, date, denominator or calculation where practicable. Preserve the link and what it supports in the article research notes or source register as soon as it is used.
+3. **Test the claim against the source.** State what the original *actually establishes*, what it merely suggests, and what remains our inference, interpretation or opinion. Check definitions, thresholds, units, time periods, comparability, context and causal claims; a true statistic can still be used misleadingly.
+4. **Look for contrary evidence.** Investigate credible counterexamples and competing explanations instead of selecting evidence to defend an attractive argument. Revise or abandon the claim when warranted, including claims suggested by the author or ChatGPT.
+5. **Report verification status honestly.** Distinguish located sources, material personally inspected by ChatGPT, and material independently checked by the author. Never claim a link or quoted source was verified if only a search snippet, citation chain or inaccessible page was seen. Flag broken links, uncertainty and unresolved conflicts explicitly.
+6. **Check computations independently.** Recalculate important figures from their stated inputs; do not accept a number merely because it appears in an article, notebook or earlier AI answer.
+7. **Keep the final read clean without losing the trail.** The article needs enough sourcing for the reader, but the deeper claim-to-evidence mapping belongs in the research notes. A rigorous trail should survive a hostile reader asking, “Where did that come from?”
+
+**Operating rule:** *ChatGPT finds and documents the evidence; the author judges the original sources; the claim must survive both checks.* Neither an author’s preferred conclusion nor ChatGPT’s confident wording substitutes for demonstrated support.
+
+
 ## Copy status
 
 Treat finished body copy as locked by default.
