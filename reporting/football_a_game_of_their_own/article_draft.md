@@ -119,6 +119,8 @@ The meeting voted to remove the provisions permitting running with the ball and 
 
 **The Football Association had succeeded in agreeing on rules. It had also lost a club in the process.**
 
+<!-- EDITORIAL REMINDER: Before subediting the next section, return to Study 22 notebook 'Editorial return point — how could common rules spread without a national association?' Discuss MCC's published cricket laws as a potential voluntary-adoption model, school/university leadership, and the difference between adopting rules and joining an association. This is a testable comparison, not settled universal intent. -->
+
 ## Why establish common rules?
 
 While the association's members debated what their game should look like, clubs elsewhere were considering whether common rules—or membership of the association itself—would be useful.
