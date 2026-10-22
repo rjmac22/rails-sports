@@ -36,8 +36,6 @@ Across Britain, football was played under different rules. What players could do
 
 At Cambridge, students who had learned different versions of football tried to agree on a set of rules they could all play under. They had been attempting this since at least the 1840s, and a set of rules from around 1856 still survives.
 
-The students had negotiated rules under which they could play together without requiring their former schools to change their own games.
-
 But agreeing on a common game was not always straightforward.
 
 In December 1858, a correspondent calling himself *Juvenis* wrote to *Bell's Life in London*, complaining about the difficulties caused by schools playing different versions of football. He argued that common rules would make matches between them easier to arrange.
