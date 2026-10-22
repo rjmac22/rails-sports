@@ -34,8 +34,6 @@ The clubs around Sheffield played under broadly similar rules. But elsewhere, fo
 
 Across Britain, football was played under different rules. What players could do with the ball, how they challenged opponents and how they scored depended on the game they had learned.
 
-Those differences became apparent when former pupils met at university or joined football clubs.
-
 At Cambridge, students from different schools had been attempting to agree on common playing rules since at least the 1840s. A surviving set from approximately 1856 bears the names of representatives associated with Eton, Rugby, Harrow and Shrewsbury.
 
 The students had negotiated rules under which they could play together without requiring their former schools to change their own games.
