@@ -30,7 +30,7 @@ Other clubs appeared in the area. By 1862, eleven teams were active around Sheff
 
 ## Whose rules are we playing?
 
-By 1862, eleven teams were playing football in the Sheffield area under broadly similar rules. But elsewhere, players had developed different ideas about how football should be played.
+The clubs around Sheffield played under broadly similar rules. But elsewhere, footballers had very different ideas about how the game should be played.
 
 Schools throughout Britain had their own football traditions. Some had written rules, while others relied on established customs. At prestigious public schools such as Eton, Rugby, Harrow and Winchester, the differences could be substantial. What players were permitted to do with the ball, how they challenged opponents and how they scored depended on the game they had learned.
 
