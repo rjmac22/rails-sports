@@ -4,19 +4,21 @@
 
 Sporting clubs and societies had existed in Britain for generations, football among the games they organised. Some lasted for decades; others came and went. You know what I mean, the enthusiastic organiser gets busy with something else, people move away, somewhere to play becomes unavailable. The subscription goes up, travelling becomes expensive, somebody loses their job, or they simply decide the money would be better spent elsewhere. This was long before professional football leagues and careers. Keeping a club going depended on people having the time, money and enthusiasm to do it.
 
-In October 1849, members of several Surrey cricket clubs gathered at the Oval for a meeting of their football club. One speaker recalled that some sixty years earlier, a society formed by men from Westmorland and Cumberland had organised wrestling and football in London.
+In October 1849, members of several Surrey cricket clubs gathered at the Oval to establish a football club. During the meeting, the chairman recalled an earlier sporting organisation that had disappeared.
 
-The society had played football on Kennington Common, including a substantial match between men representing the two counties in 1789. But when leading members retired and moved away, the society dissolved. Wrestling continued elsewhere, while football gradually declined in the area as suitable places to play became unavailable.
+Some sixty years before, a group of men originally from Westmorland and Cumberland had established the Gymnastic Society in London. They organised wrestling and football, playing the latter on Kennington Common. In 1789, twenty-two men from Westmorland faced twenty-two from Cumberland. Westmorland won.
 
-The Surrey organisers wanted to revive the activity. They agreed rules, collected subscriptions to pay for equipment and scheduled games on Wednesdays and Saturdays throughout the winter.
+But when several leading members retired from business and moved away, the Gymnastic Society dissolved. Wrestling continued elsewhere, but football became increasingly difficult to organise as suitable places to play became unavailable.
 
-At Blackheath in the late 1850s, former pupils of Blackheath Proprietary School wanted to continue playing the football they had learned. Initially, they organised informal games among themselves, but regularly struggled to assemble enough former pupils to make up the teams.
+The Surrey organisers wanted to revive the game. They established a new football club, agreed rules, collected subscriptions to pay for equipment and scheduled games on Wednesdays and Saturdays throughout the winter.
 
-They began recruiting outsiders, eventually opening participation more widely and establishing a formal club for the 1862–63 season.
+In the late 1850s, former pupils of Blackheath Proprietary School wanted to continue playing the football they played at school. Initially, they organised informal games among themselves, but regularly struggled to get enough former pupils to make up the teams.
 
-Unlike Surrey, where the organisers wanted to revive football after earlier arrangements had disappeared, Blackheath's problem was finding enough available players. Expanding participation offered a solution.
+They began inviting outsiders to play and eventually established a formal club for the 1862–63 season.
 
 ## Why play against other clubs?
+
+Sheffield FC had been founded in 1857. At first, its members mostly played among themselves, dividing into teams to get a game. But they had few other football clubs to play against.
 
 In Sheffield, Hallam FC was established in 1860 with connections to the existing Hallam Cricket Club.
 
