@@ -4,11 +4,11 @@
 
 Sporting clubs and societies had existed in Britain for generations, football among the games they organised. Some lasted for decades; others came and went. You know what I mean, the enthusiastic organiser gets busy with something else, people move away, somewhere to play becomes unavailable. The subscription goes up, travelling becomes expensive, somebody loses their job, or they simply decide the money would be better spent elsewhere. This was long before professional football leagues and careers. Keeping a club going depended on people having the time, money and enthusiasm to do it.
 
-In October 1849, members of several cricket clubs in Surrey met to establish a football club. At the meeting, one speaker recalled that some sixty years earlier, a society formed by men from Westmorland and Cumberland had organised wrestling and football in London.
+In October 1849, members of several Surrey cricket clubs gathered at the Oval for a meeting of their football club. One speaker recalled that some sixty years earlier, a society formed by men from Westmorland and Cumberland had organised wrestling and football in London.
 
 The society had played football on Kennington Common, including a substantial match between men representing the two counties in 1789. But when leading members retired and moved away, the society dissolved. Wrestling continued elsewhere, while football gradually declined in the area as suitable places to play became unavailable.
 
-The Surrey organisers wanted to revive the activity. They established a club, collected subscriptions, provided equipment and arranged games on Wednesdays and Saturdays throughout the winter.
+The Surrey organisers wanted to revive the activity. They agreed rules, collected subscriptions to pay for equipment and scheduled games on Wednesdays and Saturdays throughout the winter.
 
 At Blackheath in the late 1850s, former pupils of Blackheath Proprietary School wanted to continue playing the football they had learned. Initially, they organised informal games among themselves, but regularly struggled to assemble enough former pupils to make up the teams.
 
@@ -24,7 +24,7 @@ According to Hallam's later history, some of its members wanted a less exclusive
 
 Writing in 1907, Shaw recalled how Sheffield had repeatedly rearranged its members into different teams to keep matches interesting. He helped establish Hallam, he explained, specifically to provide Sheffield with another club to play.
 
-The two clubs met at Hallam's Sandygate ground on Boxing Day 1860. Sixteen players appeared on each side, rather than the eleven familiar in modern football. They played under the local Sheffield rules, without needing a national governing body to organise the contest.
+The two clubs met at Hallam's Sandygate ground on Boxing Day 1860. The match had been advertised as sixteen-a-side, but severe weather kept several players away. Sheffield played with fewer men than Hallam and still won 2–0. They played under the local Sheffield rules, without needing a national governing body to organise the contest.
 
 Sheffield had already found occasional opponents among soldiers stationed nearby. But a separate club offered the possibility of regular competition against another established group. Shaw remembered the matches between Sheffield and Hallam as particularly enjoyable, although his account was written almost fifty years afterwards.
 
@@ -58,7 +58,7 @@ The newspaper had invited a discussion about common football rules. It ended up 
 
 ### The Great Football Rules Argument, 1858–59
 
-*The historical arguments, reimagined as modern social media posts. These are paraphrases, not quotations.*
+*The historical arguments, reimagined as modern social media posts. The handles are adapted or invented; the posts paraphrase arguments attributed to the correspondents, rather than quoting their actual words.*
 
 **@Juvenis**  
 Every school has different football rules. We can't arrange a match without an argument. Can we PLEASE agree on something?
@@ -66,16 +66,16 @@ Every school has different football rules. We can't arrange a match without an a
 **@BellsLife**  
 Eton have already published their rules. Why don't the smaller schools just use those?
 
-**@FloreatRugbaea**  
+**@FloreatRugbœa**  
 Rugby published ours too. Why the hell should we use Eton's? Get the schools together and agree something.
 
-**@OldWykehamist**  
+**@WinchesterOldBoy**  
 Winchester's game is older than yours. And Eton basically copied us anyway.
 
 **@FloreatEtona**  
 We already play university teams under Eton rules. Works perfectly well.
 
-**@Rugbiensis**  
+**@Rugbiennsis**  
 What's wrong with hacking? It's part of Rugby football.
 
 **@RedJersey**  
@@ -163,9 +163,9 @@ The neighbouring clubs had recognised the advantages of common rules. They had n
 
 The Football Association had established a code that any willing club could use. But other versions of football remained popular, and existing clubs continued making their own arrangements.
 
-Sheffield, for example, continued playing under its local rules. In 1865 it experimented with a stricter offside restriction, partly to accommodate competition against other clubs. The experiment proved unpopular, and Sheffield subsequently returned to a more permissive arrangement.
+Sheffield, for example, continued playing under its local rules. In September 1865, it agreed to try a stricter offside rule, while allowing games against local clubs to continue under the old rules if those clubs did not adopt the change. Sheffield also proposed a rules compromise with Nottingham. The stricter offside experiment proved unpopular and was eventually abandoned.
 
-Even when footballers accepted the advantages of common rules, they could discover that the resulting game was less enjoyable than the one they had been playing.
+Agreeing to a rule did not guarantee that players would be satisfied with the resulting game.
 
 The association's foundation was therefore not the moment when everybody finally agreed on football. It was the establishment of one more way for people to agree.
 
