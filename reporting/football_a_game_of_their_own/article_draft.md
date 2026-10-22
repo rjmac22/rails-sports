@@ -38,7 +38,7 @@ At Cambridge, students who had learned different versions of football tried to a
 
 But agreeing on a common game was not always straightforward.
 
-In December 1858, a correspondent calling himself *Juvenis* wrote to *Bell's Life in London*, complaining about the difficulties caused by schools playing different versions of football. He argued that common rules would make matches between them easier to arrange.
+In December 1858, a reader calling himself *Juvenis* wrote to *Bell's Life in London*. He argued that it would be much easier for schools to arrange matches against one another if they could agree on the rules.
 
 The newspaper's editor suggested that smaller schools might adopt Eton's published rules.
 
