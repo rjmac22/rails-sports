@@ -2,7 +2,7 @@
 
 ## Why establish a football club?
 
-Sporting clubs and societies had been organising recreation in Britain for generations. Some survived for many years; others disappeared as their members moved away, facilities became unavailable or circumstances changed. Football was among the games they organised, long before the establishment of the Football Association.
+Sporting clubs and societies had existed in Britain for generations, football among the games they organised. Some lasted for decades; others came and went. You know what I mean, the enthusiastic organiser gets busy with something else, people move away, somewhere to play becomes unavailable. The subscription goes up, travelling becomes expensive, somebody loses their job, or they simply decide the money would be better spent elsewhere. This was long before professional football leagues and careers. Keeping a club going depended on people having the time, money and enthusiasm to do it.
 
 In October 1849, members of several cricket clubs in Surrey met to establish a football club. At the meeting, one speaker recalled that some sixty years earlier, a society formed by men from Westmorland and Cumberland had organised wrestling and football in London.
 
