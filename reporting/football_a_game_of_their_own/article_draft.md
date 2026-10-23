@@ -174,3 +174,5 @@ Louth took a different approach. In February 1864, its members voted to adopt a 
 When the Football Association was founded in 1863, it hadn't settled how football should be played. It had simply agreed on a version that some clubs were willing to play.
 
 There was one thing they couldn't decide in a committee meeting: **whether enough footballers actually wanted to play it.**
+
+One reason to play the FA's game arrived in 1871: the FA Cup. Clubs now had a competition to enter, provided they played under FA rules. Sheffield FC entered in 1873, even though it still played its local matches under Sheffield rules.
