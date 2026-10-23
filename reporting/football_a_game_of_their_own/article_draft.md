@@ -171,10 +171,6 @@ Lincoln gave the FA's rules a try, but by October 1864 its members were consider
 
 Louth took a different approach. In February 1864, its members voted to adopt a common set of rules, but with a couple of changes of their own.
 
-Sheffield, for example, continued playing under its local rules. In September 1865, it agreed to try a stricter offside rule, while allowing games against local clubs to continue under the old rules if those clubs did not adopt the change. Sheffield also proposed a rules compromise with Nottingham. The stricter offside experiment proved unpopular and was eventually abandoned.
-
-Agreeing to a rule did not guarantee that players would be satisfied with the resulting game.
-
 The association's foundation was therefore not the moment when everybody finally agreed on football. It was the establishment of one more way for people to agree.
 
 Its subsequent success would depend on something the founders could not settle in a committee meeting: **whether enough footballers actually wanted to play the game they had devised.**
