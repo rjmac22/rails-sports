@@ -131,8 +131,6 @@ Campbell regarded these challenges as part of what made football worth playing. 
 
 Ebenezer Cobb Morley of Barnes saw things differently. He wasn't particularly bothered by hacking himself, but doubted how many adults would want to play a game that allowed it. A broken leg could keep you off work for weeks, and turning up to meet customers looking like you'd had the crap kicked out of you wasn't exactly good for business. Not much has changed there.
 
-The argument wasn't simply about whether hacking was dangerous. Campbell valued the physical contest it created. Morley believed retaining it would discourage people the association hoped to attract.
-
 Neither was prepared to accept the other's preferred solution.
 
 The meeting voted to remove the provisions permitting running with the ball and hacking. Blackheath subsequently withdrew from the association rather than accept a game that had lost features its members valued.
