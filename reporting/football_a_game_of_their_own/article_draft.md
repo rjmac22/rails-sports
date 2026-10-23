@@ -145,7 +145,7 @@ Blackheath hadn't stopped playing football. It just didn't want to play the FA's
 
 In November 1863, John G. Tupholme, secretary of Louth Football Club in Lincolnshire, wrote to his counterpart at Lincoln FC. The clubs had already played each other, and Louth was considering revising its rules.
 
-Tupholme favoured joining the new Football Association, but he made an important distinction. Whether the two clubs joined the London organisation or not, he wanted them to adopt common rules.
+Tupholme liked the idea of joining the new Football Association. But even if Louth and Lincoln decided not to join, he still wanted them to play by the same rules.
 
 The reason was simply to make arranging their matches easier.
 
