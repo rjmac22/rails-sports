@@ -169,7 +169,7 @@ On 8 December, the association finally approved its first playing code. Eleven d
 
 Lincoln gave the FA's rules a try, but by October 1864 its members were considering abandoning them. They wanted, in their words, “a more animated and plucky game”, and appointed a committee to draw up rules of their own.
 
-Louth took a different approach. In February 1864, its members agreed to adopt the FA's rules, but with exceptions to provisions concerning team numbers and handling the ball.
+Louth took a different approach. In February 1864, its members voted to adopt a common set of rules, but with a couple of changes of their own.
 
 The neighbouring clubs had recognised the advantages of common rules. They had not reached identical conclusions about which rules they wanted to play under.
 
