@@ -119,9 +119,7 @@ Right. That's enough. We're not publishing any more of this.
 
 ## What are you prepared to give up?
 
-In October 1863, a correspondent calling himself *Etonensis* complained about football matches between former pupils of Eton and Westminster.
-
-The two groups had been playing under compromise rules for two years. They had managed to agree on a game, but according to *Etonensis*, neither side could properly demonstrate the skills it had developed playing its own version of football.
+In October 1863, a reader calling himself *Etonensis* complained that Eton and Westminster had been playing matches under compromise rules for two years, but neither side could properly demonstrate its skills. Moves that worked under one school's rules were forbidden under the other's. The matches could go ahead, but according to *Etonensis*, the standard of football was poor.
 
 The compromise had made the matches possible without necessarily making them satisfactory.
 
