@@ -192,3 +192,5 @@ Queen's Park, founded in Glasgow in 1867, had been encouraging other Scottish cl
 That came the following March, when representatives of seven clubs met in Glasgow to establish one, with an eighth supporting them by letter. They agreed to promote football "according to the rules of The Football Association". They also established their own cup competition.
 
 But agreeing to play under the FA's rules didn't mean letting London run Scottish football. In March 1877, the Scottish FA rejected a proposal to become part of the English association.
+
+When the FA changed its throw-in rule in April 1877 to reach an agreement with Sheffield, the Scottish FA refused to adopt the change.
