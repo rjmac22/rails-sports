@@ -194,3 +194,5 @@ That came the following March, when representatives of seven clubs met in Glasgo
 But agreeing to play under the FA's rules didn't mean letting London run Scottish football. In March 1877, the Scottish FA rejected a proposal to become part of the English association.
 
 When the FA changed its throw-in rule in April 1877 to reach an agreement with Sheffield, the Scottish FA refused to adopt the change.
+
+England and Scotland had been playing international matches since 1872. But if their associations could make different decisions about the rules, whose version would they use when they met?
