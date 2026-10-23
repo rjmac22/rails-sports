@@ -167,7 +167,7 @@ He still expected them to use the FA's rules, because that would make arranging 
 
 On 8 December, the association finally approved its first playing code. Eleven days later, Richmond played Barnes under the new rules. The match finished 0–0.
 
-Lincoln initially supported the association and experimented with its laws. Less than a year later, it withdrew after finding the experience unsatisfactory.
+Lincoln gave the FA's rules a try, but by October 1864 its members were considering abandoning them. They wanted, in their words, “a more animated and plucky game”, and appointed a committee to draw up rules of their own.
 
 Louth took a different approach. In February 1864, its members agreed to adopt the FA's rules, but with exceptions to provisions concerning team numbers and handling the ball.
 
