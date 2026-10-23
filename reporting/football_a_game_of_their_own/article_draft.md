@@ -131,9 +131,9 @@ Campbell regarded these challenges as part of what made football worth playing. 
 
 Ebenezer Cobb Morley of Barnes saw things differently. He wasn't particularly bothered by hacking himself, but doubted how many adults would want to play a game that allowed it. A broken leg could keep you off work for weeks, and turning up to meet customers looking like you'd had the crap kicked out of you wasn't exactly good for business. Not much has changed there.
 
-Neither was prepared to accept the other's preferred solution.
+Campbell wasn't going to let it pass quietly. He challenged the way an earlier vote had been counted, accused the other side of manoeuvring against the hacking supporters, and tried to postpone the decision until more school representatives could attend. That motion lost 13–4. Then the meeting voted 11–5 to strike out the rules allowing players to run with the ball and opponents to hack them.
 
-The meeting voted to remove the provisions permitting running with the ball and hacking. Blackheath subsequently withdrew from the association rather than accept a game that had lost features its members valued.
+A week later, on 8 December, Campbell announced that Blackheath was leaving the Football Association. But he hadn't fallen out with the whole enterprise: he agreed to stay on as its treasurer until the next general meeting.
 
 **The Football Association had succeeded in agreeing on rules. It had also lost a club in the process.**
 
