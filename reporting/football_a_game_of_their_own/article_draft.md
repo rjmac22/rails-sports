@@ -159,6 +159,8 @@ But the association had no authority to compel outsiders to comply. Nor did its 
 
 Up in Sheffield, eleven clubs were playing under rules Sheffield FC had drawn up in 1858. So when Sheffield FC's secretary, William Chesterman, wrote to join the FA in November 1863, he sent a copy of those rules, along with suggestions and objections to parts of the FA's proposals.
 
+Sheffield FC joined the FA, but carried on playing under its own rules locally. It could have a say in what the FA's rules became without giving up the game it was already playing against its neighbours.
+
 Other footballers were interested in the rules without wanting to join the organisation.
 
 In Richmond, Edwin Ash helped arrange football among men who were temporarily living in the area, many preparing for military careers. He explained that there was little point establishing a permanent club when its members would soon be leaving.
