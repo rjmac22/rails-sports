@@ -173,4 +173,4 @@ Louth took a different approach. In February 1864, its members voted to adopt a 
 
 When the Football Association was founded in 1863, it hadn't settled how football should be played. It had simply agreed on a version that some clubs were willing to play.
 
-Its subsequent success would depend on something the founders could not settle in a committee meeting: **whether enough footballers actually wanted to play the game they had devised.**
+There was one thing they couldn't decide in a committee meeting: **whether enough footballers actually wanted to play it.**
