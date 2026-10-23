@@ -42,7 +42,7 @@ In December 1858, a reader calling himself *Juvenis* wrote to *Bell's Life in Lo
 
 The newspaper's editor suggested that smaller schools might adopt Eton's published rules.
 
-A correspondent identifying himself with Rugby School immediately objected. Rugby had published its rules too. Why should Rugby footballers abandon their game in favour of Eton's? He suggested that representatives of the schools should instead meet and negotiate a compromise.
+A Rugby supporter immediately objected. Rugby had published its own rules, so why should its footballers abandon their game in favour of Eton's? He suggested that representatives from the schools should meet and negotiate a compromise.
 
 Other former pupils joined the argument. Winchester supporters defended their school's football, with one claiming its rules were older than those of the other schools. An Etonian maintained that his school's existing rules worked perfectly well for matches against university teams. Some questioned whether schools playing different games needed to compete against one another at all.
 
