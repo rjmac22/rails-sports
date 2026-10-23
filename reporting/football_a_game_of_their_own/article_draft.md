@@ -176,3 +176,5 @@ When the Football Association was founded in 1863, it hadn't settled how footbal
 There was one thing they couldn't decide in a committee meeting: **whether enough footballers actually wanted to play it.**
 
 One reason to play the FA's game arrived in 1871: the FA Cup. Clubs now had a competition to enter, provided they played under FA rules. Sheffield FC entered in 1873, even though it still played its local matches under Sheffield rules.
+
+By 1877, clubs were still having to agree which rules to use when they played one another. The captain of Manchester AFC complained that his team might play under one set of rules at home, then travel to Sheffield and have to play another.
