@@ -121,8 +121,6 @@ Right. That's enough. We're not publishing any more of this.
 
 In October 1863, a reader calling himself *Etonensis* complained that Eton and Westminster had been playing matches under compromise rules for two years, but neither side could properly demonstrate its skills. Moves that worked under one school's rules were forbidden under the other's. The matches could go ahead, but according to *Etonensis*, the standard of football was poor.
 
-The compromise had made the matches possible without necessarily making them satisfactory.
-
 He wanted a common set of rules that footballers could learn and use against a wider range of opponents. But deciding what those rules should be remained a problem. What one group considered an essential part of football, another might regard as unnecessary or even dangerous.
 
 On 26 October 1863, representatives of football clubs gathered at the Freemasons' Tavern in London to establish the Football Association.
