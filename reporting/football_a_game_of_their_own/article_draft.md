@@ -48,8 +48,6 @@ Others joined the argument. A Winchester supporter claimed their rules were olde
 
 The argument continued into January 1859, until the editor refused to publish any more letters because the contributors had started insulting one another.
 
-The newspaper had invited a discussion about common football rules. It ended up with former pupils arguing over whose version of football was best.
-
 ### The Great Football Rules Argument, 1858–59
 
 *The historical arguments, reimagined as modern social media posts. The handles are adapted or invented; the posts paraphrase arguments attributed to the correspondents, rather than quoting their actual words.*
