@@ -50,36 +50,57 @@ The argument continued into January 1859, until the editor refused to publish an
 
 ### The Great Football Rules Argument, 1858–59
 
-*The historical arguments, reimagined as modern social media posts. The handles are adapted or invented; the posts paraphrase arguments attributed to the correspondents, rather than quoting their actual words.*
+*An imaginary Facebook comments thread based on a real newspaper argument. The historical positions are paraphrased; the names, modern wording, extra commenters and insults are invented. Not historical quotations.*
 
-**@Juvenis**  
-Every school has different football rules. We can't arrange a match without an argument. Can we PLEASE agree on something?
+**Bell's Life in London · Admin**  
+Every school seems to play football by different rules. Surely we can agree on something?
 
-**@BellsLife**  
-Eton have already published their rules. Why don't the smaller schools just use those?
+**Juvenis**  
+Exactly. How are we supposed to arrange matches if nobody plays the same game?
 
-**@FloreatRugbœa**  
-Rugby published ours too. Why the hell should we use Eton's? Get the schools together and agree something.
+**Bell's Life in London · Admin**  
+Eton have published their rules. Why don't the smaller schools just use those?
 
-**@WinchesterOldBoy**  
-Winchester's game is older than yours. And Eton basically copied us anyway.
+**Floreat Rugbaea**  
+Rugby published ours too. Why the hell should we use Eton's? Get everyone together and agree something.
 
-**@FloreatEtona**  
+**Winchester Old Boy**  
+Winchester's game is older than yours. Eton copied half of it anyway.
+
+**Floreat Etona**  
 We already play university teams under Eton rules. Works perfectly well.
 
-**@Rugbiennsis**  
+**Rugbiennsis**  
 What's wrong with hacking? It's part of Rugby football.
 
-**@RedJersey**  
-Under Rugby rules nobody ever scores. Every match would end in a draw.
+**Red Jersey**  
+Under Rugby rules nobody ever scores. You'd still be playing the same match at Christmas.
 
-**@OnceTheBestDrop**  
-Everyone needs to give something up. That's how you reach an agreement.
+**George Pritchard**  
+Scored twice from free kicks on Saturday. One from miles out. Just saying.
 
-**@BellsLife**  
-We're not publishing any more of these letters. You're all just insulting each other.
+**Thomas Pike**  
+Nobody asked, George.
 
-*Replies have been disabled.*
+**George Pritchard**  
+Only because you couldn't hit a barn door.
+
+**Once the Best Drop**  
+You all need to give something up. That's what a compromise is.
+
+**Floreat Etona**  
+Hard to compromise with people who think kicking someone in the shins counts as skill.
+
+**Floreat Rugbaea**  
+Better than being frightened of a bit of mud, you pompous ass.
+
+**Winchester Old Boy**  
+Neither of you knows how to play football. You barely know how to read.
+
+**Bell's Life in London · Admin**  
+Right. That's enough. We're not publishing any more of this.
+
+*Comments have been turned off.*
 
 ## What are you prepared to give up?
 
