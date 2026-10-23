@@ -129,9 +129,7 @@ At a meeting in December, Francis Maule Campbell, representing Blackheath, defen
 
 Campbell regarded these challenges as part of what made football worth playing. The game tested courage and determination. Removing those features, he argued, would take away much of its character.
 
-Ebenezer Cobb Morley of Barnes saw the problem differently.
-
-Morley wasn't especially troubled by hacking himself, but he doubted that many adult footballers would willingly participate in a game that permitted it. Men with businesses and occupations to attend to had good reasons to avoid injuries that could prevent them from working.
+Ebenezer Cobb Morley of Barnes saw things differently. He wasn't particularly bothered by hacking himself, but doubted how many adults would want to play a game that allowed it. A broken leg could keep you off work for weeks, and turning up to meet customers looking like you'd had the crap kicked out of you wasn't exactly good for business. Not much has changed there.
 
 The argument wasn't simply about whether hacking was dangerous. Campbell valued the physical contest it created. Morley believed retaining it would discourage people the association hoped to attract.
 
