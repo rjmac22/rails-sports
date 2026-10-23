@@ -143,8 +143,6 @@ Blackheath hadn't stopped playing football. It just didn't want to play the FA's
 
 ## Why establish common rules?
 
-While the association's members debated what their game should look like, clubs elsewhere were considering whether common rules—or membership of the association itself—would be useful.
-
 In November 1863, John G. Tupholme, secretary of Louth Football Club in Lincolnshire, wrote to his counterpart at Lincoln FC. The clubs had already played each other, and Louth was considering revising its rules.
 
 Tupholme favoured joining the new Football Association, but he made an important distinction. Whether the two clubs joined the London organisation or not, he wanted them to adopt common rules.
