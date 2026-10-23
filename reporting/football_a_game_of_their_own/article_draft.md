@@ -135,7 +135,7 @@ Campbell wasn't going to let it pass quietly. He challenged the way an earlier v
 
 A week later, on 8 December, Campbell announced that Blackheath was leaving the Football Association. But he hadn't fallen out with the whole enterprise: he agreed to stay on as its treasurer until the next general meeting.
 
-**The Football Association had succeeded in agreeing on rules. It had also lost a club in the process.**
+**The Football Association had agreed on its rules. By January 1864, six of its eleven founding clubs had gone.**
 
 <!-- EDITORIAL REMINDER: Before subediting the next section, return to Study 22 notebook 'Editorial return point — how could common rules spread without a national association?' Discuss MCC's published cricket laws as a potential voluntary-adoption model, school/university leadership, and the difference between adopting rules and joining an association. This is a testable comparison, not settled universal intent. -->
 
