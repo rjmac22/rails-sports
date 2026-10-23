@@ -161,8 +161,6 @@ Up in Sheffield, eleven clubs were playing under rules Sheffield FC had drawn up
 
 Sheffield FC joined the FA, but carried on playing under its own rules locally. It could have a say in what the FA's rules became without giving up the game it was already playing against its neighbours.
 
-Other footballers were interested in the rules without wanting to join the organisation.
-
 In Richmond, Edwin Ash helped arrange football among men who were temporarily living in the area, many preparing for military careers. He explained that there was little point establishing a permanent club when its members would soon be leaving.
 
 Nevertheless, he expected them to adopt the association's laws. Using rules recognised by other clubs would make arranging matches more convenient.
