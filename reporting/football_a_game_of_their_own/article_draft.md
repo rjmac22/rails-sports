@@ -161,9 +161,9 @@ Up in Sheffield, eleven clubs were playing under rules Sheffield FC had drawn up
 
 Sheffield FC joined the FA, but carried on playing under its own rules locally. It could have a say in what the FA's rules became without giving up the game it was already playing against its neighbours.
 
-In Richmond, Edwin Ash helped arrange football among men who were temporarily living in the area, many preparing for military careers. He explained that there was little point establishing a permanent club when its members would soon be leaving.
+When the FA wrote to Edwin Ash in Richmond about joining, he explained why there wasn't really a club to join. Ash worked at a local military college and organised football for men preparing for the army. Most weren't staying long. As he put it, “We merely club together during the winter for the sake of playing a few matches.” He saw little point in joining the FA when the group might not even exist the following season.
 
-Nevertheless, he expected them to adopt the association's laws. Using rules recognised by other clubs would make arranging matches more convenient.
+He still expected them to use the FA's rules, because that would make arranging matches with other clubs easier.
 
 On 8 December, the association finally approved its first playing code. Eleven days later, Richmond played Barnes under the new rules. The match finished 0–0.
 
