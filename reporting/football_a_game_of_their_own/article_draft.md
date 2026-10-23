@@ -147,9 +147,9 @@ In November 1863, John G. Tupholme, secretary of Louth Football Club in Lincolns
 
 Tupholme liked the idea of joining the new Football Association. But even if Louth and Lincoln decided not to join, he still wanted them to play by the same rules.
 
-The reason was simply to make arranging their matches easier.
+Morley had even pointed out, when arguing for common football rules, that cricket had been doing this for years. The MCC published the laws, and other clubs played by them without having to join.
 
-Tupholme wasn't proposing anything revolutionary. The clubs already knew how to organise football matches. They just wanted to remove one recurring inconvenience. And **they didn't need to join the Football Association to do it.**
+So what was the point of joining the Football Association?
 
 The new association nevertheless offered something useful. Clubs could subscribe, help establish a common code and participate in future discussions about the rules. The agreed laws would be published, allowing other organisations to adopt them.
 
