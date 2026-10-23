@@ -171,6 +171,6 @@ Lincoln gave the FA's rules a try, but by October 1864 its members were consider
 
 Louth took a different approach. In February 1864, its members voted to adopt a common set of rules, but with a couple of changes of their own.
 
-The association's foundation was therefore not the moment when everybody finally agreed on football. It was the establishment of one more way for people to agree.
+When the Football Association was founded in 1863, it hadn't settled how football should be played. It had simply agreed on a version that some clubs were willing to play.
 
 Its subsequent success would depend on something the founders could not settle in a committee meeting: **whether enough footballers actually wanted to play the game they had devised.**
