@@ -197,7 +197,7 @@ When the FA changed its throw-in rule in April 1877 to reach an agreement with S
 
 England and Scotland had been playing international matches since 1872. But if their associations could make different decisions about the rules, whose version would they use when they met?
 
-By 1882, the English FA wasn't helping matters. It had begun calling itself the “National Football Association”. Donald Hamilton, a former vice-president of the Scottish FA, publicly criticised the name. Scotland already had an association of its own, and the English FA couldn't simply claim to speak for everyone.
+The English FA wasn't helping matters. It had begun calling itself the “National Football Association”. Donald Hamilton, a former vice-president of the Scottish FA, publicly criticised the name. Scotland already had an association of its own, and the English FA couldn't simply claim to speak for everyone.
 
 By 1882, the disagreement was threatening the England–Scotland fixture itself. The Scottish FA had rejected further proposals to change its rules and decided it wouldn't play England again unless the entire match used the Scottish code.
 
