@@ -186,3 +186,5 @@ The decision caused an outcry among supporters of common rules. One corresponden
 The FA reconsidered in April. This time the compromise passed by 33 votes to 10. Sheffield agreed to adopt the revised FA rules the following week.
 
 But that didn't mean everyone was now playing the same game. The Scottish Football Association had its own objections, and it wasn't about to accept London's decisions simply because Sheffield had.
+
+Queen's Park, founded in Glasgow in 1867, had been encouraging other Scottish clubs to play under the FA's rules. In November 1872, it organised Scotland's first official international against England and supplied all eleven Scottish players. The match finished 0–0. Scotland didn't even have its own football association yet.
