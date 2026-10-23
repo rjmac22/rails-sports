@@ -153,7 +153,7 @@ So what was the point of joining the Football Association?
 
 Joining meant having a say in the rules. Clubs could propose changes and vote on them, rather than simply accepting whatever the FA published.
 
-The association's secretary, Ebenezer Cobb Morley, believed that if twenty or thirty clubs agreed to play under the same rules, others would recognise the advantages of joining them.
+Morley reckoned that if twenty or thirty clubs agreed to play by the same rules, others would see the advantages and follow.
 
 But the association had no authority to compel outsiders to comply. Nor did its members necessarily agree with everything it proposed.
 
