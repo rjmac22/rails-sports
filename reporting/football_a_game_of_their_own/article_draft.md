@@ -157,7 +157,7 @@ Morley reckoned that if twenty or thirty clubs agreed to play by the same rules,
 
 But the association had no authority to compel outsiders to comply. Nor did its members necessarily agree with everything it proposed.
 
-Sheffield FC had been playing under its own rules since 1857, six years before the FA existed. When its secretary, William Chesterman, wrote to join in November 1863, he sent Sheffield's rules and objections to parts of the FA's proposals. Sheffield wasn't turning up late to a game everybody else had agreed on. It already had a game of its own, and joining the FA didn't mean giving it up.
+Up in Sheffield, eleven clubs were playing under rules Sheffield FC had drawn up in 1858. So when Sheffield FC's secretary, William Chesterman, wrote to join the FA in November 1863, he sent a copy of those rules, along with suggestions and objections to parts of the FA's proposals.
 
 Other footballers were interested in the rules without wanting to join the organisation.
 
