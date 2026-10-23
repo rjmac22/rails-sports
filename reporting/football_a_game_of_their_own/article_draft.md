@@ -167,8 +167,6 @@ He still expected them to use the FA's rules, because that would make arranging 
 
 On 8 December, the association finally approved its first playing code. Eleven days later, Richmond played Barnes under the new rules. The match finished 0–0.
 
-The rules could therefore be useful even to footballers who had no intention of becoming association members.
-
 But agreeing to try a common code didn't mean a club would necessarily like it.
 
 Lincoln initially supported the association and experimented with its laws. Less than a year later, it withdrew after finding the experience unsatisfactory.
