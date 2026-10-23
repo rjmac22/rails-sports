@@ -44,7 +44,7 @@ The newspaper's editor suggested that smaller schools might adopt Eton's publish
 
 A Rugby supporter immediately objected. Rugby had published its own rules, so why should its footballers abandon their game in favour of Eton's? He suggested that representatives from the schools should meet and negotiate a compromise.
 
-Other former pupils joined the argument. Winchester supporters defended their school's football, with one claiming its rules were older than those of the other schools. An Etonian maintained that his school's existing rules worked perfectly well for matches against university teams. Some questioned whether schools playing different games needed to compete against one another at all.
+Others joined the argument. A Winchester supporter claimed their rules were older than those of the other schools. An Etonian insisted his school's rules worked perfectly well for matches against university teams. Some even questioned why schools playing different games needed to compete against one another at all.
 
 The correspondence continued into January 1859. The disagreements became increasingly personal, until the editor announced that further letters would not be published because they contained too much abuse of other contributors.
 
