@@ -125,11 +125,7 @@ He wanted a common set of rules that footballers could learn and use against dif
 
 On 26 October 1863, representatives of football clubs gathered at the Freemasons' Tavern in London to establish the Football Association.
 
-They hoped to agree on rules that clubs could use when playing one another. But even among those willing to participate, there was disagreement about what sort of game they should play.
-
-That disagreement became particularly apparent at a meeting in December.
-
-Francis Maule Campbell, representing Blackheath, defended a version of football that allowed players to run with the ball and opponents to stop them by physical means, including *hacking*—kicking an opponent's shins.
+At a meeting in December, Francis Maule Campbell, representing Blackheath, defended a version of football that allowed players to run with the ball and opponents to stop them by physical means, including *hacking*—kicking an opponent's shins.
 
 Campbell regarded these challenges as part of what made football worth playing. The game tested courage and determination. Removing those features, he argued, would take away much of its character.
 
