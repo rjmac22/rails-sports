@@ -50,7 +50,7 @@ The argument continued into January 1859, until the editor refused to publish an
 
 ### The Great Football Rules Argument, 1858–59
 
-*An imaginary Facebook comments thread based on a real newspaper argument. The historical positions are paraphrased; the names, modern wording, extra commenters and insults are invented. Not historical quotations.*
+*An imaginary Facebook comments thread based on a real newspaper argument. The historical positions are paraphrased; the names, modern wording, extra commenters, modern-sport references and insults are invented. Not historical quotations.*
 
 **Bell's Life in London · Admin**  
 Every school seems to play football by different rules. Surely we can agree on something?
@@ -75,6 +75,21 @@ What's wrong with hacking? It's part of Rugby football.
 
 **Red Jersey**  
 Under Rugby rules nobody ever scores. You'd still be playing the same match at Christmas.
+
+**TerraceTom**  
+Egg chasers. If you want to run around holding the ball, call it something else.
+
+**Rugbiennsis**  
+At least we don't fall over and cry every time somebody touches us.
+
+**FourthDownFred**  
+You should try American football. We have timeouts to discuss the next play. It's called strategy.
+
+**TerraceTom**  
+You need a committee meeting to move the ball ten yards. And you call that football?
+
+**FourthDownFred**  
+At least we know how to score.
 
 **George Pritchard**  
 Scored twice from free kicks on Saturday. One from miles out. Just saying.
