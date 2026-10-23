@@ -137,6 +137,8 @@ A week later, on 8 December, Campbell announced that Blackheath was leaving the 
 
 **The Football Association had agreed on its rules. By January 1864, six of its eleven founding clubs had gone.**
 
+Blackheath hadn't stopped playing football. It just didn't want to play the FA's version. What happened to its game is another story.
+
 <!-- EDITORIAL REMINDER: Before subediting the next section, return to Study 22 notebook 'Editorial return point — how could common rules spread without a national association?' Discuss MCC's published cricket laws as a potential voluntary-adoption model, school/university leadership, and the difference between adopting rules and joining an association. This is a testable comparison, not settled universal intent. -->
 
 ## Why establish common rules?
