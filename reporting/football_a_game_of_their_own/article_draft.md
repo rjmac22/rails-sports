@@ -249,6 +249,10 @@ The compromise gave FIFA a say in changing the rules without surrendering Britis
 
 FIFA had gained representation, but the British associations had retained control.
 
+Could FIFA simply have taken charge of the laws itself? Someone at FIFA had asked much the same question. At its congress in Copenhagen later in 1913, Germany's Robert Hefner proposed making FIFA the unrestricted governing body for international football — effectively replacing IFAB. He found himself in a minority of one. France's Henri Delaunay thought the proposal ill-timed, while Austria's Hugo Meisl said he wouldn't want FIFA to make the laws even if England offered. Instead, the congress unanimously recognised IFAB as the body responsible for the Laws of the Game.
+
+FIFA hadn't simply overlooked the possibility of taking control. Its delegates had considered it and chosen to recognise IFAB instead.
+
 The compromise didn't mean the arguments were over. In 1920, the four British associations withdrew from FIFA over whether countries should play those they had fought in the First World War. But they went further. At IFAB's next meeting, the Irish FA proposed removing FIFA from the Board altogether. The four associations unanimously agreed, rewriting the Board's constitution to exclude FIFA and requiring unanimous agreement for changes to the Laws of the Game. When the four associations rejoined FIFA in 1924, FIFA returned to IFAB too. The agreement preserved the four-fifths voting requirement for changing football's laws and protected each association's control of its internal affairs.
 
 The reconciliation didn't last. In 1928, the four British associations withdrew from FIFA again, this time over payments to amateur players for wages lost while representing their countries. But unlike in 1920, they didn't remove FIFA from IFAB. The organisations continued meeting to agree football's rules despite being unable to agree on how the sport should be administered. The British associations remained outside FIFA until 1946.
