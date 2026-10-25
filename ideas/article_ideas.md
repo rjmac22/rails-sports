@@ -182,3 +182,28 @@ If the rule is sufficiently important and data permit a follow-up:
 **Editorial guardrails:** Don't pre-decide managers are powerless or omnipotent; don't mistake a visible manager for an influential one, or one match for causal proof. Don't fill evidence gaps with plausible expert explanations. A three-part structure is a **possible editorial treatment**, not a reason to stretch material into three articles. Test whether each part yields a distinctive, consequential insight. Ask: **What does the reader learn, and why does it matter?**
 
 **Go/no-go:** Investigate only when current publishing priorities allow. One strong standalone article would be better than a padded trilogy; three are justified only by three worthwhile discoveries.
+
+---
+
+## Academic research radar — recently published work as story leads
+
+**Added:** 25 October 2026. **Status:** Recurring idea-discovery method, not an active article assignment or reason to delay publication.
+
+**Core idea:** Regularly search newly published academic work — especially sports-history journal papers, doctoral theses/dissertations and scholarly books — for surprising findings, overlooked people and incidents, revealing archival discoveries, disputes and unanswered questions. Broaden to sports economics, sociology, technology, law and other disciplines when useful; don't restrict the search to UK sport.
+
+**Where to look:** New journal issues and online-first articles; university thesis repositories and doctoral catalogues; publishers' forthcoming/new academic books; open-access papers; academic conference programmes; scholars' bibliographies and cited primary sources. Favour work published in the last 6–12 months, without excluding older material with a strong untold story.
+
+**Story-finding test:** Don't simply rewrite a thesis or report that a scholar has made a finding. Ask: *What happened? Who made a consequential decision? What changed, for whom, and why should a general sports reader care?* Can independent reporting, a new question or reconstruction from original evidence produce a distinctive story not already told elsewhere?
+
+**Practical workflow:**
+1. Scan for promising publications, recording the author, exact title, publication date, stable link/DOI, accessibility and one-sentence finding.
+2. Read the relevant work and its limitations; follow footnotes and bibliographies to primary sources and check existing journalism before choosing an angle.
+3. Form a reader-facing question and identify the people, conflicts, stakes, decisions and consequences. Reject leads that are only interesting academically or have no additional story.
+4. Research independently. Optionally contact the academic with specific, worthwhile questions — especially surprises, unresolved leads and interpretations they did not pursue. Demonstrate what we can add rather than seeking permission or membership of an academic circle. Their participation is useful, not essential.
+5. Attribute the original research clearly, link readers to it, verify claims ourselves and obtain permission where needed to reproduce substantial extracts, images or graphics. Distinguish their conclusions from our own.
+6. Maintain a short ranked shortlist of story candidates rather than building another endless research pipeline.
+
+**Longer-term opportunity:** As Rob publishes more carefully sourced Rails Sports work, use the published portfolio to show academics what the publication does and make collaborations or interviews more attractive. Credibility comes from the work, not academic credentials or institutional approval.
+
+**Guardrail:** Capture leads now; only pursue one when it is stronger than existing priorities. **Publishing the current articles takes precedence over constructing a comprehensive academic-publications database.**
+
