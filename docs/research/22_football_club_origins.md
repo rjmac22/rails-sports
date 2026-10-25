@@ -1494,3 +1494,21 @@ The following paragraph on 1873 founding requires **no change**. This explicit c
 
 **Editorial question:** Historical authority is strongest when attributed. No need to drag reader through the 1789 eyewitness-report gap: the 1849 journalist recorded Denison's recollection and the narrative explicitly frames it as what the chairman 'recalled'. Keep it. Continue reviewing only consequential factual gaps rather than polishing prematurely. Stage: Draft 2, not complete.
 
+---
+
+## 41. Newspaper football-code controversy, 1858–59 — second evidence pass (25 October 2026)
+
+**Scope:** Review the approved 1858–59 narrative plus clearly fictional Facebook-style conversation against the specific scholarly reconstruction in [Michael Freeman, “A brief study of football in London from 1800 to the founding of the Football Association in 1863,” *Soccer & Society* 24 (2023), pp. 43–61; online 20 Sept 2022](https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2113128). Original *Bell's Life* correspondence dated Dec 1858–Jan 1859 is **cited and analysed by Freeman**, but not every newspaper original was separately retrieved in this pass. This is a source-derived comparison, not a claim of first-hand archival authentication.
+
+**Outcome: PASS — no article change required.** Freeman's “The early call for rules” account confirms:
+- December 1858 *Juvenis* urged general school football laws; editor suggested using published Eton laws in smaller schools.
+- Rugby correspondent *Floreat Rugbœa*, 26 Dec 1858, pointed out Rugby's own printed laws, rejected unilaterally adopting another school's code, proposed a representative committee/compromise. Note in the mock thread spelling “Floreat Rugbaea” is a stylised handle with disclaimer, not exact source pseudonym.
+- 2 Jan 1859 three distinct Winchester correspondents (**“An old Wykehamist”, “Blue Jersey”, a third Wykehamist**), plus *Floreat Etona*. The defender claiming Winchester's rules predated/informed Eton's was **not** necessarily the writer *An old Wykehamist*. Approved generic imaginary handle “Winchester Old Boy” avoids false attribution. *Floreat Etona* invoked Oxford/Cambridge and Oxford/Eton games using Eton rules.
+- 9 and 16 Jan further writers defend school traditions and hacking; *Once the Best Drop* sought a common code but with compromises, while *Red Jersey* objected Rugby games rarely produced goals; editor then closed the correspondence **partly because replies were abusive**. Distinguish the writer's interpretation from evidence that all players or schools agreed; mock thread's invented banter and modern references are conspicuously labelled.
+
+**Editorial assessment:** The prose's “editor refused ... because contributors had started insulting one another” is a defensible simplification, but Freeman says the editorial closure also expressed a view that schools should not necessarily play each other. Not material enough to change the narrative without reader value. The mocked insults, usernames and modern sports are transparently fictional; do not accidentally treat them as direct period quotations.
+
+**Separate 1863 source-provenance detail to check in next pass:** Our Study 22 notebook calls *Etonensis* a [*London Daily News* 6 Oct 1863 report](https://playupliverpool.com/1863/10/06/lets-frame-rules-for-one-universal-game/), which *is an 1863 newspaper abstract*; historian [Adrian Harvey, *Football: The First Hundred Years*, p. 122](https://www.ndl.ethernet.edu.et/bitstream/123456789/35919/1/8.pdf.pdf) instead cites **the original letter in *The Times*, 5 Oct 1863, p. 8**. Thus these are likely an original letter and next-day newspaper précis, not necessarily contradictory newspaper dates. The sports draft only says “In October 1863” and is unaffected. Before claiming full original Etonensis wording, inspect *The Times* issue; current excerpt is a *Daily News* summary.
+
+**Status:** Draft 2 remains **IN PROGRESS**. No edits made to its 1858–59 prose. Next reference check: 1863 FA debates, original vote counts and Etonensis attribution; distinguish reliable period reporting from later histories.
+
