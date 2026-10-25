@@ -214,3 +214,5 @@ England subsequently accepted the arrangement. On 2 June 1886, representatives o
 As football spread beyond Britain, associations in continental Europe wanted to organise international matches under common rules. In 1904, seven countries established FIFA. The English FA had been invited to participate, but couldn't see the advantage of another federation, so the others went ahead without it.
 
 FIFA adopted the existing Laws of the Game. But it had no say in changing them. That authority still belonged to IFAB and its four British associations.
+
+In 1911, German representatives proposed that FIFA should eventually take responsibility for the Laws of the Game. The English FA rejected the idea. Under FIFA's system of one vote per member association, the four British associations could find themselves outvoted as more countries joined. They already controlled changes to the rules through IFAB, and weren't prepared to hand that authority over. The English FA initially opposed giving FIFA even a seat on the board.
