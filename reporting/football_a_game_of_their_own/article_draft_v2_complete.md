@@ -1,20 +1,28 @@
 <!--
-DRAFT 2 — EARLIER CHECKPOINT (25 October 2026)
-Status: Archived pre-audit snapshot, not a completed Draft 2. Current Draft 2 remains in article_draft.md, marked IN PROGRESS until reference checks are finished.
+DRAFT 2 — COMPLETE (25 October 2026)
+Status: Historical narrative and research-reference audit completed; all substantive
+corrections discussed with Rob are applied. Not publication-ready.
 
-NEXT CHAT — DRAFT 3 IS BOTH A WRITING COURSE AND AN EDITORIAL PASS.
-Use Rob's copy of Roy Peter Clark's "Writing Tools: 55 Essential Strategies for Every Writer"
-as the study source. Work through ALL 55 tools systematically, not only the paragraph-level
-tools (18 and 19). For each tool: explain the author's actual technique accurately;
-find a specific passage in this article where it is already used well or could help;
-discuss why, offer a modest before/after example or practice task where valuable,
-and let Rob choose and practise revisions. Say explicitly if a tool is not applicable
-instead of forcing edits; track progress across all 55. Give learning and developing
-Rob's independent editorial judgement equal weight with publication readiness.
-Maintain the conversational voice, avoid unnecessary rewrites, do not repeat already
-approved historical research without a specific reason. Finish with the source audit,
-final subedit and pitch/publication preparation when ready.
-This is an editorial handoff marker; exclude it from published article copy.
+Research record: notebooks/22_football_from_first_principles.ipynb and
+docs/research/22_football_club_origins.md on this branch. Remaining limits:
+The Times 5 Oct 1863 Etonensis original text was not viewed directly; an 1863
+Daily News summary supports the attributed paraphrase. Some meeting details
+are supported by period press and named historians rather than every original
+archive file. Normal quotation-, rights- and publication-level checks remain.
+
+Deferred by Rob: the fictional Facebook comments box-out — save its editorial
+and presentation review for later; do not keep resurfacing it during this
+historical audit.
+
+NEXT STAGE — another chat: Work systematically through ALL 55 tools in Roy Peter
+Clark's Writing Tools: 55 Essential Strategies for Every Writer, using the article
+as both a writing course and an editorial exercise. Explain and practise each
+technique, highlight effective existing passages, let Rob judge revisions, and
+do not force changes. Developing his writing ability is as important as
+publication. Keep this completed Draft 2 snapshot as the baseline; future
+revisions belong to the later stage.
+
+Editorial metadata: do not include this comment in publication.
 -->
 
 # What Is a Game of Football?
@@ -23,13 +31,13 @@ This is an editorial handoff marker; exclude it from published article copy.
 
 Sporting clubs and societies had existed in Britain for generations, football among the games they organised. Some lasted for decades; others came and went. You know what I mean, the enthusiastic organiser gets busy with something else, people move away, somewhere to play becomes unavailable. The subscription goes up, travelling becomes expensive, somebody loses their job, or they simply decide the money would be better spent elsewhere. This was long before professional football leagues and careers. Keeping a club going depended on people having the time, money and enthusiasm to do it.
 
-In October 1849, members of several Surrey cricket clubs gathered at the Oval to establish a football club. During the meeting, the chairman recalled an earlier sporting organisation that had disappeared.
+In October 1849, members of several Surrey cricket clubs gathered at the Oval to organise football for the winter. During the meeting, the chairman recalled an earlier sporting organisation that had disappeared.
 
 Some sixty years before, a group of men originally from Westmorland and Cumberland had established the Gymnastic Society in London. They organised wrestling and football, playing the latter on Kennington Common. In 1789, twenty-two men from Westmorland faced twenty-two from Cumberland. Westmorland won.
 
 But when several leading members retired from business and moved away, the Gymnastic Society dissolved. Wrestling continued elsewhere, but football became increasingly difficult to organise as suitable places to play became unavailable.
 
-The Surrey organisers wanted to revive the game. They established a new football club, agreed rules, collected subscriptions to pay for equipment and scheduled games on Wednesdays and Saturdays throughout the winter.
+The Surrey organisers wanted to revive the game. They agreed rules for a football club, set a five-shilling subscription to cover equipment and arranged games on Wednesdays and Saturdays throughout the winter.
 
 In the late 1850s, former pupils of Blackheath Proprietary School wanted to continue playing the football they played at school. Initially, they organised informal games among themselves, but regularly struggled to get enough former pupils to make up the teams.
 
@@ -148,13 +156,13 @@ At a meeting in December, Francis Maule Campbell, representing Blackheath, defen
 
 Campbell regarded these challenges as part of what made football worth playing. The game tested courage and determination. Removing those features, he argued, would take away much of its character.
 
-Ebenezer Cobb Morley of Barnes saw things differently. He wasn't particularly bothered by hacking himself, but doubted how many adults would want to play a game that allowed it. A broken leg could keep you off work for weeks, and turning up to meet customers looking like you'd had the crap kicked out of you wasn't exactly good for business. Not much has changed there.
+Ebenezer Cobb Morley of Barnes saw things differently. He didn't particularly mind hacking himself, but thought it was putting other clubs off. He claimed the Blackheath clubs couldn't find even three London clubs willing to play them: their members were mostly men in business, with good reason to avoid being injured. And turning up to meet customers looking like you've had the crap kicked out of you isn't exactly good for business. Not much has changed there.
 
 Campbell wasn't going to let it pass quietly. He challenged the way an earlier vote had been counted, accused the other side of manoeuvring against the hacking supporters, and tried to postpone the decision until more school representatives could attend. That motion lost 13–4. Then the meeting voted 11–5 to strike out the rules allowing players to run with the ball and opponents to hack them.
 
 A week later, on 8 December, Campbell announced that Blackheath was leaving the Football Association. But he hadn't fallen out with the whole enterprise: he agreed to stay on as its treasurer until the next general meeting.
 
-**The Football Association had agreed on its rules. By January 1864, six of its eleven founding clubs had gone.**
+**The Football Association had agreed on its rules. By January 1864, it had just nine member clubs left.**
 
 Blackheath hadn't stopped playing football. It just didn't want to play the FA's version. What happened to its game is another story.
 
@@ -198,7 +206,7 @@ One reason to play the FA's game arrived in 1871: the FA Cup. Clubs now had a co
 
 In February 1877, Manchester travelled to Sheffield and got thrashed 14–0. Reports afterwards suggested the visitors hadn't properly understood Sheffield's offside rules. Their captain, Stuart G. Smith, had had enough. He wrote to *The Field* calling for one set of football rules, rather than clubs having to play a different game depending on where they travelled.
 
-Sheffield and the Football Association had been arguing over their rules for years. Among the sticking points was what happened when the ball went out of play. Sheffield preferred kicking it back onto the field; the FA insisted on throwing it. A Scottish club, Clydesdale, suggested a compromise: keep the throw-in, but allow players to throw the ball in any direction. Sheffield was prepared to accept it. The FA voted it down.
+Sheffield and the Football Association had been arguing over their rules for years. Among the sticking points was what happened when the ball went out of play. Sheffield preferred kicking it back onto the field; the FA insisted on throwing it. Clydesdale, a Glasgow club that also belonged to the English FA, proposed a compromise: keep the throw-in, but allow players to throw the ball in any direction. Sheffield was prepared to accept it. The FA voted it down.
 
 The decision caused an outcry among supporters of common rules. One correspondent to *The Sportsman* argued that the meeting hadn't represented the views of footballers generally, and called for another vote.
 
@@ -206,7 +214,7 @@ The FA reconsidered in April. This time the compromise passed by 33 votes to 10.
 
 But that didn't mean everyone was now playing the same game. The Scottish Football Association had its own objections, and it wasn't about to accept London's decisions simply because Sheffield had.
 
-Queen's Park, founded in Glasgow in 1867, had been encouraging other Scottish clubs to play under the FA's rules. In November 1872, it organised Scotland's first official international against England and supplied all eleven Scottish players. The match finished 0–0. Scotland didn't even have its own football association yet.
+Queen's Park, founded in Glasgow in 1867, had joined the English FA in 1870 and was encouraging other Scottish clubs to play under its rules. In November 1872, it organised Scotland's first official international against England and supplied all eleven Scottish players. The match finished 0–0. Scotland didn't even have its own football association yet.
 
 That came the following March, when representatives of seven clubs met in Glasgow to establish one, with an eighth supporting them by letter. They agreed to promote football "according to the rules of The Football Association". They also established their own cup competition.
 
@@ -224,11 +232,15 @@ The English FA invited Scotland to a conference to settle the differences. The S
 
 Eventually, Scotland agreed to negotiate. On 6 December 1882, representatives of England, Scotland, Wales and Ireland met in Manchester and agreed on a common set of rules. The resulting changes included the two-handed throw-in that footballers still use today.
 
-In 1885, the English FA legalised professional footballers, something the Scottish FA opposed. When the associations arranged a conference the following February, England objected to the proposed agenda and refused to attend.
+In 1885, the English FA legalised professional footballers, something the Scottish FA opposed. Scotland refused to play England if its team included professionals. The following February, a conference was arranged to discuss whether all four associations should allow professionals and, if not, how they could continue playing one another. England objected to the proposed agenda and didn't attend.
 
-Scotland, Wales and Ireland went ahead without it. They proposed letting each association decide for itself whether to allow professional players. They also wanted all four associations to meet annually to agree on changes to the playing rules.
+Scotland, Wales and Ireland went ahead without England. They agreed that each association could decide for itself whether to allow professional players, and proposed annual meetings at which all four associations would consider changes to the playing rules.
 
-England subsequently accepted the arrangement. On 2 June 1886, representatives of all four associations met in London and established the International Football Association Board (IFAB). Each association had an equal say in deciding changes to the Laws of the Game.
+England eventually accepted most of the proposals. Scotland agreed to play against English professionals without allowing professionalism at home. Restrictions on recruiting players from across the border also addressed Scotland's concerns about losing footballers to English clubs.
+
+On 27 March 1886, England and Scotland met again. The match finished 1–1.
+
+On 2 June 1886, representatives of all four associations met in London and established the International Football Association Board (IFAB). Each association had an equal say in deciding changes to the Laws of the Game.
 
 As football spread beyond Britain, associations in continental Europe wanted to organise international matches under common rules. In 1904, seven countries established FIFA. The English FA had been invited to participate, but couldn't see the advantage of another federation, so the others went ahead without it. England joined in 1905, followed by Scotland, Wales and Ireland in 1910.
 
@@ -240,7 +252,7 @@ In 1912, FIFA asked for representation on the International Football Association
 
 One possibility is that the British associations didn't consider FIFA sufficiently experienced. They had been making and revising football's rules for decades, while FIFA was only eight years old. They certainly expressed that attitude later. In 1928, during a separate dispute over amateurism, they argued that most FIFA members were relatively new organisations and therefore lacked the knowledge that only experience could bring.
 
-There was also the question of control. The four British associations had established IFAB and governed the Laws of the Game for more than 25 years. Why should they give up any of that authority? Historian Peter J. Beck argues that the British associations increasingly saw FIFA as a potential threat to their position.
+There was also the question of control. England, Scotland, Wales and Ireland had each held a say in football's laws through IFAB for more than 25 years. Admitting FIFA would give another organisation a voice in decisions previously reserved to them. Historian Peter J. Beck argues that the associations increasingly saw FIFA as a potential threat to their position.
 
 Despite the unanimous rejection, the matter wasn't settled. Correspondence continued, and in February 1913 the four British associations met again to consider FIFA's admission. This time, the English FA proposed allowing two FIFA representatives onto the Board. The associations couldn't reach an agreement, but further discussions followed. In April, all four finally accepted the proposal.
 
@@ -248,21 +260,21 @@ The compromise gave FIFA a say in changing the rules without surrendering Britis
 
 FIFA had gained representation, but the British associations had retained control.
 
-The compromise didn't mean the arguments were over. In 1920, the four British associations withdrew from FIFA over whether countries should play those they had fought in the First World War. But they went further. At IFAB's next meeting, the Irish FA proposed removing FIFA from the Board altogether. The four associations unanimously agreed, rewriting the Board's constitution to exclude FIFA and requiring unanimous agreement for changes to the Laws of the Game. When they rejoined FIFA in 1924, they restored its representation, but only after securing an agreement that protected their authority over the rules.
+The compromise didn't mean the arguments were over. In 1920, the four British associations withdrew from FIFA over whether countries should play those they had fought in the First World War. But they went further. At IFAB's next meeting, the Irish FA proposed removing FIFA from the Board altogether. The four associations unanimously agreed, rewriting the Board's constitution to exclude FIFA and requiring unanimous agreement for changes to the Laws of the Game. When the four associations rejoined FIFA in 1924, FIFA returned to IFAB too. The agreement preserved the four-fifths voting requirement for changing football's laws and protected each association's control of its internal affairs.
 
 The reconciliation didn't last. In 1928, the four British associations withdrew from FIFA again, this time over payments to amateur players for wages lost while representing their countries. But unlike in 1920, they didn't remove FIFA from IFAB. The organisations continued meeting to agree football's rules despite being unable to agree on how the sport should be administered. The British associations remained outside FIFA until 1946.
 
-Meanwhile, FIFA was establishing its authority in another way. In 1930, it organised the first World Cup, giving national associations a competition worth joining. The four British associations had withdrawn from FIFA two years earlier, but that didn't prevent them from being invited. They declined to participate in 1930, 1934 and 1938. The competition went ahead without them.
+Meanwhile, FIFA was establishing its authority in another way. In 1930, it organised the first World Cup, giving national associations a competition worth joining. The four British associations had withdrawn from FIFA two years earlier, but England nevertheless received an invitation. None of the four British teams participated in the World Cups of 1930, 1934 or 1938. The competition went ahead without them.
 
-By the end of the Second World War, the British associations were reconsidering their relationship with FIFA. In 1944, English FA secretary Stanley Rous suggested rejoining the international federation or extending representation on IFAB so that other countries could have a greater say in the rules. The four associations rejoined FIFA in 1946, but the Board's voting arrangements remained unchanged. The British associations could still change the Laws of the Game without FIFA's agreement.
+By the end of the Second World War, the English FA was reconsidering its relationship with FIFA. In 1944, a report presented by its secretary, Stanley Rous, proposed considering a return to FIFA, wider representation on IFAB, or both. Talks followed in London in April 1946, and the four associations rejoined FIFA that year. But IFAB's voting arrangements stayed as they were: the four British associations could still change the Laws of the Game without FIFA's agreement.
 
-The imbalance finally changed in 1958. By then, football had become a worldwide game, and FIFA proposed increasing its representation on IFAB. At a meeting in Stockholm, during the World Cup, all four British associations agreed. Each would now have one vote, while FIFA would have four. Changing the laws required six of the eight votes, meaning the British associations could no longer act without FIFA's agreement. But FIFA couldn't impose changes either. It needed the support of at least two British associations.
+The voting balance finally changed in 1958. By then, football had become a worldwide game, and FIFA proposed increasing its voting power on IFAB. At a meeting in Stockholm on 7 June, the day before the World Cup began, the proposal was unanimously adopted. Each of the four British associations would now have one vote, while FIFA would have four. Changing the laws required six of the eight votes, meaning the associations could no longer act together without FIFA's agreement. But FIFA couldn't impose changes either. It needed the support of at least two of the four associations.
 
 ## The same argument, again and again
 
 The same argument had followed football almost from the beginning.
 
-Schools developed their own games, but clubs weren't obliged to adopt their rules. Sheffield welcomed the idea of common laws, but didn't want the Football Association deciding how its football should be played. Scotland wanted to play England, but wasn't prepared to let the English FA make the rules on its behalf. And when football spread around the world, the four British associations were just as reluctant to surrender their authority to FIFA.
+Schools developed their own games, but clubs weren't obliged to adopt their rules. Sheffield welcomed the idea of common laws, but didn't want the Football Association deciding how its football should be played. Scotland wanted to play England, but wasn't prepared to let the English FA make the rules on its behalf. And when football spread around the world, FIFA had to negotiate with four separate British associations, each with a say in changing the game's laws.
 
 Sometimes an agreement wasn't worth making. Blackheath preferred to leave the Football Association rather than abandon the game its members enjoyed. Eton and Westminster tried compromise rules, but one contemporary critic complained that neither side could play to its strengths.
 
