@@ -205,7 +205,7 @@ The FA reconsidered in April. This time the compromise passed by 33 votes to 10.
 
 But that didn't mean everyone was now playing the same game. The Scottish Football Association had its own objections, and it wasn't about to accept London's decisions simply because Sheffield had.
 
-Queen's Park, founded in Glasgow in 1867, had been encouraging other Scottish clubs to play under the FA's rules. In November 1872, it organised Scotland's first official international against England and supplied all eleven Scottish players. The match finished 0–0. Scotland didn't even have its own football association yet.
+Queen's Park, founded in Glasgow in 1867, had joined the English FA in 1870 and was encouraging other Scottish clubs to play under its rules. In November 1872, it organised Scotland's first official international against England and supplied all eleven Scottish players. The match finished 0–0. Scotland didn't even have its own football association yet.
 
 That came the following March, when representatives of seven clubs met in Glasgow to establish one, with an eighth supporting them by letter. They agreed to promote football "according to the rules of The Football Association". They also established their own cup competition.
 
