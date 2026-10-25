@@ -1404,3 +1404,15 @@ The paragraph could then continue unchanged: 'The four associations rejoined FIF
 
 **Conclusion:** No further clear error yet found in this portion. Clarifying Clydesdale's separate position would reinforce rather than change the argument. Keep Draft 2 IN PROGRESS and obtain approval on any article change. Develop writing craft using all 55 tools only after source audit is resolved.
 
+---
+
+## 36. 1882 Manchester conference date check: 6 December vs 14 November (25 October 2026)
+
+**Result: Keep 6 December 1882 in the current Draft 2.** A contemporary [*Sheffield Independent* report dated Thursday 7 December 1882, reproduced by Martin Westby](https://englandsoldestfootballclubs.com/the-international-football-conference-of-1882-the-story-of-the-short-lived-national-football-association-and-the-creation-of-the-international-football-association-board-ifab/) names delegates from England, Scotland, Wales and Ireland and records the Manchester rules conference. A separate independent [academic treatment at Manchester University Press](https://www.manchesterhive.com/display/9781526114495/9781526114495.00013.pdf) explicitly dates the four-body conference to **6 December**. The contemporary press is stronger date evidence than a later recollection.
+
+**Conflicting account:** Richard Robinson's 1917 [*History of Queen's Park Football Club*, ch. XI](https://electricscotland.com/history/sport/football/chapter11.htm) instead labels the relevant Manchester meeting **14 November 1882**, repeated again in his later book summary. The wording closely matches the *December* four-association reconciliation and representatives Lawrie and Wallace; no independent contemporary corroboration of a separate 14 November meeting was located in this check. **Do not state unequivocally that Robinson misprinted a date**, or silently pretend two meetings are established; simply prefer the contemporaneous December account and note the discrepancy. No article change needed.
+
+**Substantive rule content:** 7 December press describes a two-handed above-the-head throw-in in any direction, reconciling competing English one-handed and Scottish two-handed methods. The draft's general summary — an agreement on shared laws including two-handed throw-in — is therefore supported. The actual conference may have set a trial / ratification process distinct from immediate alteration of each association's domestic law; don't claim instantaneous implementation everywhere.
+
+**Editorial status:** Draft 2 still IN PROGRESS. Next check early Scottish FA founding delegates and handling of independent Queen's Park/Scottish FA policy, as needed; then address any substantive remaining source risks before declaring the audit complete.
+
