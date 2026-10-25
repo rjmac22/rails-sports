@@ -148,7 +148,7 @@ At a meeting in December, Francis Maule Campbell, representing Blackheath, defen
 
 Campbell regarded these challenges as part of what made football worth playing. The game tested courage and determination. Removing those features, he argued, would take away much of its character.
 
-Ebenezer Cobb Morley of Barnes saw things differently. He wasn't particularly bothered by hacking himself, but doubted how many adults would want to play a game that allowed it. A broken leg could keep you off work for weeks, and turning up to meet customers looking like you'd had the crap kicked out of you wasn't exactly good for business. Not much has changed there.
+Ebenezer Cobb Morley of Barnes saw things differently. He didn't particularly mind hacking himself, but thought it was putting other clubs off. He claimed the Blackheath clubs couldn't find even three London clubs willing to play them: their members were mostly men in business, with good reason to avoid being injured. And turning up to meet customers looking like you've had the crap kicked out of you isn't exactly good for business. Not much has changed there.
 
 Campbell wasn't going to let it pass quietly. He challenged the way an earlier vote had been counted, accused the other side of manoeuvring against the hacking supporters, and tried to postpone the decision until more school representatives could attend. That motion lost 13–4. Then the meeting voted 11–5 to strike out the rules allowing players to run with the ball and opponents to hack them.
 
