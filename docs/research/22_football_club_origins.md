@@ -1326,3 +1326,22 @@ The question shifts repeatedly: who wants to play whom, by which rules, and who 
 - [Martin Westby page](https://englandsoldestfootballclubs.com/the-international-football-conference-of-1882-the-story-of-the-short-lived-national-football-association-and-the-creation-of-the-international-football-association-board-ifab/) has a **misleading sentence** saying FIFA was admitted at February Wrexham, but the **reproduced period reports on that very page establish February postponed and April admitted**. Prefer the primary clipping; do not repeat the article's imprecise introductory claim.
 - **Editorial consequence:** Working draft's account, “February: England proposed two; no agreement, further discussions; April: four accepted”, is supported. No correction needed. IFAB's separate legal-voting system still warrants scrutiny against its specific 1913 rules, but **two representatives plus admission chronology** are confirmed.
 
+---
+
+## 32. 1923–24 conditional return — direct original minutes checked (25 October 2026)
+
+**Audit verdict: PASS, with a more precise draft phrasing available.** Source: [IFAB 14 June 1924 annual minutes, scan p. 1 / page 2 of PDF](https://downloads.theifab.com/downloads/annual-general-meeting-1924-minutes?l=en), and p. 2 / page 3 for the enacted rule changes. The scanned original was read visually during the audit.
+
+At a **London conference 21 December 1923**, representatives of the **four independent UK associations** and **FIFA** recommended five numbered provisions, which the IFAB minutes state both sides had **adopted**:
+1. UK's associations *rejoin FIFA on condition that FIFA accepts the remaining safeguards* — this is the conditional principle, **not a fifth independent safeguard**;
+2. FIFA's articles not to affect the inter-relations of the four associations;
+3. FIFA percentage-share-of-international-receipts requirement **not** to apply to matches between those associations;
+4. IFAB to **reinsert FIFA** and forbid changing laws without **at least four-fifths of representatives present** consenting;
+5. FIFA not to interfere with an association's rules concerning its **internal management**.
+
+The June **14, 1924** Board amended Rules I, IV, VII accordingly (FIFA two representatives; 4/5 for law changes and other resolutions). FIFA delegates H. Delaunay and Anton Johanson sat on the Board; the Chairman welcomed their *readmission*. Do not treat this as unconditional capitulation or imply the four associations were one organisation. We have no minute attribution for **which individual first proposed each condition** or how opinions differed inside the 1923 conference.
+
+**Current draft:** 'When they rejoined FIFA in 1924, they restored its representation, but only after securing an agreement that protected their authority over the rules.' **Accurate but vague:** it misses explicit inter-association relations and internal-management protections, and could imply protecting rulemaking authority was the only provision or motive. Suggested concise replacement **pending user approval**: 'When the four associations rejoined FIFA in 1924, FIFA returned to IFAB too. The agreement preserved the four-fifths voting requirement for changing football's laws and protected each association's control of its internal affairs.' No change made to draft yet.
+
+**Editorial teaching:** Distinguish 'they adopted the same settlement' (recorded) from 'they shared identical motives' (not established). The reciprocal 1923 deal separated football laws and each association's governance. Do not stretch this into a lengthy treaty analysis in the sports article.
+
