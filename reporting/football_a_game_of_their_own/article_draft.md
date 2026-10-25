@@ -204,3 +204,7 @@ By 1882, the disagreement was threatening the England–Scotland fixture itself.
 The English FA invited Scotland to a conference to settle the differences. The Scots refused. England responded by refusing to arrange the next international until the Scottish FA agreed to send representatives.
 
 Eventually, Scotland agreed to negotiate. On 6 December 1882, representatives of England, Scotland, Wales and Ireland met in Manchester and agreed on a common set of rules. The resulting changes included the two-handed throw-in that footballers still use today.
+
+In 1885, the English FA legalised professional footballers, something the Scottish FA opposed. When the associations arranged a conference the following February, England objected to the proposed agenda and refused to attend.
+
+Scotland, Wales and Ireland went ahead without it. They proposed letting each association decide for itself whether to allow professional players. They also wanted all four associations to meet annually to agree on changes to the playing rules.
