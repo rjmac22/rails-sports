@@ -1,20 +1,19 @@
 <!--
-DRAFT 3 — WORKING COPY, SOURCE-CORRECTION PASS (25 October 2026)
-Status: Draft 2 preserved in article_draft_v2_complete.md; the working copy now includes factual corrections ahead of the full 55-tool study. NOT publication-ready.
+DRAFT 2 — WORK IN PROGRESS: HISTORICAL REFERENCE AUDIT (25 October 2026)
+Status: NOT COMPLETE. Continue fact-checking and source corrections one by one.
+Mark Draft 2 COMPLETE only after Rob approves the remaining corrections and the
+reference audit is finished. The separate file article_draft_v2_complete.md is an
+EARLIER superseded checkpoint (named before this additional audit); this working
+file is the current, authoritative Draft 2.
 
-NEXT CHAT — DRAFT 3 IS BOTH A WRITING COURSE AND AN EDITORIAL PASS.
+AFTER DRAFT 2 IS COMPLETE — next chat: FULL 55-TOOL WRITING STUDY / DRAFT 3.
 Use Rob's copy of Roy Peter Clark's "Writing Tools: 55 Essential Strategies for Every Writer"
-as the study source. Work through ALL 55 tools systematically, not only the paragraph-level
-tools (18 and 19). For each tool: explain the author's actual technique accurately;
-find a specific passage in this article where it is already used well or could help;
-discuss why, offer a modest before/after example or practice task where valuable,
-and let Rob choose and practise revisions. Say explicitly if a tool is not applicable
-instead of forcing edits; track progress across all 55. Give learning and developing
-Rob's independent editorial judgement equal weight with publication readiness.
-Maintain the conversational voice, avoid unnecessary rewrites, do not repeat already
-approved historical research without a specific reason. Finish with the source audit,
-final subedit and pitch/publication preparation when ready.
-This is an editorial handoff marker; exclude it from published article copy.
+as the study source. Work through ALL 55 tools systematically, not only paragraph tools
+18 and 19. Explain each technique, identify examples in this article, practise and
+discuss edits with Rob, and skip forced changes. Writing education and publishing
+quality are equally important. Preserve the conversational style and historical
+accuracy. Final polish, source check and publication preparation follow.
+This is editorial metadata; do not publish it in the article.
 -->
 
 # What Is a Game of Football?
