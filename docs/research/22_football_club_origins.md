@@ -1367,3 +1367,20 @@ The paragraph could then continue unchanged: 'The four associations rejoined FIF
 
 **Next gate:** Decide whether small attribution change makes story more accurate without interrupting the reader; don't turn section into an exhaustive postwar political history.
 
+---
+
+## 34. 1958 Stockholm voting reform — recheck against original minute scans (25 October 2026)
+
+**Reference check:** The institutional outcome and 6/8 calculation in Draft 3 are sound. But the clause **“during the World Cup” is factually wrong**. The meeting was at **Hotel Foresta, Stockholm, on Saturday 7 June 1958**; World Cup fixtures began **Sunday 8 June 1958**. Describe it as *“on the eve of the World Cup”* or simply give the meeting date. **Correction proposed, pending user approval.**
+
+**Primary**: [IFAB minutes of 7 June 1958, PDF pages 2, 4–5](https://downloads.theifab.com/downloads/annual-general-meeting-1958-minutes?l=en), read visually from scanned pages. Page 4 states that **FIFA submitted the proposed new Board rules, including voting powers**, and that the proposal **“was unanimously adopted”**. Page 5 gives exact revised rules VI and VII: the four British associations **each** get **one vote**; FIFA **four votes on behalf of all other national associations in membership** with FIFA; law changes require **at least three-fourths of votes of those present and entitled to vote** (normally 6 of 8). Previous rules: four associations + FIFA each had **two** votes (10 altogether), with four-fifths required. FIFA did not hold effective independent authority to alter rules: old British 8 votes could act without FIFA's 2. After reform neither FIFA's 4 nor British 4 can pass changes alone: FIFA requires at least two British associations, while all four British associations together require at least 2 FIFA votes. Old and new delegates' *headcounts* are distinct from voting weight; more precise to say 'increasing FIFA's **voting power**', not just 'representation'.
+
+**Tournament start cross-check:** [RSSSF World Cup 1958 summary](https://www.rsssf.org/tables/58f.html) dates the finals to **8–29 June**; [German FA official match database, Sweden vs Mexico](https://datencenter.dfb.de/en/data-center/fifa-world-cup/1958-in-sweden/group-3/sweden-mexico-136891) confirms opening round began **8 June**.
+
+**What the 1958 minutes do *not* establish:** They do **not** give the substantive arguments behind FIFA's proposal, each independent association's motive, any negotiating pressure or private bargaining. 'Unanimously adopted' is evidence of the **formal decision**; it does not show shared motivations. The shift in the voting balance *is* a direct legal/arithmetical consequence of the adopted rule. Thus a defensible interpretation is **1958 settled how these organisations would make future law changes**, not that it finally reconciled every political dispute or that the World Cup necessarily forced a British concession.
+
+**Recommended minimal revised paragraph (NOT yet in article):**
+> The voting balance finally changed in 1958. By then, football had become a worldwide game, and FIFA proposed increasing its voting power on IFAB. At a meeting in Stockholm on 7 June, the day before the World Cup began, the proposal was unanimously adopted. Each of the four British associations would now have one vote, while FIFA would have four. Changing the laws required six of the eight votes, meaning the associations could no longer act together without FIFA's agreement. But FIFA couldn't impose changes either. It needed the support of at least two of the four associations.
+
+**Editorial instruction:** Only correct the article after user approves the formulation. Do not change the archived Draft 2. The concluding negotiation claim remains valid as a statement about decision-making, not individual motives.
+
