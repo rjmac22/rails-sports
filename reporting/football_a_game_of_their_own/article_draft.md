@@ -1,28 +1,17 @@
 <!--
-DRAFT 2 — COMPLETE (25 October 2026)
-Status: Historical narrative and research-reference audit completed; all substantive
-corrections discussed with Rob are applied. Not publication-ready.
-
-Research record: notebooks/22_football_from_first_principles.ipynb and
-docs/research/22_football_club_origins.md on this branch. Remaining limits:
-The Times 5 Oct 1863 Etonensis original text was not viewed directly; an 1863
-Daily News summary supports the attributed paraphrase. Some meeting details
-are supported by period press and named historians rather than every original
-archive file. Normal quotation-, rights- and publication-level checks remain.
-
-Deferred by Rob: the fictional Facebook comments box-out — save its editorial
-and presentation review for later; do not keep resurfacing it during this
-historical audit.
-
-NEXT STAGE — another chat: Work systematically through ALL 55 tools in Roy Peter
-Clark's Writing Tools: 55 Essential Strategies for Every Writer, using the article
-as both a writing course and an editorial exercise. Explain and practise each
-technique, highlight effective existing passages, let Rob judge revisions, and
-do not force changes. Developing his writing ability is as important as
-publication. Keep this completed Draft 2 snapshot as the baseline; future
-revisions belong to the later stage.
-
-Editorial metadata: do not include this comment in publication.
+DRAFT 3 — WORKING COPY (25 October 2026)
+Baseline: article_draft_v2_complete.md (locked and unchanged).
+This is the active editorial copy. The article prose is initially identical
+to Draft 2; changes to prose require Rob's approval.
+Agreed editorial question: how different versions of football came together
+to become one game. Politics, negotiations, changing incentives and control
+over rules belong to the explanation, not a catalogue of standardisation.
+Roy Peter Clark's 55 Writing Tools: collaborative review, Tool 10 first;
+whole-article assessment section by section.
+Tool 10: opening through 1863 FA dispute PASS (no big cuts); retain Sheffield,
+Richmond, Lincoln and Louth examples provisionally. Other club responses to be
+recorded in Study 22 notebook, with short-list option rather than new scenes.
+Fictional social-media box-out to be considered separately later.
 -->
 
 # What Is a Game of Football?
