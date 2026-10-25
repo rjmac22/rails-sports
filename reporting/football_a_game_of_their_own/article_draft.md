@@ -256,7 +256,7 @@ Meanwhile, FIFA was establishing its authority in another way. In 1930, it organ
 
 By the end of the Second World War, the English FA was reconsidering its relationship with FIFA. In 1944, a report presented by its secretary, Stanley Rous, proposed considering a return to FIFA, wider representation on IFAB, or both. Talks followed in London in April 1946, and the four associations rejoined FIFA that year. But IFAB's voting arrangements stayed as they were: the four British associations could still change the Laws of the Game without FIFA's agreement.
 
-The imbalance finally changed in 1958. By then, football had become a worldwide game, and FIFA proposed increasing its representation on IFAB. At a meeting in Stockholm, during the World Cup, all four British associations agreed. Each would now have one vote, while FIFA would have four. Changing the laws required six of the eight votes, meaning the British associations could no longer act without FIFA's agreement. But FIFA couldn't impose changes either. It needed the support of at least two British associations.
+The voting balance finally changed in 1958. By then, football had become a worldwide game, and FIFA proposed increasing its voting power on IFAB. At a meeting in Stockholm on 7 June, the day before the World Cup began, the proposal was unanimously adopted. Each of the four British associations would now have one vote, while FIFA would have four. Changing the laws required six of the eight votes, meaning the associations could no longer act together without FIFA's agreement. But FIFA couldn't impose changes either. It needed the support of at least two of the four associations.
 
 ## The same argument, again and again
 
