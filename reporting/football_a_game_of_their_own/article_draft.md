@@ -1,3 +1,13 @@
+<!--
+DRAFT 2 — COMPLETE (25 October 2026)
+Status: Content and structural draft approved; NOT publication-ready.
+Next task, in a separate chat: Apply Roy Peter Clark's Writing Tools paragraph-level
+techniques (especially Tools 19 and 18) to the article, reviewing unity, movement,
+rhythm, emphasis, paragraph breaks and sentence pace. Preserve the conversational
+voice and approved underlying story. After that: final source audit and publication subedit.
+This is an editorial status marker; exclude it from published article copy.
+-->
+
 # What Is a Game of Football?
 
 ## Why establish a football club?
@@ -245,10 +255,12 @@ The same argument had followed football almost from the beginning.
 
 Schools developed their own games, but clubs weren't obliged to adopt their rules. Sheffield welcomed the idea of common laws, but didn't want the Football Association deciding how its football should be played. Scotland wanted to play England, but wasn't prepared to let the English FA make the rules on its behalf. And when football spread around the world, the four British associations were just as reluctant to surrender their authority to FIFA.
 
-Each time, the attraction of agreement was much the same: more people to play against, without having to negotiate the rules for every match. Competitions such as the FA Cup and World Cup made cooperation more attractive by giving clubs and national associations something worth participating in.
+Sometimes an agreement wasn't worth making. Blackheath preferred to leave the Football Association rather than abandon the game its members enjoyed. Eton and Westminster tried compromise rules, but one contemporary critic complained that neither side could play to its strengths.
 
-But there was a price. Agreeing to common rules meant accepting decisions you might not have made yourself. And the more people who agreed to play by those rules, the more important the question of who could change them became.
+But circumstances changed. The FA Cup gave clubs another reason to adopt common rules. The World Cup gave national associations another reason to cooperate with FIFA. As the opportunities changed, so did the attractions of reaching an agreement.
 
-By 1958, football had reached a compromise. Neither FIFA nor the four British associations could change the Laws of the Game without support from the other.
+And even when footballers agreed on the rules, another question remained: who would decide when those rules should change?
 
-The question had never been simply whether football should have common rules. It was whose rules everyone else would agree to play by, and who got to change them.
+By 1958, the British associations and FIFA had agreed on a system in which neither could change the rules without the other's support.
+
+Football didn't arrive at common rules because somebody discovered the correct way to play. Its players and administrators made a succession of choices about what they wanted, what they were willing to give up, and whether playing together was worth the compromise.
