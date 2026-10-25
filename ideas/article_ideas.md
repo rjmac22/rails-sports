@@ -160,3 +160,24 @@ If the rule is sufficiently important and data permit a follow-up:
 **Editorial / commercial lesson from the source article:** A football anecdote illustrating the obvious (“use your strengths”) provides little explanation of *how* and no actionable method. Avoid the formula **management theory → famous football example → obvious conclusion**. Prefer **unanswered sporting question → research → defensible discovery**. Source material can be a prompt for an independent investigation, not something to copy or paraphrase as original.
 
 **Go/no-go:** Before drafting, verify a genuinely surprising, documentable decision or discovery and evidence of its consequence. If none exists, park it. **Do not let this displace completing and publishing current work.**
+
+---
+
+## How much influence does a football manager have once the match starts?
+
+**Added:** 25 October 2026. **Status:** Research lead only; not selected for drafting. Finish and publish existing work first.
+
+**Core question:** Once the players are on the pitch, what can a manager actually change — and how much of what happens is beyond their control? A related question is how fairly managers are held responsible for individual errors, tactical execution and results.
+
+**Prompt / existing groundwork:** [BBC Sport, “We watched every Premier League manager – here's what we found out” (Gary Rose and Brendon Mitchell, 7 April 2025)](https://www.bbc.co.uk/sport/football/articles/cn5x73x376eo), with [the individual touchline observations and heatmaps](https://www.bbc.co.uk/sport/football/articles/c5y4g1eey59o). BBC journalists observed managers across 10 matches, tracking movement and interactions. Nigel Pearson's account of delegating communication to assistants may be a particularly useful lead. **Their observations show what managers did, not whether those actions improved performance.** The sports psychologist offered possible interpretations of behaviour, not established causes in these particular matches.
+
+**Possible investigation:**
+1. **Communication:** In a noisy stadium, what can players hear or see? What instructions can realistically be transmitted, understood and acted on during play? Ask players, coaches and assistants; look for accounts of actual incidents.
+2. **Available levers:** Distinguish pre-match preparation from in-match substitutions, formation adjustments, set-piece instructions, breaks in play and interventions through assistants or captains. What are the constraints, delays and costs?
+3. **Consequences:** Reconstruct a small number of documented interventions: what was intended, how it was communicated, what players did and what followed. Check footage, contemporaneous comments and tactical evidence rather than accepting retrospective manager credit or blame.
+4. **Responsibility:** Compare what managers can control with the mistakes and outcomes commentators attribute to them. Explore where player decisions, opponent adaptation and chance enter.
+5. **Existing research:** Before investing in a substantial study, search coaching, communication, sport psychology and tactical-substitution literature. Determine whether the answer is already well established and what genuinely new angle remains.
+
+**Evidence / editorial cautions:** A visible gesture is not proof of a transmitted instruction; improvement after a substitution is not proof that it caused the improvement; experts' plausible psychological explanations are hypotheses unless tested. Do not equate animated touchline behaviour with better management, or a calm touchline with passivity. The BBC's one-weekend sample should not be generalised to every manager or match. Credit its reporting, follow its sources, and verify any claims used.
+
+**Go/no-go:** Only develop this into an article if we can find concrete, revealing cases or research that establish an interesting limit or mechanism of managerial influence. Otherwise, keep the BBC piece as source material, not an obligation to publish. **Reader test: What will they understand that they didn't before — and why does it matter?**
