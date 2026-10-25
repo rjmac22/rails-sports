@@ -228,3 +228,27 @@ Despite the unanimous rejection, the matter wasn't settled. Correspondence conti
 The compromise gave FIFA a say in changing the rules without surrendering British control. Each of the five bodies represented on the Board, including FIFA, could send two representatives. Changing the laws required a four-fifths majority of representatives present and voting. With all ten present, eight votes were needed. Between them, the four British associations held exactly eight. They could therefore change the rules without FIFA's agreement, while FIFA couldn't change anything without substantial British support.
 
 FIFA had gained representation, but the British associations had retained control.
+
+The compromise didn't mean the arguments were over. In 1920, the four British associations withdrew from FIFA over whether countries should play those they had fought in the First World War. But they went further. At IFAB's next meeting, the Irish FA proposed removing FIFA from the Board altogether. The four associations unanimously agreed, rewriting the Board's constitution to exclude FIFA and requiring unanimous agreement for changes to the Laws of the Game. When they rejoined FIFA in 1924, they restored its representation, but only after securing an agreement that protected their authority over the rules.
+
+The reconciliation didn't last. In 1928, the four British associations withdrew from FIFA again, this time over payments to amateur players for wages lost while representing their countries. But unlike in 1920, they didn't remove FIFA from IFAB. The organisations continued meeting to agree football's rules despite being unable to agree on how the sport should be administered. The British associations remained outside FIFA until 1946.
+
+Meanwhile, FIFA was establishing its authority in another way. In 1930, it organised the first World Cup, giving national associations a competition worth joining. The four British associations had withdrawn from FIFA two years earlier, but that didn't prevent them from being invited. They declined to participate in 1930, 1934 and 1938. The competition went ahead without them.
+
+By the end of the Second World War, the British associations were reconsidering their relationship with FIFA. In 1944, English FA secretary Stanley Rous suggested rejoining the international federation or extending representation on IFAB so that other countries could have a greater say in the rules. The four associations rejoined FIFA in 1946, but the Board's voting arrangements remained unchanged. The British associations could still change the Laws of the Game without FIFA's agreement.
+
+The imbalance finally changed in 1958. By then, football had become a worldwide game, and FIFA proposed increasing its representation on IFAB. At a meeting in Stockholm, during the World Cup, all four British associations agreed. Each would now have one vote, while FIFA would have four. Changing the laws required six of the eight votes, meaning the British associations could no longer act without FIFA's agreement. But FIFA couldn't impose changes either. It needed the support of at least two British associations.
+
+## The same argument, again and again
+
+The same argument had followed football almost from the beginning.
+
+Schools developed their own games, but clubs weren't obliged to adopt their rules. Sheffield welcomed the idea of common laws, but didn't want the Football Association deciding how its football should be played. Scotland wanted to play England, but wasn't prepared to let the English FA make the rules on its behalf. And when football spread around the world, the four British associations were just as reluctant to surrender their authority to FIFA.
+
+Each time, the attraction of agreement was much the same: more people to play against, without having to negotiate the rules for every match. Competitions such as the FA Cup and World Cup made cooperation more attractive by giving clubs and national associations something worth participating in.
+
+But there was a price. Agreeing to common rules meant accepting decisions you might not have made yourself. And the more people who agreed to play by those rules, the more important the question of who could change them became.
+
+By 1958, football had reached a compromise. Neither FIFA nor the four British associations could change the Laws of the Game without support from the other.
+
+The question had never been simply whether football should have common rules. It was whose rules everyone else would agree to play by, and who got to change them.
