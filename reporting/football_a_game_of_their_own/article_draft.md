@@ -1,6 +1,6 @@
 <!--
-DRAFT 2 — COMPLETE (25 October 2026)
-Status: Content and structural draft approved; NOT publication-ready.
+DRAFT 3 — WORKING COPY, SOURCE-CORRECTION PASS (25 October 2026)
+Status: Draft 2 preserved in article_draft_v2_complete.md; the working copy now includes factual corrections ahead of the full 55-tool study. NOT publication-ready.
 
 NEXT CHAT — DRAFT 3 IS BOTH A WRITING COURSE AND AN EDITORIAL PASS.
 Use Rob's copy of Roy Peter Clark's "Writing Tools: 55 Essential Strategies for Every Writer"
@@ -154,7 +154,7 @@ Campbell wasn't going to let it pass quietly. He challenged the way an earlier v
 
 A week later, on 8 December, Campbell announced that Blackheath was leaving the Football Association. But he hadn't fallen out with the whole enterprise: he agreed to stay on as its treasurer until the next general meeting.
 
-**The Football Association had agreed on its rules. By January 1864, six of its eleven founding clubs had gone.**
+**The Football Association had agreed on its rules. By January 1864, it had just nine member clubs left.**
 
 Blackheath hadn't stopped playing football. It just didn't want to play the FA's version. What happened to its game is another story.
 
@@ -240,7 +240,7 @@ In 1912, FIFA asked for representation on the International Football Association
 
 One possibility is that the British associations didn't consider FIFA sufficiently experienced. They had been making and revising football's rules for decades, while FIFA was only eight years old. They certainly expressed that attitude later. In 1928, during a separate dispute over amateurism, they argued that most FIFA members were relatively new organisations and therefore lacked the knowledge that only experience could bring.
 
-There was also the question of control. The four British associations had established IFAB and governed the Laws of the Game for more than 25 years. Why should they give up any of that authority? Historian Peter J. Beck argues that the British associations increasingly saw FIFA as a potential threat to their position.
+There was also the question of control. England, Scotland, Wales and Ireland had each held a say in football's laws through IFAB for more than 25 years. Admitting FIFA would give another organisation a voice in decisions previously reserved to them. Historian Peter J. Beck argues that the associations increasingly saw FIFA as a potential threat to their position.
 
 Despite the unanimous rejection, the matter wasn't settled. Correspondence continued, and in February 1913 the four British associations met again to consider FIFA's admission. This time, the English FA proposed allowing two FIFA representatives onto the Board. The associations couldn't reach an agreement, but further discussions followed. In April, all four finally accepted the proposal.
 
@@ -252,7 +252,7 @@ The compromise didn't mean the arguments were over. In 1920, the four British as
 
 The reconciliation didn't last. In 1928, the four British associations withdrew from FIFA again, this time over payments to amateur players for wages lost while representing their countries. But unlike in 1920, they didn't remove FIFA from IFAB. The organisations continued meeting to agree football's rules despite being unable to agree on how the sport should be administered. The British associations remained outside FIFA until 1946.
 
-Meanwhile, FIFA was establishing its authority in another way. In 1930, it organised the first World Cup, giving national associations a competition worth joining. The four British associations had withdrawn from FIFA two years earlier, but that didn't prevent them from being invited. They declined to participate in 1930, 1934 and 1938. The competition went ahead without them.
+Meanwhile, FIFA was establishing its authority in another way. In 1930, it organised the first World Cup, giving national associations a competition worth joining. The four British associations had withdrawn from FIFA two years earlier, but England nevertheless received an invitation. None of the four British teams participated in the World Cups of 1930, 1934 or 1938. The competition went ahead without them.
 
 By the end of the Second World War, the British associations were reconsidering their relationship with FIFA. In 1944, English FA secretary Stanley Rous suggested rejoining the international federation or extending representation on IFAB so that other countries could have a greater say in the rules. The four associations rejoined FIFA in 1946, but the Board's voting arrangements remained unchanged. The British associations could still change the Laws of the Game without FIFA's agreement.
 
@@ -262,7 +262,7 @@ The imbalance finally changed in 1958. By then, football had become a worldwide 
 
 The same argument had followed football almost from the beginning.
 
-Schools developed their own games, but clubs weren't obliged to adopt their rules. Sheffield welcomed the idea of common laws, but didn't want the Football Association deciding how its football should be played. Scotland wanted to play England, but wasn't prepared to let the English FA make the rules on its behalf. And when football spread around the world, the four British associations were just as reluctant to surrender their authority to FIFA.
+Schools developed their own games, but clubs weren't obliged to adopt their rules. Sheffield welcomed the idea of common laws, but didn't want the Football Association deciding how its football should be played. Scotland wanted to play England, but wasn't prepared to let the English FA make the rules on its behalf. And when football spread around the world, FIFA had to negotiate with four separate British associations, each with a say in changing the game's laws.
 
 Sometimes an agreement wasn't worth making. Blackheath preferred to leave the Football Association rather than abandon the game its members enjoyed. Eton and Westminster tried compromise rules, but one contemporary critic complained that neither side could play to its strengths.
 
