@@ -1,6 +1,6 @@
 <!--
-DRAFT 2 — COMPLETE (25 October 2026)
-Status: Content and structural draft approved; NOT publication-ready.
+DRAFT 2 — EARLIER CHECKPOINT (25 October 2026)
+Status: Archived pre-audit snapshot, not a completed Draft 2. Current Draft 2 remains in article_draft.md, marked IN PROGRESS until reference checks are finished.
 
 NEXT CHAT — DRAFT 3 IS BOTH A WRITING COURSE AND AN EDITORIAL PASS.
 Use Rob's copy of Roy Peter Clark's "Writing Tools: 55 Essential Strategies for Every Writer"
