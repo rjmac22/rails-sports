@@ -207,3 +207,31 @@ If the rule is sufficiently important and data permit a follow-up:
 
 **Guardrail:** Capture leads now; only pursue one when it is stronger than existing priorities. **Publishing the current articles takes precedence over constructing a comprehensive academic-publications database.**
 
+---
+
+## Football's rules as a negotiation case study — business-publication adaptation
+
+**Added:** 25 October 2026. **Status:** Spin-off article idea, **not** a second active draft. First complete and pitch *A Game of Their Own* (Rails Sports football article, Study 22). Reuse the reporting, not the copy; check first-publication, exclusivity and reuse terms before placing either article.
+
+**Origin:** Researching the repeated disputes over football's rules revealed a genuine account of negotiation: school codes and clubs; Sheffield versus the FA; England versus Scotland; the four British associations versus FIFA and IFAB. This offers a *separate* story for business/general-interest readers about when agreement is valuable, when it isn't, and how incentives change. Avoid the shallow *From Dugout to Boardroom* formula of putting a predetermined management lesson over a sports anecdote.
+
+**Candidate thesis:** **A good agreement isn't necessarily a compromise, and a compromise isn't necessarily a good agreement.** The attractiveness of agreement depends on what each side can do without it, what cooperation makes possible, what it costs, and how future disagreements will be decided. Historical cases illustrate mechanisms; they don't prove universal negotiation principles.
+
+**Potential title/pitch:** *Why Compromise Isn't Always the Best Deal: What Football's Century-Long Argument Over Its Rules Reveals About Negotiation*. Stronger alternative headlines can be tested when targeting an actual publication. Pitch as a researched negotiation story, not "five lessons managers can learn from football".
+
+**Evidence-led cases (validate sources and qualifications against the football research notes before pitching):**
+
+1. **Eton–Westminster compromise rules:** A contemporary critic (*Etonensis*, 1863) argued that compromise fixtures stopped players exhibiting their strengths. Reaching agreement doesn't establish a satisfying outcome. **Do not invent Westminster's view** or describe the negotiations in detail when the record doesn't support that.
+2. **Blackheath leaves the FA (1863):** Walking away can be reasonable when proposed rules remove something participants value. Don't present the result as a universal endorsement of refusing a deal.
+3. **Sheffield and the FA (1860s–1877):** Sheffield had a functioning local game; outside opponents and FA Cup access increased the value of wider agreement. In the 1877 throw-in negotiations, an initially rejected compromise was later accepted. Show *what changed*, not a simplistic tale of inevitable progress.
+4. **England, Scotland and IFAB (1882–1886):** Disagreement about professionalism could be separated from agreement about playing laws. Agreeing what is decided jointly versus locally can make cooperation possible. Stay faithful to the sequence and precise powers.
+5. **FIFA, the British associations and IFAB (1912–1958):** In 1913 FIFA gained a voice while the British retained sufficient votes to act collectively; in 1920 they voted FIFA out; during the later split they continued to cooperate over laws; in 1958 neither bloc could change laws without support from the other. Agreements about *how future decisions get made* may matter more than an immediate concession. Treat stated motives separately from inferred incentives.
+6. **FA Cup and World Cup as changing incentives:** Competitions gave clubs and national associations valuable opportunities that made cooperation more attractive; the World Cup proceeded despite British nonparticipation in 1930, 1934 and 1938. Avoid assuming tournament creation single-handedly caused rule adoption, FIFA membership or the 1958 vote.
+
+**Distinctive business-facing treatment:** Open with a consequential scene (possible: Blackheath's 1863 walkout). Reconstruct offers, alternatives, costs, concessions, reversals, leverage and consequences. Explain the negotiation mechanisms explicitly *after the evidence*, using appropriately bounded comparison to work, contracts, partnerships or governance. For stronger business-publication positioning, check negotiation scholarship and counterexamples; distinguish observed historical facts, contemporaries' claims, historians' interpretations and our own reasoning. Do not claim that football proves general management theory.
+
+**Potential outlets to research when ready:** Paid commissioning opportunities at *Harvard Business Review*, *Raconteur*, and other business / management publications; verify current pitching requirements, editorial fit and payment before approaching. Aim for a genuinely distinct article for a different readership, not a lightly reskinned syndication of the sports piece.
+
+**Broader editorial method:** **One investigation, potentially multiple independently worthwhile stories.** In Rails Sports, explain sport first and let wider insights emerge. For a specialist negotiation audience, use the verified history to explore practical implications directly, without manufacturing parallels. Only produce a spin-off when it adds a new argument and genuine value.
+
+**Priority / guardrail:** **Publish and pitch the existing football article first.** Capture the business adaptation here, then return to it once that article is moving. No extra historical rabbit holes or new research project merely to keep preparing.
