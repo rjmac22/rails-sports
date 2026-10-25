@@ -1,11 +1,20 @@
 <!--
 DRAFT 2 — COMPLETE (25 October 2026)
 Status: Content and structural draft approved; NOT publication-ready.
-Next task, in a separate chat: Apply Roy Peter Clark's Writing Tools paragraph-level
-techniques (especially Tools 19 and 18) to the article, reviewing unity, movement,
-rhythm, emphasis, paragraph breaks and sentence pace. Preserve the conversational
-voice and approved underlying story. After that: final source audit and publication subedit.
-This is an editorial status marker; exclude it from published article copy.
+
+NEXT CHAT — DRAFT 3 IS BOTH A WRITING COURSE AND AN EDITORIAL PASS.
+Use Rob's copy of Roy Peter Clark's "Writing Tools: 55 Essential Strategies for Every Writer"
+as the study source. Work through ALL 55 tools systematically, not only the paragraph-level
+tools (18 and 19). For each tool: explain the author's actual technique accurately;
+find a specific passage in this article where it is already used well or could help;
+discuss why, offer a modest before/after example or practice task where valuable,
+and let Rob choose and practise revisions. Say explicitly if a tool is not applicable
+instead of forcing edits; track progress across all 55. Give learning and developing
+Rob's independent editorial judgement equal weight with publication readiness.
+Maintain the conversational voice, avoid unnecessary rewrites, do not repeat already
+approved historical research without a specific reason. Finish with the source audit,
+final subedit and pitch/publication preparation when ready.
+This is an editorial handoff marker; exclude it from published article copy.
 -->
 
 # What Is a Game of Football?
