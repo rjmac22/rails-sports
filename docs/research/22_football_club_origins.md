@@ -1290,3 +1290,27 @@ The question shifts repeatedly: who wants to play whom, by which rules, and who 
 
 **Do not rewrite whole article or manufacture extra objections.** Obtain user approval for small corrections; then final source audit to settle any remaining publication-bearing doubtful specifics (not every interesting archival question). **Preserve approved Draft 2 as checkpoint**; document subsequent changes only in working draft/Draft 3. The purpose is to learn rigorous reporting as well as become a better writer with all 55 techniques.
 
+---
+
+## 30. Correction: four independently governed associations, not a single 'British FA' (25 October 2026)
+
+**Reader's correction:** The English FA, Scottish FA, FA of Wales and Irish FA were *independent organisations* sharing an IFAB forum, **not one British governing body**. Even when minutes say their representatives reached unanimous decisions, this does not itself show they held identical motives, arrived at the same position through prior collective bargaining, or simply followed England. Different associations might independently make the same judgment. Keep this distinction central because the article concerns both shared laws and authority.
+
+**Primary IFAB record:**
+- [1912 original minutes pp. 2–3](https://downloads.theifab.com/downloads/annual-general-meeting-1912-minutes?l=en) lists separate delegates for each association and says FIFA's request for a delegate was unanimously refused after debate, but **does not record individual arguments**. An outcome, not proof of a unified motive.
+- [1920 minutes pp. 1–2](https://downloads.theifab.com/downloads/annual-general-meeting-1920-minutes?l=en): the **Irish FA** raised concerns over **an independent English FA resolution** about international matches; English FA offered an explanation and the Board accepted it. Separately, **Ireland proposed excluding FIFA** from IFAB, and the proposals were unanimously adopted. Minutes also record Scottish and English proposals about law amendments being lost on division. In short, agreement on removing FIFA did not require the bodies to be one institution or agree on every other matter.
+- [1958 original minutes pp. 3–5](https://downloads.theifab.com/downloads/annual-general-meeting-1958-minutes?l=en) names delegates by five institutions and says proposed voting changes were **unanimously adopted**. This justifies reporting what was agreed, not attributing a particular interior motive to every representative.
+- Historian [Peter J. Beck, 'Football Association changes direction on foreign tours'](https://www.tandfonline.com/doi/full/10.1080/14660970.2025.2547137) explicitly cautions that in practice the **four home associations did not always think or act as one**. This supports retaining their agency.
+- **No rule** that collective shorthand is forbidden: 'all four left FIFA' and 'all four voted against admitting FIFA in 1912' are appropriate summaries when demonstrably true. Avoid language suggesting a single shared thought process; name proposers (Ireland 1920, England 1913, FIFA 1958) when identifiable.
+
+**Working-draft corrections committed 25 Oct** (Draft 2 archival checkpoint unchanged):
+1. False 'six of eleven founding clubs had gone' corrected to **nine member clubs in January 1864**. Evidence: [Cambridge Scholars historical excerpt citing *Bell's Life*, 23 Jan 1864](https://www.cambridgescholars.com/resources/pdfs/978-1-5275-8222-4-sample.pdf); first meeting had eleven represented, membership changed after formation.
+2. The 1912 'question of control' paragraph now describes the separate associations each holding a say, rather than treating their interests as a single private intention. Beck's interpretation remains attributed.
+3. 1930 World Cup paragraph identifies **England** as a documented invitee, but does **not** imply all four received an invitation to every 1930s tournament. [UK National Archives collection, Uruguay's 1929 request](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-topic/international-trade-and-affairs/football-world-cup/); [Beck, 1929 FA refusal](https://doi.org/10.1080/14660970.2025.2547141); [National Archives, 1934 invitation](https://blog.nationalarchives.gov.uk/world-cup-just-football/). All four did not participate in 1930, 1934, 1938.
+4. The final recap now says FIFA dealt with **four independent associations**, each with a say, without imputing identical motivations.
+5. Working file editorial header now marks **Draft 3 source correction underway**. Archived [Draft 2](https://github.com/rjmac22/rails-sports/blob/article/22-a-game-of-their_own/reporting/football_a_game_of_their_own/article_draft_v2_complete.md) remains unmodified.
+
+**Further checks:** Should we describe the 1920/1928 exit decisions as each association following a common policy or as individually resolved? A formal shared outcome is clear, but inspect each body's council minutes to establish who initiated, who differed and why before writing internal bargaining. Avoid creating a new historical digression in an otherwise readable article; this may be a research note rather than article copy.
+
+**Next audit passages:** Morley 1863 injury examples (writerly analogy vs his words); precise 1913 extraordinary IFAB meetings and motions; 1924 conditional return; source of Rous 1944 views and risks of post hoc World Cup explanations. Continue reviewing paragraph by paragraph before stylistic polish.
+
