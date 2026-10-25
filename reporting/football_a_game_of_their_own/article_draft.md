@@ -22,13 +22,13 @@ This is editorial metadata; do not publish it in the article.
 
 Sporting clubs and societies had existed in Britain for generations, football among the games they organised. Some lasted for decades; others came and went. You know what I mean, the enthusiastic organiser gets busy with something else, people move away, somewhere to play becomes unavailable. The subscription goes up, travelling becomes expensive, somebody loses their job, or they simply decide the money would be better spent elsewhere. This was long before professional football leagues and careers. Keeping a club going depended on people having the time, money and enthusiasm to do it.
 
-In October 1849, members of several Surrey cricket clubs gathered at the Oval to establish a football club. During the meeting, the chairman recalled an earlier sporting organisation that had disappeared.
+In October 1849, members of several Surrey cricket clubs gathered at the Oval to organise football for the winter. During the meeting, the chairman recalled an earlier sporting organisation that had disappeared.
 
 Some sixty years before, a group of men originally from Westmorland and Cumberland had established the Gymnastic Society in London. They organised wrestling and football, playing the latter on Kennington Common. In 1789, twenty-two men from Westmorland faced twenty-two from Cumberland. Westmorland won.
 
 But when several leading members retired from business and moved away, the Gymnastic Society dissolved. Wrestling continued elsewhere, but football became increasingly difficult to organise as suitable places to play became unavailable.
 
-The Surrey organisers wanted to revive the game. They established a new football club, agreed rules, collected subscriptions to pay for equipment and scheduled games on Wednesdays and Saturdays throughout the winter.
+The Surrey organisers wanted to revive the game. They agreed rules for a football club, set a five-shilling subscription to cover equipment and arranged games on Wednesdays and Saturdays throughout the winter.
 
 In the late 1850s, former pupils of Blackheath Proprietary School wanted to continue playing the football they played at school. Initially, they organised informal games among themselves, but regularly struggled to get enough former pupils to make up the teams.
 
