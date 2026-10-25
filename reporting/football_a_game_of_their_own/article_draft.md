@@ -1,19 +1,28 @@
 <!--
-DRAFT 2 — WORK IN PROGRESS: HISTORICAL REFERENCE AUDIT (25 October 2026)
-Status: NOT COMPLETE. Continue fact-checking and source corrections one by one.
-Mark Draft 2 COMPLETE only after Rob approves the remaining corrections and the
-reference audit is finished. The separate file article_draft_v2_complete.md is an
-EARLIER superseded checkpoint (named before this additional audit); this working
-file is the current, authoritative Draft 2.
+DRAFT 2 — COMPLETE (25 October 2026)
+Status: Historical narrative and research-reference audit completed; all substantive
+corrections discussed with Rob are applied. Not publication-ready.
 
-AFTER DRAFT 2 IS COMPLETE — next chat: FULL 55-TOOL WRITING STUDY / DRAFT 3.
-Use Rob's copy of Roy Peter Clark's "Writing Tools: 55 Essential Strategies for Every Writer"
-as the study source. Work through ALL 55 tools systematically, not only paragraph tools
-18 and 19. Explain each technique, identify examples in this article, practise and
-discuss edits with Rob, and skip forced changes. Writing education and publishing
-quality are equally important. Preserve the conversational style and historical
-accuracy. Final polish, source check and publication preparation follow.
-This is editorial metadata; do not publish it in the article.
+Research record: notebooks/22_football_from_first_principles.ipynb and
+docs/research/22_football_club_origins.md on this branch. Remaining limits:
+The Times 5 Oct 1863 Etonensis original text was not viewed directly; an 1863
+Daily News summary supports the attributed paraphrase. Some meeting details
+are supported by period press and named historians rather than every original
+archive file. Normal quotation-, rights- and publication-level checks remain.
+
+Deferred by Rob: the fictional Facebook comments box-out — save its editorial
+and presentation review for later; do not keep resurfacing it during this
+historical audit.
+
+NEXT STAGE — another chat: Work systematically through ALL 55 tools in Roy Peter
+Clark's Writing Tools: 55 Essential Strategies for Every Writer, using the article
+as both a writing course and an editorial exercise. Explain and practise each
+technique, highlight effective existing passages, let Rob judge revisions, and
+do not force changes. Developing his writing ability is as important as
+publication. Keep this completed Draft 2 snapshot as the baseline; future
+revisions belong to the later stage.
+
+Editorial metadata: do not include this comment in publication.
 -->
 
 # What Is a Game of Football?
