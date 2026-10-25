@@ -134,6 +134,33 @@ A prose change needs a specific editorial reason: factual error, ambiguity for t
 
 Presentation furniture remains provisional after body copy is locked: headline, standfirst, section headings/crossheads, images, captions, charts, pull quotes, source treatment, links, metadata and SEO.
 
+## Collaborative craft edit — Roy Peter Clark's 55 Writing Tools
+
+Use Roy Peter Clark's *Writing Tools: 55 Essential Strategies for Every Writer* as both an **in-depth writing course** and a **professional editorial review** of completed, evidence-checked drafts. This is a collaborative workshop, not an automatic rewrite or a one-sentence demonstration of each tool. The author should understand *why* a passage succeeds or fails, not merely receive replacement prose.
+
+**Work from big decisions to small ones.** Clark's numbered tools are not a mandatory editing chronology. For a completed manuscript, decide first whether whole passages deserve to remain before spending time polishing their sentences. Tool 10 ("Cut big, then small") therefore anchors the structural pass and returns during the final word-level pass.
+
+### Recommended order (all 55 tools)
+
+1. **Whole-article structure and story:** Start with **Tool 10 (big cuts)**, then examine **Tools 40, 31, 24–39 and 55**. Read the whole manuscript for its question, promise, argument, narrative progression, reader interest, pacing, evidence, consequences, repetition and unnecessary sections. Ask what each passage contributes before deciding to cut, move or preserve it.
+2. **Clarity, voice and effects:** Apply **Tools 11–23 and 51–54** to the agreed structure. Examine explanations, examples, imagery, humour, paragraphs, the intended reader's understanding and the author's conversational voice.
+3. **Sentence-level craft:** Work through **Tools 1–9**, then return to **Tool 10 (small cuts)**. Examine subjects and verbs, emphasis, word choice, rhythm, punctuation and economy. Remove surplus words without flattening voice or compressing away a necessary explanation.
+4. **Writer's working practices:** Consider **Tools 41–50** for reusable lessons about drafting, revision, habits and future article work. These may generate playbook or process improvements rather than edits to the current prose.
+
+Some tools overlap or call for whole-article rather than local analysis. Cover each of the 55 thoughtfully; **do not manufacture 55 revisions**.
+
+### How each tool is reviewed
+
+- **One tool at a time, article-wide.** Explain the specific principle accurately, then work through **every relevant section of the article**, in order. Identify effective passages as well as weak ones; propose precise alternatives only when they help. A tool is not complete after a single illustrative sentence.
+- **Section by section within the tool.** Stop for discussion and the author's editorial judgement where there is a meaningful choice. Record agreed changes; do not silently rewrite ahead. Then continue through the remaining sections before moving to the next tool.
+- **Zoom out when the tool demands it.** Narrative structure, framing and the central question require a whole-article assessment; sentence tools need closer inspection. Avoid editing one section with all 55 tools in isolation before seeing the rest of the article.
+- **Keep a stable baseline.** Preserve the completed, evidence-checked draft as an unchanged snapshot. Make approved revisions in a later working version; distinguish suggestions, accepted edits and deferred ideas. Do not overwrite locked copy without permission.
+- **Don't force compliance.** Effective prose can depart from a tool deliberately for rhythm, emphasis, humour or character. A pass with no changes is a valid result. Explain the trade-off instead of treating the tool as a mechanical rule.
+- **Protect the reporting.** A sharper sentence must not strengthen claims beyond the evidence, erase qualifications, introduce false causal links or distort a historical quotation. If a proposed revision raises a factual issue, check it against the source record.
+- **Finish and ship.** This is a bounded editorial process, not an excuse for endless polishing. Once decisions are made and the work is publication-ready, proceed to packaging, pitching or publication.
+
+**Example in use:** For the completed football-rules Draft 2 (25 October 2026), begin with Tool 10's *big-cut* test of the entire narrative, discussing each section's reason for being before proceeding to other structural tools. Later, for Tool 1, inspect all relevant sentences across the *entire* article, section by section—not just one example. The author approves any substantive alteration.
+
 ## Subediting sequence
 
 1. **Identify the article.** Define what kind of piece it is and its actual editorial purpose.
