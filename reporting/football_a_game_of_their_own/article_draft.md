@@ -210,3 +210,7 @@ In 1885, the English FA legalised professional footballers, something the Scotti
 Scotland, Wales and Ireland went ahead without it. They proposed letting each association decide for itself whether to allow professional players. They also wanted all four associations to meet annually to agree on changes to the playing rules.
 
 England subsequently accepted the arrangement. On 2 June 1886, representatives of all four associations met in London and established the International Football Association Board (IFAB). Each association had an equal say in deciding changes to the Laws of the Game.
+
+As football spread beyond Britain, associations in continental Europe wanted to organise international matches under common rules. In 1904, seven countries established FIFA. The English FA had been invited to participate, but couldn't see the advantage of another federation, so the others went ahead without it.
+
+FIFA adopted the existing Laws of the Game. But it had no say in changing them. That authority still belonged to IFAB and its four British associations.
