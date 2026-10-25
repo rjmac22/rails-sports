@@ -1345,3 +1345,25 @@ The June **14, 1924** Board amended Rules I, IV, VII accordingly (FIFA two repre
 
 **Editorial teaching:** Distinguish 'they adopted the same settlement' (recorded) from 'they shared identical motives' (not established). The reciprocal 1923 deal separated football laws and each association's governance. Do not stretch this into a lengthy treaty analysis in the sports article.
 
+---
+
+## 33. 1944 Rous, postwar planning and 1946 return — provenance audit (25 October 2026)
+
+**Verdict:** Draft 3's broad sequence is supported, but “Stanley Rous suggested rejoining FIFA or extending IFAB” **slightly over-personalises a committee recommendation**. A source clearer about documentary authorship would preserve both the **independent associations** and the difference between proposing options and reaching a binding agreement. No further edits made pending editorial approval.
+
+**Contemporaneous source identified by historian Alan Tomlinson:** Rous initially drafted a memo **May 1943**, then presented the consolidated **FA *Post War Development — An Interim Report*, October 1944** to the FA Council. The recommendation quoted by Tomlinson was **'Immediate Measure (e)' of Sub-Committee 4, 'International Relationships in Football', p. 6**, calling for *review* of relationships with FIFA and consideration of **resuming FIFA membership and/or broadening representation on IFAB** to more directly include other countries. This was a proposal for options, **not confirmation that all four independently governed associations agreed with it in 1944**; Tomlinson says some earlier proposals met resistance.
+
+**Accessible primary text via close quotation in published scholarship:** [Alan Tomlinson, “FIFA: Beginnings, Tensions, Trajectories,” in *The FIFA World Cup 1930–2010* (2014), p. 40](https://api.pageplace.de/preview/DT0400.9783835326064_A22423736/preview-9783835326064_A22423736.pdf) (p. 40 reproduces Rous/subcommittee passage, with footnote 21 giving exact report identity/page). Original 1944 FA report itself has **not** been retrieved: cite Tomlinson's reproduction, not pretend first-hand inspection.
+
+**1946 decision and negotiations:** Tomlinson documents **April 1946 discussions** at the FA headquarters in Lancaster Gate with Rous, Arthur Drewry and FIFA officials Jules Rimet, Rodolphe Seeldrayers, D. Eie, K. J. J. Lotsy, Ivo Schricker. The [English FA's institutional history](https://www.thefa.com/about-football-association/who-we-are/history) independently confirms the 1946 return and attributes the decision partly to a new sense of European unity after the Second World War. [Peter J. Beck, “The Football Association’s ‘new course’ regarding close season tours, 1938–1939”](https://doi.org/10.1080/14660970.2025.2547133) describes Rous's longer-term interest in FIFA and England's entry to the World Cup before the war. This makes *World Cup participation one motive documented for Rous* but does **not** prove identical reasoning for Scotland, Wales and the Irish FA. Their separate council decisions have **not** been checked. No change to 1958 voting claim from this check.
+
+**Minimal suggested article edit (pending approval):**
+Old: 'In 1944, English FA secretary Stanley Rous suggested rejoining the international federation or extending representation on IFAB so that other countries could have a greater say in the rules.'
+Proposed: 'In 1944, a Football Association report presented by its secretary, Stanley Rous, proposed considering a return to FIFA, wider representation on IFAB, or both.'
+
+The paragraph could then continue unchanged: 'The four associations rejoined FIFA in 1946, but the Board’s voting arrangements remained unchanged.' This separates an **English FA planning recommendation** from **subsequent decisions by four independent bodies**, and reflects the report's exact *and/or* formulation.
+
+**Optional interesting aside excluded from main narrative:** Rous helped organise the 1947 Great Britain vs Rest of Europe match to aid FIFA financially; the [FA history](https://www.thefa.com/about-football-association/who-we-are/history) reports £30,000 proceeds. Tangential to laws/rule-governance question. Keep as lead, not necessary scene.
+
+**Next gate:** Decide whether small attribution change makes story more accurate without interrupting the reader; don't turn section into an exhaustive postwar political history.
+
