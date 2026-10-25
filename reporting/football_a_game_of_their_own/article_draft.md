@@ -225,7 +225,7 @@ Eventually, Scotland agreed to negotiate. On 6 December 1882, representatives of
 
 In 1885, the English FA legalised professional footballers, something the Scottish FA opposed. When the associations arranged a conference the following February, England objected to the proposed agenda and refused to attend.
 
-Scotland, Wales and Ireland went ahead without it. They proposed letting each association decide for itself whether to allow professional players. They also wanted all four associations to meet annually to agree on changes to the playing rules.
+Scotland, Wales and Ireland went ahead without England. They agreed that each association could decide for itself whether to allow professional players, and proposed annual meetings at which all four associations would consider changes to the playing rules.
 
 England subsequently accepted the arrangement. On 2 June 1886, representatives of all four associations met in London and established the International Football Association Board (IFAB). Each association had an equal say in deciding changes to the Laws of the Game.
 
