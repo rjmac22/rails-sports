@@ -211,8 +211,20 @@ Scotland, Wales and Ireland went ahead without it. They proposed letting each as
 
 England subsequently accepted the arrangement. On 2 June 1886, representatives of all four associations met in London and established the International Football Association Board (IFAB). Each association had an equal say in deciding changes to the Laws of the Game.
 
-As football spread beyond Britain, associations in continental Europe wanted to organise international matches under common rules. In 1904, seven countries established FIFA. The English FA had been invited to participate, but couldn't see the advantage of another federation, so the others went ahead without it.
+As football spread beyond Britain, associations in continental Europe wanted to organise international matches under common rules. In 1904, seven countries established FIFA. The English FA had been invited to participate, but couldn't see the advantage of another federation, so the others went ahead without it. England joined in 1905, followed by Scotland, Wales and Ireland in 1910.
 
 FIFA adopted the existing Laws of the Game. But it had no say in changing them. That authority still belonged to IFAB and its four British associations.
 
-In 1911, German representatives proposed that FIFA should eventually take responsibility for the Laws of the Game. The English FA rejected the idea. Under FIFA's system of one vote per member association, the four British associations could find themselves outvoted as more countries joined. They already controlled changes to the rules through IFAB, and weren't prepared to hand that authority over. The English FA initially opposed giving FIFA even a seat on the board.
+In 1911, German representatives proposed that FIFA should eventually take responsibility for the Laws of the Game. The English FA rejected the idea. FIFA gave each member association one vote, meaning the four British associations could be outvoted as more countries joined.
+
+In 1912, FIFA asked for representation on the International Football Association Board. It was a reasonable request. Why should four British associations have the only say over the rules of a game now being played far beyond Britain? But the four associations discussed the proposal and unanimously rejected it. The minutes record only that the time wasn't right, without explaining why.
+
+One possibility is that the British associations didn't consider FIFA sufficiently experienced. They had been making and revising football's rules for decades, while FIFA was only eight years old. They certainly expressed that attitude later. In 1928, during a separate dispute over amateurism, they argued that most FIFA members were relatively new organisations and therefore lacked the knowledge that only experience could bring.
+
+There was also the question of control. The four British associations had established IFAB and governed the Laws of the Game for more than 25 years. Why should they give up any of that authority? Historian Peter J. Beck argues that the British associations increasingly saw FIFA as a potential threat to their position.
+
+Despite the unanimous rejection, the matter wasn't settled. Correspondence continued, and in February 1913 the four British associations met again to consider FIFA's admission. This time, the English FA proposed allowing two FIFA representatives onto the Board. The associations couldn't reach an agreement, but further discussions followed. In April, all four finally accepted the proposal.
+
+The compromise gave FIFA a say in changing the rules without surrendering British control. Each of the five bodies represented on the Board, including FIFA, could send two representatives. Changing the laws required a four-fifths majority of representatives present and voting. With all ten present, eight votes were needed. Between them, the four British associations held exactly eight. They could therefore change the rules without FIFA's agreement, while FIFA couldn't change anything without substantial British support.
+
+FIFA had gained representation, but the British associations had retained control.
