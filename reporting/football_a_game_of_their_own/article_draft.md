@@ -227,7 +227,11 @@ In 1885, the English FA legalised professional footballers, something the Scotti
 
 Scotland, Wales and Ireland went ahead without England. They agreed that each association could decide for itself whether to allow professional players, and proposed annual meetings at which all four associations would consider changes to the playing rules.
 
-England subsequently accepted the arrangement. On 2 June 1886, representatives of all four associations met in London and established the International Football Association Board (IFAB). Each association had an equal say in deciding changes to the Laws of the Game.
+England eventually accepted most of the proposals. Scotland agreed to play against English professionals without allowing professionalism at home. Restrictions on recruiting players from across the border also addressed Scotland's concerns about losing footballers to English clubs.
+
+On 27 March 1886, England and Scotland met again. The match finished 1–1.
+
+On 2 June 1886, representatives of all four associations met in London and established the International Football Association Board (IFAB). Each association had an equal say in deciding changes to the Laws of the Game.
 
 As football spread beyond Britain, associations in continental Europe wanted to organise international matches under common rules. In 1904, seven countries established FIFA. The English FA had been invited to participate, but couldn't see the advantage of another federation, so the others went ahead without it. England joined in 1905, followed by Scotland, Wales and Ireland in 1910.
 
