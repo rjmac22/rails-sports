@@ -165,7 +165,7 @@ Blackheath hadn't stopped playing football. It just didn't want to play the FA's
 
 ## Part 3 — Making common rules work
 
-### Why establish common rules?
+### Why join the Football Association?
 
 Joining the Football Association was one thing. Playing by its rules was another.
 
