@@ -1,8 +1,9 @@
 <!--
-DRAFT 3 — WORKING COPY (25 October 2026)
-Baseline: article_draft_v2_complete.md (locked and unchanged).
-This is the active editorial copy. The article prose is initially identical
-to Draft 2; changes to prose require Rob's approval.
+DRAFT 4 — ACTIVE WORKING COPY (26 October 2026)
+Baseline: article_draft_v3_complete.md (locked snapshot; earlier Draft 2 also preserved).
+Final sentence-by-sentence editorial review using Roy Peter Clark's 55 Writing Tools.
+All prose edits require Rob's approval. Approved changes so far: cut Shaw's
+1907 recollection of enjoyment; tightened the opening background sentence.
 Agreed editorial question: how different versions of football came together
 to become one game. Politics, negotiations, changing incentives and control
 over rules belong to the explanation, not a catalogue of standardisation.
