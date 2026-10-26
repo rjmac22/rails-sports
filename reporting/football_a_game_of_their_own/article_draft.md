@@ -155,7 +155,7 @@ Ebenezer Cobb Morley of Barnes saw things differently. He didn't particularly mi
 
 Campbell wasn't going to let it pass quietly. He challenged the way an earlier vote had been counted, accused the other side of manoeuvring against the hacking supporters, and tried to postpone the decision until more school representatives could attend. That motion lost 13–4. Then the meeting voted 11–5 to strike out the rules allowing players to run with the ball and opponents to hack them.
 
-A week later, on 8 December, Campbell announced that Blackheath was leaving the Football Association. But he hadn't fallen out with the whole enterprise: he agreed to stay on as its treasurer until the next general meeting.
+A week later, on 8 December, Campbell announced that Blackheath was leaving the Football Association. Yet he agreed to stay on as its treasurer until the next general meeting. Whatever he thought of the decision, he was prepared to continue serving an association whose rules he rejected.
 
 **The Football Association had agreed on its rules. By January 1864, it had just nine member clubs left.**
 
