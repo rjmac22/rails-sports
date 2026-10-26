@@ -279,7 +279,7 @@ Sometimes an agreement wasn't worth making. Blackheath preferred to leave the Fo
 
 But circumstances changed. The FA Cup gave clubs another reason to adopt common rules. The World Cup gave national associations another reason to cooperate with FIFA. As the opportunities changed, so did the attractions of reaching an agreement.
 
-And even when footballers agreed on the rules, another question remained: who would decide when those rules should change?
+Agreeing on common rules solved one problem. Deciding who could change them was another.
 
 By 1958, the British associations and FIFA had agreed on a system in which neither could change the rules without the other's support.
 
