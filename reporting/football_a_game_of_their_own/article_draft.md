@@ -271,8 +271,6 @@ The compromise gave FIFA a say in changing the rules, but the voting arrangement
 
 With all ten representatives present, eight votes were needed. The four British associations held exactly eight between them. They could pass changes without FIFA's agreement; FIFA couldn't pass anything without substantial British support.
 
-FIFA had gained representation, but the British associations had retained control.
-
 Could FIFA simply have taken charge of the laws itself? At its congress in Copenhagen later in 1913, Germany's Robert Hefner proposed making FIFA the unrestricted governing body for international football — effectively replacing IFAB.
 
 **He found himself in a minority of one.**
