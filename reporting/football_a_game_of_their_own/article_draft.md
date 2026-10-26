@@ -287,7 +287,7 @@ The minutes don't explain why the Irish FA proposed FIFA's removal. But the deci
 
 In December 1923, representatives of FIFA and the four associations met in London and agreed conditions for their return. When the four associations rejoined FIFA in 1924, FIFA returned to IFAB too. The agreement preserved the four-fifths voting requirement for changing football's laws and protected each association's control of its internal affairs.
 
-### They leave FIFA again, but keep working together (1928–1946)
+### The British associations leave FIFA — but keep making the rules together (1928–1946)
 
 The return to FIFA didn't last. In 1928, the four British associations withdrew again, this time over payments to amateur players for wages lost while representing their countries. But unlike in 1920, they didn't remove FIFA from IFAB. The organisations continued meeting to agree football's rules despite being unable to agree on how the sport should be administered. The British associations remained outside FIFA until 1946.
 
