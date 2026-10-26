@@ -39,7 +39,7 @@ They began inviting outsiders to play and eventually established a formal club f
 
 ### Why play against other clubs?
 
-Sheffield FC was founded in 1857. For the next three years, its members mostly played among themselves, dividing into different teams to keep the matches interesting. They occasionally played against soldiers stationed nearby, but had no other local football club to play regularly.
+Sheffield FC was founded in 1857. For the next three years, its members mostly played one another, dividing into teams to keep the matches interesting. They occasionally played against soldiers stationed nearby, but had no other local football club to play regularly.
 
 In 1860, one of its members, John Charles Shaw, decided to do something about that. He helped establish Hallam FC, giving Sheffield another club to play against.
 
