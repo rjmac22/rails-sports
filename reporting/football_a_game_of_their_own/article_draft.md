@@ -223,7 +223,7 @@ The English FA wasn't helping matters. It had begun calling itself the “Nation
 
 ## The 1882 negotiations
 
-By 1882, the disagreement was threatening the England–Scotland fixture itself. The Scottish FA had rejected further proposals to change its rules and decided it wouldn't play England again unless the entire match used the Scottish code.
+By 1882, disagreements over the playing rules were threatening the England–Scotland fixture itself. The Scottish FA had rejected further proposals to change its rules and decided it wouldn't play England again unless the entire match used the Scottish code.
 
 The English FA invited Scotland to a conference to settle the differences. The Scots refused. England responded by refusing to arrange the next international until the Scottish FA agreed to send representatives.
 
