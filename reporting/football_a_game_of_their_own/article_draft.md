@@ -267,7 +267,9 @@ There was also the question of control. England, Scotland, Wales and Ireland had
 
 Despite the unanimous rejection, the matter wasn't settled. Correspondence continued, and in February 1913 the four British associations met again to consider FIFA's admission. This time, the English FA proposed allowing two FIFA representatives onto the Board. The associations couldn't reach an agreement, but further discussions followed. In April, all four finally accepted the proposal.
 
-The compromise gave FIFA a say in changing the rules without surrendering British control. Each of the five bodies represented on the Board, including FIFA, could send two representatives. Changing the laws required a four-fifths majority of representatives present and voting. With all ten present, eight votes were needed. Between them, the four British associations held exactly eight. They could therefore change the rules without FIFA's agreement, while FIFA couldn't change anything without substantial British support.
+The compromise gave FIFA a say in changing the rules, but the voting arrangements preserved British control. FIFA and each of the four British associations could send two representatives. Changing the laws required four-fifths of those present and voting.
+
+With all ten representatives present, eight votes were needed. The four British associations held exactly eight between them. They could pass changes without FIFA's agreement; FIFA couldn't pass anything without substantial British support.
 
 FIFA had gained representation, but the British associations had retained control.
 
