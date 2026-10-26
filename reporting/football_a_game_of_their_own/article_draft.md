@@ -304,8 +304,6 @@ But the arrangement meant neither side could impose a change alone.
 
 Today IFAB — the four associations and FIFA together — calls itself the “independent guardians of the Laws of the Game”. Its own guidance says the game should be played and refereed the same way everywhere, “from the FIFA World Cup™ final to the smallest village”. That is how far the argument has travelled: from clubs struggling to find people to play, to a body concerned with how football is played in villages around the world.
 
-## The same argument, again and again
-
 Sometimes an agreement wasn't worth making. Blackheath preferred to leave the Football Association rather than abandon the game its members enjoyed. Eton and Westminster tried compromise rules, but one contemporary critic complained that neither side could play to its strengths.
 
 But circumstances changed. The FA Cup gave clubs another reason to adopt common rules. The World Cup gave national associations another reason to cooperate with FIFA. As the opportunities changed, so did the attractions of reaching an agreement.
