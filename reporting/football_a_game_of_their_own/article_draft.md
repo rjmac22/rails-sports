@@ -271,7 +271,7 @@ The four associations hadn't given up their place at the table. They'd given up 
 
 ## The same argument, again and again
 
-The same argument had followed football almost from the beginning.
+The disagreements had changed, but the problem remained: how could footballers agree on one game without giving somebody else complete control over it?
 
 Schools developed their own games, but clubs weren't obliged to adopt their rules. Sheffield welcomed the idea of common laws, but didn't want the Football Association deciding how its football should be played. Scotland wanted to play England, but wasn't prepared to let the English FA make the rules on its behalf. And when football spread around the world, FIFA had to negotiate with four separate British associations, each with a say in changing the game's laws.
 
