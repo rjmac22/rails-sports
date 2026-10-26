@@ -44,8 +44,6 @@ In 1860, one of its members, John Charles Shaw, decided to do something about th
 
 The two clubs met at Hallam's Sandygate ground on Boxing Day 1860. The match had been advertised as sixteen-a-side, but severe weather kept several players away. Sheffield played with fewer men than Hallam and still won 2–0. They played under the local Sheffield rules.
 
-Writing in 1907, nearly fifty years after the match, Shaw remembered the games between Sheffield and Hallam as particularly enjoyable.
-
 Other clubs appeared in the area. By 1862, eleven teams were active around Sheffield, playing under local rules. It was a network effect: a new club had potential opponents to play, while the existing clubs gained another. The more clubs there were, the more attractive it became to start one.
 
 ## Part 2 — Agreeing on a game
