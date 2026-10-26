@@ -279,7 +279,7 @@ Could FIFA simply have taken charge of the laws itself? At its congress in Copen
 
 France's Henri Delaunay thought the proposal ill-timed, while Austria's Hugo Meisl said he wouldn't want FIFA to make the laws even if England offered. Instead, the congress unanimously recognised IFAB as the body responsible for the Laws of the Game.
 
-### FIFA is expelled and readmitted (1920–1924)
+### FIFA loses its seat on IFAB — then gets it back (1920–1924)
 
 The compromise didn't mean the arguments were over. In 1920, the four British associations withdrew from FIFA over whether countries should play those they had fought in the First World War. But they went further. At IFAB's next meeting, the Irish FA proposed removing FIFA from the Board altogether. The four associations unanimously agreed, rewriting the Board's constitution to exclude FIFA and requiring unanimous agreement for changes to the Laws of the Game.
 
