@@ -193,6 +193,8 @@ There was one thing they couldn't decide in a committee meeting: **whether enoug
 
 One reason to play the FA's game arrived in 1871: the FA Cup. Clubs now had a competition to enter, provided they played under FA rules. Sheffield FC entered in 1873, even though it still played its local matches under Sheffield rules.
 
+## The 1877 Sheffield–FA negotiations
+
 In February 1877, Manchester travelled to Sheffield and got thrashed 14–0. Reports afterwards suggested the visitors hadn't properly understood Sheffield's offside rules. Their captain, Stuart G. Smith, had had enough. He wrote to *The Field* calling for one set of football rules, rather than clubs having to play a different game depending on where they travelled.
 
 Sheffield and the Football Association had been arguing over their rules for years. Among the sticking points was what happened when the ball went out of play. Sheffield preferred kicking it back onto the field; the FA insisted on throwing it. Clydesdale, a Glasgow club that also belonged to the English FA, proposed a compromise: keep the throw-in, but allow players to throw the ball in any direction. Sheffield was prepared to accept it. The FA voted it down.
@@ -200,6 +202,8 @@ Sheffield and the Football Association had been arguing over their rules for yea
 The decision caused an outcry among supporters of common rules. One correspondent to *The Sportsman* argued that the meeting hadn't represented the views of footballers generally, and called for another vote.
 
 The FA reconsidered in April. This time the compromise passed by 33 votes to 10. Sheffield agreed to adopt the revised FA rules the following week.
+
+## Scotland enters the argument (1870–1877)
 
 But that didn't mean everyone was now playing the same game. The Scottish Football Association had its own objections, and it wasn't about to accept London's decisions simply because Sheffield had.
 
@@ -215,11 +219,15 @@ England and Scotland had been playing international matches since 1872. But if t
 
 The English FA wasn't helping matters. It had begun calling itself the “National Football Association”. Donald Hamilton, a former vice-president of the Scottish FA, publicly criticised the name. Scotland already had an association of its own, and the English FA couldn't simply claim to speak for everyone.
 
+## The 1882 negotiations
+
 By 1882, the disagreement was threatening the England–Scotland fixture itself. The Scottish FA had rejected further proposals to change its rules and decided it wouldn't play England again unless the entire match used the Scottish code.
 
 The English FA invited Scotland to a conference to settle the differences. The Scots refused. England responded by refusing to arrange the next international until the Scottish FA agreed to send representatives.
 
 Eventually, Scotland agreed to negotiate. On 6 December 1882, representatives of England, Scotland, Wales and Ireland met in Manchester and agreed on a common set of rules. The resulting changes included the two-handed throw-in that footballers still use today.
+
+## Professionalism and the creation of IFAB (1885–1886)
 
 In 1885, the English FA legalised professional footballers, something the Scottish FA opposed. Scotland refused to play England if its team included professionals. The following February, a conference was arranged to discuss whether all four associations should allow professionals and, if not, how they could continue playing one another. England objected to the proposed agenda and didn't attend.
 
@@ -230,6 +238,8 @@ England eventually accepted most of the proposals. Scotland agreed to play again
 On 27 March 1886, England and Scotland met again. The match finished 1–1.
 
 On 2 June 1886, representatives of all four associations met in London and established the International Football Association Board (IFAB). Each association had an equal say in deciding changes to the Laws of the Game.
+
+## FIFA challenges British control (1904–1913)
 
 As football spread beyond Britain, associations in continental Europe wanted to organise international matches under common rules. In 1904, seven countries established FIFA. The English FA had been invited to participate, but couldn't see the advantage of another federation, so the others went ahead without it. England joined in 1905, followed by Scotland, Wales and Ireland in 1910.
 
@@ -253,17 +263,23 @@ Could FIFA simply have taken charge of the laws itself? Someone at FIFA had aske
 
 FIFA hadn't simply overlooked the possibility of taking control. Its delegates had considered it and chosen to recognise IFAB instead.
 
+## FIFA is expelled and readmitted (1920–1924)
+
 The compromise didn't mean the arguments were over. In 1920, the four British associations withdrew from FIFA over whether countries should play those they had fought in the First World War. But they went further. At IFAB's next meeting, the Irish FA proposed removing FIFA from the Board altogether. The four associations unanimously agreed, rewriting the Board's constitution to exclude FIFA and requiring unanimous agreement for changes to the Laws of the Game.
 
 The minutes don't explain why the Irish FA proposed FIFA's removal. But the decision had two consequences: FIFA lost its say, and with all four associations represented, none of them could be outvoted on changes to the laws. They had agreed to make decisions together on terms that protected each association's independence.
 
 When the four associations rejoined FIFA in 1924, FIFA returned to IFAB too. The agreement preserved the four-fifths voting requirement for changing football's laws and protected each association's control of its internal affairs.
 
+## They leave FIFA again, but keep working together (1928–1946)
+
 The reconciliation didn't last. In 1928, the four British associations withdrew from FIFA again, this time over payments to amateur players for wages lost while representing their countries. But unlike in 1920, they didn't remove FIFA from IFAB. The organisations continued meeting to agree football's rules despite being unable to agree on how the sport should be administered. The British associations remained outside FIFA until 1946.
 
 Meanwhile, FIFA was establishing its authority in another way. In 1930, it organised the first World Cup, giving national associations a competition worth joining. The four British associations had withdrawn from FIFA two years earlier, but England nevertheless received an invitation. None of the four British teams participated in the World Cups of 1930, 1934 or 1938. The competition went ahead without them.
 
 By the end of the Second World War, the English FA was reconsidering its relationship with FIFA. In 1944, a report presented by its secretary, Stanley Rous, proposed considering a return to FIFA, wider representation on IFAB, or both. Talks followed in London in April 1946, and the four associations rejoined FIFA that year. But IFAB's voting arrangements stayed as they were: the four British associations could still change the Laws of the Game without FIFA's agreement.
+
+## The 1958 settlement
 
 The voting balance finally changed in 1958. By then, football had become a worldwide game, and FIFA proposed increasing its voting power on IFAB. At a meeting in Stockholm on 7 June, the day before the World Cup began, the proposal was unanimously adopted. Each of the four British associations would now have one vote, while FIFA would have four. Changing the laws required six of the eight votes, meaning the associations could no longer act together without FIFA's agreement. But FIFA couldn't impose changes either. It needed the support of at least two of the four associations.
 
