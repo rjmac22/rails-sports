@@ -53,7 +53,7 @@ By 1862, eleven teams were active around Sheffield, playing under local rules. I
 
 The clubs around Sheffield played under broadly similar rules. But elsewhere, footballers had very different ideas about how the game should be played.
 
-Across Britain, football was played under different rules. What players could do with the ball, how they challenged opponents and how they scored depended on the game they had learned.
+What players could do with the ball, how they challenged opponents and how they scored depended on the game they had learned.
 
 At Cambridge, students who had learned different versions of football tried to agree on a set of rules they could all play under. They had been attempting this since at least the 1840s, and a set of rules from around 1856 still survives.
 
