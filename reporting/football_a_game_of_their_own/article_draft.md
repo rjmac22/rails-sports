@@ -260,7 +260,7 @@ In 1911, German representatives proposed that FIFA should eventually take respon
 
 In 1912, FIFA asked for representation on the International Football Association Board. Why should four British associations have the only say over the rules of a game now being played far beyond Britain? But the four associations discussed the proposal and unanimously rejected it. The minutes record only that the time wasn't right, without explaining why.
 
-One possibility is that the British associations didn't consider FIFA sufficiently experienced. They had been making and revising football's rules for decades, while FIFA was only eight years old. They certainly expressed that attitude later. In 1928, during a separate dispute over amateurism, they argued that most FIFA members were relatively new organisations and therefore lacked the knowledge that only experience could bring.
+One possibility is that FIFA's relative inexperience counted against it. The four British associations had been making and revising football's rules for decades, while FIFA was only eight years old. The 1912 minutes don't establish whether this influenced their decision. But in 1928, during a separate dispute over amateurism, the associations argued that most FIFA members were relatively new organisations and lacked the knowledge that experience could bring.
 
 There was also the question of control. England, Scotland, Wales and Ireland had each held a say in football's laws through IFAB for more than 25 years. Admitting FIFA would give another organisation a voice in decisions previously reserved to them. Historian Peter J. Beck argues that the associations increasingly saw FIFA as a potential threat to their position.
 
