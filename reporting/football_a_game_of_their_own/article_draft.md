@@ -282,7 +282,7 @@ The compromise didn't mean the arguments were over. In 1920, the four British as
 
 The minutes don't explain why the Irish FA proposed FIFA's removal. But the decision had two consequences: FIFA lost its say, and with all four associations represented, none of them could be outvoted on changes to the laws. They had agreed to make decisions together on terms that protected each association's independence.
 
-In December 1923, representatives of FIFA and the four associations met in London and agreed conditions for their return. When the four associations rejoined FIFA in 1924, FIFA returned to IFAB too. The agreement preserved the four-fifths voting requirement for changing football's laws and protected each association's control of its internal affairs.
+In December 1923, representatives of FIFA and the four associations met in London and agreed on the terms of their return. In 1924, the four associations rejoined FIFA, while FIFA regained its seat on IFAB. The agreement preserved the four-fifths voting requirement for changing football's laws and protected each association's control of its internal affairs.
 
 ### The British associations leave FIFA — but keep making the rules together (1928–1946)
 
