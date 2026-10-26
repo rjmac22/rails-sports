@@ -307,10 +307,6 @@ But the arrangement meant neither side could impose a change alone. Today IFAB â
 
 ## The same argument, again and again
 
-The disagreements had changed, but the problem remained: how could footballers agree on one game without giving somebody else complete control over it?
-
-Schools developed their own games, but clubs weren't obliged to adopt their rules. Sheffield welcomed the idea of common laws, but didn't want the Football Association deciding how its football should be played. Scotland wanted to play England, but wasn't prepared to let the English FA make the rules on its behalf. And when football spread around the world, FIFA had to negotiate with four separate British associations, each with a say in changing the game's laws.
-
 Sometimes an agreement wasn't worth making. Blackheath preferred to leave the Football Association rather than abandon the game its members enjoyed. Eton and Westminster tried compromise rules, but one contemporary critic complained that neither side could play to its strengths.
 
 But circumstances changed. The FA Cup gave clubs another reason to adopt common rules. The World Cup gave national associations another reason to cooperate with FIFA. As the opportunities changed, so did the attractions of reaching an agreement.
