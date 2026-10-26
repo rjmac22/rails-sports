@@ -303,7 +303,9 @@ Each of the four British associations would now have one vote; FIFA would have f
 
 The British associations had lost the power to act without FIFA, but retained the power to prevent FIFA acting alone. With all eight votes represented, just three of the four associations could block a change, even if FIFA and the fourth supported it. Perhaps they saw that remaining influence as a safeguard against FIFA taking sole control of the laws. The minutes don't tell us whether that was their reasoning.
 
-But the arrangement meant neither side could impose a change alone. Today IFAB — the four associations and FIFA together — calls itself the “independent guardians of the Laws of the Game”. Its own guidance says the game should be played and refereed the same way everywhere, “from the FIFA World Cup™ final to the smallest village”. That is how far the argument has travelled: from clubs struggling to find people to play, to a body concerned with how football is played in villages around the world.
+But the arrangement meant neither side could impose a change alone.
+
+Today IFAB — the four associations and FIFA together — calls itself the “independent guardians of the Laws of the Game”. Its own guidance says the game should be played and refereed the same way everywhere, “from the FIFA World Cup™ final to the smallest village”. That is how far the argument has travelled: from clubs struggling to find people to play, to a body concerned with how football is played in villages around the world.
 
 ## The same argument, again and again
 
