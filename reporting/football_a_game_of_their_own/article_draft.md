@@ -273,9 +273,11 @@ With all ten representatives present, eight votes were needed. The four British 
 
 FIFA had gained representation, but the British associations had retained control.
 
-Could FIFA simply have taken charge of the laws itself? Someone at FIFA had asked much the same question. At its congress in Copenhagen later in 1913, Germany's Robert Hefner proposed making FIFA the unrestricted governing body for international football — effectively replacing IFAB. He found himself in a minority of one. France's Henri Delaunay thought the proposal ill-timed, while Austria's Hugo Meisl said he wouldn't want FIFA to make the laws even if England offered. Instead, the congress unanimously recognised IFAB as the body responsible for the Laws of the Game.
+Could FIFA simply have taken charge of the laws itself? At its congress in Copenhagen later in 1913, Germany's Robert Hefner proposed making FIFA the unrestricted governing body for international football — effectively replacing IFAB.
 
-FIFA hadn't simply overlooked the possibility of taking control. Its delegates had considered it and chosen to recognise IFAB instead.
+**He found himself in a minority of one.**
+
+France's Henri Delaunay thought the proposal ill-timed, while Austria's Hugo Meisl said he wouldn't want FIFA to make the laws even if England offered. Instead, the congress unanimously recognised IFAB as the body responsible for the Laws of the Game.
 
 ### FIFA is expelled and readmitted (1920–1924)
 
