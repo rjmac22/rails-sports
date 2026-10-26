@@ -33,7 +33,7 @@ But when several leading members retired from business and moved away, the Gymna
 
 The Surrey organisers wanted to revive the game. They agreed rules for a football club, set a five-shilling subscription to cover equipment and arranged games on Wednesdays and Saturdays throughout the winter.
 
-In the late 1850s, former pupils of Blackheath Proprietary School wanted to keep playing their old school's version of football. Initially, they organised informal games among themselves, but regularly struggled to get enough former pupils to make up the teams.
+In the late 1850s, former pupils of Blackheath Proprietary School wanted to keep playing their old school's version of football. At first, they played among themselves, but often struggled to find enough players to make up the teams.
 
 They began inviting outsiders to play and eventually established a formal club for the 1862–63 season.
 
