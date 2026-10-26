@@ -307,8 +307,8 @@ Sometimes an agreement wasn't worth making. Blackheath preferred to leave the Fo
 
 But circumstances changed. The FA Cup gave clubs another reason to adopt common rules. The World Cup gave national associations another reason to cooperate with FIFA. As the opportunities changed, so did the attractions of reaching an agreement.
 
+Football didn't arrive at common rules because somebody discovered the correct way to play. Its players and administrators made a succession of choices about what they wanted, what they were willing to give up, and whether playing together was worth the compromise.
+
 Agreeing on common rules solved one problem. Deciding who could change them was another.
 
 By 1958, they had even agreed on how to disagree: neither FIFA nor the four British associations could change the laws alone.
-
-Football didn't arrive at common rules because somebody discovered the correct way to play. Its players and administrators made a succession of choices about what they wanted, what they were willing to give up, and whether playing together was worth the compromise.
