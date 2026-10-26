@@ -275,7 +275,7 @@ When the four associations rejoined FIFA in 1924, FIFA returned to IFAB too. The
 
 ## They leave FIFA again, but keep working together (1928–1946)
 
-The reconciliation didn't last. In 1928, the four British associations withdrew from FIFA again, this time over payments to amateur players for wages lost while representing their countries. But unlike in 1920, they didn't remove FIFA from IFAB. The organisations continued meeting to agree football's rules despite being unable to agree on how the sport should be administered. The British associations remained outside FIFA until 1946.
+The return to FIFA didn't last. In 1928, the four British associations withdrew again, this time over payments to amateur players for wages lost while representing their countries. But unlike in 1920, they didn't remove FIFA from IFAB. The organisations continued meeting to agree football's rules despite being unable to agree on how the sport should be administered. The British associations remained outside FIFA until 1946.
 
 Meanwhile, FIFA was establishing its authority in another way. In 1930, it organised the first World Cup, giving national associations a competition worth joining. The four British associations had withdrawn from FIFA two years earlier, but England nevertheless received an invitation. None of the four British teams participated in the World Cups of 1930, 1934 or 1938. The competition went ahead without them.
 
