@@ -1,8 +1,8 @@
 <!--
 DRAFT 3 — WORKING COPY (25 October 2026)
 Baseline: article_draft_v2_complete.md (locked and unchanged).
-This is the active editorial copy. The article prose is initially identical
-to Draft 2; changes to prose require Rob's approval.
+This is the active editorial copy, revised from Draft 2 through agreed edits.
+Draft 2 remains locked and unchanged.
 Agreed editorial question: how different versions of football came together
 to become one game. Politics, negotiations, changing incentives and control
 over rules belong to the explanation, not a catalogue of standardisation.
@@ -22,7 +22,7 @@ It was hard enough to get a football club going. Then you had to find somebody w
 
 ### Why establish a football club?
 
-Sporting clubs and societies had existed in Britain for generations, football among the games they organised. Some lasted for decades; others came and went. You know what I mean, the enthusiastic organiser gets busy with something else, people move away, somewhere to play becomes unavailable. The subscription goes up, travelling becomes expensive, somebody loses their job, or they simply decide the money would be better spent elsewhere. This was long before professional football leagues and careers. Keeping a club going depended on people having the time, money and enthusiasm to do it.
+Sporting clubs and societies had existed in Britain for generations, football among the games they organised. Some lasted for decades; others came and went. You know what I mean: the enthusiastic organiser gets busy with something else, people move away, somewhere to play becomes unavailable. The subscription goes up, travelling becomes expensive, somebody loses their job, or they simply decide the money would be better spent elsewhere. This was long before professional football leagues and careers. Keeping a club going depended on people having the time, money and enthusiasm to do it.
 
 In October 1849, members of several Surrey cricket clubs gathered at the Oval to organise football for the winter. During the meeting, the chairman recalled an earlier sporting organisation that had disappeared.
 
@@ -46,19 +46,15 @@ The two clubs met at Hallam's Sandygate ground on Boxing Day 1860. The match had
 
 Writing in 1907, nearly fifty years after the match, Shaw remembered the games between Sheffield and Hallam as particularly enjoyable.
 
-Other clubs appeared in the area. By 1862, eleven teams were active around Sheffield, playing under local rules. It was a network effect: a new club had potential opponents to play, while the existing clubs gained another. The more clubs there were, the more attractive it became to start one.
+Other clubs appeared in the area. By 1862, eleven teams were active around Sheffield, playing under local rules. Each new club offered existing teams another opponent, while gaining potential opponents of its own.
 
 ## Part 2 — Agreeing on a game
 
 ### Whose rules are we playing?
 
-The clubs around Sheffield played under broadly similar rules. But elsewhere, footballers had very different ideas about how the game should be played.
-
-Across Britain, football was played under different rules. What players could do with the ball, how they challenged opponents and how they scored depended on the game they had learned.
+The clubs around Sheffield played under broadly similar rules. Elsewhere, what players could do with the ball, how they challenged opponents and how they scored depended on the game they had learned.
 
 At Cambridge, students who had learned different versions of football tried to agree on a set of rules they could all play under. They had been attempting this since at least the 1840s, and a set of rules from around 1856 still survives.
-
-But agreeing on a common game was not always straightforward.
 
 In December 1858, a reader calling himself *Juvenis* wrote to *Bell's Life in London*. He argued that it would be much easier for schools to arrange matches against one another if they could agree on the rules.
 
@@ -92,11 +88,9 @@ A week later, on 8 December, Campbell announced that Blackheath was leaving the 
 
 Blackheath hadn't stopped playing football. It just didn't want to play the FA's version. What happened to its game is another story.
 
-<!-- EDITORIAL REMINDER: Before subediting the next section, return to Study 22 notebook 'Editorial return point — how could common rules spread without a national association?' Discuss MCC's published cricket laws as a potential voluntary-adoption model, school/university leadership, and the difference between adopting rules and joining an association. This is a testable comparison, not settled universal intent. -->
-
 ## Part 3 — Making common rules work
 
-### Why establish common rules?
+### Why join the FA at all?
 
 Joining the Football Association was one thing. Playing by its rules was another.
 
@@ -124,9 +118,9 @@ He still expected them to use the FA's rules, because that would make arranging 
 
 On 8 December, the association finally approved its first playing code. Eleven days later, Richmond played Barnes under the new rules. The match finished 0–0.
 
-Lincoln gave the FA's rules a try, but by October 1864 its members were considering abandoning them. They wanted, in their words, “a more animated and plucky game”, and appointed a committee to draw up rules of their own.
+In February 1864, Louth's members voted to adopt a common set of rules, but with a couple of changes of their own.
 
-Louth took a different approach. In February 1864, its members voted to adopt a common set of rules, but with a couple of changes of their own.
+Lincoln gave the FA's rules a try, but by October its members were considering abandoning them. They wanted, in their words, “a more animated and plucky game”, and appointed a committee to draw up rules of their own.
 
 When the Football Association was founded in 1863, it hadn't settled how football should be played. It had simply agreed on a version that some clubs were willing to play.
 
@@ -134,7 +128,7 @@ There was one thing they couldn't decide in a committee meeting: **whether enoug
 
 One reason to play the FA's game arrived in 1871: the FA Cup. Clubs now had a competition to enter, provided they played under FA rules. Sheffield FC entered in 1873, even though it still played its local matches under Sheffield rules.
 
-### The 1877 Sheffield–FA negotiations
+### A 14–0 defeat and the throw-in dispute
 
 In February 1877, Manchester travelled to Sheffield and got thrashed 14–0. Reports afterwards suggested the visitors hadn't properly understood Sheffield's offside rules. Their captain, Stuart G. Smith, had had enough. He wrote to *The Field* calling for one set of football rules, rather than clubs having to play a different game depending on where they travelled.
 
@@ -144,9 +138,9 @@ The decision caused an outcry among supporters of common rules. One corresponden
 
 The FA reconsidered in April. This time the compromise passed by 33 votes to 10. Sheffield agreed to adopt the revised FA rules the following week.
 
-### Scotland enters the argument (1870–1877)
+### Scotland wants a say (1870–1877)
 
-But that didn't mean everyone was now playing the same game. The Scottish Football Association had its own objections, and it wasn't about to accept London's decisions simply because Sheffield had.
+Sheffield wasn't the only place where clubs had to negotiate with the FA. In Scotland, a separate disagreement had been developing.
 
 Queen's Park, founded in Glasgow in 1867, had joined the English FA in 1870 and was encouraging other Scottish clubs to play under its rules. In November 1872, it organised Scotland's first official international against England and supplied all eleven Scottish players. The match finished 0–0. Scotland didn't even have its own football association yet.
 
@@ -160,7 +154,7 @@ England and Scotland had been playing international matches since 1872. But if t
 
 The English FA wasn't helping matters. It had begun calling itself the “National Football Association”. Donald Hamilton, a former vice-president of the Scottish FA, publicly criticised the name. Scotland already had an association of its own, and the English FA couldn't simply claim to speak for everyone.
 
-### The 1882 negotiations
+### Whose rules for England–Scotland?
 
 By 1882, disagreements over the playing rules were threatening the England–Scotland fixture itself. The Scottish FA had rejected further proposals to change its rules and decided it wouldn't play England again unless the entire match used the Scottish code.
 
@@ -168,7 +162,7 @@ The English FA invited Scotland to a conference to settle the differences. The S
 
 Eventually, Scotland agreed to negotiate. On 6 December 1882, representatives of England, Scotland, Wales and Ireland met in Manchester and agreed on a common set of rules. The resulting changes included the two-handed throw-in that footballers still use today.
 
-### Professionalism and the creation of IFAB (1885–1886)
+### From a dispute over professionals to IFAB (1885–1886)
 
 In 1885, the English FA legalised professional footballers, something the Scottish FA opposed. Scotland refused to play England if its team included professionals. The following February, a conference was arranged to discuss whether all four associations should allow professionals and, if not, how they could continue playing one another. England objected to the proposed agenda and didn't attend.
 
@@ -190,7 +184,7 @@ FIFA adopted the existing Laws of the Game. But it had no say in changing them. 
 
 In 1911, German representatives proposed that FIFA should eventually take responsibility for the Laws of the Game. The English FA rejected the idea. FIFA gave each member association one vote, meaning the four British associations could be outvoted as more countries joined.
 
-In 1912, FIFA asked for representation on the International Football Association Board. It was a reasonable request. Why should four British associations have the only say over the rules of a game now being played far beyond Britain? But the four associations discussed the proposal and unanimously rejected it. The minutes record only that the time wasn't right, without explaining why.
+In 1912, FIFA asked for representation on the International Football Association Board. Why should four British associations have the only say over the rules of a game now being played far beyond Britain? But the four associations discussed the proposal and unanimously rejected it. The minutes record only that the time wasn't right, without explaining why.
 
 One possibility is that the British associations didn't consider FIFA sufficiently experienced. They had been making and revising football's rules for decades, while FIFA was only eight years old. They certainly expressed that attitude later. In 1928, during a separate dispute over amateurism, they argued that most FIFA members were relatively new organisations and therefore lacked the knowledge that only experience could bring.
 
@@ -198,17 +192,17 @@ There was also the question of control. England, Scotland, Wales and Ireland had
 
 Despite the unanimous rejection, the matter wasn't settled. Correspondence continued, and in February 1913 the four British associations met again to consider FIFA's admission. This time, the English FA proposed allowing two FIFA representatives onto the Board. The associations couldn't reach an agreement, but further discussions followed. In April, all four finally accepted the proposal.
 
-The compromise gave FIFA a say in changing the rules, but the voting arrangements preserved British control. FIFA and each of the four British associations could send two representatives. Changing the laws required four-fifths of those present and voting.
+The compromise gave FIFA a say in changing the rules. FIFA and each of the four British associations could send two representatives. Changing the laws required four-fifths of those present and voting.
 
 With all ten representatives present, eight votes were needed. The four British associations held exactly eight between them. They could pass changes without FIFA's agreement; FIFA couldn't pass anything without substantial British support.
 
 FIFA had gained representation, but the British associations had retained control.
 
-Could FIFA simply have taken charge of the laws itself? Someone at FIFA had asked much the same question. At its congress in Copenhagen later in 1913, Germany's Robert Hefner proposed making FIFA the unrestricted governing body for international football — effectively replacing IFAB. He found himself in a minority of one. France's Henri Delaunay thought the proposal ill-timed, while Austria's Hugo Meisl said he wouldn't want FIFA to make the laws even if England offered. Instead, the congress unanimously recognised IFAB as the body responsible for the Laws of the Game.
+Could FIFA simply have taken charge of the laws itself? At its congress in Copenhagen later in 1913, Germany's Robert Hefner proposed making FIFA the unrestricted governing body for international football — effectively replacing IFAB.
 
-FIFA hadn't simply overlooked the possibility of taking control. Its delegates had considered it and chosen to recognise IFAB instead.
+He found himself in a minority of one. France's Henri Delaunay thought the proposal ill-timed, while Austria's Hugo Meisl said he wouldn't want FIFA to make the laws even if England offered. Instead, the congress unanimously recognised IFAB as the body responsible for the Laws of the Game.
 
-### FIFA is expelled and readmitted (1920–1924)
+### FIFA is removed from IFAB — then returns (1920–1924)
 
 The compromise didn't mean the arguments were over. In 1920, the four British associations withdrew from FIFA over whether countries should play those they had fought in the First World War. But they went further. At IFAB's next meeting, the Irish FA proposed removing FIFA from the Board altogether. The four associations unanimously agreed, rewriting the Board's constitution to exclude FIFA and requiring unanimous agreement for changes to the Laws of the Game.
 
@@ -230,15 +224,13 @@ The voting balance finally changed in 1958. By then, football had become a world
 
 Each of the four British associations would have one vote; FIFA would have four. Changing the laws required six of the eight votes. The four associations could no longer change the laws without FIFA, while FIFA needed at least two associations to support any change.
 
-The British associations had lost the power to act without FIFA, but retained the power to prevent FIFA acting alone. In fact, with all eight votes represented, three of the four associations could block a change even if FIFA and the fourth supported it. Whether this was their intended safeguard is not recorded in the minutes. The arrangement nevertheless meant neither side could impose a change alone.
+The British associations had lost the power to act without FIFA, but retained the power to prevent FIFA acting alone. In fact, with all eight votes represented, three of the four associations could block a change even if FIFA and the fourth supported it. Whether this was their intended safeguard is not recorded in the minutes.
 
 Today IFAB — the four associations and FIFA together — calls itself the “independent guardians of the Laws of the Game”. Its own guidance says the game should be played and refereed the same way everywhere, “from the FIFA World Cup™ final to the smallest village”. That is how far the argument has travelled: from clubs struggling to find people to play, to a body concerned with how football is played in villages around the world.
 
 ## The same argument, again and again
 
-Schools, clubs and national associations could agree to play football together without agreeing to let somebody else decide how the game should be played. Sheffield challenged the FA's rules. Scotland resisted London's authority. Later, FIFA sought a voice in laws controlled by four British associations.
-
-Not every compromise was worth making. Blackheath left the FA rather than abandon its preferred game; a contemporary critic thought compromise rules prevented Eton and Westminster from playing to their strengths. But circumstances changed. The FA Cup gave clubs another reason to adopt common rules, just as the World Cup later gave associations another reason to cooperate with FIFA.
+Not every compromise was worth making. Blackheath left the FA rather than abandon its preferred game; one contemporary critic thought the compromise rules between Eton and Westminster prevented either side from playing to its strengths. But circumstances changed. The FA Cup gave clubs another reason to adopt common rules, just as the World Cup later gave associations another reason to cooperate with FIFA.
 
 Football didn't arrive at common rules because somebody discovered the correct way to play. Its players and administrators made choices about what mattered to them, what they could give up, and whether playing together was worth the compromise.
 
