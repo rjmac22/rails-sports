@@ -18,7 +18,9 @@ Fictional social-media box-out to be considered separately later.
 
 It was hard enough to get a football club going. Then you had to find somebody who wanted to play the same game.
 
-## Why establish a football club?
+## Part 1 — Finding people to play
+
+### Why establish a football club?
 
 Sporting clubs and societies had existed in Britain for generations, football among the games they organised. Some lasted for decades; others came and went. You know what I mean, the enthusiastic organiser gets busy with something else, people move away, somewhere to play becomes unavailable. The subscription goes up, travelling becomes expensive, somebody loses their job, or they simply decide the money would be better spent elsewhere. This was long before professional football leagues and careers. Keeping a club going depended on people having the time, money and enthusiasm to do it.
 
@@ -34,7 +36,7 @@ In the late 1850s, former pupils of Blackheath Proprietary School wanted to cont
 
 They began inviting outsiders to play and eventually established a formal club for the 1862–63 season.
 
-## Why play against other clubs?
+### Why play against other clubs?
 
 Sheffield FC was founded in 1857. For the next three years, its members mostly played among themselves, dividing into different teams to keep the matches interesting. They occasionally played against soldiers stationed nearby, but had no other local football club to play regularly.
 
@@ -46,7 +48,9 @@ Writing in 1907, nearly fifty years after the match, Shaw remembered the games b
 
 Other clubs appeared in the area. By 1862, eleven teams were active around Sheffield, playing under local rules. It was a network effect: a new club had potential opponents to play, while the existing clubs gained another. The more clubs there were, the more attractive it became to start one.
 
-## Whose rules are we playing?
+## Part 2 — Agreeing on a game
+
+### Whose rules are we playing?
 
 The clubs around Sheffield played under broadly similar rules. But elsewhere, footballers had very different ideas about how the game should be played.
 
@@ -66,7 +70,7 @@ Others joined the argument. A Winchester supporter claimed their rules were olde
 
 The argument continued into January 1859, until the editor refused to publish any more letters because the contributors had started insulting one another.
 
-### The Great Football Rules Argument, 1858–59
+#### The Great Football Rules Argument, 1858–59
 
 *An imaginary Facebook comments thread based on a real newspaper argument. The historical positions are paraphrased; the names, modern wording, extra commenters, modern-sport references and insults are invented. Not historical quotations.*
 
@@ -135,7 +139,7 @@ Right. That's enough. We're not publishing any more of this.
 
 *Comments have been turned off.*
 
-## What are you prepared to give up?
+### What are you prepared to give up?
 
 In October 1863, a reader calling himself *Etonensis* complained that Eton and Westminster had been playing matches under compromise rules for two years, but neither side could properly demonstrate its skills. Moves that worked under one school's rules were forbidden under the other's. The matches could go ahead, but according to *Etonensis*, the standard of football was poor.
 
@@ -159,7 +163,9 @@ Blackheath hadn't stopped playing football. It just didn't want to play the FA's
 
 <!-- EDITORIAL REMINDER: Before subediting the next section, return to Study 22 notebook 'Editorial return point — how could common rules spread without a national association?' Discuss MCC's published cricket laws as a potential voluntary-adoption model, school/university leadership, and the difference between adopting rules and joining an association. This is a testable comparison, not settled universal intent. -->
 
-## Why establish common rules?
+## Part 3 — Making common rules work
+
+### Why establish common rules?
 
 Joining the Football Association was one thing. Playing by its rules was another.
 
@@ -197,7 +203,7 @@ There was one thing they couldn't decide in a committee meeting: **whether enoug
 
 One reason to play the FA's game arrived in 1871: the FA Cup. Clubs now had a competition to enter, provided they played under FA rules. Sheffield FC entered in 1873, even though it still played its local matches under Sheffield rules.
 
-## The 1877 Sheffield–FA negotiations
+### The 1877 Sheffield–FA negotiations
 
 In February 1877, Manchester travelled to Sheffield and got thrashed 14–0. Reports afterwards suggested the visitors hadn't properly understood Sheffield's offside rules. Their captain, Stuart G. Smith, had had enough. He wrote to *The Field* calling for one set of football rules, rather than clubs having to play a different game depending on where they travelled.
 
@@ -207,7 +213,7 @@ The decision caused an outcry among supporters of common rules. One corresponden
 
 The FA reconsidered in April. This time the compromise passed by 33 votes to 10. Sheffield agreed to adopt the revised FA rules the following week.
 
-## Scotland enters the argument (1870–1877)
+### Scotland enters the argument (1870–1877)
 
 But that didn't mean everyone was now playing the same game. The Scottish Football Association had its own objections, and it wasn't about to accept London's decisions simply because Sheffield had.
 
@@ -223,7 +229,7 @@ England and Scotland had been playing international matches since 1872. But if t
 
 The English FA wasn't helping matters. It had begun calling itself the “National Football Association”. Donald Hamilton, a former vice-president of the Scottish FA, publicly criticised the name. Scotland already had an association of its own, and the English FA couldn't simply claim to speak for everyone.
 
-## The 1882 negotiations
+### The 1882 negotiations
 
 By 1882, disagreements over the playing rules were threatening the England–Scotland fixture itself. The Scottish FA had rejected further proposals to change its rules and decided it wouldn't play England again unless the entire match used the Scottish code.
 
@@ -231,7 +237,7 @@ The English FA invited Scotland to a conference to settle the differences. The S
 
 Eventually, Scotland agreed to negotiate. On 6 December 1882, representatives of England, Scotland, Wales and Ireland met in Manchester and agreed on a common set of rules. The resulting changes included the two-handed throw-in that footballers still use today.
 
-## Professionalism and the creation of IFAB (1885–1886)
+### Professionalism and the creation of IFAB (1885–1886)
 
 In 1885, the English FA legalised professional footballers, something the Scottish FA opposed. Scotland refused to play England if its team included professionals. The following February, a conference was arranged to discuss whether all four associations should allow professionals and, if not, how they could continue playing one another. England objected to the proposed agenda and didn't attend.
 
@@ -243,7 +249,9 @@ On 27 March 1886, England and Scotland met again. The match finished 1–1.
 
 On 2 June 1886, representatives of all four associations met in London and established the International Football Association Board (IFAB). Each association had an equal say in deciding changes to the Laws of the Game.
 
-## FIFA challenges British control (1904–1913)
+## Part 4 — Deciding who controls the rules
+
+### FIFA challenges British control (1904–1913)
 
 As football spread beyond Britain, associations in continental Europe wanted to organise international matches under common rules. In 1904, seven countries established FIFA. The English FA had been invited to participate, but couldn't see the advantage of another federation, so the others went ahead without it. England joined in 1905, followed by Scotland, Wales and Ireland in 1910.
 
@@ -267,7 +275,7 @@ Could FIFA simply have taken charge of the laws itself? Someone at FIFA had aske
 
 FIFA hadn't simply overlooked the possibility of taking control. Its delegates had considered it and chosen to recognise IFAB instead.
 
-## FIFA is expelled and readmitted (1920–1924)
+### FIFA is expelled and readmitted (1920–1924)
 
 The compromise didn't mean the arguments were over. In 1920, the four British associations withdrew from FIFA over whether countries should play those they had fought in the First World War. But they went further. At IFAB's next meeting, the Irish FA proposed removing FIFA from the Board altogether. The four associations unanimously agreed, rewriting the Board's constitution to exclude FIFA and requiring unanimous agreement for changes to the Laws of the Game.
 
@@ -275,7 +283,7 @@ The minutes don't explain why the Irish FA proposed FIFA's removal. But the deci
 
 In December 1923, representatives of FIFA and the four associations met in London and agreed conditions for their return. When the four associations rejoined FIFA in 1924, FIFA returned to IFAB too. The agreement preserved the four-fifths voting requirement for changing football's laws and protected each association's control of its internal affairs.
 
-## They leave FIFA again, but keep working together (1928–1946)
+### They leave FIFA again, but keep working together (1928–1946)
 
 The return to FIFA didn't last. In 1928, the four British associations withdrew again, this time over payments to amateur players for wages lost while representing their countries. But unlike in 1920, they didn't remove FIFA from IFAB. The organisations continued meeting to agree football's rules despite being unable to agree on how the sport should be administered. The British associations remained outside FIFA until 1946.
 
@@ -283,7 +291,7 @@ Meanwhile, FIFA was establishing its authority in another way. In 1930, it organ
 
 By the end of the Second World War, the English FA was reconsidering its relationship with FIFA. In 1944, a report presented by its secretary, Stanley Rous, proposed considering a return to FIFA, wider representation on IFAB, or both. Talks followed in London in April 1946, and the four associations rejoined FIFA that year. But IFAB's voting arrangements stayed as they were: the four British associations could still change the Laws of the Game without FIFA's agreement.
 
-## The 1958 settlement
+### The 1958 settlement
 
 The voting balance finally changed in 1958. By then, football had become a worldwide game, and FIFA proposed increasing its voting power on IFAB. At a meeting in Stockholm on 7 June, the day before the World Cup began, the proposal was unanimously adopted. Each of the four British associations would now have one vote, while FIFA would have four. Changing the laws required six of the eight votes, meaning the associations could no longer act together without FIFA's agreement. But FIFA couldn't impose changes either. It needed the support of at least two of the four associations.
 
