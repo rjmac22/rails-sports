@@ -229,7 +229,7 @@ England and Scotland had been playing international matches since 1872. But if t
 
 The English FA wasn't helping matters. It had begun calling itself the “National Football Association”. Donald Hamilton, a former vice-president of the Scottish FA, publicly criticised the name. Scotland already had an association of its own, and the English FA couldn't simply claim to speak for everyone.
 
-### The 1882 negotiations
+### Whose rules would England and Scotland play under?
 
 By 1882, disagreements over the playing rules were threatening the England–Scotland fixture itself. The Scottish FA had rejected further proposals to change its rules and decided it wouldn't play England again unless the entire match used the Scottish code.
 
