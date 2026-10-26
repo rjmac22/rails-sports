@@ -259,7 +259,7 @@ FIFA adopted the existing Laws of the Game. But it had no say in changing them. 
 
 In 1911, German representatives proposed that FIFA should eventually take responsibility for the Laws of the Game. The English FA rejected the idea. FIFA gave each member association one vote, meaning the four British associations could be outvoted as more countries joined.
 
-In 1912, FIFA asked for representation on the International Football Association Board. It was a reasonable request. Why should four British associations have the only say over the rules of a game now being played far beyond Britain? But the four associations discussed the proposal and unanimously rejected it. The minutes record only that the time wasn't right, without explaining why.
+In 1912, FIFA asked for representation on the International Football Association Board. Why should four British associations have the only say over the rules of a game now being played far beyond Britain? But the four associations discussed the proposal and unanimously rejected it. The minutes record only that the time wasn't right, without explaining why.
 
 One possibility is that the British associations didn't consider FIFA sufficiently experienced. They had been making and revising football's rules for decades, while FIFA was only eight years old. They certainly expressed that attitude later. In 1928, during a separate dispute over amateurism, they argued that most FIFA members were relatively new organisations and therefore lacked the knowledge that only experience could bring.
 
