@@ -11,7 +11,7 @@ whole-article assessment section by section.
 Tool 10: opening through 1863 FA dispute PASS (no big cuts); retain Sheffield,
 Richmond, Lincoln and Louth examples provisionally. Other club responses to be
 recorded in Study 22 notebook, with short-list option rather than new scenes.
-Fictional social-media box-out to be considered separately later.
+Fictional social-media box-out excluded from main article; preserved as optional extra in reporting/football_a_game_of_their_own/optional_facebook_boxout.md, to develop only if a commissioning editor is interested.
 -->
 
 # What Is a Game of Football?
@@ -69,75 +69,6 @@ A Rugby supporter immediately objected. Rugby had published its own rules, so wh
 Others joined the argument. A Winchester supporter claimed their rules were older than those of the other schools. An Etonian insisted his school's rules worked perfectly well for matches against university teams. Some even questioned why schools playing different games needed to compete against one another at all.
 
 The argument continued into January 1859, until the editor refused to publish any more letters because the contributors had started insulting one another.
-
-#### The Great Football Rules Argument, 1858–59
-
-*An imaginary Facebook comments thread based on a real newspaper argument. The historical positions are paraphrased; the names, modern wording, extra commenters, modern-sport references and insults are invented. Not historical quotations.*
-
-**Bell's Life in London · Admin**  
-Every school seems to play football by different rules. Surely we can agree on something?
-
-**Juvenis**  
-Exactly. How are we supposed to arrange matches if nobody plays the same game?
-
-**Bell's Life in London · Admin**  
-Eton have published their rules. Why don't the smaller schools just use those?
-
-**Floreat Rugbaea**  
-Rugby published ours too. Why the hell should we use Eton's? Get everyone together and agree something.
-
-**Winchester Old Boy**  
-Winchester's game is older than yours. Eton copied half of it anyway.
-
-**Floreat Etona**  
-We already play university teams under Eton rules. Works perfectly well.
-
-**Rugbiennsis**  
-What's wrong with hacking? It's part of Rugby football.
-
-**Red Jersey**  
-Under Rugby rules nobody ever scores. You'd still be playing the same match at Christmas.
-
-**TerraceTom**  
-Egg chasers. If you want to run around holding the ball, call it something else.
-
-**Rugbiennsis**  
-At least we don't fall over and cry every time somebody touches us.
-
-**FourthDownFred**  
-You should try American football. We have timeouts to discuss the next play. It's called strategy.
-
-**TerraceTom**  
-You need a committee meeting to move the ball ten yards. And you call that football?
-
-**FourthDownFred**  
-At least we know how to score.
-
-**George Pritchard**  
-Scored twice from free kicks on Saturday. One from miles out. Just saying.
-
-**Thomas Pike**  
-Nobody asked, George.
-
-**George Pritchard**  
-Only because you couldn't hit a barn door.
-
-**Once the Best Drop**  
-You all need to give something up. That's what a compromise is.
-
-**Floreat Etona**  
-Hard to compromise with people who think kicking someone in the shins counts as skill.
-
-**Floreat Rugbaea**  
-Better than being frightened of a bit of mud, you pompous ass.
-
-**Winchester Old Boy**  
-Neither of you knows how to play football. You barely know how to read.
-
-**Bell's Life in London · Admin**  
-Right. That's enough. We're not publishing any more of this.
-
-*Comments have been turned off.*
 
 ### What are you prepared to give up?
 
