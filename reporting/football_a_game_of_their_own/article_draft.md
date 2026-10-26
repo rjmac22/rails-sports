@@ -29,7 +29,7 @@ In October 1849, members of several Surrey cricket clubs gathered at the Oval to
 
 Some sixty years before, a group of men originally from Westmorland and Cumberland had established the Gymnastic Society in London. They organised wrestling and played football on Kennington Common. In 1789, twenty-two men from Westmorland faced twenty-two from Cumberland. Westmorland won.
 
-But when several leading members retired from business and moved away, the Gymnastic Society dissolved. Wrestling continued elsewhere, but football became increasingly difficult to organise as suitable places to play became unavailable.
+But when several leading members retired from business and moved away, the Gymnastic Society dissolved. Wrestling continued elsewhere, but football was harder to organise without suitable places to play.
 
 The Surrey organisers wanted to revive the game. They agreed rules for a football club, set a five-shilling subscription to cover equipment and arranged games on Wednesdays and Saturdays throughout the winter.
 
