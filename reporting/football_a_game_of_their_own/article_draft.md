@@ -281,6 +281,6 @@ But circumstances changed. The FA Cup gave clubs another reason to adopt common 
 
 Agreeing on common rules solved one problem. Deciding who could change them was another.
 
-By 1958, the British associations and FIFA had agreed on a system in which neither could change the rules without the other's support.
+By 1958, they had even agreed on how to disagree: neither FIFA nor the four British associations could change the laws alone.
 
 Football didn't arrive at common rules because somebody discovered the correct way to play. Its players and administrators made a succession of choices about what they wanted, what they were willing to give up, and whether playing together was worth the compromise.
