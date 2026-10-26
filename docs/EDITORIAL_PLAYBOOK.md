@@ -105,14 +105,15 @@ Presentation furniture remains provisional after body copy is locked: headline, 
 
 Use Roy Peter Clark's *Writing Tools: 55 Essential Strategies for Every Writer* as both an **in-depth writing course** and a **professional editorial review** of completed, evidence-checked drafts. This is a collaborative workshop, not an automatic rewrite or a one-sentence demonstration of each tool. The author should understand *why* a passage succeeds or fails, not merely receive replacement prose.
 
-**Work from big decisions to small ones.** Clark's numbered tools are not a mandatory editing chronology. For a completed manuscript, decide first whether whole passages deserve to remain before spending time polishing their sentences. Tool 10 ("Cut big, then small") therefore anchors the structural pass and returns during the final word-level pass.
+**Establish purpose before cutting; then work from big decisions to small ones.** Clark's numbered tools are not a mandatory editing chronology. Tool 40 (mission statement) should guide a new story from the drafting stage, and must be explicitly agreed before a structural cut pass on a completed manuscript. Tool 31 identifies the story's central question and narrative engine. Then Tool 10 ("Cut big, then small") tests whether whole passages earn their place, before later sentence polishing. Tool 10 returns for the final word-level cuts.
 
 ### Recommended order (all 55 tools)
 
-1. **Whole-article structure and story:** Start with **Tool 10 (big cuts)**, then examine **Tools 40, 31, 24–39 and 55**. Read the whole manuscript for its question, promise, argument, narrative progression, reader interest, pacing, evidence, consequences, repetition and unnecessary sections. Ask what each passage contributes before deciding to cut, move or preserve it.
-2. **Clarity, voice and effects:** Apply **Tools 11–23 and 51–54** to the agreed structure. Examine explanations, examples, imagery, humour, paragraphs, the intended reader's understanding and the author's conversational voice.
-3. **Sentence-level craft:** Work through **Tools 1–9**, then return to **Tool 10 (small cuts)**. Examine subjects and verbs, emphasis, word choice, rhythm, punctuation and economy. Remove surplus words without flattening voice or compressing away a necessary explanation.
-4. **Writer's working practices:** Consider **Tools 41–50** for reusable lessons about drafting, revision, habits and future article work. These may generate playbook or process improvements rather than edits to the current prose.
+1. **Purpose and reader promise:** Begin with **Tool 40**, agreeing on a story-specific mission that covers subject, intended reader, desired understanding and form/voice. Then apply **Tool 31** to articulate the central question that drives the whole story. Where these were established during reporting, make them explicit before cutting.
+2. **Whole-article structure and story:** Apply **Tool 10 (big cuts)** against the agreed purpose and question; then examine **Tools 24–39 (revisiting Tool 31 as needed) and 55**. Read the whole manuscript for narrative progression, reader interest, pacing, evidence, consequences, repetition and unnecessary sections. Ask what each passage contributes before deciding to cut, move or preserve it.
+3. **Clarity, voice and effects:** Apply **Tools 11–23 and 51–54** to the agreed structure. Examine explanations, examples, imagery, humour, paragraphs, the intended reader's understanding and the author's conversational voice.
+4. **Sentence-level craft:** Work through **Tools 1–9**, then return to **Tool 10 (small cuts)**. Examine subjects and verbs, emphasis, word choice, rhythm, punctuation and economy. Remove surplus words without flattening voice or compressing away a necessary explanation.
+5. **Writer's working practices:** Consider **Tools 41–50** for reusable lessons about drafting, revision, habits and future article work. Tool 40 is handled at the start; later reflection may refine its mission. These may generate playbook or process improvements rather than edits to the current prose.
 
 Some tools overlap or call for whole-article rather than local analysis. Cover each of the 55 thoughtfully; **do not manufacture 55 revisions**.
 
@@ -126,7 +127,7 @@ Some tools overlap or call for whole-article rather than local analysis. Cover e
 - **Protect the reporting.** A sharper sentence must not strengthen claims beyond the evidence, erase qualifications, introduce false causal links or distort a historical quotation. If a proposed revision raises a factual issue, check it against the source record.
 - **Finish and ship.** This is a bounded editorial process, not an excuse for endless polishing. Once decisions are made and the work is publication-ready, proceed to packaging, pitching or publication.
 
-**Example in use:** For the completed football-rules Draft 2 (25 October 2026), begin with Tool 10's *big-cut* test of the entire narrative, discussing each section's reason for being before proceeding to other structural tools. Later, for Tool 1, inspect all relevant sentences across the *entire* article, section by section—not just one example. The author approves any substantive alteration.
+**Example in use:** For the football-rules Draft 3 (26 October 2026), the first big-cut pass (Tool 10) happened before the mission statement (Tool 40) was written down. The author spotted the ordering mistake; the article's purpose had already been developed during research, but the mission should have been explicitly approved before cutting. For subsequent drafts, begin with Tools **40 → 31 → 10 (big cuts)**. Do not redo the accepted football structure mechanically; check it against the approved mission and then proceed to Tool 31. Later, for Tool 1, inspect all relevant sentences across the *entire* article, section by section—not just one example. The author approves any substantive alteration.
 
 ## Subediting sequence
 
