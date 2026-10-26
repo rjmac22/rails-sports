@@ -27,7 +27,7 @@ Sporting clubs and societies had organised games in Britain for generations, inc
 
 In October 1849, members of several Surrey cricket clubs gathered at the Oval to organise football for the winter. During the meeting, the chairman recalled an earlier sporting organisation that had disappeared.
 
-Some sixty years before, a group of men originally from Westmorland and Cumberland had established the Gymnastic Society in London. They organised wrestling and football, playing the latter on Kennington Common. In 1789, twenty-two men from Westmorland faced twenty-two from Cumberland. Westmorland won.
+Some sixty years before, a group of men originally from Westmorland and Cumberland had established the Gymnastic Society in London. They organised wrestling and played football on Kennington Common. In 1789, twenty-two men from Westmorland faced twenty-two from Cumberland. Westmorland won.
 
 But when several leading members retired from business and moved away, the Gymnastic Society dissolved. Wrestling continued elsewhere, but football became increasingly difficult to organise as suitable places to play became unavailable.
 
