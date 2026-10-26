@@ -280,7 +280,7 @@ France's Henri Delaunay thought the proposal ill-timed, while Austria's Hugo Mei
 
 The compromise didn't mean the arguments were over. In 1920, the four British associations withdrew from FIFA over whether countries should play those they had fought in the First World War. But they went further. At IFAB's next meeting, the Irish FA proposed removing FIFA from the Board altogether. The four associations unanimously agreed, rewriting the Board's constitution to exclude FIFA and requiring unanimous agreement for changes to the Laws of the Game.
 
-The minutes don't explain why the Irish FA proposed FIFA's removal. But the decision had two consequences: FIFA lost its say, and with all four associations represented, none of them could be outvoted on changes to the laws. They had agreed to make decisions together on terms that protected each association's independence.
+The minutes don't explain why the Irish FA proposed FIFA's removal. But the decision had two consequences: FIFA lost its say, and with all four associations represented, none of them could be outvoted on changes to the laws. The arrangement protected each association from being outvoted, whatever their reasons for adopting it.
 
 In December 1923, representatives of FIFA and the four associations met in London and agreed on the terms of their return. In 1924, the four associations rejoined FIFA, while FIFA regained its seat on IFAB. The agreement preserved the four-fifths voting requirement for changing football's laws and protected each association's control of its internal affairs.
 
