@@ -11,7 +11,7 @@ whole-article assessment section by section.
 Tool 10: opening through 1863 FA dispute PASS (no big cuts); retain Sheffield,
 Richmond, Lincoln and Louth examples provisionally. Other club responses to be
 recorded in Study 22 notebook, with short-list option rather than new scenes.
-Fictional social-media box-out to be considered separately later.
+Fictional social-media box-out removed from Draft 3 and preserved separately in optional_facebook_boxout.md.
 -->
 
 # What Is a Game of Football?
@@ -69,75 +69,6 @@ A Rugby supporter immediately objected. Rugby had published its own rules, so wh
 Others joined the argument. A Winchester supporter claimed their rules were older than those of the other schools. An Etonian insisted his school's rules worked perfectly well for matches against university teams. Some even questioned why schools playing different games needed to compete against one another at all.
 
 The argument continued into January 1859, until the editor refused to publish any more letters because the contributors had started insulting one another.
-
-#### The Great Football Rules Argument, 1858–59
-
-*An imaginary Facebook comments thread based on a real newspaper argument. The historical positions are paraphrased; the names, modern wording, extra commenters, modern-sport references and insults are invented. Not historical quotations.*
-
-**Bell's Life in London · Admin**  
-Every school seems to play football by different rules. Surely we can agree on something?
-
-**Juvenis**  
-Exactly. How are we supposed to arrange matches if nobody plays the same game?
-
-**Bell's Life in London · Admin**  
-Eton have published their rules. Why don't the smaller schools just use those?
-
-**Floreat Rugbaea**  
-Rugby published ours too. Why the hell should we use Eton's? Get everyone together and agree something.
-
-**Winchester Old Boy**  
-Winchester's game is older than yours. Eton copied half of it anyway.
-
-**Floreat Etona**  
-We already play university teams under Eton rules. Works perfectly well.
-
-**Rugbiennsis**  
-What's wrong with hacking? It's part of Rugby football.
-
-**Red Jersey**  
-Under Rugby rules nobody ever scores. You'd still be playing the same match at Christmas.
-
-**TerraceTom**  
-Egg chasers. If you want to run around holding the ball, call it something else.
-
-**Rugbiennsis**  
-At least we don't fall over and cry every time somebody touches us.
-
-**FourthDownFred**  
-You should try American football. We have timeouts to discuss the next play. It's called strategy.
-
-**TerraceTom**  
-You need a committee meeting to move the ball ten yards. And you call that football?
-
-**FourthDownFred**  
-At least we know how to score.
-
-**George Pritchard**  
-Scored twice from free kicks on Saturday. One from miles out. Just saying.
-
-**Thomas Pike**  
-Nobody asked, George.
-
-**George Pritchard**  
-Only because you couldn't hit a barn door.
-
-**Once the Best Drop**  
-You all need to give something up. That's what a compromise is.
-
-**Floreat Etona**  
-Hard to compromise with people who think kicking someone in the shins counts as skill.
-
-**Floreat Rugbaea**  
-Better than being frightened of a bit of mud, you pompous ass.
-
-**Winchester Old Boy**  
-Neither of you knows how to play football. You barely know how to read.
-
-**Bell's Life in London · Admin**  
-Right. That's enough. We're not publishing any more of this.
-
-*Comments have been turned off.*
 
 ### What are you prepared to give up?
 
@@ -305,15 +236,11 @@ Today IFAB — the four associations and FIFA together — calls itself the “i
 
 ## The same argument, again and again
 
-The disagreements had changed, but the problem remained: how could footballers agree on one game without giving somebody else complete control over it?
+Schools, clubs and national associations could agree to play football together without agreeing to let somebody else decide how the game should be played. Sheffield challenged the FA's rules. Scotland resisted London's authority. Later, FIFA sought a voice in laws controlled by four British associations.
 
-Schools developed their own games, but clubs weren't obliged to adopt their rules. Sheffield welcomed the idea of common laws, but didn't want the Football Association deciding how its football should be played. Scotland wanted to play England, but wasn't prepared to let the English FA make the rules on its behalf. And when football spread around the world, FIFA had to negotiate with four separate British associations, each with a say in changing the game's laws.
+Not every compromise was worth making. Blackheath left the FA rather than abandon its preferred game; a contemporary critic thought compromise rules prevented Eton and Westminster from playing to their strengths. But circumstances changed. The FA Cup gave clubs another reason to adopt common rules, just as the World Cup later gave associations another reason to cooperate with FIFA.
 
-Sometimes an agreement wasn't worth making. Blackheath preferred to leave the Football Association rather than abandon the game its members enjoyed. Eton and Westminster tried compromise rules, but one contemporary critic complained that neither side could play to its strengths.
-
-But circumstances changed. The FA Cup gave clubs another reason to adopt common rules. The World Cup gave national associations another reason to cooperate with FIFA. As the opportunities changed, so did the attractions of reaching an agreement.
-
-Football didn't arrive at common rules because somebody discovered the correct way to play. Its players and administrators made a succession of choices about what they wanted, what they were willing to give up, and whether playing together was worth the compromise.
+Football didn't arrive at common rules because somebody discovered the correct way to play. Its players and administrators made choices about what mattered to them, what they could give up, and whether playing together was worth the compromise.
 
 Agreeing on common rules solved one problem. Deciding who could change them was another.
 
