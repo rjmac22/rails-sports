@@ -57,8 +57,6 @@ What players could do with the ball, how they challenged opponents and how they 
 
 At Cambridge, students who had learned different versions of football tried to agree on a set of rules they could all play under. They had been attempting this since at least the 1840s, and a set of rules from around 1856 still survives.
 
-But agreeing on a common game was not always straightforward.
-
 In December 1858, a reader calling himself *Juvenis* wrote to *Bell's Life in London*. He argued that it would be much easier for schools to arrange matches against one another if they could agree on the rules.
 
 The newspaper's editor suggested that smaller schools might adopt Eton's published rules.
