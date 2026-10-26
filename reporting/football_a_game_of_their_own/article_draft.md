@@ -22,7 +22,7 @@ It was hard enough to get a football club going. Then you had to find somebody w
 
 ### Why establish a football club?
 
-Sporting clubs and societies had existed in Britain for generations, football among the games they organised. Some lasted for decades; others came and went. You know what I mean: the enthusiastic organiser gets busy with something else, people move away, somewhere to play becomes unavailable. The subscription goes up, travelling becomes expensive, somebody loses their job, or they simply decide the money would be better spent elsewhere. This was long before professional football leagues and careers. Keeping a club going depended on people having the time, money and enthusiasm to do it.
+Sporting clubs and societies had organised games in Britain for generations, including football. Some lasted for decades; others came and went. You know what I mean: the enthusiastic organiser gets busy with something else, people move away, somewhere to play becomes unavailable. The subscription goes up, travelling becomes expensive, somebody loses their job, or they simply decide the money would be better spent elsewhere. This was long before professional football leagues and careers. Keeping a club going depended on people having the time, money and enthusiasm to do it.
 
 In October 1849, members of several Surrey cricket clubs gathered at the Oval to organise football for the winter. During the meeting, the chairman recalled an earlier sporting organisation that had disappeared.
 
