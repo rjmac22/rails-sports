@@ -16,6 +16,8 @@ Fictional social-media box-out to be considered separately later.
 
 # What Is a Game of Football?
 
+It was hard enough to get a football club going. Then you had to find somebody who wanted to play the same game.
+
 ## Why establish a football club?
 
 Sporting clubs and societies had existed in Britain for generations, football among the games they organised. Some lasted for decades; others came and went. You know what I mean, the enthusiastic organiser gets busy with something else, people move away, somewhere to play becomes unavailable. The subscription goes up, travelling becomes expensive, somebody loses their job, or they simply decide the money would be better spent elsewhere. This was long before professional football leagues and careers. Keeping a club going depended on people having the time, money and enthusiasm to do it.
