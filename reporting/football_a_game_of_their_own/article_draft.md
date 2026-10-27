@@ -134,7 +134,7 @@ One reason to play the FA's game arrived in 1871: the FA Cup. Clubs now had a co
 
 In February 1877, Manchester AFC travelled to Sheffield and lost 14–0. Reports afterwards suggested the visitors hadn't properly understood Sheffield's offside rules. Their captain, Stuart G. Smith, had had enough. He wrote to *The Field* calling for one set of football rules, rather than clubs having to play a different game depending on where they travelled.
 
-Sheffield and the Football Association had been arguing over their rules for years. Among the sticking points was what happened when the ball went out of play. Sheffield preferred kicking it back onto the field; the FA insisted on throwing it. Clydesdale, a Glasgow club that also belonged to the English FA, proposed a compromise: keep the throw-in, but allow players to throw the ball in any direction. Sheffield was prepared to accept it. The FA voted it down.
+Sheffield and the Football Association had been arguing over their rules for years. Among the sticking points was what happened when the ball went out of play. Sheffield preferred kicking it back onto the field; the FA insisted on a throw-in at right angles to the touchline. Clydesdale, a Glasgow club that also belonged to the English FA, proposed a compromise: keep the throw-in, but allow players to throw the ball in any direction. Sheffield was prepared to accept it. The FA voted it down.
 
 The decision caused an outcry among supporters of common rules. One correspondent to *The Sportsman* argued that the meeting hadn't represented the views of footballers generally, and called for another vote.
 
