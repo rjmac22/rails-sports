@@ -65,7 +65,7 @@ A Rugby supporter immediately objected. Rugby had published its own rules, so wh
 
 A Winchester supporter claimed their rules were older than those of the other schools. An Etonian insisted his school's rules worked perfectly well for matches against university teams. Some even questioned why schools playing different games needed to compete against one another at all.
 
-The argument continued into January 1859, until the editor refused to publish any more letters because the contributors had started insulting one another.
+By January 1859, the editor refused to publish any more letters: the contributors had started insulting one another.
 
 ### What are you prepared to give up?
 
