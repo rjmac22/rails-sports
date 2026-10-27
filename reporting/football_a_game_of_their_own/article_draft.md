@@ -130,6 +130,10 @@ There was one thing they couldn't decide in a committee meeting: **whether enoug
 
 One reason to play the FA's game arrived in 1871: the FA Cup. Clubs now had a competition to enter, provided they played under FA rules. Sheffield FC entered in 1873, even though it still played its local matches under Sheffield rules.
 
+By 1867, Sheffield had its own football association, representing fourteen clubs and more than 1,000 members. That February, when the London FA considered winding itself up, Sheffield FC's William Chesterman brought a letter encouraging it to carry on.
+
+By the 1875–76 season, the Sheffield association listed 33 affiliated clubs. Sheffield FC had played against London under FA rules, and the FA had adopted the corner kick from Sheffield's code. But local clubs continued playing under their own rules. The two games were getting closer without becoming the same.
+
 ### A 14–0 thrashing and the throw-in dispute
 
 In February 1877, Manchester AFC travelled to Sheffield and lost 14–0. Reports afterwards suggested the visitors hadn't properly understood Sheffield's offside rules. Their captain, Stuart G. Smith, had had enough. He wrote to *The Field* calling for one set of football rules, rather than clubs having to play a different game depending on where they travelled.
