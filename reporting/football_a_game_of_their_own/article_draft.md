@@ -77,7 +77,7 @@ On 26 October 1863, representatives of football clubs gathered at the Freemasons
 
 At a meeting in December, Francis Maule Campbell, representing Blackheath, defended a version of football that allowed players to run with the ball and opponents to stop them by physical means, including *hacking*—kicking an opponent's shins.
 
-Campbell regarded these challenges as part of what made football worth playing. The game tested courage and determination. Removing those features, he argued, would take away much of its character.
+Campbell regarded the physical challenges as part of what made football worth playing: they tested courage and determination. Removing them, he argued, would take away much of the game's character.
 
 Ebenezer Cobb Morley of Barnes saw things differently. He didn't particularly mind hacking himself, but thought it was putting other clubs off. He claimed the Blackheath clubs couldn't find even three London clubs willing to play them: their members were mostly men in business, with good reason to avoid being injured. And turning up to meet customers looking like you've had the crap kicked out of you isn't exactly good for business. Not much has changed there.
 
