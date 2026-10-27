@@ -123,6 +123,21 @@ For research and factual verification:
 
 **Operating rule:** *ChatGPT finds and documents the evidence; the author judges the original sources; the claim must survive both checks.* Neither an author’s preferred conclusion nor ChatGPT’s confident wording substitutes for demonstrated support.
 
+### Lesson learned (27 October 2026) — do not confuse discovering a book with reading it
+
+In researching *A Game of Their Own*, we discussed Graham Curry's recent study as if we had consulted its arguments, when ChatGPT had only seen descriptions and chapter information. **Knowing that a book exists, what its contents page says or how a publisher describes it is not the same as reading or verifying its argument.** This mistake risks giving the author false confidence in an interpretation.
+
+**Mandatory source-access rule:**
+
+1. **Declare what was actually accessed.** Label sources accurately: full text read; specific pages or extracts read (with page numbers); abstract/publisher description only; review or other secondary account; or citation not yet inspected. Don't call a book 'used', 'checked' or 'read' when only its metadata, preview or someone else's summary was seen.
+2. **Do not attribute specific arguments or findings to an unread work as established fact.** A description can identify promising research but cannot verify the author's reasoning, nuance, evidence or conclusions. Say 'the description suggests this may be relevant' rather than 'the author demonstrates ...'. Never imply direct access through confident summaries or unqualified citations.
+3. **Review important scholarship early.** Before reconstructing a contested historical explanation from scattered primary sources, identify the principal academic works and disagreements. If relevant books are inaccessible, flag the gap before drafting or declaring the interpretation settled; do not silently substitute publisher blurbs for historiography.
+4. **Track provenance per claim.** Record the exact work, passage/page, access level and whether the author independently inspected it. Separate (a) historical facts established by primary evidence, (b) a historian's interpretation actually verified in the work, and (c) our own synthesis or inference.
+5. **Audit and correct overclaims.** If a cited work wasn't actually inspected, revisit every claim supposedly supported by it; seek the relevant text or independently adequate evidence, qualify the claim, or remove the attribution. Do not assume this makes the whole article wrong, but do not treat the citation as proof.
+
+**Practical test:** *Could we show a sceptical editor the precise passage we relied on? If not, we have a research lead, not verified support.*
+
+
 
 ## Copy status
 
