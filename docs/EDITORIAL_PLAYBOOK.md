@@ -91,6 +91,21 @@ A story can be evergreen, niche or explanatory and still pass. But **beautifully
 
 **Bottom line:** *Understand the game → discover a consequence → investigate the real decision and its alternatives → test originality and reader value → decide whether to draft → edit and publish.* The rest of this playbook covers what happens **after** the decision to produce the piece.
 
+## Research-led historical stories — investigate before fixing the narrative
+
+**Lesson from *A Game of Their Own* (27 October 2026):** Starting with an open historical question rather than a predetermined conclusion was sound. The mistake was treating the emerging explanation as sufficiently researched for sustained drafting before surveying the major existing histories and disagreements. That led to repeated returns to the sources, reconsideration of motives and causal explanations, and avoidable restructuring. This is primarily a **research-scope and sequencing** lesson, not a failure caused by merely discovering an unread book.
+
+For future research-led historical features:
+
+1. **Explore without presupposing the answer.** Begin with the question or apparent contradiction. It is acceptable not to know the eventual angle.
+2. **Survey the scholarship early.** Identify the key books, specialist studies, established narratives and important disagreements. Read the relevant sections where accessible before treating a historical interpretation as settled; log what is unavailable. The aim is orientation, not reading every book cover-to-cover.
+3. **Map the explanatory problem.** Identify the main actors, what each wanted, their options, where accounts conflict, and which developments changed their incentives or power. Separate the chronology of events from the argument about why they happened.
+4. **Test the emerging narrative against sources and alternatives.** Use original records for crucial claims and read historians critically. Do not force inconvenient findings into an early, tidy thesis.
+5. **Set a research-to-draft gate.** We should be able to explain the central question, competing explanations, our evidence-backed provisional account, and the material uncertainties **before** committing to a full narrative structure. Continue targeted reporting during drafting when warranted, but do not use prose revisions to substitute for a missing research foundation.
+6. **Keep the explanation accessible without falsifying the complexity.** Retain the conflicts and causes readers need to understand; omit background detail that has no consequence for this story.
+
+This is not a demand for exhaustive preliminary research, a fixed thesis before investigation, or an excuse never to publish. **Discovery can be open-ended; the decision to draft should be evidence-led and deliberate.**
+
 ## Research-to-draft handoff — preserve the findings, then edit
 
 **Research is the first filter; drafting is not an excuse to repeat that filtering blindly.** A long investigation earns its value by testing hypotheses, checking sources, finding counterexamples, and rejecting false assumptions, weak explanations and irrelevant examples *in the research notes*. Maintain a record of those decisions, including evidence limits and genuine unresolved questions.
