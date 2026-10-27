@@ -2,6 +2,9 @@
 DRAFT 4 — ACTIVE WORKING COPY (26 October 2026)
 Baseline: article_draft_v3_complete.md (locked snapshot; earlier Draft 2 also preserved).
 Final sentence-by-sentence editorial review using Roy Peter Clark's 55 Writing Tools.
+Work paused 27 October 2026 at author's request, pending his own reading of the
+historical material. Approved Sheffield additions integrated; do not resume
+rewrites automatically.
 All prose edits require Rob's approval. Approved changes so far: cut Shaw's
 1907 recollection of enjoyment; tightened the opening background sentence.
 Agreed editorial question: how different versions of football came together
@@ -124,15 +127,27 @@ Lincoln gave the FA's rules a try, but by October 1864 its members were consider
 
 Louth took a different approach. In February 1864, its members voted to adopt a common set of rules, but with a couple of changes of their own.
 
+Even Sheffield FC couldn't decide how the other Sheffield clubs should play.
+
+In September 1865, it agreed to try a stricter offside rule. But it also agreed to continue playing neighbouring clubs under the old rules if they didn't adopt the change. The stricter rule proved unpopular and was eventually dropped.
+
+In March 1866, a Sheffield side travelled to London and played under FA rules. The following year, the Sheffield clubs established an association of their own, representing fourteen clubs and more than 1,000 members.
+
+When the London FA considered winding itself up, Sheffield's representatives encouraged it to carry on. But the Sheffield clubs were making their own decisions about the rules. At a meeting in March 1867, thirteen clubs were represented on a committee, with each club given an equal voice. They considered London's rules alongside amendments drawn from their own game.
+
 When the Football Association was founded in 1863, it hadn't settled how football should be played. It had simply agreed on a version that some clubs were willing to play.
 
 There was one thing they couldn't decide in a committee meeting: **whether enough footballers actually wanted to play it.**
 
 One reason to play the FA's game arrived in 1871: the FA Cup. Clubs now had a competition to enter, provided they played under FA rules. Sheffield FC entered in 1873, even though it still played its local matches under Sheffield rules.
 
-By 1867, Sheffield had its own football association, representing fourteen clubs and more than 1,000 members. That February, when the London FA considered winding itself up, Sheffield FC's William Chesterman brought a letter encouraging it to carry on.
+But Sheffield already had cup competitions. Its clubs had contested the Youdan Cup in 1867, four years before the FA Cup began.
 
-By the 1875–76 season, the Sheffield association listed 33 affiliated clubs. Sheffield FC had played against London under FA rules, and the FA had adopted the corner kick from Sheffield's code. But local clubs continued playing under their own rules. The two games were getting closer without becoming the same.
+The Sheffield Football Association joined the FA in 1871, but continued playing under its own rules. By 1875–76, it listed 33 affiliated clubs. Its Challenge Cup final in March 1877 attracted an estimated 8,000 spectators.
+
+Sheffield didn't need to abandon its competitions to agree on common playing rules. The Challenge Cup continued after 1877.
+
+The two codes had already influenced one another. The FA had adopted Sheffield's corner kick, while Sheffield clubs had played matches under FA rules. But important disagreements remained.
 
 ### A 14–0 thrashing and the throw-in dispute
 
@@ -142,7 +157,7 @@ Sheffield and the Football Association had been arguing over their rules for yea
 
 One correspondent to *The Sportsman* argued that the meeting hadn't represented the views of footballers generally, and called for another vote.
 
-The FA reconsidered in April. This time the compromise passed by 33 votes to 10. Sheffield agreed to adopt the revised FA rules the following week.
+The FA reconsidered in April. This time the compromise passed by 33 votes to 10. The Sheffield Football Association agreed to adopt the revised FA rules the following week.
 
 ### Scotland enters the argument (1870–1877)
 
