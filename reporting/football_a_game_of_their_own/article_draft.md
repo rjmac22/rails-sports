@@ -69,7 +69,7 @@ By January 1859, the editor refused to publish any more letters: the contributor
 
 ### What are you prepared to give up?
 
-In October 1863, a reader calling himself *Etonensis* complained about the compromise rules used in matches between Eton and Westminster. The schools had played under them for two years, but neither side could properly demonstrate its skills. Moves that worked under one school's rules were forbidden under the other's. The matches could go ahead, but according to *Etonensis*, the standard of football was poor.
+In October 1863, a reader calling himself *Etonensis* complained about the compromise rules used in matches between Eton and Westminster. The schools had played under them for two years, but neither side could properly demonstrate its skills. The compromise prevented players from using some of the techniques they'd developed under their own school's rules. The matches could go ahead, but according to *Etonensis*, the standard of football was poor.
 
 He wanted a common set of rules that footballers could learn and use against different opponents. But what should those rules be? What one group considered an essential part of football, another might regard as unnecessary or even dangerous.
 
