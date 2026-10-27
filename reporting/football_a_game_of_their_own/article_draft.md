@@ -136,7 +136,7 @@ In February 1877, Manchester AFC travelled to Sheffield and lost 14–0. Reports
 
 Sheffield and the Football Association had been arguing over their rules for years. Among the sticking points was what happened when the ball went out of play. Sheffield preferred kicking it back onto the field; the FA insisted on a throw-in at right angles to the touchline. Clydesdale, a Glasgow club that also belonged to the English FA, proposed a compromise: keep the throw-in, but allow players to throw the ball in any direction. Sheffield was prepared to accept it. The FA voted it down.
 
-The decision caused an outcry among supporters of common rules. One correspondent to *The Sportsman* argued that the meeting hadn't represented the views of footballers generally, and called for another vote.
+One correspondent to *The Sportsman* argued that the meeting hadn't represented the views of footballers generally, and called for another vote.
 
 The FA reconsidered in April. This time the compromise passed by 33 votes to 10. Sheffield agreed to adopt the revised FA rules the following week.
 
