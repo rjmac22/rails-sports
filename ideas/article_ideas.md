@@ -235,3 +235,27 @@ If the rule is sufficiently important and data permit a follow-up:
 **Broader editorial method:** **One investigation, potentially multiple independently worthwhile stories.** In Rails Sports, explain sport first and let wider insights emerge. For a specialist negotiation audience, use the verified history to explore practical implications directly, without manufacturing parallels. Only produce a spin-off when it adds a new argument and genuine value.
 
 **Priority / guardrail:** **Publish and pitch the existing football article first.** Capture the business adaptation here, then return to it once that article is moving. No extra historical rabbit holes or new research project merely to keep preparing.
+
+
+---
+
+## Didier Drogba — could anyone have recognised the potential before he succeeded?
+
+**Added:** 5 November 2026. **Status:** Parked research idea, not an active assignment. Origin: critique of *From Dugout to Boardroom* article about Drogba's goalless 2000–01 season at Le Mans and his eventual 2012 Champions League triumph.
+
+**Central question:** *What evidence could a coach or club have used **at the time** to distinguish a struggling future star from a struggling player who would never improve enough?* Drogba's eventual success is known to us but was not available to the people making the decisions.
+
+**Possible story:** Reconstruct what Marc Westerloppe and Le Mans actually saw, measured, taught and decided during Drogba's injury-disrupted early years; then why and on what terms Guingamp recruited him in January 2002, and what Guy Lacombe and the coaching staff changed. Was there demonstrable underlying ability, improvement in training, physical maturation or response to feedback that justified further investment? Or was the career trajectory more contingent than the later success narrative suggests? **Don't assume Le Mans misjudged him, or that Guingamp knew he'd become exceptional.**
+
+**Evidence to seek:**
+1. Contemporaneous scouts' reports, coach/player interviews and match accounts; distinguish comments made before success from retrospective memories.
+2. Playing time, injuries, role and performance relative to realistic age, position, fitness and league comparators; the 11 goalless games alone are a poor evaluation.
+3. The actual transfer decision: incentives, costs, alternatives, budgets and the assessments of both clubs. Why was the move made?
+4. What happened in coaching, conditioning, preparation and playing opportunities, and what can be linked credibly to subsequent improvement rather than merely preceding it?
+5. **The missing denominator:** comparable young strikers with poor early records who *didn't* become stars. How predictive were early goals, underlying performance or coach assessments? Seek published scouting/player-development research rather than manufacture a base rate from anecdotes.
+
+**Potential payoff:** A genuinely useful article might illuminate *how to make development and selection decisions under uncertainty*: what indicators warrant another chance, what evidence counts as improvement, and when continued investment is no longer justified. Equally, the evidence may show that even experienced coaches could not reliably tell. Either is more interesting than “be patient; Drogba became great.”
+
+**Source trail (verify firsthand):** Didier Drogba's official Le Mans biography; *The Guardian*, “Rough diamond Drogba adds the polish” (25 Nov 2006); contemporary Le Mans/Guingamp reporting and coach interviews; DeRue & Wellman (2009) on developmental challenge and feedback **only as separate workplace research**, not proof that coaches can identify future football stars.
+
+**Editorial guardrails:** Resist hindsight, survivorship bias and the formula **early failure → later fame → universal management lesson**. Don't claim one player's career establishes the predictive reliability of early performance. Start with the football decisions and evidence; only discuss workplace parallels if the evidence merits them. **Go/no-go:** Pursue only if original reporting reveals a defensible, surprising insight beyond the familiar biography, and only after current publication priorities.
